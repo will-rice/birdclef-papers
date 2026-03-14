@@ -104,6 +104,10 @@ NEGATIVE_KEYWORDS = [
     "speaker recognition",
     "speech recognition",
     "music generation",
+    "lidar",
+    "bird's eye view",
+    "autonomous driving",
+    "object detection lidar",
 ]
 
 # Delay between API requests to respect arXiv's rate-limit guidance (3 s).
