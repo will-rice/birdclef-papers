@@ -39,68 +39,578 @@ The following keyword queries are used against arXiv title and abstract fields:
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
-| Date | Title | Authors | Abstract |
-|------|-------|---------|----------|
-| 2026-02-19 | [Detection and Classification of Cetacean Echolocation Clicks using Image-based Object Detection Methods applied to Advanced Wavelet-based Transformations](https://arxiv.org/abs/2602.17749) | Christopher Hauer | A challenge in marine bioacoustic analysis is the detection of animal signals, like calls, whistles and clicks, for behavioral studies. Manual labeling is too time-consuming to process sufficient data to get reasonable results. Thus, an automatic solution to overcome the time-consuming data analysis is necessary. Basic mathematical models can detect events in simple environments, but they struggle with complex scenarios, like differentiating signals with a low signal-to-noise ratio or distinguishing clicks from echoes. Deep Learning Neural Networks, such as ANIMAL-SPOT, are better suited for such tasks. DNNs process audio signals as image representations, often using spectrograms created by Short-Time Fourier Transform. However, spectrograms have limitations due to the uncertainty principle, which creates a tradeoff between time and frequency resolution. Alternatives like the wavelet, which provides better time resolution for high frequencies and improved frequency resolution for low frequencies, may offer advantages for feature extraction in complex bioacoustic environments. This thesis shows the efficacy of CLICK-SPOT on Norwegian Killer whale underwater recordings provided by the cetacean biologist Dr. Vester. Keywords: Bioacoustics, Deep Learning, Wavelet Transformation |
+#### [Detection and Classification of Cetacean Echolocation Clicks using Image-based Object Detection Methods applied to Advanced Wavelet-based Transformations](https://arxiv.org/abs/2602.17749)
+**Christopher Hauer** · 2026-02-19
+
+<details>
+<summary>Abstract</summary>
+
+A challenge in marine bioacoustic analysis is the detection of animal signals, like calls, whistles and clicks, for behavioral studies. Manual labeling is too time-consuming to process sufficient data to get reasonable results. Thus, an automatic solution to overcome the time-consuming data analysis is necessary. Basic mathematical models can detect events in simple environments, but they struggle with complex scenarios, like differentiating signals with a low signal-to-noise ratio or distinguishing clicks from echoes. Deep Learning Neural Networks, such as ANIMAL-SPOT, are better suited for such tasks. DNNs process audio signals as image representations, often using spectrograms created by Short-Time Fourier Transform. However, spectrograms have limitations due to the uncertainty principle, which creates a tradeoff between time and frequency resolution. Alternatives like the wavelet, which provides better time resolution for high frequencies and improved frequency resolution for low frequencies, may offer advantages for feature extraction in complex bioacoustic environments. This thesis shows the efficacy of CLICK-SPOT on Norwegian Killer whale underwater recordings provided by the cetacean biologist Dr. Vester. Keywords: Bioacoustics, Deep Learning, Wavelet Transformation
+
+</details>
+
+#### [Zwitscherkasten -- DIY Audiovisual bird monitoring](https://arxiv.org/abs/2602.13330)
+**Dominik Blum, Elias Häring, Fabian Jirges, Martin Schäffer et al.** · 2026-02-11
+
+<details>
+<summary>Abstract</summary>
+
+This paper presents Zwitscherkasten, a DIY, multimodal system for bird species monitoring using audio and visual data on edge devices. Deep learning models for bioacoustic and image-based classification are deployed on resource-constrained hardware, enabling real-time, non-invasive monitoring. An acoustic activity detector reduces energy consumption, while visual recognition is performed using fine-grained detection and classification pipelines. Results show that accurate bird species identification is feasible on embedded platforms, supporting scalable biodiversity monitoring and citizen science applications.
+
+</details>
+
+#### [Audio-to-Image Bird Species Retrieval without Audio-Image Pairs via Text Distillation](https://arxiv.org/abs/2602.00681)
+**Ilyass Moummad, Marius Miron, Lukas Rauch, David Robinson et al.** · 2026-01-31
+
+<details>
+<summary>Abstract</summary>
+
+Audio-to-image retrieval offers an interpretable alternative to audio-only classification for bioacoustic species recognition, but learning aligned audio-image representations is challenging due to the scarcity of paired audio-image data. We propose a simple and data-efficient approach that enables audio-to-image retrieval without any audio-image supervision. Our proposed method uses text as a semantic intermediary: we distill the text embedding space of a pretrained image-text model (BioCLIP-2), which encodes rich visual and taxonomic structure, into a pretrained audio-text model (BioLingual) by fine-tuning its audio encoder with a contrastive objective. This distillation transfers visually grounded semantics into the audio representation, inducing emergent alignment between audio and image embeddings without using images during training. We evaluate the resulting model on multiple bioacoustic benchmarks. The distilled audio encoder preserves audio discriminative power while substantially improving audio-text alignment on focal recordings and soundscape datasets. Most importantly, on the SSW60 benchmark, the proposed approach achieves strong audio-to-image retrieval performance exceeding baselines based on zero-shot model combinations or learned mappings between text embeddings, despite not training on paired audio-image data. These results demonstrate that indirect semantic transfer through text is sufficient to induce meaningful audio-image alignment, providing a practical solution for visually grounded species recognition in data-scarce bioacoustic settings.
+
+</details>
+
 
 ### 2025
 
-| Date | Title | Authors | Abstract |
-|------|-------|---------|----------|
-| 2025-09-26 | [Cross-Dialect Bird Species Recognition with Dialect-Calibrated Augmentation](https://arxiv.org/abs/2509.22317) | Jiani Ding, Qiyang Sun, Alican Akman, Björn W. Schuller | Dialect variation hampers automatic recognition of bird calls collected by passive acoustic monitoring. We address the problem on DB3V, a three-region, ten-species corpus of 8-s clips, and propose a deployable framework built on Time-Delay Neural Networks (TDNNs). Frequency-sensitive normalisation (Instance Frequency Normalisation and a gated Relaxed-IFN) is paired with gradient-reversal adversarial training to learn region-invariant embeddings. A multi-level augmentation scheme combines waveform perturbations, Mixup for rare classes, and CycleGAN transfer that synthesises Region 2 (Interior Plains)-style audio, , with Dialect-Calibrated Augmentation (DCA) softly down-weighting synthetic samples to limit artifacts. The complete system lifts cross-dialect accuracy by up to twenty percentage points over baseline TDNNs while preserving in-region performance. Grad-CAM and LIME analyses show that robust models concentrate on stable harmonic bands, providing ecologically meaningful explanations. The study demonstrates that lightweight, transparent, and dialect-resilient bird-sound recognition is attainable. |
-| 2025-07-24 | [Improving Bird Classification with Primary Color Additives](https://arxiv.org/abs/2507.18334) | Ezhini Rasendiran R, Chandresh Kumar Maurya | We address the problem of classifying bird species using their song recordings, a challenging task due to environmental noise, overlapping vocalizations, and missing labels. Existing models struggle with low-SNR or multi-species recordings. We hypothesize that birds can be classified by visualizing their pitch pattern, speed, and repetition, collectively called motifs. Deep learning models applied to spectrogram images help, but similar motifs across species cause confusion. To mitigate this, we embed frequency information into spectrograms using primary color additives. This enhances species distinction and improves classification accuracy. Our experiments show that the proposed approach achieves statistically significant gains over models without colorization and surpasses the BirdCLEF 2024 winner, improving F1 by 7.3%, ROC-AUC by 6.2%, and CMAP by 6.6%. These results demonstrate the effectiveness of incorporating frequency information via colorization. |
-| 2025-07-11 | [Distilling Spectrograms into Tokens: Fast and Lightweight Bioacoustic Classification for BirdCLEF+ 2025](https://arxiv.org/abs/2507.08236) | Anthony Miyaguchi, Murilo Gustineli, Adrian Cheung | The BirdCLEF+ 2025 challenge requires classifying 206 species, including birds, mammals, insects, and amphibians, from soundscape recordings under a strict 90-minute CPU-only inference deadline, making many state-of-the-art deep learning approaches impractical. To address this constraint, the DS@GT BirdCLEF team explored two strategies. First, we establish competitive baselines by optimizing pre-trained models from the Bioacoustics Model Zoo for CPU inference. Using TFLite, we achieved a nearly 10x inference speedup for the Perch model, enabling it to run in approximately 16 minutes and achieve a final ROC-AUC score of 0.729 on the public leaderboard post-competition and 0.711 on the private leaderboard. The best model from the zoo was BirdSetEfficientNetB1, with a public score of 0.810 and a private score of 0.778. Second, we introduce a novel, lightweight pipeline named Spectrogram Token Skip-Gram (STSG) that treats bioacoustics as a sequence modeling task. This method converts audio into discrete "spectrogram tokens" by clustering Mel-spectrograms using Faiss K-means and then learns high-quality contextual embeddings for these tokens in an unsupervised manner with a Word2Vec skip-gram model. For classification, embeddings within a 5-second window are averaged and passed to a linear model. With a projected inference time of 6 minutes for a 700-minute test set, the STSG approach achieved a final ROC-AUC public score of 0.559 and a private score of 0.520, demonstrating the viability of fast tokenization approaches with static embeddings for bioacoustic classification. Supporting code for this paper can be found at https://github.com/dsgt-arc/birdclef-2025. |
-| 2025-04-09 | [Clustering and novel class recognition: evaluating bioacoustic deep learning feature extractors](https://arxiv.org/abs/2504.06710) | Vincent S. Kather, Burooj Ghani, Dan Stowell | In computational bioacoustics, deep learning models are composed of feature extractors and classifiers. The feature extractors generate vector representations of the input sound segments, called embeddings, which can be input to a classifier. While benchmarking of classification scores provides insights into specific performance statistics, it is limited to species that are included in the models' training data. Furthermore, it makes it impossible to compare models trained on very different taxonomic groups. This paper aims to address this gap by analyzing the embeddings generated by the feature extractors of 15 bioacoustic models spanning a wide range of setups (model architectures, training data, training paradigms). We evaluated and compared different ways in which models structure embedding spaces through clustering and kNN classification, which allows us to focus our comparison on feature extractors independent of their classifiers. We believe that this approach lets us evaluate the adaptability and generalization potential of models going beyond the classes they were trained on. |
+#### [Perch 2.0 transfers 'whale' to underwater tasks](https://arxiv.org/abs/2512.03219)
+**Andrea Burns, Lauren Harrell, Bart van Merriënboer, Vincent Dumoulin et al.** · 2025-12-02
+
+<details>
+<summary>Abstract</summary>
+
+Perch 2.0 is a supervised bioacoustics foundation model pretrained on 14,597 species, including birds, mammals, amphibians, and insects, and has state-of-the-art performance on multiple benchmarks. Given that Perch 2.0 includes almost no marine mammal audio or classes in the training data, we evaluate Perch 2.0 performance on marine mammal and underwater audio tasks through few-shot transfer learning. We perform linear probing with the embeddings generated from this foundation model and compare performance to other pretrained bioacoustics models. In particular, we compare Perch 2.0 with previous multispecies whale, Perch 1.0, SurfPerch, AVES-bio, BirdAVES, and Birdnet V2.3 models, which have open-source tools for transfer-learning and agile modeling. We show that the embeddings from the Perch 2.0 model have consistently high performance for few-shot transfer learning, generally outperforming alternative embedding models on the majority of tasks, and thus is recommended when developing new linear classifiers for marine mammal classification with few labeled examples.
+
+</details>
+
+#### [ARIONet: An Advanced Self-supervised Contrastive Representation Network for Birdsong Classification and Future Frame Prediction](https://arxiv.org/abs/2510.00522)
+**Md. Abdur Rahman, Selvarajah Thuseethan, Kheng Cher Yeo, Reem E. Mohamed et al.** · 2025-10-01
+
+<details>
+<summary>Abstract</summary>
+
+Automated birdsong classification is essential for advancing ecological monitoring and biodiversity studies. Despite recent progress, existing methods often depend heavily on labeled data, use limited feature representations, and overlook temporal dynamics essential for accurate species identification. In this work, we propose a self-supervised contrastive network, ARIONet (Acoustic Representation for Interframe Objective Network), that jointly optimizes contrastive classification and future frame prediction using augmented audio representations. The model simultaneously integrates multiple complementary audio features within a transformer-based encoder model. Our framework is designed with two key objectives: (1) to learn discriminative species-specific representations for contrastive learning through maximizing similarity between augmented views of the same audio segment while pushing apart different samples, and (2) to model temporal dynamics by predicting future audio frames, both without requiring large-scale annotations. We validate our framework on four diverse birdsong datasets, including the British Birdsong Dataset, Bird Song Dataset, and two extended Xeno-Canto subsets (A-M and N-Z). Our method consistently outperforms existing baselines and achieves classification accuracies of 98.41%, 93.07%, 91.89%, and 91.58%, and F1-scores of 97.84%, 94.10%, 91.29%, and 90.94%, respectively. Furthermore, it demonstrates low mean absolute errors and high cosine similarity, up to 95\%, in future frame prediction tasks. Extensive experiments further confirm the effectiveness of our self-supervised learning strategy in capturing complex acoustic patterns and temporal dependencies, as well as its potential for real-world applicability in ecological conservation and monitoring.
+
+</details>
+
+#### [Cross-Dialect Bird Species Recognition with Dialect-Calibrated Augmentation](https://arxiv.org/abs/2509.22317)
+**Jiani Ding, Qiyang Sun, Alican Akman, Björn W. Schuller** · 2025-09-26
+
+<details>
+<summary>Abstract</summary>
+
+Dialect variation hampers automatic recognition of bird calls collected by passive acoustic monitoring. We address the problem on DB3V, a three-region, ten-species corpus of 8-s clips, and propose a deployable framework built on Time-Delay Neural Networks (TDNNs). Frequency-sensitive normalisation (Instance Frequency Normalisation and a gated Relaxed-IFN) is paired with gradient-reversal adversarial training to learn region-invariant embeddings. A multi-level augmentation scheme combines waveform perturbations, Mixup for rare classes, and CycleGAN transfer that synthesises Region 2 (Interior Plains)-style audio, with Dialect-Calibrated Augmentation (DCA) softly down-weighting synthetic samples to limit artifacts. The complete system lifts cross-dialect accuracy by up to twenty percentage points over baseline TDNNs while preserving in-region performance. Grad-CAM and LIME analyses show that robust models concentrate on stable harmonic bands, providing ecologically meaningful explanations. The study demonstrates that lightweight, transparent, and dialect-resilient bird-sound recognition is attainable.
+
+</details>
+
+#### [Enabling Multi-Species Bird Classification on Low-Power Bioacoustic Loggers](https://arxiv.org/abs/2509.20103)
+**Stefano Ciapponi, Leonardo Mannini, Jarek Scanferla, Matteo Anderle et al.** · 2025-09-24
+
+<details>
+<summary>Abstract</summary>
+
+This paper introduces WrenNet, an efficient neural network enabling real-time multi-species bird audio classification on low-power microcontrollers for scalable biodiversity monitoring. We propose a semi-learnable spectral feature extractor that adapts to avian vocalizations, outperforming standard mel-scale and fully-learnable alternatives. On an expert-curated 70-species dataset, WrenNet achieves up to 90.8\% accuracy on acoustically distinctive species and 70.1\% on the full task. When deployed on an AudioMoth device ($\leq$1MB RAM), it consumes only 77mJ per inference. Moreover, the proposed model is over 16x more energy-efficient compared to Birdnet when running on a Raspberry Pi 3B+. This work demonstrates the first practical framework for continuous, multi-species acoustic monitoring on low-power edge devices.
+
+</details>
+
+#### [Improving Bird Classification with Primary Color Additives](https://arxiv.org/abs/2507.18334)
+**Ezhini Rasendiran R, Chandresh Kumar Maurya** · 2025-07-24
+
+<details>
+<summary>Abstract</summary>
+
+We address the problem of classifying bird species using their song recordings, a challenging task due to environmental noise, overlapping vocalizations, and missing labels. Existing models struggle with low-SNR or multi-species recordings. We hypothesize that birds can be classified by visualizing their pitch pattern, speed, and repetition, collectively called motifs. Deep learning models applied to spectrogram images help, but similar motifs across species cause confusion. To mitigate this, we embed frequency information into spectrograms using primary color additives. This enhances species distinction and improves classification accuracy. Our experiments show that the proposed approach achieves statistically significant gains over models without colorization and surpasses the BirdCLEF 2024 winner, improving F1 by 7.3%, ROC-AUC by 6.2%, and CMAP by 6.6%. These results demonstrate the effectiveness of incorporating frequency information via colorization.
+
+</details>
+
+#### [Distilling Spectrograms into Tokens: Fast and Lightweight Bioacoustic Classification for BirdCLEF+ 2025](https://arxiv.org/abs/2507.08236)
+**Anthony Miyaguchi, Murilo Gustineli, Adrian Cheung** · 2025-07-11
+
+<details>
+<summary>Abstract</summary>
+
+The BirdCLEF+ 2025 challenge requires classifying 206 species, including birds, mammals, insects, and amphibians, from soundscape recordings under a strict 90-minute CPU-only inference deadline, making many state-of-the-art deep learning approaches impractical. To address this constraint, the DS@GT BirdCLEF team explored two strategies. First, we establish competitive baselines by optimizing pre-trained models from the Bioacoustics Model Zoo for CPU inference. Using TFLite, we achieved a nearly 10x inference speedup for the Perch model, enabling it to run in approximately 16 minutes and achieve a final ROC-AUC score of 0.729 on the public leaderboard post-competition and 0.711 on the private leaderboard. The best model from the zoo was BirdSetEfficientNetB1, with a public score of 0.810 and a private score of 0.778. Second, we introduce a novel, lightweight pipeline named Spectrogram Token Skip-Gram (STSG) that treats bioacoustics as a sequence modeling task. This method converts audio into discrete "spectrogram tokens" by clustering Mel-spectrograms using Faiss K-means and then learns high-quality contextual embeddings for these tokens in an unsupervised manner with a Word2Vec skip-gram model. For classification, embeddings within a 5-second window are averaged and passed to a linear model. With a projected inference time of 6 minutes for a 700-minute test set, the STSG approach achieved a final ROC-AUC public score of 0.559 and a private score of 0.520, demonstrating the viability of fast tokenization approaches with static embeddings for bioacoustic classification. Supporting code for this paper can be found at https://github.com/dsgt-arc/birdclef-2025.
+
+</details>
+
+#### [Unsupervised outlier detection to improve bird audio dataset labels](https://arxiv.org/abs/2504.18650)
+**Bruce Collins** · 2025-04-25
+
+<details>
+<summary>Abstract</summary>
+
+The Xeno-Canto bird audio repository is an invaluable resource for those interested in vocalizations and other sounds made by birds around the world. This is particularly the case for machine learning researchers attempting to improve on the bird species recognition accuracy of classification models. However, the task of extracting labeled datasets from the recordings found in this crowd-sourced repository faces several challenges. One challenge of particular significance to machine learning practitioners is that one bird species label is applied to each audio recording, but frequently other sounds are also captured including other bird species, other animal sounds, anthropogenic and other ambient sounds. These non-target bird species sounds can result in dataset labeling discrepancies referred to as label noise. In this work we present a cleaning process consisting of audio preprocessing followed by dimensionality reduction and unsupervised outlier detection (UOD) to reduce the label noise in a dataset derived from Xeno-Canto recordings. We investigate three neural network dimensionality reduction techniques: two flavors of convolutional autoencoders and variational deep embedding (VaDE). While both methods show some degree of effectiveness at detecting outliers for most bird species datasets, we found significant variation in the performance of the methods from one species to the next.
+
+</details>
+
+#### [An Automated Pipeline for Few-Shot Bird Call Classification: A Case Study with the Tooth-Billed Pigeon](https://arxiv.org/abs/2504.16276)
+**Abhishek Jana, Moeumu Uili, James Atherton, Mark O'Brien et al.** · 2025-04-22
+
+<details>
+<summary>Abstract</summary>
+
+This paper presents an automated one-shot bird call classification pipeline designed for rare species absent from large publicly available classifiers like BirdNET and Perch. While these models excel at detecting common birds with abundant training data, they lack options for species with only 1-3 known recordings-a critical limitation for conservationists monitoring the last remaining individuals of endangered birds. To address this, we leverage the embedding space of large bird classification networks and develop a classifier using cosine similarity, combined with filtering and denoising preprocessing techniques, to optimize detection with minimal training data. We evaluate various embedding spaces using clustering metrics and validate our approach in both a simulated scenario with Xeno-Canto recordings and a real-world test on the critically endangered tooth-billed pigeon (Didunculus strigirostris), which has no existing classifiers and only three confirmed recordings. The final model achieved 1.0 recall and 0.95 accuracy in detecting tooth-billed pigeon calls, making it practical for use in the field. This open-source system provides a practical tool for conservationists seeking to detect and monitor rare species on the brink of extinction.
+
+</details>
+
+#### [Clustering and novel class recognition: evaluating bioacoustic deep learning feature extractors](https://arxiv.org/abs/2504.06710)
+**Vincent S. Kather, Burooj Ghani, Dan Stowell** · 2025-04-09
+
+<details>
+<summary>Abstract</summary>
+
+In computational bioacoustics, deep learning models are composed of feature extractors and classifiers. The feature extractors generate vector representations of the input sound segments, called embeddings, which can be input to a classifier. While benchmarking of classification scores provides insights into specific performance statistics, it is limited to species that are included in the models' training data. Furthermore, it makes it impossible to compare models trained on very different taxonomic groups. This paper aims to address this gap by analyzing the embeddings generated by the feature extractors of 15 bioacoustic models spanning a wide range of setups (model architectures, training data, training paradigms). We evaluated and compared different ways in which models structure embedding spaces through clustering and kNN classification, which allows us to focus our comparison on feature extractors independent of their classifiers. We believe that this approach lets us evaluate the adaptability and generalization potential of models going beyond the classes they were trained on.
+
+</details>
+
+#### [A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana](https://arxiv.org/abs/2503.15576)
+**Alba Márquez-Rodríguez, Miguel Ángel Mohedano-Munoz, Manuel J. Marín-Jiménez, Eduardo Santamaría-García et al.** · 2025-03-19
+
+<details>
+<summary>Abstract</summary>
+
+Passive Acoustic Monitoring is a key tool for biodiversity conservation, but the large volumes of unsupervised audio it generates present major challenges for extracting meaningful information. Deep Learning offers promising solutions. BirdNET, a widely used bird identification model, has shown success in many study systems but is limited at local scale due to biases in its training data, which focus on specific locations and target sounds rather than entire soundscapes. A key challenge in bird species identification is that many recordings either lack target species or contain overlapping vocalizations, complicating automatic identification. To address these problems, we developed a multi-stage pipeline for automatic bird vocalization identification in Doñana National Park (SW Spain), a wetland of high conservation concern. We deployed AudioMoth recorders in three main habitats across nine locations and manually annotated 461 minutes of audio, resulting in 3749 labeled segments spanning 34 classes. We first applied a Bird Song Detector to isolate bird vocalizations using spectrogram-based image processing. Then, species were classified using custom models trained at the local scale. Applying the Bird Song Detector before classification improved species identification, as all models performed better when analyzing only the segments where birds were detected. Specifically, the combination of detector and fine-tuned BirdNET outperformed the baseline without detection.
+
+</details>
+
+#### [Semi-supervised classification of bird vocalizations](https://arxiv.org/abs/2502.13440)
+**Simen Hexeberg, Mandar Chitre, Matthias Hoffmann-Kuhnt, Bing Wen Low** · 2025-02-19
+
+<details>
+<summary>Abstract</summary>
+
+Changes in bird populations can indicate broader changes in ecosystems, making birds one of the most important animal groups to monitor. Combining machine learning and passive acoustics enables continuous monitoring over extended periods without direct human involvement. However, most existing techniques require extensive expert-labeled datasets for training and cannot easily detect time-overlapping calls in busy soundscapes. We propose a semi-supervised acoustic bird detector designed to allow both the detection of time-overlapping calls (when separated in frequency) and the use of few labeled training samples. The classifier is trained and evaluated on a combination of community-recorded open-source data and long-duration soundscape recordings from Singapore. It achieves a mean F0.5 score of 0.701 across 315 classes from 110 bird species on a hold-out test set, with an average of 11 labeled training samples per class. It outperforms the state-of-the-art BirdNET classifier on a test set of 103 bird species despite significantly fewer labeled training samples. The detector is further tested on 144 microphone-hours of continuous soundscape data. The rich soundscape in Singapore makes suppression of false positives a challenge on raw, continuous data streams. Nevertheless, we demonstrate that achieving high precision in such environments with minimal labeled training data is possible.
+
+</details>
+
+#### [acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices](https://arxiv.org/abs/2501.17841)
+**Aude Vuilliomenet, Santiago Martínez Balvanera, Oisin Mac Aodha, Kate E. Jones et al.** · 2025-01-29
+
+<details>
+<summary>Abstract</summary>
+
+1. Passive acoustic monitoring (PAM) coupled with artificial intelligence (AI) is becoming an essential tool for biodiversity monitoring. Traditional PAM systems require manual data offloading and impose substantial demands on storage and computing infrastructure. The combination of on-device AI-based processing and network connectivity enables local data analysis and transmission of only relevant information, greatly reducing storage needs. However, programming these devices for robust operation is challenging, requiring expertise in embedded systems and software engineering. Despite the increase in AI-based models for bioacoustics, their full potential remains unrealized without accessible tools to deploy them on custom hardware and tailor device behaviour to specific monitoring goals. 2. To address this challenge, we develop acoupi, an open-source Python framework that simplifies the creation and deployment of smart bioacoustic devices. acoupi integrates audio recording, AI-based data processing, data management, and real-time wireless messaging into a unified and configurable framework. By modularising key elements of the bioacoustic monitoring workflow, acoupi allows users to easily customise, extend, or select specific components to fit their unique monitoring needs. 3. We demonstrate the flexibility of acoupi by integrating two bioacoustic classifiers: BirdNET, for the classification of bird species, and BatDetect2, for the classification of UK bat species. We test the reliability of acoupi over a month-long deployment of two acoupi-powered devices in a UK urban park. 4. acoupi can be deployed on low-cost hardware such as the Raspberry Pi and can be customised for various applications. acoupi standardised framework and simplified tools facilitate the adoption of AI-powered PAM systems for researchers and conservationists. acoupi is on GitHub at https://github.com/acoupi/acoupi.
+
+</details>
+
 
 ### 2024
 
-| Date | Title | Authors | Abstract |
-|------|-------|---------|----------|
-| 2024-07-31 | [TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors](https://arxiv.org/abs/2407.21453) | Zhaolan Huang, Adrien Tousnakhoff, Polina Kozyr, Roman Rehausen et al. | Monitoring biodiversity at scale is challenging. Detecting and identifying species in fine grained taxonomies requires highly accurate machine learning (ML) methods. Training such models requires large high quality data sets. And deploying these models to low power devices requires novel compression techniques and model architectures. While species classification methods have profited from novel data sets and advances in ML methods, in particular neural networks, deploying these state of the art models to low power devices remains difficult. Here we present a comprehensive empirical comparison of various tinyML neural network architectures and compression techniques for species classification. We focus on the example of bird song detection, more concretely a data set curated for studying the corn bunting bird species. The data set is released along with all code and experiments of this study. In our experiments we compare predictive performance, memory and time complexity of classical spectrogram based methods and recent approaches operating on raw audio signal. Our results indicate that individual bird species can be robustly detected with relatively simple architectures that can be readily deployed to low power devices. |
-| 2024-07-10 | [ASGIR: Audio Spectrogram Transformer Guided Classification And Information Retrieval For Birds](https://arxiv.org/abs/2407.18927) | Yashwardhan Chaudhuri, Paridhi Mundra, Arnesh Batra, Orchid Chetia Phukan et al. | Recognition and interpretation of bird vocalizations are pivotal in ornithological research and ecological conservation efforts due to their significance in understanding avian behaviour, performing habitat assessment and judging ecological health. This paper presents an audio spectrogram-guided classification framework called ASGIR for improved bird sound recognition and information retrieval. Our work is accompanied by a simple-to-use, two-step information retrieval system that uses geographical location and bird sounds to localize and retrieve relevant bird information by scraping Wikipedia page information of recognized birds. ASGIR offers a substantial performance on a random subset of 51 classes of Xeno-Canto dataset Bird sounds from European countries with a median of 100\% performance on F1, Precision and Sensitivity metrics. Our code is available as follows: https://github.com/MainSample1234/AS-GIR . |
-| 2024-07-08 | [Transfer Learning with Pseudo Multi-Label Birdcall Classification for DS@GT BirdCLEF 2024](https://arxiv.org/abs/2407.06291) | Anthony Miyaguchi, Adrian Cheung, Murilo Gustineli, Ashley Kim | We present working notes for the DS@GT team on transfer learning with pseudo multi-label birdcall classification for the BirdCLEF 2024 competition, focused on identifying Indian bird species in recorded soundscapes. Our approach utilizes production-grade models such as the Google Bird Vocalization Classifier, BirdNET, and EnCodec to address representation and labeling challenges in the competition. We explore the distributional shift between this year's edition of unlabeled soundscapes representative of the hidden test set and propose a pseudo multi-label classification strategy to leverage the unlabeled data. Our highest post-competition public leaderboard score is 0.63 using BirdNET embeddings with Bird Vocalization pseudo-labels. Our code is available at https://github.com/dsgt-kaggle-clef/birdclef-2024 |
-| 2024-06-26 | [Towards Deep Active Learning in Avian Bioacoustics](https://arxiv.org/abs/2406.18621) | Lukas Rauch, Denis Huseljic, Moritz Wirth, Jens Decke et al. | Passive acoustic monitoring (PAM) in avian bioacoustics enables cost-effective and extensive data collection with minimal disruption to natural habitats. Despite advancements in computational avian bioacoustics, deep learning models continue to encounter challenges in adapting to diverse environments in practical PAM scenarios. This is primarily due to the scarcity of annotations, which requires labor-intensive efforts from human experts. Active learning (AL) reduces annotation cost and speed ups adaption to diverse scenarios by querying the most informative instances for labeling. This paper outlines a deep AL approach, introduces key challenges, and conducts a small-scale pilot study. |
-| 2024-03-27 | [Identification and Uses of Deep Learning Backbones via Pattern Mining](https://arxiv.org/abs/2403.18278) | Michael Livanos, Ian Davidson | Deep learning is extensively used in many areas of data mining as a black-box method with impressive results. However, understanding the core mechanism of how deep learning makes predictions is a relatively understudied problem. Here we explore the notion of identifying a backbone of deep learning for a given group of instances. A group here can be instances of the same class or even misclassified instances of the same class. We view each instance for a given group as activating a subset of neurons and attempt to find a subgraph of neurons associated with a given concept/group. We formulate this problem as a set cover style problem and show it is intractable and presents a highly constrained integer linear programming (ILP) formulation. As an alternative, we explore a coverage-based heuristic approach related to pattern mining, and show it converges to a Pareto equilibrium point of the ILP formulation. Experimentally we explore these backbones to identify mistakes and improve performance, explanation, and visualization. We demonstrate application-based results using several challenging data sets, including Bird Audio Detection (BAD) Challenge and Labeled Faces in the Wild (LFW), as well as the classic MNIST data. |
-| 2024-02-20 | [Quantum Embedding with Transformer for High-dimensional Data](https://arxiv.org/abs/2402.12704) | Hao-Yuan Chen, Yen-Jui Chang, Shih-Wei Liao, Ching-Ray Chang | Quantum embedding with transformers is a novel and promising architecture for quantum machine learning to deliver exceptional capability on near-term devices or simulators. The research incorporated a vision transformer (ViT) to advance quantum significantly embedding ability and results for a single qubit classifier with around 3 percent in the median F1 score on the BirdCLEF-2021, a challenging high-dimensional dataset. The study showcases and analyzes empirical evidence that our transformer-based architecture is a highly versatile and practical approach to modern quantum machine learning problems. |
-| 2024-02-08 | [Multispecies bird sound recognition using a fully convolutional neural network](https://arxiv.org/abs/2402.05489) | María Teresa García-Ordás, Sergio Rubio-Martín, José Alberto Benítez-Andrades, Hector Alaiz-Moretón et al. | This study proposes a method based on fully convolutional neural networks (FCNs) to identify migratory birds from their songs, with the objective of recognizing which birds pass through certain areas and at what time. To determine the best FCN architecture, extensive experimentation was conducted through a grid search, exploring the optimal depth, width, and activation function of the network. The results showed that the optimal number of filters is 400 in the widest layer, with 4 convolutional blocks with maxpooling and an adaptive activation function. The proposed FCN offers a significant advantage over other techniques, as it can recognize the sound of a bird in audio of any length with an accuracy greater than 85%. Furthermore, due to its architecture, the network can detect more than one species from audio and can carry out near-real-time sound recognition. Additionally, the proposed method is lightweight, making it ideal for deployment and use in IoT devices. The study also presents a comparative analysis of the proposed method against other techniques, demonstrating an improvement of over 67% in the best-case scenario. These findings contribute to advancing the field of bird sound recognition and provide valuable insights into the practical application of FCNs in real-world scenarios. |
+#### [NBM: an Open Dataset for the Acoustic Monitoring of Nocturnal Migratory Birds in Europe](https://arxiv.org/abs/2412.03633)
+**Louis Airale, Adrien Pajot, Juliette Linossier** · 2024-12-04
+
+<details>
+<summary>Abstract</summary>
+
+The persisting threats on migratory bird populations highlight the urgent need for effective monitoring techniques that could assist in their conservation. Among these, passive acoustic monitoring is an essential tool, particularly for nocturnal migratory species that are difficult to track otherwise. This work presents the Nocturnal Bird Migration (NBM) dataset, a collection of 13,359 annotated vocalizations from 117 species of the Western Palearctic. The dataset includes precise time and frequency annotations, gathered by dozens of bird enthusiasts across France, enabling novel downstream acoustic analysis. In particular, we prove the utility of this database by training an original two-stage deep object detection model tailored for the processing of audio data. While allowing the precise localization of bird calls in spectrograms, this model shows competitive accuracy on the 45 main species of the dataset with state-of-the-art systems trained on much larger audio collections. These results highlight the interest of fostering similar open-science initiatives to acquire costly but valuable fine-grained annotations of audio files. All data and code are made openly available.
+
+</details>
+
+#### [Generative AI-based data augmentation for improved bioacoustic classification in noisy environments](https://arxiv.org/abs/2412.01530)
+**Anthony Gibbons, Emma King, Ian Donohue, Andrew Parnell** · 2024-12-02
+
+<details>
+<summary>Abstract</summary>
+
+Obtaining data to train robust artificial intelligence (AI)-based models for species classification can be challenging, particularly for rare species. Data augmentation can boost classification accuracy by increasing the diversity of training data and is cheaper to obtain than expert-labelled data. However, many classic image-based augmentation techniques are not suitable for audio spectrograms. We investigate two generative AI models as data augmentation tools to synthesise spectrograms and supplement audio data: Auxiliary Classifier Generative Adversarial Networks (ACGAN) and Denoising Diffusion Probabilistic Models (DDPMs). The latter performed particularly well in terms of both realism of generated spectrograms and accuracy in a resulting classification task. Alongside these new approaches, we present a new audio data set of 640 hours of bird calls from wind farm sites in Ireland, approximately 800 samples of which have been labelled by experts. Wind farm data are particularly challenging for classification models given the background wind and turbine noise. Training an ensemble of classification models on real and synthetic data combined compared well with highly confident BirdNET predictions. Each classifier we used was improved by including synthetic data, and classification metrics generally improved in line with the amount of synthetic data added. Our approach can be used to augment acoustic signals for more species and other land-use types, and has the potential to bring about advances in our capacity to develop reliable AI-based detection of rare species. Our code is available at https://github.com/gibbona1/SpectrogramGenAI.
+
+</details>
+
+#### [Generalization in birdsong classification: impact of transfer learning methods and dataset characteristics](https://arxiv.org/abs/2409.15383)
+**Burooj Ghani, Vincent J. Kalkman, Bob Planqué, Willem-Pier Vellinga et al.** · 2024-09-21
+
+<details>
+<summary>Abstract</summary>
+
+Animal sounds can be recognised automatically by machine learning, and this has an important role to play in biodiversity monitoring. Yet despite increasingly impressive capabilities, bioacoustic species classifiers still exhibit imbalanced performance across species and habitats, especially in complex soundscapes. In this study, we explore the effectiveness of transfer learning in large-scale bird sound classification across various conditions, including single- and multi-label scenarios, and across different model architectures such as CNNs and Transformers. Our experiments demonstrate that both fine-tuning and knowledge distillation yield strong performance, with cross-distillation proving particularly effective in improving in-domain performance on Xeno-canto data. However, when generalizing to soundscapes, shallow fine-tuning exhibits superior performance compared to knowledge distillation, highlighting its robustness and constrained nature. Our study further investigates how to use multi-species labels, in cases where these are present but incomplete. We advocate for more comprehensive labeling practices within the animal sound community, including annotating background species and providing temporal details, to enhance the training of robust bird sound classifiers.
+
+</details>
+
+#### [TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors](https://arxiv.org/abs/2407.21453)
+**Zhaolan Huang, Adrien Tousnakhoff, Polina Kozyr, Roman Rehausen et al.** · 2024-07-31
+
+<details>
+<summary>Abstract</summary>
+
+Monitoring biodiversity at scale is challenging. Detecting and identifying species in fine grained taxonomies requires highly accurate machine learning (ML) methods. Training such models requires large high quality data sets. And deploying these models to low power devices requires novel compression techniques and model architectures. While species classification methods have profited from novel data sets and advances in ML methods, in particular neural networks, deploying these state of the art models to low power devices remains difficult. Here we present a comprehensive empirical comparison of various tinyML neural network architectures and compression techniques for species classification. We focus on the example of bird song detection, more concretely a data set curated for studying the corn bunting bird species. The data set is released along with all code and experiments of this study. In our experiments we compare predictive performance, memory and time complexity of classical spectrogram based methods and recent approaches operating on raw audio signal. Our results indicate that individual bird species can be robustly detected with relatively simple architectures that can be readily deployed to low power devices.
+
+</details>
+
+#### [ASGIR: Audio Spectrogram Transformer Guided Classification And Information Retrieval For Birds](https://arxiv.org/abs/2407.18927)
+**Yashwardhan Chaudhuri, Paridhi Mundra, Arnesh Batra, Orchid Chetia Phukan et al.** · 2024-07-10
+
+<details>
+<summary>Abstract</summary>
+
+Recognition and interpretation of bird vocalizations are pivotal in ornithological research and ecological conservation efforts due to their significance in understanding avian behaviour, performing habitat assessment and judging ecological health. This paper presents an audio spectrogram-guided classification framework called ASGIR for improved bird sound recognition and information retrieval. Our work is accompanied by a simple-to-use, two-step information retrieval system that uses geographical location and bird sounds to localize and retrieve relevant bird information by scraping Wikipedia page information of recognized birds. ASGIR offers a substantial performance on a random subset of 51 classes of Xeno-Canto dataset Bird sounds from European countries with a median of 100\% performance on F1, Precision and Sensitivity metrics. Our code is available as follows: https://github.com/MainSample1234/AS-GIR .
+
+</details>
+
+#### [Transfer Learning with Pseudo Multi-Label Birdcall Classification for DS@GT BirdCLEF 2024](https://arxiv.org/abs/2407.06291)
+**Anthony Miyaguchi, Adrian Cheung, Murilo Gustineli, Ashley Kim** · 2024-07-08
+
+<details>
+<summary>Abstract</summary>
+
+We present working notes for the DS@GT team on transfer learning with pseudo multi-label birdcall classification for the BirdCLEF 2024 competition, focused on identifying Indian bird species in recorded soundscapes. Our approach utilizes production-grade models such as the Google Bird Vocalization Classifier, BirdNET, and EnCodec to address representation and labeling challenges in the competition. We explore the distributional shift between this year's edition of unlabeled soundscapes representative of the hidden test set and propose a pseudo multi-label classification strategy to leverage the unlabeled data. Our highest post-competition public leaderboard score is 0.63 using BirdNET embeddings with Bird Vocalization pseudo-labels. Our code is available at https://github.com/dsgt-kaggle-clef/birdclef-2024
+
+</details>
+
+#### [Towards Deep Active Learning in Avian Bioacoustics](https://arxiv.org/abs/2406.18621)
+**Lukas Rauch, Denis Huseljic, Moritz Wirth, Jens Decke et al.** · 2024-06-26
+
+<details>
+<summary>Abstract</summary>
+
+Passive acoustic monitoring (PAM) in avian bioacoustics enables cost-effective and extensive data collection with minimal disruption to natural habitats. Despite advancements in computational avian bioacoustics, deep learning models continue to encounter challenges in adapting to diverse environments in practical PAM scenarios. This is primarily due to the scarcity of annotations, which requires labor-intensive efforts from human experts. Active learning (AL) reduces annotation cost and speed ups adaption to diverse scenarios by querying the most informative instances for labeling. This paper outlines a deep AL approach, introduces key challenges, and conducts a small-scale pilot study.
+
+</details>
+
+#### [Automated Bioacoustic Monitoring for South African Bird Species on Unlabeled Data](https://arxiv.org/abs/2406.13579)
+**Michael Doell, Dominik Kuehn, Vanessa Suessle, Matthew J. Burnett et al.** · 2024-06-19
+
+<details>
+<summary>Abstract</summary>
+
+Analyses for biodiversity monitoring based on passive acoustic monitoring (PAM) recordings is time-consuming and challenged by the presence of background noise in recordings. Existing models for sound event detection (SED) worked only on certain avian species and the development of further models required labeled data. The developed framework automatically extracted labeled data from available platforms for selected avian species. The labeled data were embedded into recordings, including environmental sounds and noise, and were used to train convolutional recurrent neural network (CRNN) models. The models were evaluated on unprocessed real world data recorded in urban KwaZulu-Natal habitats. The Adapted SED-CRNN model reached a F1 score of 0.73, demonstrating its efficiency under noisy, real-world conditions. The proposed approach to automatically extract labeled data for chosen avian species enables an easy adaption of PAM to other species and habitats for future conservation projects.
+
+</details>
+
+#### [DB3V: A Dialect Dominated Dataset of Bird Vocalisation for Cross-corpus Bird Species Recognition](https://arxiv.org/abs/2406.08517)
+**Xin Jing, Luyang Zhang, Jiangjian Xie, Alexander Gebhard et al.** · 2024-06-11
+
+<details>
+<summary>Abstract</summary>
+
+In ornithology, bird species are known to have varied dialects in their calls across different regions. Consequently, computational methods to identify bird species solely through their calls face significant challenges. There is growing interest in understanding the impact of species-specific dialects on the effectiveness of bird species recognition methods. Despite potential mitigation through the expansion of dialect datasets, the absence of publicly available testing data currently impedes robust benchmarking efforts. This paper presents the Dialect Dominated Dataset of Bird Vocalisation, the first cross-corpus dataset that focuses on dialects in bird vocalisations. The DB3V comprises more than 25 hours of audio recordings from 10 bird species distributed across three distinct regions in the contiguous United States (CONUS). In addition to presenting the dataset, we conduct analyses and establish baseline models for cross-corpus bird recognition. The data and code are publicly available online.
+
+</details>
+
+#### [Comparison of self-supervised in-domain and supervised out-domain transfer learning for bird species recognition](https://arxiv.org/abs/2404.17252)
+**Houtan Ghaffari, Paul Devos** · 2024-04-26
+
+<details>
+<summary>Abstract</summary>
+
+Transferring the weights of a pre-trained model to assist another task has become a crucial part of modern deep learning, particularly in data-scarce scenarios. Pre-training refers to the initial step of training models outside the current task of interest, typically on another dataset. It can be done via supervised models using human-annotated datasets or self-supervised models trained on unlabeled datasets. In both cases, many pre-trained models are available to fine-tune for the task of interest. Interestingly, research has shown that pre-trained models from ImageNet can be helpful for audio tasks despite being trained on image datasets. Hence, it's unclear whether in-domain models would be advantageous compared to competent out-domain models, such as convolutional neural networks from ImageNet. Our experiments will demonstrate the usefulness of in-domain models and datasets for bird species recognition by leveraging VICReg, a recent and powerful self-supervised method.
+
+</details>
+
+#### [AudioProtoPNet: An interpretable deep learning model for bird sound classification](https://arxiv.org/abs/2404.10420)
+**René Heinrich, Lukas Rauch, Bernhard Sick, Christoph Scholz** · 2024-04-16
+
+<details>
+<summary>Abstract</summary>
+
+Deep learning models have significantly advanced acoustic bird monitoring by being able to recognize numerous bird species based on their vocalizations. However, traditional deep learning models are black boxes that provide no insight into their underlying computations, limiting their usefulness to ornithologists and machine learning engineers. Explainable models could facilitate debugging, knowledge discovery, trust, and interdisciplinary collaboration. This study introduces AudioProtoPNet, an adaptation of the Prototypical Part Network (ProtoPNet) for multi-label bird sound classification. It is an inherently interpretable model that uses a ConvNeXt backbone to extract embeddings, with the classification layer replaced by a prototype learning classifier trained on these embeddings. The classifier learns prototypical patterns of each bird species' vocalizations from spectrograms of training instances. During inference, audio recordings are classified by comparing them to the learned prototypes in the embedding space, providing explanations for the model's decisions and insights into the most informative embeddings of each bird species. The model was trained on the BirdSet training dataset, which consists of 9,734 bird species and over 6,800 hours of recordings. Its performance was evaluated on the seven test datasets of BirdSet, covering different geographical regions. AudioProtoPNet outperformed the state-of-the-art model Perch, achieving an average AUROC of 0.90 and a cmAP of 0.42, with relative improvements of 7.1% and 16.7% over Perch, respectively.
+
+</details>
+
+#### [Identification and Uses of Deep Learning Backbones via Pattern Mining](https://arxiv.org/abs/2403.18278)
+**Michael Livanos, Ian Davidson** · 2024-03-27
+
+<details>
+<summary>Abstract</summary>
+
+Deep learning is extensively used in many areas of data mining as a black-box method with impressive results. However, understanding the core mechanism of how deep learning makes predictions is a relatively understudied problem. Here we explore the notion of identifying a backbone of deep learning for a given group of instances. A group here can be instances of the same class or even misclassified instances of the same class. We view each instance for a given group as activating a subset of neurons and attempt to find a subgraph of neurons associated with a given concept/group. We formulate this problem as a set cover style problem and show it is intractable and presents a highly constrained integer linear programming (ILP) formulation. As an alternative, we explore a coverage-based heuristic approach related to pattern mining, and show it converges to a Pareto equilibrium point of the ILP formulation. Experimentally we explore these backbones to identify mistakes and improve performance, explanation, and visualization. We demonstrate application-based results using several challenging data sets, including Bird Audio Detection (BAD) Challenge and Labeled Faces in the Wild (LFW), as well as the classic MNIST data.
+
+</details>
+
+#### [BirdSet: A Dataset and Benchmark for Classification in Avian Bioacoustics](https://arxiv.org/abs/2403.10380)
+**Lukas Rauch, Raphael Schwinger, Moritz Wirth, René Heinrich et al.** · 2024-03-15
+
+<details>
+<summary>Abstract</summary>
+
+Deep learning (DL) has greatly advanced audio classification, yet the field is limited by the scarcity of large-scale benchmark datasets that have propelled progress in other domains. While AudioSet is a pivotal step to bridge this gap as a universal-domain dataset, its restricted accessibility and limited range of evaluation use cases challenge its role as the sole resource. Therefore, we introduce BirdSet, a large-scale benchmark dataset for audio classification focusing on avian bioacoustics. BirdSet surpasses AudioSet with over 6,800 recording hours from nearly 10,000 classes for training and more than 400 hours across eight strongly labeled evaluation datasets. It serves as a versatile resource for use cases such as multi-label classification, covariate shift or self-supervised learning. We benchmark six well-known DL models in multi-label classification across three distinct training scenarios and outline further evaluation use cases in audio classification. We host our dataset on Hugging Face for easy accessibility and offer an extensive codebase to reproduce our results.
+
+</details>
+
+#### [Quantum Embedding with Transformer for High-dimensional Data](https://arxiv.org/abs/2402.12704)
+**Hao-Yuan Chen, Yen-Jui Chang, Shih-Wei Liao, Ching-Ray Chang** · 2024-02-20
+
+<details>
+<summary>Abstract</summary>
+
+Quantum embedding with transformers is a novel and promising architecture for quantum machine learning to deliver exceptional capability on near-term devices or simulators. The research incorporated a vision transformer (ViT) to advance quantum significantly embedding ability and results for a single qubit classifier with around 3 percent in the median F1 score on the BirdCLEF-2021, a challenging high-dimensional dataset. The study showcases and analyzes empirical evidence that our transformer-based architecture is a highly versatile and practical approach to modern quantum machine learning problems.
+
+</details>
+
+#### [Multispecies bird sound recognition using a fully convolutional neural network](https://arxiv.org/abs/2402.05489)
+**María Teresa García-Ordás, Sergio Rubio-Martín, José Alberto Benítez-Andrades, Hector Alaiz-Moretón et al.** · 2024-02-08
+
+<details>
+<summary>Abstract</summary>
+
+This study proposes a method based on fully convolutional neural networks (FCNs) to identify migratory birds from their songs, with the objective of recognizing which birds pass through certain areas and at what time. To determine the best FCN architecture, extensive experimentation was conducted through a grid search, exploring the optimal depth, width, and activation function of the network. The results showed that the optimal number of filters is 400 in the widest layer, with 4 convolutional blocks with maxpooling and an adaptive activation function. The proposed FCN offers a significant advantage over other techniques, as it can recognize the sound of a bird in audio of any length with an accuracy greater than 85%. Furthermore, due to its architecture, the network can detect more than one species from audio and can carry out near-real-time sound recognition. Additionally, the proposed method is lightweight, making it ideal for deployment and use in IoT devices. The study also presents a comparative analysis of the proposed method against other techniques, demonstrating an improvement of over 67% in the best-case scenario. These findings contribute to advancing the field of bird sound recognition and provide valuable insights into the practical application of FCNs in real-world scenarios.
+
+</details>
+
 
 ### 2023
 
-| Date | Title | Authors | Abstract |
-|------|-------|---------|----------|
-| 2023-08-14 | [Active Bird2Vec: Towards End-to-End Bird Sound Monitoring with Transformers](https://arxiv.org/abs/2308.07121) | Lukas Rauch, Raphael Schwinger, Moritz Wirth, Bernhard Sick et al. | We propose a shift towards end-to-end learning in bird sound monitoring by combining self-supervised (SSL) and deep active learning (DAL). Leveraging transformer models, we aim to bypass traditional spectrogram conversions, enabling direct raw audio processing. ActiveBird2Vec is set to generate high-quality bird sound representations through SSL, potentially accelerating the assessment of environmental changes and decision-making processes for wind farms. Additionally, we seek to utilize the wide variety of bird vocalizations through DAL, reducing the reliance on extensively labeled datasets by human experts. We plan to curate a comprehensive set of tasks through Huggingface Datasets, enhancing future comparability and reproducibility of bioacoustic research. A comparative analysis between various transformer models will be conducted to evaluate their proficiency in bird sound recognition tasks. We aim to accelerate the progression of avian bioacoustic research and contribute to more effective conservation strategies. |
-| 2023-06-29 | [Transfer Learning with Semi-Supervised Dataset Annotation for Birdcall Classification](https://arxiv.org/abs/2306.16760) | Anthony Miyaguchi, Nathan Zhong, Murilo Gustineli, Chris Hayduk | We present working notes on transfer learning with semi-supervised dataset annotation for the BirdCLEF 2023 competition, focused on identifying African bird species in recorded soundscapes. Our approach utilizes existing off-the-shelf models, BirdNET and MixIT, to address representation and labeling challenges in the competition. We explore the embedding space learned by BirdNET and propose a process to derive an annotated dataset for supervised learning. Our experiments involve various models and feature engineering approaches to maximize performance on the competition leaderboard. The results demonstrate the effectiveness of our approach in classifying bird species and highlight the potential of transfer learning and semi-supervised dataset annotation in similar tasks. |
+#### [Auto deep learning for bioacoustic signals](https://arxiv.org/abs/2311.04945)
+**Giulio Tosato, Abdelrahman Shehata, Joshua Janssen, Kees Kamp et al.** · 2023-11-08
+
+<details>
+<summary>Abstract</summary>
+
+This study investigates the potential of automated deep learning to enhance the accuracy and efficiency of multi-class classification of bird vocalizations, compared against traditional manually-designed deep learning models. Using the Western Mediterranean Wetland Birds dataset, we investigated the use of AutoKeras, an automated machine learning framework, to automate neural architecture search and hyperparameter tuning. Comparative analysis validates our hypothesis that the AutoKeras-derived model consistently outperforms traditional models like MobileNet, ResNet50 and VGG16. Our approach and findings underscore the transformative potential of automated deep learning for advancing bioacoustics research and models. In fact, the automated techniques eliminate the need for manual feature engineering and model design while improving performance. This study illuminates best practices in sampling, evaluation and reporting to enhance reproducibility in this nascent field.
+
+</details>
+
+#### [Active Bird2Vec: Towards End-to-End Bird Sound Monitoring with Transformers](https://arxiv.org/abs/2308.07121)
+**Lukas Rauch, Raphael Schwinger, Moritz Wirth, Bernhard Sick et al.** · 2023-08-14
+
+<details>
+<summary>Abstract</summary>
+
+We propose a shift towards end-to-end learning in bird sound monitoring by combining self-supervised (SSL) and deep active learning (DAL). Leveraging transformer models, we aim to bypass traditional spectrogram conversions, enabling direct raw audio processing. ActiveBird2Vec is set to generate high-quality bird sound representations through SSL, potentially accelerating the assessment of environmental changes and decision-making processes for wind farms. Additionally, we seek to utilize the wide variety of bird vocalizations through DAL, reducing the reliance on extensively labeled datasets by human experts. We plan to curate a comprehensive set of tasks through Huggingface Datasets, enhancing future comparability and reproducibility of bioacoustic research. A comparative analysis between various transformer models will be conducted to evaluate their proficiency in bird sound recognition tasks. We aim to accelerate the progression of avian bioacoustic research and contribute to more effective conservation strategies.
+
+</details>
+
+#### [Global birdsong embeddings enable superior transfer learning for bioacoustic classification](https://arxiv.org/abs/2307.06292)
+**Burooj Ghani, Tom Denton, Stefan Kahl, Holger Klinck** · 2023-07-12
+
+<details>
+<summary>Abstract</summary>
+
+Automated bioacoustic analysis aids understanding and protection of both marine and terrestrial animals and their habitats across extensive spatiotemporal scales, and typically involves analyzing vast collections of acoustic data. With the advent of deep learning models, classification of important signals from these datasets has markedly improved. These models power critical data analyses for research and decision-making in biodiversity monitoring, animal behaviour studies, and natural resource management. However, deep learning models are often data-hungry and require a significant amount of labeled training data to perform well. While sufficient training data is available for certain taxonomic groups (e.g., common bird species), many classes (such as rare and endangered species, many non-bird taxa, and call-type) lack enough data to train a robust model from scratch. This study investigates the utility of feature embeddings extracted from audio classification models to identify bioacoustic classes other than the ones these models were originally trained on. We evaluate models on diverse datasets, including different bird calls and dialect types, bat calls, marine mammals calls, and amphibians calls. The embeddings extracted from the models trained on bird vocalization data consistently allowed higher quality classification than the embeddings trained on general audio datasets. The results of this study indicate that high-quality feature embeddings from large-scale acoustic bird classifiers can be harnessed for few-shot transfer learning, enabling the learning of new classes from a limited quantity of training data.
+
+</details>
+
+#### [Transfer Learning with Semi-Supervised Dataset Annotation for Birdcall Classification](https://arxiv.org/abs/2306.16760)
+**Anthony Miyaguchi, Nathan Zhong, Murilo Gustineli, Chris Hayduk** · 2023-06-29
+
+<details>
+<summary>Abstract</summary>
+
+We present working notes on transfer learning with semi-supervised dataset annotation for the BirdCLEF 2023 competition, focused on identifying African bird species in recorded soundscapes. Our approach utilizes existing off-the-shelf models, BirdNET and MixIT, to address representation and labeling challenges in the competition. We explore the embedding space learned by BirdNET and propose a process to derive an annotated dataset for supervised learning. Our experiments involve various models and feature engineering approaches to maximize performance on the competition leaderboard. The results demonstrate the effectiveness of our approach in classifying bird species and highlight the potential of transfer learning and semi-supervised dataset annotation in similar tasks.
+
+</details>
+
+#### [Channel-Spatial-Based Few-Shot Bird Sound Event Detection](https://arxiv.org/abs/2306.10499)
+**Lingwen Liu, Yuxuan Feng, Haitao Fu, Yajie Yang et al.** · 2023-06-18
+
+<details>
+<summary>Abstract</summary>
+
+In this paper, we propose a model for bird sound event detection that focuses on a small number of training samples within the everyday long-tail distribution. As a result, we investigate bird sound detection using the few-shot learning paradigm. By integrating channel and spatial attention mechanisms, improved feature representations can be learned from few-shot training datasets. We develop a Metric Channel-Spatial Network model by incorporating a Channel Spatial Squeeze-Excitation block into the prototype network, combining it with these attention mechanisms. We evaluate the Metric Channel Spatial Network model on the DCASE 2022 Take5 dataset benchmark, achieving an F-measure of 66.84% and a PSDS of 58.98%. Our experiment demonstrates that the combination of channel and spatial attention mechanisms effectively enhances the performance of bird sound classification and detection.
+
+</details>
+
+#### [Correlation Clustering of Bird Sounds](https://arxiv.org/abs/2306.09906)
+**David Stein, Bjoern Andres** · 2023-06-16
+
+<details>
+<summary>Abstract</summary>
+
+Bird sound classification is the task of relating any sound recording to those species of bird that can be heard in the recording. Here, we study bird sound clustering, the task of deciding for any pair of sound recordings whether the same species of bird can be heard in both. We address this problem by first learning, from a training set, probabilities of pairs of recordings being related in this way, and then inferring a maximally probable partition of a test set by correlation clustering. We address the following questions: How accurate is this clustering, compared to a classification of the test set? How do the clusters thus inferred relate to the clusters obtained by classification? How accurate is this clustering when applied to recordings of bird species not heard during training? How effective is this clustering in separating, from bird sounds, environmental noise not heard during training?
+
+</details>
+
+#### [Unsupervised classification to improve the quality of a bird song dataset](https://arxiv.org/abs/2302.07560)
+**Felix Michaud, Julien Hauret, Laure Pillot, Romain Serizel et al.** · 2023-02-15
+
+<details>
+<summary>Abstract</summary>
+
+Open audio databases such as Xeno-Canto are widely used to build datasets to explore bird song repertoire or to train models for automatic bird sound classification by deep learning algorithms. However, such databases suffer from the fact that bird sounds are weakly labelled: a species name is attributed to each audio recording without timestamps that provide the temporal localization of the bird song of interest. Manual annotations can solve this issue, but they are time consuming, expert-dependent, and cannot run on large datasets. Another solution consists in using a labelling function that automatically segments audio recordings before assigning a label to each segmented audio sample. To address this issue and reduce label noise (wrong label assignment) in large bird song datasets, we introduce a data-centric novel labelling function composed of three successive steps: 1) time-frequency sound unit segmentation, 2) feature computation for each sound unit, and 3) classification of each sound unit as bird song or noise with either an unsupervised DBSCAN algorithm or the supervised BirdNET neural network. The labelling function was optimized, validated, and tested on the songs of 44 West-Palearctic common bird species. We first showed that the segmentation of bird songs alone aggregated from 10% to 83% of label noise depending on the species. We also demonstrated that our labelling function was able to significantly reduce the initial label noise present in the dataset by up to a factor of three.
+
+</details>
+
 
 ### 2022
 
-| Date | Title | Authors | Abstract |
-|------|-------|---------|----------|
-| 2022-11-14 | [The Birds Need Attention Too: Analysing usage of Self Attention in identifying bird calls in soundscapes](https://arxiv.org/abs/2211.07722) | Chandra Kanth Nagesh, Abhishek Purushothama | Birds are vital parts of ecosystems across the world and are an excellent measure of the quality of life on earth. Many bird species are endangered while others are already extinct. Ecological efforts in understanding and monitoring bird populations are important to conserve their habitat and species, but this mostly relies on manual methods in rough terrains. Recent advances in Machine Learning and Deep Learning have made automatic bird recognition in diverse environments possible. Birdcall recognition till now has been performed using convolutional neural networks. In this work, we try and understand how self-attention can aid in this endeavor. With that we build an pre-trained Attention-based Spectrogram Transformer baseline for BirdCLEF 2022 and compare the results against the pre-trained Convolution-based baseline. Our results show that the transformer models outperformed the convolutional model and we further validate our results by building baselines and analyzing the results for the previous year BirdCLEF 2021 challenge. Source code available at https://github.com/ck090/BirdCLEF-22 |
-| 2022-10-03 | [Learnable Acoustic Frontends in Bird Activity Detection](https://arxiv.org/abs/2210.00889) | Mark Anderson, Naomi Harte | Autonomous recording units and passive acoustic monitoring present minimally intrusive methods of collecting bioacoustics data. Combining this data with species agnostic bird activity detection systems enables the monitoring of activity levels of bird populations. Unfortunately, variability in ambient noise levels and subject distance contribute to difficulties in accurately detecting bird activity in recordings. The choice of acoustic frontend directly affects the impact these issues have on system performance. In this paper, we benchmark traditional fixed-parameter acoustic frontends against the new generation of learnable frontends on a wide-ranging bird audio detection task using data from the DCASE2018 BAD Challenge. We observe that Per-Channel Energy Normalization is the best overall performer, achieving an accuracy of 89.9%, and that in general learnable frontends significantly outperform traditional methods. We also identify challenges in learning filterbanks for bird audio. |
-| 2022-06-22 | [Few-shot Long-Tailed Bird Audio Recognition](https://arxiv.org/abs/2206.11260) | Marcos V. Conde, Ui-Jin Choi | It is easier to hear birds than see them. However, they still play an essential role in nature and are excellent indicators of deteriorating environmental quality and pollution. Recent advances in Deep Neural Networks allow us to process audio data to detect and classify birds. This technology can assist researchers in monitoring bird populations and biodiversity. We propose a sound detection and classification pipeline to analyze complex soundscape recordings and identify birdcalls in the background. Our method learns from weak labels and few data and acoustically recognizes the bird species. Our solution achieved 18th place of 807 teams at the BirdCLEF 2022 Challenge hosted on Kaggle. |
-| 2022-06-08 | [Motif Mining and Unsupervised Representation Learning for BirdCLEF 2022](https://arxiv.org/abs/2206.04805) | Anthony Miyaguchi, Jiangyue Yu, Bryan Cheungvivatpant, Dakota Dudley et al. | We build a classification model for the BirdCLEF 2022 challenge using unsupervised methods. We implement an unsupervised representation of the training dataset using a triplet loss on spectrogram representation of audio motifs. Our best model performs with a score of 0.48 on the public leaderboard. |
+#### [Machine Learning-based Classification of Birds through Birdsong](https://arxiv.org/abs/2212.04684)
+**Yueying Chang, Richard O. Sinnott** · 2022-12-09
+
+<details>
+<summary>Abstract</summary>
+
+Audio sound recognition and classification is used for many tasks and applications including human voice recognition, music recognition and audio tagging. In this paper we apply Mel Frequency Cepstral Coefficients (MFCC) in combination with a range of machine learning models to identify (Australian) birds from publicly available audio files of their birdsong. We present approaches used for data processing and augmentation and compare the results of various state of the art machine learning models. We achieve an overall accuracy of 91% for the top-5 birds from the 30 selected as the case study. Applying the models to more challenging and diverse audio files comprising 152 bird species, we achieve an accuracy of 58%.
+
+</details>
+
+#### [The Birds Need Attention Too: Analysing usage of Self Attention in identifying bird calls in soundscapes](https://arxiv.org/abs/2211.07722)
+**Chandra Kanth Nagesh, Abhishek Purushothama** · 2022-11-14
+
+<details>
+<summary>Abstract</summary>
+
+Birds are vital parts of ecosystems across the world and are an excellent measure of the quality of life on earth. Many bird species are endangered while others are already extinct. Ecological efforts in understanding and monitoring bird populations are important to conserve their habitat and species, but this mostly relies on manual methods in rough terrains. Recent advances in Machine Learning and Deep Learning have made automatic bird recognition in diverse environments possible. Birdcall recognition till now has been performed using convolutional neural networks. In this work, we try and understand how self-attention can aid in this endeavor. With that we build an pre-trained Attention-based Spectrogram Transformer baseline for BirdCLEF 2022 and compare the results against the pre-trained Convolution-based baseline. Our results show that the transformer models outperformed the convolutional model and we further validate our results by building baselines and analyzing the results for the previous year BirdCLEF 2021 challenge. Source code available at https://github.com/ck090/BirdCLEF-22
+
+</details>
+
+#### [BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds](https://arxiv.org/abs/2210.10196)
+**Youshan Zhang, Jialu Li** · 2022-10-18
+
+<details>
+<summary>Abstract</summary>
+
+Audio denoising has been explored for decades using both traditional and deep learning-based methods. However, these methods are still limited to either manually added artificial noise or lower denoised audio quality. To overcome these challenges, we collect a large-scale natural noise bird sound dataset. We are the first to transfer the audio denoising problem into an image segmentation problem and propose a deep visual audio denoising (DVAD) model. With a total of 14,120 audio images, we develop an audio ImageMask tool and propose to use a few-shot generalization strategy to label these images. Extensive experimental results demonstrate that the proposed model achieves state-of-the-art performance. We also show that our method can be easily generalized to speech denoising, audio separation, audio enhancement, and noise estimation.
+
+</details>
+
+#### [Learnable Acoustic Frontends in Bird Activity Detection](https://arxiv.org/abs/2210.00889)
+**Mark Anderson, Naomi Harte** · 2022-10-03
+
+<details>
+<summary>Abstract</summary>
+
+Autonomous recording units and passive acoustic monitoring present minimally intrusive methods of collecting bioacoustics data. Combining this data with species agnostic bird activity detection systems enables the monitoring of activity levels of bird populations. Unfortunately, variability in ambient noise levels and subject distance contribute to difficulties in accurately detecting bird activity in recordings. The choice of acoustic frontend directly affects the impact these issues have on system performance. In this paper, we benchmark traditional fixed-parameter acoustic frontends against the new generation of learnable frontends on a wide-ranging bird audio detection task using data from the DCASE2018 BAD Challenge. We observe that Per-Channel Energy Normalization is the best overall performer, achieving an accuracy of 89.9%, and that in general learnable frontends significantly outperform traditional methods. We also identify challenges in learning filterbanks for bird audio.
+
+</details>
+
+#### [Few-shot Long-Tailed Bird Audio Recognition](https://arxiv.org/abs/2206.11260)
+**Marcos V. Conde, Ui-Jin Choi** · 2022-06-22
+
+<details>
+<summary>Abstract</summary>
+
+It is easier to hear birds than see them. However, they still play an essential role in nature and are excellent indicators of deteriorating environmental quality and pollution. Recent advances in Deep Neural Networks allow us to process audio data to detect and classify birds. This technology can assist researchers in monitoring bird populations and biodiversity. We propose a sound detection and classification pipeline to analyze complex soundscape recordings and identify birdcalls in the background. Our method learns from weak labels and few data and acoustically recognizes the bird species. Our solution achieved 18th place of 807 teams at the BirdCLEF 2022 Challenge hosted on Kaggle.
+
+</details>
+
+#### [Motif Mining and Unsupervised Representation Learning for BirdCLEF 2022](https://arxiv.org/abs/2206.04805)
+**Anthony Miyaguchi, Jiangyue Yu, Bryan Cheungvivatpant, Dakota Dudley et al.** · 2022-06-08
+
+<details>
+<summary>Abstract</summary>
+
+We build a classification model for the BirdCLEF 2022 challenge using unsupervised methods. We implement an unsupervised representation of the training dataset using a triplet loss on spectrogram representation of audio motifs. Our best model performs with a score of 0.48 on the public leaderboard.
+
+</details>
+
 
 ### 2021
 
-| Date | Title | Authors | Abstract |
-|------|-------|---------|----------|
-| 2021-07-10 | [Weakly-Supervised Classification and Detection of Bird Sounds in the Wild. A BirdCLEF 2021 Solution](https://arxiv.org/abs/2107.04878) | Marcos V. Conde, Kumar Shubham, Prateek Agnihotri, Nitin D. Movva et al. | It is easier to hear birds than see them, however, they still play an essential role in nature and they are excellent indicators of deteriorating environmental quality and pollution. Recent advances in Machine Learning and Convolutional Neural Networks allow us to detect and classify bird sounds, by doing this, we can assist researchers in monitoring the status and trends of bird populations and biodiversity in ecosystems. We propose a sound detection and classification pipeline for analyzing complex soundscape recordings and identify birdcalls in the background. Our pipeline learns from weak labels, classifies fine-grained bird vocalizations in the wild, and is robust against background sounds (e.g., airplanes, rain, etc). Our solution achieved 10th place of 816 teams at the BirdCLEF 2021 Challenge hosted on Kaggle. |
-| 2021-03-31 | [Towards Citizen Science for Smart Cities: A Framework for a Collaborative Game of Bird Call Recognition Based on Internet of Sound Practices](https://arxiv.org/abs/2103.16988) | Emmanuel Rovithis, Nikolaos Moustakas, Konstantinos Vogklis, Konstantinos Drossos et al. | Citizen Science aims to engage people in research activities on important issues related to their well-being. Smart Cities aim to provide them with services that improve the quality of their life. Both concepts have seen significant growth in the last years, and can be further enhanced by combining their purposes with IoT technologies that allow for dynamic and large-scale communication and interaction. However, exciting and retaining the interest of participants is a key factor for such initiatives. In this paper we suggest that engagement in Citizen Science projects applied on Smart Cities infrastructure can be enhanced through contextual and structural game elements realized through augmented audio interactive mechanisms. Our inter-disciplinary framework is described through the paradigm of a collaborative bird call recognition game, in which users collect and submit audio data, which are then classified and used for augmenting physical space with virtual soundscape maps. We discuss the Playful Learning, Internet of Audio Things, and Bird Monitoring principles that shaped the design of our paradigm, and analyze its potential technical implementation. |
+#### [Improving Bird Classification with Unsupervised Sound Separation](https://arxiv.org/abs/2110.03209)
+**Tom Denton, Scott Wisdom, John R. Hershey** · 2021-10-07
+
+<details>
+<summary>Abstract</summary>
+
+This paper addresses the problem of species classification in bird song recordings. The massive amount of available field recordings of birds presents an opportunity to use machine learning to automatically track bird populations. However, it also poses a problem: such field recordings typically contain significant environmental noise and overlapping vocalizations that interfere with classification. The widely available training datasets for species identification also typically leave background species unlabeled. This leads classifiers to ignore vocalizations with a low signal-to-noise ratio. However, recent advances in unsupervised sound separation, such as mixture invariant training (MixIT), enable high quality separation of bird songs to be learned from such noisy recordings. In this paper, we demonstrate improved separation quality when training a MixIT model specifically for birdsong data, outperforming a general audio separation model by over 5 dB in SI-SNR improvement of reconstructed mixtures. We also demonstrate precision improvements with a downstream multi-species bird classifier across three independent datasets. The best classifier performance is achieved by taking the maximum model activations over the separated channels and original audio. Finally, we document additional classifier improvements, including taxonomic classification, augmentation by random low-pass filters, and additional channel normalization.
+
+</details>
+
+#### [Recognizing bird species in diverse soundscapes under weak supervision](https://arxiv.org/abs/2107.07728)
+**Christof Henkel, Pascal Pfeiffer, Philipp Singer** · 2021-07-16
+
+<details>
+<summary>Abstract</summary>
+
+We present a robust classification approach for avian vocalization in complex and diverse soundscapes, achieving second place in the BirdCLEF2021 challenge. We illustrate how to make full use of pre-trained convolutional neural networks, by using an efficient modeling and training routine supplemented by novel augmentation methods. Thereby, we improve the generalization of weakly labeled crowd-sourced data to productive data collected by autonomous recording units. As such, we illustrate how to progress towards an accurate automated assessment of avian population which would enable global biodiversity monitoring at scale, impossible by manual annotation.
+
+</details>
+
+#### [Weakly-Supervised Classification and Detection of Bird Sounds in the Wild. A BirdCLEF 2021 Solution](https://arxiv.org/abs/2107.04878)
+**Marcos V. Conde, Kumar Shubham, Prateek Agnihotri, Nitin D. Movva et al.** · 2021-07-10
+
+<details>
+<summary>Abstract</summary>
+
+It is easier to hear birds than see them, however, they still play an essential role in nature and they are excellent indicators of deteriorating environmental quality and pollution. Recent advances in Machine Learning and Convolutional Neural Networks allow us to detect and classify bird sounds, by doing this, we can assist researchers in monitoring the status and trends of bird populations and biodiversity in ecosystems. We propose a sound detection and classification pipeline for analyzing complex soundscape recordings and identify birdcalls in the background. Our pipeline learns from weak labels, classifies fine-grained bird vocalizations in the wild, and is robust against background sounds (e.g., airplanes, rain, etc). Our solution achieved 10th place of 816 teams at the BirdCLEF 2021 Challenge hosted on Kaggle.
+
+</details>
+
+#### [Towards Citizen Science for Smart Cities: A Framework for a Collaborative Game of Bird Call Recognition Based on Internet of Sound Practices](https://arxiv.org/abs/2103.16988)
+**Emmanuel Rovithis, Nikolaos Moustakas, Konstantinos Vogklis, Konstantinos Drossos et al.** · 2021-03-31
+
+<details>
+<summary>Abstract</summary>
+
+Citizen Science aims to engage people in research activities on important issues related to their well-being. Smart Cities aim to provide them with services that improve the quality of their life. Both concepts have seen significant growth in the last years, and can be further enhanced by combining their purposes with IoT technologies that allow for dynamic and large-scale communication and interaction. However, exciting and retaining the interest of participants is a key factor for such initiatives. In this paper we suggest that engagement in Citizen Science projects applied on Smart Cities infrastructure can be enhanced through contextual and structural game elements realized through augmented audio interactive mechanisms. Our inter-disciplinary framework is described through the paradigm of a collaborative bird call recognition game, in which users collect and submit audio data, which are then classified and used for augmenting physical space with virtual soundscape maps. We discuss the Playful Learning, Internet of Audio Things, and Bird Monitoring principles that shaped the design of our paradigm, and analyze its potential technical implementation.
+
+</details>
+
+
+### 2019
+
+#### [Robust sound event detection in bioacoustic sensor networks](https://arxiv.org/abs/1905.08352)
+**Vincent Lostanlen, Justin Salamon, Andrew Farnsworth, Steve Kelling et al.** · 2019-05-20
+
+<details>
+<summary>Abstract</summary>
+
+Bioacoustic sensors, sometimes known as autonomous recording units (ARUs), can record sounds of wildlife over long periods of time in scalable and minimally invasive ways. Deriving per-species abundance estimates from these sensors requires detection, classification, and quantification of animal vocalizations as individual acoustic events. Yet, variability in ambient noise, both over time and across sensors, hinders the reliability of current automated systems for sound event detection (SED), such as convolutional neural networks (CNN) in the time-frequency domain. In this article, we develop, benchmark, and combine several machine listening techniques to improve the generalizability of SED models across heterogeneous acoustic environments. As a case study, we consider the problem of detecting avian flight calls from a ten-hour recording of nocturnal bird migration, recorded by a network of six ARUs in the presence of heterogeneous background noise. Starting from a CNN yielding state-of-the-art accuracy on this task, we introduce two noise adaptation techniques, respectively integrating short-term (60 milliseconds) and long-term (30 minutes) context. First, we apply per-channel energy normalization (PCEN) in the time-frequency domain. Secondly, we replace the last dense layer in the network by a context-adaptive neural network (CA-NN) layer. Combining them yields state-of-the-art results that are unmatched by artificial data augmentation alone. We release a pre-trained version of our best performing system under the name of BirdVoxDetect, a ready-to-use detector of avian flight calls in field recordings.
+
+</details>
+
 
 ### 2018
 
-| Date | Title | Authors | Abstract |
-|------|-------|---------|----------|
-| 2018-09-04 | [Automated bird sound recognition in realistic settings](https://arxiv.org/abs/1809.01133) | Timos Papadopoulos, Stephen J. Roberts, Katherine J. Willis | We evaluated the effectiveness of an automated bird sound identification system in a situation that emulates a realistic, typical application. We trained classification algorithms on a crowd-sourced collection of bird audio recording data and restricted our training methods to be completely free of manual intervention. The approach is hence directly applicable to the analysis of multiple species collections, with labelling provided by crowd-sourced collection. We evaluated the performance of the bird sound recognition system on a realistic number of candidate classes, corresponding to real conditions. We investigated the use of two canonical classification methods, chosen due to their widespread use and ease of interpretation, namely a k Nearest Neighbour (kNN) classifier with histogram-based features and a Support Vector Machine (SVM) with time-summarisation features. We further investigated the use of a certainty measure, derived from the output probabilities of the classifiers, to enhance the interpretability and reliability of the class decisions. Our results demonstrate that both identification methods achieved similar performance, but we argue that the use of the kNN classifier offers somewhat more flexibility. Furthermore, we show that employing an outcome certainty measure provides a valuable and consistent indicator of the reliability of classification results. Our use of generic training data and our investigation of probabilistic classification methodologies that can flexibly address the variable number of candidate species/classes that are expected to be encountered in the field, directly contribute to the development of a practical bird sound identification system with potentially global application. Further, we show that certainty measures associated with identification outcomes can significantly contribute to the practical usability of the overall system. |
-| 2018-08-02 | [DCASE 2018 Challenge Surrey Cross-Task convolutional neural network baseline](https://arxiv.org/abs/1808.00773) | Qiuqiang Kong, Turab Iqbal, Yong Xu, Wenwu Wang et al. | The Detection and Classification of Acoustic Scenes and Events (DCASE) consists of five audio classification and sound event detection tasks: 1) Acoustic scene classification, 2) General-purpose audio tagging of Freesound, 3) Bird audio detection, 4) Weakly-labeled semi-supervised sound event detection and 5) Multi-channel audio classification. In this paper, we create a cross-task baseline system for all five tasks based on a convlutional neural network (CNN): a "CNN Baseline" system. We implemented CNNs with 4 layers and 8 layers originating from AlexNet and VGG from computer vision. We investigated how the performance varies from task to task with the same configuration of neural networks. Experiments show that deeper CNN with 8 layers performs better than CNN with 4 layers on all tasks except Task 1. Using CNN with 8 layers, we achieve an accuracy of 0.680 on Task 1, an accuracy of 0.895 and a mean average precision (MAP) of 0.928 on Task 2, an accuracy of 0.751 and an area under the curve (AUC) of 0.854 on Task 3, a sound event detection F1 score of 20.8% on Task 4, and an F1 score of 87.75% on Task 5. We released the Python source code of the baseline systems under the MIT license for further research. |
-| 2018-07-16 | [Automatic acoustic detection of birds through deep learning: the first Bird Audio Detection challenge](https://arxiv.org/abs/1807.05812) | Dan Stowell, Yannis Stylianou, Mike Wood, Hanna Pamuła et al. | Assessing the presence and abundance of birds is important for monitoring specific species as well as overall ecosystem health. Many birds are most readily detected by their sounds, and thus passive acoustic monitoring is highly appropriate. Yet acoustic monitoring is often held back by practical limitations such as the need for manual configuration, reliance on example sound libraries, low accuracy, low robustness, and limited ability to generalise to novel acoustic conditions. Here we report outcomes from a collaborative data challenge showing that with modern machine learning including deep learning, general-purpose acoustic bird detection can achieve very high retrieval rates in remote monitoring data --- with no manual recalibration, and no pre-training of the detector for the target species or the acoustic conditions in the target environment. Multiple methods were able to attain performance of around 88% AUC (area under the ROC curve), much higher performance than previous general-purpose methods. We present new acoustic monitoring datasets, summarise the machine learning techniques proposed by challenge teams, conduct detailed performance evaluation, and discuss how such approaches to detection can be integrated into remote monitoring projects. |
-| 2018-07-08 | [Densely Connected CNNs for Bird Audio Detection](https://arxiv.org/abs/1807.02776) | Thomas Pellegrini | Detecting bird sounds in audio recordings automatically, if accurate enough, is expected to be of great help to the research community working in bio- and ecoacoustics, interested in monitoring biodiversity based on audio field recordings. To estimate how accurate the state-of-the-art machine learning approaches are, the Bird Audio Detection challenge involving large audio datasets was recently organized. In this paper, experiments using several types of convolutional neural networks (i.e. standard CNNs, residual nets and densely connected nets) are reported in the framework of this challenge. DenseNets were the preferred solution since they were the best performing and most compact models, leading to a 88.22% area under the receiver operator curve score on the test set of the challenge. Performance gains were obtained thank to data augmentation through time and frequency shifting, model parameter averaging during training and ensemble methods using the geometric mean. On the contrary, the attempts to enlarge the training dataset with samples of the test set with automatic predictions used as pseudo-groundtruth labels consistently degraded performance. |
-| 2018-04-19 | [Recognizing Birds from Sound - The 2018 BirdCLEF Baseline System](https://arxiv.org/abs/1804.07177) | Stefan Kahl, Thomas Wilhelm-Stein, Holger Klinck, Danny Kowerko et al. | Reliable identification of bird species in recorded audio files would be a transformative tool for researchers, conservation biologists, and birders. In recent years, artificial neural networks have greatly improved the detection quality of machine learning systems for bird species recognition. We present a baseline system using convolutional neural networks. We publish our code base as reference for participants in the 2018 LifeCLEF bird identification task and discuss our experiments and potential improvements. |
+#### [Automated bird sound recognition in realistic settings](https://arxiv.org/abs/1809.01133)
+**Timos Papadopoulos, Stephen J. Roberts, Katherine J. Willis** · 2018-09-04
+
+<details>
+<summary>Abstract</summary>
+
+We evaluated the effectiveness of an automated bird sound identification system in a situation that emulates a realistic, typical application. We trained classification algorithms on a crowd-sourced collection of bird audio recording data and restricted our training methods to be completely free of manual intervention. The approach is hence directly applicable to the analysis of multiple species collections, with labelling provided by crowd-sourced collection. We evaluated the performance of the bird sound recognition system on a realistic number of candidate classes, corresponding to real conditions. We investigated the use of two canonical classification methods, chosen due to their widespread use and ease of interpretation, namely a k Nearest Neighbour (kNN) classifier with histogram-based features and a Support Vector Machine (SVM) with time-summarisation features. We further investigated the use of a certainty measure, derived from the output probabilities of the classifiers, to enhance the interpretability and reliability of the class decisions. Our results demonstrate that both identification methods achieved similar performance, but we argue that the use of the kNN classifier offers somewhat more flexibility. Furthermore, we show that employing an outcome certainty measure provides a valuable and consistent indicator of the reliability of classification results. Our use of generic training data and our investigation of probabilistic classification methodologies that can flexibly address the variable number of candidate species/classes that are expected to be encountered in the field, directly contribute to the development of a practical bird sound identification system with potentially global application. Further, we show that certainty measures associated with identification outcomes can significantly contribute to the practical usability of the overall system.
+
+</details>
+
+#### [DCASE 2018 Challenge Surrey Cross-Task convolutional neural network baseline](https://arxiv.org/abs/1808.00773)
+**Qiuqiang Kong, Turab Iqbal, Yong Xu, Wenwu Wang et al.** · 2018-08-02
+
+<details>
+<summary>Abstract</summary>
+
+The Detection and Classification of Acoustic Scenes and Events (DCASE) consists of five audio classification and sound event detection tasks: 1) Acoustic scene classification, 2) General-purpose audio tagging of Freesound, 3) Bird audio detection, 4) Weakly-labeled semi-supervised sound event detection and 5) Multi-channel audio classification. In this paper, we create a cross-task baseline system for all five tasks based on a convlutional neural network (CNN): a "CNN Baseline" system. We implemented CNNs with 4 layers and 8 layers originating from AlexNet and VGG from computer vision. We investigated how the performance varies from task to task with the same configuration of neural networks. Experiments show that deeper CNN with 8 layers performs better than CNN with 4 layers on all tasks except Task 1. Using CNN with 8 layers, we achieve an accuracy of 0.680 on Task 1, an accuracy of 0.895 and a mean average precision (MAP) of 0.928 on Task 2, an accuracy of 0.751 and an area under the curve (AUC) of 0.854 on Task 3, a sound event detection F1 score of 20.8% on Task 4, and an F1 score of 87.75% on Task 5. We released the Python source code of the baseline systems under the MIT license for further research.
+
+</details>
+
+#### [Automatic acoustic detection of birds through deep learning: the first Bird Audio Detection challenge](https://arxiv.org/abs/1807.05812)
+**Dan Stowell, Yannis Stylianou, Mike Wood, Hanna Pamuła et al.** · 2018-07-16
+
+<details>
+<summary>Abstract</summary>
+
+Assessing the presence and abundance of birds is important for monitoring specific species as well as overall ecosystem health. Many birds are most readily detected by their sounds, and thus passive acoustic monitoring is highly appropriate. Yet acoustic monitoring is often held back by practical limitations such as the need for manual configuration, reliance on example sound libraries, low accuracy, low robustness, and limited ability to generalise to novel acoustic conditions. Here we report outcomes from a collaborative data challenge showing that with modern machine learning including deep learning, general-purpose acoustic bird detection can achieve very high retrieval rates in remote monitoring data --- with no manual recalibration, and no pre-training of the detector for the target species or the acoustic conditions in the target environment. Multiple methods were able to attain performance of around 88% AUC (area under the ROC curve), much higher performance than previous general-purpose methods. We present new acoustic monitoring datasets, summarise the machine learning techniques proposed by challenge teams, conduct detailed performance evaluation, and discuss how such approaches to detection can be integrated into remote monitoring projects.
+
+</details>
+
+#### [Densely Connected CNNs for Bird Audio Detection](https://arxiv.org/abs/1807.02776)
+**Thomas Pellegrini** · 2018-07-08
+
+<details>
+<summary>Abstract</summary>
+
+Detecting bird sounds in audio recordings automatically, if accurate enough, is expected to be of great help to the research community working in bio- and ecoacoustics, interested in monitoring biodiversity based on audio field recordings. To estimate how accurate the state-of-the-art machine learning approaches are, the Bird Audio Detection challenge involving large audio datasets was recently organized. In this paper, experiments using several types of convolutional neural networks (i.e. standard CNNs, residual nets and densely connected nets) are reported in the framework of this challenge. DenseNets were the preferred solution since they were the best performing and most compact models, leading to a 88.22% area under the receiver operator curve score on the test set of the challenge. Performance gains were obtained thank to data augmentation through time and frequency shifting, model parameter averaging during training and ensemble methods using the geometric mean. On the contrary, the attempts to enlarge the training dataset with samples of the test set with automatic predictions used as pseudo-groundtruth labels consistently degraded performance.
+
+</details>
+
+#### [Recognizing Birds from Sound - The 2018 BirdCLEF Baseline System](https://arxiv.org/abs/1804.07177)
+**Stefan Kahl, Thomas Wilhelm-Stein, Holger Klinck, Danny Kowerko et al.** · 2018-04-19
+
+<details>
+<summary>Abstract</summary>
+
+Reliable identification of bird species in recorded audio files would be a transformative tool for researchers, conservation biologists, and birders. In recent years, artificial neural networks have greatly improved the detection quality of machine learning systems for bird species recognition. We present a baseline system using convolutional neural networks. We publish our code base as reference for participants in the 2018 LifeCLEF bird identification task and discuss our experiments and potential improvements.
+
+</details>
+
 
 ### 2017
 
-| Date | Title | Authors | Abstract |
-|------|-------|---------|----------|
-| 2017-06-07 | [Stacked Convolutional and Recurrent Neural Networks for Bird Audio Detection](https://arxiv.org/abs/1706.02047) | Sharath Adavanne, Konstantinos Drossos, Emre Çakır, Tuomas Virtanen | This paper studies the detection of bird calls in audio segments using stacked convolutional and recurrent neural networks. Data augmentation by blocks mixing and domain adaptation using a novel method of test mixing are proposed and evaluated in regard to making the method robust to unseen data. The contributions of two kinds of acoustic features (dominant frequency and log mel-band energy) and their combinations are studied in the context of bird audio detection. Our best achieved AUC measure on five cross-validations of the development data is 95.5% and 88.1% on the unseen evaluation data. |
-| 2017-03-07 | [Convolutional Recurrent Neural Networks for Bird Audio Detection](https://arxiv.org/abs/1703.02317) | EmreÇakır, Sharath Adavanne, Giambattista Parascandolo, Konstantinos Drossos et al. | Bird sounds possess distinctive spectral structure which may exhibit small shifts in spectrum depending on the bird species and environmental conditions. In this paper, we propose using convolutional recurrent neural networks on the task of automated bird audio detection in real-life environments. In the proposed method, convolutional layers extract high dimensional, local frequency shift invariant features, while recurrent layers capture longer term dependencies between the features extracted from short time frames. This method achieves 88.5% Area Under ROC Curve (AUC) score on the unseen evaluation data and obtains the second place in the Bird Audio Detection challenge. |
+#### [Stacked Convolutional and Recurrent Neural Networks for Bird Audio Detection](https://arxiv.org/abs/1706.02047)
+**Sharath Adavanne, Konstantinos Drossos, Emre Çakır, Tuomas Virtanen** · 2017-06-07
+
+<details>
+<summary>Abstract</summary>
+
+This paper studies the detection of bird calls in audio segments using stacked convolutional and recurrent neural networks. Data augmentation by blocks mixing and domain adaptation using a novel method of test mixing are proposed and evaluated in regard to making the method robust to unseen data. The contributions of two kinds of acoustic features (dominant frequency and log mel-band energy) and their combinations are studied in the context of bird audio detection. Our best achieved AUC measure on five cross-validations of the development data is 95.5% and 88.1% on the unseen evaluation data.
+
+</details>
+
+#### [Convolutional Recurrent Neural Networks for Bird Audio Detection](https://arxiv.org/abs/1703.02317)
+**EmreÇakır, Sharath Adavanne, Giambattista Parascandolo, Konstantinos Drossos et al.** · 2017-03-07
+
+<details>
+<summary>Abstract</summary>
+
+Bird sounds possess distinctive spectral structure which may exhibit small shifts in spectrum depending on the bird species and environmental conditions. In this paper, we propose using convolutional recurrent neural networks on the task of automated bird audio detection in real-life environments. In the proposed method, convolutional layers extract high dimensional, local frequency shift invariant features, while recurrent layers capture longer term dependencies between the features extracted from short time frames. This method achieves 88.5% Area Under ROC Curve (AUC) score on the unseen evaluation data and obtains the second place in the Bird Audio Detection challenge.
+
+</details>
+
 <!-- PAPERS_TABLE_END -->

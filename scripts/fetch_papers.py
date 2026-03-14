@@ -65,6 +65,24 @@ SEARCH_QUERIES = [
     "ecoacoustics machine learning",
     "bird call detection",
     "LifeCLEF bird",
+    # Additional queries to find more relevant papers
+    "BirdNET",
+    "xeno-canto",
+    "avian bioacoustics",
+    "bird acoustic identification",
+    "automated bird identification",
+    "bird sound classification deep learning",
+    "bird species acoustic",
+    "soundscape ecology machine learning",
+    "wildlife acoustic monitoring",
+    "ornithology deep learning",
+    "bird audio neural network",
+    "avian call classification",
+    "bird sound event detection",
+    "bird sound dataset",
+    "PAM birds",
+    "bird species recognition neural",
+    "mel spectrogram bird classification",
 ]
 
 # Earliest date to consider (start of modern LifeCLEF/BirdCLEF era).
@@ -86,6 +104,10 @@ NEGATIVE_KEYWORDS = [
     "speaker recognition",
     "speech recognition",
     "music generation",
+    "lidar",
+    "bird's eye view",
+    "autonomous driving",
+    "object detection lidar",
 ]
 
 # Delay between API requests to respect arXiv's rate-limit guidance (3 s).
@@ -259,25 +281,31 @@ def _build_table(papers_by_id: dict[str, dict]) -> str:
 
     sections: list[str] = []
     for year in sorted(by_year.keys(), reverse=True):
-        section_lines = [
-            f"### {year}",
-            "",
-            "| Date | Title | Authors | Abstract |",
-            "|------|-------|---------|----------|",
-        ]
+        section_lines = [f"### {year}", ""]
         for row in by_year[year]:
-            title_link = f"[{row['title']}]({row['url']})"
             # Truncate long author lists for readability
             authors = row.get("authors", "")
             if authors.count(",") >= 4:
                 authors = ", ".join(authors.split(", ")[:4]) + " et al."
             date_str = row.get("submitted", "")[:10]
-            abstract = row.get("abstract", "")
-            # Escape pipe characters inside cells
-            title_link = title_link.replace("|", "\\|")
-            authors = authors.replace("|", "\\|")
-            abstract = abstract.replace("|", "\\|")
-            section_lines.append(f"| {date_str} | {title_link} | {authors} | {abstract} |")
+            abstract = row.get("abstract", "").strip()
+            title = row["title"]
+            url = row["url"]
+
+            section_lines.append(f"#### [{title}]({url})")
+            section_lines.append(f"**{authors}** · {date_str}")
+            section_lines.append("")
+            if abstract:
+                section_lines.append("<details>")
+                section_lines.append("<summary>Abstract</summary>")
+                section_lines.append("")
+                section_lines.append(abstract)
+                section_lines.append("")
+                section_lines.append("</details>")
+                section_lines.append("")
+            else:
+                section_lines.append("")
+
         sections.append("\n".join(section_lines))
 
     return "\n\n".join(sections)
