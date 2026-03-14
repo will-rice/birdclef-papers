@@ -17,6 +17,13 @@ on:
           - "false"
           - "true"
 
+  # Temporary: bootstrap full historical fetch on PR branch push
+  push:
+    branches:
+      - copilot/collect-birdclef-papers
+    paths:
+      - ".github/workflows/fetch_papers.yml"
+
 permissions:
   contents: write
 
@@ -34,11 +41,11 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch papers (incremental)
-        if: ${{ github.event.inputs.full != 'true' }}
+        if: ${{ github.event_name != 'push' && github.event.inputs.full != 'true' }}
         run: python scripts/fetch_papers.py --days 8
 
       - name: Fetch papers (full historical)
-        if: ${{ github.event.inputs.full == 'true' }}
+        if: ${{ github.event_name == 'push' || github.event.inputs.full == 'true' }}
         run: python scripts/fetch_papers.py --full
 
       - name: Commit updated paper list
