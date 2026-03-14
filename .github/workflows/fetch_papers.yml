@@ -23,6 +23,7 @@ on:
       - copilot/collect-birdclef-papers
     paths:
       - ".github/workflows/fetch_papers.yml"
+      - "scripts/fetch_papers.py"
 
 permissions:
   contents: write

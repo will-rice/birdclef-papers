@@ -45,8 +45,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 PAPERS_CSV = REPO_ROOT / "papers.csv"
 README_MD = REPO_ROOT / "README.md"
 
-# arXiv API base URL
-ARXIV_API_BASE = "http://export.arxiv.org/api/query"
+# arXiv API base URL (use https for TLS)
+ARXIV_API_BASE = "https://export.arxiv.org/api/query"
 
 # Search queries – cast a wide net over BirdCLEF and related topics.
 SEARCH_QUERIES = [
