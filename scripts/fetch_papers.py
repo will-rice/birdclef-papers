@@ -65,6 +65,24 @@ SEARCH_QUERIES = [
     "ecoacoustics machine learning",
     "bird call detection",
     "LifeCLEF bird",
+    # Additional queries to find more relevant papers
+    "BirdNET",
+    "xeno-canto",
+    "avian bioacoustics",
+    "bird acoustic identification",
+    "automated bird identification",
+    "bird sound classification deep learning",
+    "bird species acoustic",
+    "soundscape ecology machine learning",
+    "wildlife acoustic monitoring",
+    "ornithology deep learning",
+    "bird audio neural network",
+    "avian call classification",
+    "bird sound event detection",
+    "bird sound dataset",
+    "PAM birds",
+    "bird species recognition neural",
+    "mel spectrogram bird classification",
 ]
 
 # Earliest date to consider (start of modern LifeCLEF/BirdCLEF era).
