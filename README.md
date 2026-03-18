@@ -1,11 +1,11 @@
 # birdclef-papers
 
-A curated, automatically-updated collection of papers on **bird sound recognition**, bioacoustics, passive acoustic monitoring, and related topics — covering the BirdCLEF Kaggle competition era (2016 onwards) and growing every week.
+A curated, automatically-updated collection of papers on **bird sound recognition**, bioacoustics, passive acoustic monitoring, and related topics — covering the BirdCLEF Kaggle competition era (2016 onwards) and growing every day.
 
 ## How it works
 
 * Papers are sourced from [arXiv](https://arxiv.org/) via its public API.
-* A [GitHub Actions workflow](.github/workflows/fetch_papers.yml) runs every **Monday at 06:00 UTC** to pull papers submitted in the previous week.
+* A [GitHub Actions workflow](.github/workflows/fetch_papers.yml) runs every **day at 06:00 UTC** to pull papers submitted in the previous day.
 * The full paper list is stored in [`papers.csv`](papers.csv) and the table below is regenerated automatically on every update.
 
 ## Running locally
