@@ -1,7 +1,14 @@
-"""Fetch BirdCLEF-related papers from the arXiv API.
+"""Fetch BirdCLEF-related papers from multiple sources.
 
-This script queries the arXiv API for papers related to bird sound
-recognition, bioacoustics, the BirdCLEF competition, and related topics.
+Sources:
+* **arXiv** – preprint server (cs, eess, q-bio categories).
+* **Semantic Scholar** – broad coverage of journals, conferences, and
+  additional preprint servers not indexed by arXiv.
+* **DBLP** – bibliographic index covering CEUR-WS LifeCLEF / BirdCLEF
+  workshop working-notes that are not posted to arXiv.
+* **bioRxiv via Crossref** – ecology and bioacoustics preprints on bioRxiv.
+* **Papers With Code** – community-curated ML papers, catches any gaps.
+
 It is designed to be run in two modes:
 
 * **Historical (first run)**: pulls everything submitted since the start of
@@ -26,6 +33,7 @@ Usage::
 
 import argparse
 import csv
+import json
 import os
 import re
 import sys
@@ -45,11 +53,15 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 PAPERS_CSV = REPO_ROOT / "papers.csv"
 README_MD = REPO_ROOT / "README.md"
 
+# ---------------------------------------------------------------------------
+# arXiv
+# ---------------------------------------------------------------------------
+
 # arXiv API base URL (use https for TLS)
 ARXIV_API_BASE = "https://export.arxiv.org/api/query"
 
 # Search queries – cast a wide net over BirdCLEF and related topics.
-SEARCH_QUERIES = [
+ARXIV_SEARCH_QUERIES = [
     "BirdCLEF",
     "bird sound recognition",
     "bird call recognition",
@@ -85,16 +97,118 @@ SEARCH_QUERIES = [
     "mel spectrogram bird classification",
 ]
 
-# Earliest date to consider (start of modern LifeCLEF/BirdCLEF era).
-HISTORY_START = date(2016, 1, 1)
+# Keep old name as alias for backward-compat within this file.
+SEARCH_QUERIES = ARXIV_SEARCH_QUERIES
 
-# arXiv namespaces
+# arXiv XML namespaces
 NS = {
     "atom": "http://www.w3.org/2005/Atom",
     "arxiv": "http://arxiv.org/schemas/atom",
 }
 
-CSV_FIELDNAMES = ["arxiv_id", "title", "authors", "submitted", "categories", "url", "abstract"]
+# ---------------------------------------------------------------------------
+# Semantic Scholar
+# ---------------------------------------------------------------------------
+
+SS_BULK_API = "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
+SS_FIELDS = (
+    "paperId,title,authors,abstract,publicationDate,year,"
+    "externalIds,openAccessPdf"
+)
+
+SS_SEARCH_QUERIES = [
+    "BirdCLEF",
+    "bird sound recognition",
+    "bird vocalization classification",
+    "avian bioacoustics deep learning",
+    "passive acoustic monitoring birds",
+    "LifeCLEF bird",
+    "BirdNET bird identification",
+    "bird call classification neural network",
+    "bird species audio identification",
+    "soundscape ecology bird machine learning",
+    "ecoacoustics bird deep learning",
+    "automated bird species recognition",
+]
+
+# ---------------------------------------------------------------------------
+# DBLP (covers CEUR-WS LifeCLEF / BirdCLEF working notes)
+# ---------------------------------------------------------------------------
+
+DBLP_API_BASE = "https://dblp.org/search/publ/api"
+DBLP_PAGE_SIZE = 100
+
+DBLP_SEARCH_QUERIES = [
+    "BirdCLEF",
+    "LifeCLEF bird",
+    "bird sound recognition CLEF",
+    "avian sound classification CLEF",
+    "bird species identification audio CLEF",
+    "passive acoustic monitoring LifeCLEF",
+]
+
+# ---------------------------------------------------------------------------
+# bioRxiv via Crossref
+# ---------------------------------------------------------------------------
+
+CROSSREF_API_BASE = "https://api.crossref.org/works"
+CROSSREF_PAGE_SIZE = 100
+
+# Polite-pool identifier sent with every Crossref request.
+CROSSREF_MAILTO = "birdclef-papers@github.io"
+
+# Only keep preprints whose DOI starts with this prefix (bioRxiv / medRxiv
+# Cold Spring Harbor Laboratory DOIs; medRxiv uses the same 10.1101 prefix).
+_BIORXIV_DOI_PREFIX = "10.1101/"
+
+CROSSREF_SEARCH_QUERIES = [
+    "BirdCLEF bird sound",
+    "bird vocalization bioacoustics",
+    "passive acoustic monitoring birds",
+    "bird call classification",
+    "avian acoustic deep learning",
+    "bird species audio identification",
+    "soundscape ecology bird",
+    "ecoacoustics bird species",
+]
+
+# ---------------------------------------------------------------------------
+# Papers With Code
+# ---------------------------------------------------------------------------
+
+PWC_API_BASE = "https://paperswithcode.com/api/v1/papers/"
+PWC_PAGE_SIZE = 50
+
+PWC_SEARCH_QUERIES = [
+    "BirdCLEF",
+    "bird sound recognition",
+    "bird vocalization",
+    "bioacoustics bird",
+    "passive acoustic monitoring birds",
+    "avian sound classification",
+]
+
+# ---------------------------------------------------------------------------
+# Shared
+# ---------------------------------------------------------------------------
+
+# Earliest date to consider (start of modern LifeCLEF/BirdCLEF era).
+HISTORY_START = date(2016, 1, 1)
+
+CSV_FIELDNAMES = [
+    # "arxiv_id" is the unique key used across all sources.  Non-arXiv papers
+    # use a prefixed ID (e.g. "ss:", "dblp:", "biorxiv:", "pwc:") so the field
+    # name is a slight misnomer retained for backward compatibility with the
+    # existing CSV.  Colons in prefixed IDs are safe for CSV and Python dict keys.
+    "arxiv_id",
+    "title",
+    "authors",
+    "submitted",
+    "categories",
+    "url",
+    "abstract",
+    "source",
+]
 
 # Negative keywords – papers whose title or abstract contain any of these
 # phrases (case-insensitive) are excluded from results.
@@ -110,10 +224,10 @@ NEGATIVE_KEYWORDS = [
     "object detection lidar",
 ]
 
-# Delay between API requests to respect arXiv's rate-limit guidance (3 s).
+# Delay between API requests to respect rate-limit guidance (3 s).
 API_DELAY_SECONDS = 3
 
-# Number of results to fetch per API page.
+# Number of results to fetch per arXiv API page.
 PAGE_SIZE = 100
 
 
@@ -197,6 +311,7 @@ def _parse_entry(entry: ET.Element) -> dict | None:
         "categories": categories,
         "url": url,
         "abstract": abstract,
+        "source": "arxiv",
     }
 
 
@@ -250,16 +365,475 @@ def load_existing_papers() -> dict[str, dict]:
         return {}
     with PAPERS_CSV.open(newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
-        return {row["arxiv_id"]: row for row in reader}
+        result: dict[str, dict] = {}
+        for row in reader:
+            # Back-fill 'source' for rows written before the field was added.
+            if not row.get("source"):
+                row["source"] = "arxiv"
+            result[row["arxiv_id"]] = row
+        return result
 
 
 def save_papers(papers_by_id: dict[str, dict]) -> None:
     """Write all papers to CSV sorted by submitted date (newest first)."""
     rows = sorted(papers_by_id.values(), key=lambda r: r.get("submitted", ""), reverse=True)
     with PAPERS_CSV.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=CSV_FIELDNAMES, extrasaction="ignore")
+        writer = csv.DictWriter(
+            f,
+            fieldnames=CSV_FIELDNAMES,
+            extrasaction="ignore",
+            restval="",
+        )
         writer.writeheader()
         writer.writerows(rows)
+
+
+# ---------------------------------------------------------------------------
+# Semantic Scholar helpers
+# ---------------------------------------------------------------------------
+
+
+def _ss_fetch_page(params: dict) -> dict:
+    """Fetch one page from the Semantic Scholar bulk-search API."""
+    url = f"{SS_BULK_API}?{urllib.parse.urlencode(params)}"
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(url, timeout=30) as resp:
+                return json.loads(resp.read())
+        except Exception as exc:  # noqa: BLE001
+            wait = min(2 ** (attempt + 1) * API_DELAY_SECONDS, 30)
+            print(f"  [warn] SS request failed ({exc}); retrying in {wait}s …", file=sys.stderr)
+            time.sleep(wait)
+    raise RuntimeError(f"Failed to fetch Semantic Scholar page after 5 attempts: {url}")
+
+
+def _ss_item_to_dict(item: dict) -> dict | None:
+    """Convert a Semantic Scholar paper item to our paper dict."""
+    paper_id = item.get("paperId") or ""
+    if not paper_id:
+        return None
+
+    title = (item.get("title") or "").strip()
+    if not title:
+        return None
+
+    external_ids = item.get("externalIds") or {}
+    arxiv_id = external_ids.get("ArXiv") or ""
+
+    # If the paper is on arXiv, use its arXiv ID as the primary key so it
+    # deduplicates correctly against arXiv-sourced entries.
+    if arxiv_id:
+        uid = arxiv_id
+        url = f"https://arxiv.org/abs/{arxiv_id}"
+        source = "arxiv"
+    else:
+        doi = external_ids.get("DOI") or ""
+        uid = f"ss:{paper_id}"
+        oa = item.get("openAccessPdf") or {}
+        if oa.get("url"):
+            url = oa["url"]
+        elif doi:
+            url = f"https://doi.org/{doi}"
+        else:
+            url = f"https://www.semanticscholar.org/paper/{paper_id}"
+        source = "semanticscholar"
+
+    authors = ", ".join(
+        (a.get("name") or "").strip() for a in (item.get("authors") or [])
+    )
+
+    pub_date = item.get("publicationDate") or ""
+    if pub_date:
+        submitted = pub_date[:10]
+    else:
+        year = item.get("year")
+        submitted = f"{year}-01-01" if year else ""
+
+    abstract = re.sub(r"\s+", " ", item.get("abstract") or "").strip()
+
+    return {
+        "arxiv_id": uid,
+        "title": title,
+        "authors": authors,
+        "submitted": submitted,
+        "categories": "",
+        "url": url,
+        "abstract": abstract,
+        "source": source,
+    }
+
+
+def fetch_ss_papers(keywords: str, start_date: date, end_date: date) -> list[dict]:
+    """Return papers from Semantic Scholar matching *keywords* in date range."""
+    date_filter = (
+        f"{start_date.strftime('%Y-%m-%d')}:{end_date.strftime('%Y-%m-%d')}"
+    )
+    papers: list[dict] = []
+    token: str | None = None
+
+    while True:
+        params: dict[str, str] = {
+            "query": keywords,
+            "fields": SS_FIELDS,
+            "publicationDateOrYear": date_filter,
+            "sort": "publicationDate:desc",
+        }
+        if token:
+            params["token"] = token
+
+        data = _ss_fetch_page(params)
+
+        for item in data.get("data") or []:
+            paper = _ss_item_to_dict(item)
+            if paper:
+                papers.append(paper)
+
+        token = data.get("token")
+        if not token or not data.get("data"):
+            break
+
+        time.sleep(API_DELAY_SECONDS)
+
+    return papers
+
+
+# ---------------------------------------------------------------------------
+# DBLP helpers (CEUR-WS LifeCLEF / BirdCLEF working notes)
+# ---------------------------------------------------------------------------
+
+
+def _dblp_fetch_page(keywords: str, first: int) -> dict:
+    """Fetch one page from the DBLP search API."""
+    params = urllib.parse.urlencode(
+        {
+            "q": keywords,
+            "format": "json",
+            "h": DBLP_PAGE_SIZE,
+            "f": first,
+        }
+    )
+    url = f"{DBLP_API_BASE}?{params}"
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(url, timeout=30) as resp:
+                return json.loads(resp.read())
+        except Exception as exc:  # noqa: BLE001
+            wait = min(2 ** (attempt + 1) * API_DELAY_SECONDS, 30)
+            print(f"  [warn] DBLP request failed ({exc}); retrying in {wait}s …", file=sys.stderr)
+            time.sleep(wait)
+    raise RuntimeError(f"Failed to fetch DBLP page after 5 attempts: {url}")
+
+
+def _dblp_info_to_dict(info: dict) -> dict | None:
+    """Convert a DBLP hit's ``info`` dict to our paper dict."""
+    dblp_key = info.get("key") or ""
+    if not dblp_key:
+        return None
+
+    title = (info.get("title") or "").strip().rstrip(".")
+    if not title:
+        return None
+
+    # Electronic edition URL (PDF or proceedings page).
+    ee = info.get("ee") or ""
+    if isinstance(ee, list):
+        ee = ee[0] if ee else ""
+    if not ee:
+        # Fall back to the DBLP record page.
+        ee = info.get("url") or ""
+    if not ee:
+        return None
+
+    year = str(info.get("year") or "")
+    submitted = f"{year}-01-01" if year else ""
+
+    authors_raw = (info.get("authors") or {}).get("author") or []
+    if isinstance(authors_raw, dict):
+        authors_raw = [authors_raw]
+    author_names: list[str] = []
+    for a in authors_raw:
+        if isinstance(a, str):
+            author_names.append(a)
+        elif isinstance(a, dict):
+            author_names.append(a.get("text") or a.get("$") or "")
+    authors = ", ".join(n for n in author_names if n)
+
+    return {
+        "arxiv_id": f"dblp:{dblp_key}",
+        "title": title,
+        "authors": authors,
+        "submitted": submitted,
+        "categories": "",
+        "url": ee,
+        "abstract": "",  # DBLP does not expose abstracts
+        "source": "ceur-ws",
+    }
+
+
+def fetch_dblp_papers(keywords: str) -> list[dict]:
+    """Return all DBLP papers matching *keywords* (no date filter)."""
+    papers: list[dict] = []
+    first = 0
+
+    while True:
+        data = _dblp_fetch_page(keywords, first)
+        hits = (data.get("result") or {}).get("hits") or {}
+        total_str = hits.get("@total") or "0"
+        total = int(total_str)
+        hit_list = hits.get("hit") or []
+        if isinstance(hit_list, dict):
+            hit_list = [hit_list]
+        if not hit_list:
+            break
+
+        for hit in hit_list:
+            info = (hit if isinstance(hit, dict) else {}).get("info") or {}
+            paper = _dblp_info_to_dict(info)
+            if paper:
+                papers.append(paper)
+
+        first += len(hit_list)
+        if first >= total or len(hit_list) < DBLP_PAGE_SIZE:
+            break
+
+        time.sleep(API_DELAY_SECONDS)
+
+    return papers
+
+
+# ---------------------------------------------------------------------------
+# bioRxiv helpers (via Crossref API)
+# ---------------------------------------------------------------------------
+
+
+def _crossref_fetch_page(keywords: str, date_filter: str, offset: int) -> dict:
+    """Fetch one page from the Crossref API."""
+    params = urllib.parse.urlencode(
+        {
+            "query": keywords,
+            "filter": date_filter,
+            "select": "DOI,title,author,abstract,posted,created,URL",
+            "rows": CROSSREF_PAGE_SIZE,
+            "offset": offset,
+            "mailto": CROSSREF_MAILTO,
+        }
+    )
+    url = f"{CROSSREF_API_BASE}?{params}"
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(url, timeout=30) as resp:
+                return json.loads(resp.read())
+        except Exception as exc:  # noqa: BLE001
+            wait = min(2 ** (attempt + 1) * API_DELAY_SECONDS, 30)
+            print(f"  [warn] Crossref request failed ({exc}); retrying in {wait}s …", file=sys.stderr)
+            time.sleep(wait)
+    raise RuntimeError(f"Failed to fetch Crossref page after 5 attempts: {url}")
+
+
+def _crossref_item_to_dict(item: dict) -> dict | None:
+    """Convert a Crossref work item to our paper dict (bioRxiv only)."""
+    doi = (item.get("DOI") or "").strip()
+    if not doi or not doi.startswith(_BIORXIV_DOI_PREFIX):
+        return None
+
+    titles = item.get("title") or []
+    title = titles[0].strip() if titles else ""
+    if not title:
+        return None
+
+    uid = f"biorxiv:{doi.removeprefix(_BIORXIV_DOI_PREFIX)}"
+
+    authors_list = item.get("author") or []
+    authors = ", ".join(
+        f"{a.get('given', '')} {a.get('family', '')}".strip()
+        for a in authors_list
+    )
+
+    # Prefer 'posted' date (bioRxiv first-posted) over 'created'.
+    date_info = item.get("posted") or item.get("created") or {}
+    date_parts = (date_info.get("date-parts") or [[]])[0]
+    if len(date_parts) >= 3:
+        submitted = f"{date_parts[0]:04d}-{date_parts[1]:02d}-{date_parts[2]:02d}"
+    elif len(date_parts) == 2:
+        submitted = f"{date_parts[0]:04d}-{date_parts[1]:02d}-01"
+    elif len(date_parts) == 1:
+        submitted = f"{date_parts[0]:04d}-01-01"
+    else:
+        submitted = ""
+
+    url = item.get("URL") or f"https://doi.org/{doi}"
+
+    # Strip JATS XML tags that Crossref embeds in abstracts.
+    abstract_raw = item.get("abstract") or ""
+    abstract = re.sub(r"<[^>]+>", "", abstract_raw)
+    abstract = re.sub(r"\s+", " ", abstract).strip()
+
+    return {
+        "arxiv_id": uid,
+        "title": title,
+        "authors": authors,
+        "submitted": submitted,
+        "categories": "",
+        "url": url,
+        "abstract": abstract,
+        "source": "biorxiv",
+    }
+
+
+def fetch_crossref_papers(keywords: str, start_date: date, end_date: date) -> list[dict]:
+    """Return bioRxiv preprints from Crossref matching *keywords* in date range."""
+    date_filter = (
+        "type:posted-content,"
+        f"from-posted-date:{start_date.strftime('%Y-%m-%d')},"
+        f"until-posted-date:{end_date.strftime('%Y-%m-%d')}"
+    )
+    papers: list[dict] = []
+    offset = 0
+
+    while True:
+        data = _crossref_fetch_page(keywords, date_filter, offset)
+        message = data.get("message") or {}
+        total = int(message.get("total-results") or 0)
+        items = message.get("items") or []
+
+        if not items:
+            break
+
+        for item in items:
+            paper = _crossref_item_to_dict(item)
+            if paper:
+                papers.append(paper)
+
+        offset += len(items)
+        if offset >= total or len(items) < CROSSREF_PAGE_SIZE:
+            break
+
+        time.sleep(API_DELAY_SECONDS)
+
+    return papers
+
+
+# ---------------------------------------------------------------------------
+# Papers With Code helpers
+# ---------------------------------------------------------------------------
+
+
+def _pwc_fetch_page(keywords: str, page: int) -> dict:
+    """Fetch one page from the Papers With Code API."""
+    params = urllib.parse.urlencode(
+        {
+            "q": keywords,
+            "items_per_page": PWC_PAGE_SIZE,
+            "page": page,
+            "ordering": "-published",
+        }
+    )
+    url = f"{PWC_API_BASE}?{params}"
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(url, timeout=30) as resp:
+                return json.loads(resp.read())
+        except Exception as exc:  # noqa: BLE001
+            wait = min(2 ** (attempt + 1) * API_DELAY_SECONDS, 30)
+            print(f"  [warn] PwC request failed ({exc}); retrying in {wait}s …", file=sys.stderr)
+            time.sleep(wait)
+    raise RuntimeError(f"Failed to fetch Papers With Code page after 5 attempts: {url}")
+
+
+def _pwc_item_to_dict(item: dict) -> dict | None:
+    """Convert a Papers With Code result item to our paper dict."""
+    title = (item.get("title") or "").strip()
+    if not title:
+        return None
+
+    arxiv_id = (item.get("arxiv_id") or "").strip()
+    if arxiv_id:
+        # Normalise to bare ID (strip any version suffix like v2).
+        arxiv_id = re.sub(r"v\d+$", "", arxiv_id)
+        uid = arxiv_id
+        url = f"https://arxiv.org/abs/{arxiv_id}"
+        source = "arxiv"
+    else:
+        pwc_id = (item.get("id") or "").strip()
+        if not pwc_id:
+            return None
+        uid = f"pwc:{pwc_id}"
+        url = item.get("url_abs") or f"https://paperswithcode.com/paper/{pwc_id}"
+        source = "paperswithcode"
+
+    authors_raw = item.get("authors") or []
+    authors = ", ".join(str(a) for a in authors_raw)
+
+    submitted = (item.get("published") or item.get("date") or "")[:10]
+
+    abstract = re.sub(r"\s+", " ", item.get("abstract") or "").strip()
+
+    return {
+        "arxiv_id": uid,
+        "title": title,
+        "authors": authors,
+        "submitted": submitted,
+        "categories": "",
+        "url": url,
+        "abstract": abstract,
+        "source": source,
+    }
+
+
+def fetch_pwc_papers(keywords: str, start_date: date) -> list[dict]:
+    """Return Papers With Code results matching *keywords* since *start_date*."""
+    papers: list[dict] = []
+    page = 1
+
+    while True:
+        data = _pwc_fetch_page(keywords, page)
+        results = data.get("results") or []
+
+        if not results:
+            break
+
+        stop_early = False
+        for item in results:
+            paper = _pwc_item_to_dict(item)
+            if paper:
+                pub = paper.get("submitted") or ""
+                # PwC results are newest-first; stop once we're before start_date.
+                if pub and pub[:10] < start_date.strftime("%Y-%m-%d"):
+                    stop_early = True
+                    break
+                papers.append(paper)
+
+        page += 1
+        if stop_early or not data.get("next"):
+            break
+
+        time.sleep(API_DELAY_SECONDS)
+
+    return papers
+
+
+# ---------------------------------------------------------------------------
+# Shared fetch helper
+# ---------------------------------------------------------------------------
+
+
+def _ingest(
+    new_papers: list[dict],
+    existing: dict[str, dict],
+) -> int:
+    """Add *new_papers* to *existing*, skipping duplicates and excluded entries.
+
+    Returns the number of newly added papers.
+    """
+    count = 0
+    for paper in new_papers:
+        pid = paper["arxiv_id"]
+        # Duplicate check first (O(1)) before the more expensive keyword scan.
+        if pid not in existing and not _is_excluded(paper):
+            existing[pid] = paper
+            count += 1
+            print(f"  + {pid}: {paper['title'][:70]}")
+    return count
 
 
 # ---------------------------------------------------------------------------
@@ -341,7 +915,9 @@ def update_readme(papers_by_id: dict[str, dict]) -> None:
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Fetch BirdCLEF papers from arXiv.")
+    parser = argparse.ArgumentParser(
+        description="Fetch BirdCLEF papers from arXiv and other sources."
+    )
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument(
         "--full",
@@ -383,21 +959,75 @@ def main() -> None:
         print(f"Removed {removed} existing paper(s) matching negative keywords.")
 
     new_count = 0
-    for keywords in SEARCH_QUERIES:
+
+    # ------------------------------------------------------------------
+    # arXiv
+    # ------------------------------------------------------------------
+    print("\n\n=== arXiv ===")
+    for keywords in ARXIV_SEARCH_QUERIES:
         print(f"\nQuerying arXiv for: {keywords!r} …")
         try:
             papers = fetch_papers(keywords, start_date, end_date)
         except RuntimeError as exc:
             print(f"  [error] {exc}", file=sys.stderr)
             continue
+        new_count += _ingest(papers, existing)
+        time.sleep(API_DELAY_SECONDS)
 
-        for paper in papers:
-            pid = paper["arxiv_id"]
-            if pid not in existing and not _is_excluded(paper):
-                existing[pid] = paper
-                new_count += 1
-                print(f"  + {pid}: {paper['title'][:70]}")
+    # ------------------------------------------------------------------
+    # Semantic Scholar
+    # ------------------------------------------------------------------
+    print("\n\n=== Semantic Scholar ===")
+    for keywords in SS_SEARCH_QUERIES:
+        print(f"\nQuerying Semantic Scholar for: {keywords!r} …")
+        try:
+            papers = fetch_ss_papers(keywords, start_date, end_date)
+        except RuntimeError as exc:
+            print(f"  [error] {exc}", file=sys.stderr)
+            continue
+        new_count += _ingest(papers, existing)
+        time.sleep(API_DELAY_SECONDS)
 
+    # ------------------------------------------------------------------
+    # DBLP / CEUR-WS (no date filter – deduplicate handles repeats)
+    # ------------------------------------------------------------------
+    print("\n\n=== DBLP (CEUR-WS working notes) ===")
+    for keywords in DBLP_SEARCH_QUERIES:
+        print(f"\nQuerying DBLP for: {keywords!r} …")
+        try:
+            papers = fetch_dblp_papers(keywords)
+        except RuntimeError as exc:
+            print(f"  [error] {exc}", file=sys.stderr)
+            continue
+        new_count += _ingest(papers, existing)
+        time.sleep(API_DELAY_SECONDS)
+
+    # ------------------------------------------------------------------
+    # bioRxiv via Crossref
+    # ------------------------------------------------------------------
+    print("\n\n=== bioRxiv (Crossref) ===")
+    for keywords in CROSSREF_SEARCH_QUERIES:
+        print(f"\nQuerying Crossref/bioRxiv for: {keywords!r} …")
+        try:
+            papers = fetch_crossref_papers(keywords, start_date, end_date)
+        except RuntimeError as exc:
+            print(f"  [error] {exc}", file=sys.stderr)
+            continue
+        new_count += _ingest(papers, existing)
+        time.sleep(API_DELAY_SECONDS)
+
+    # ------------------------------------------------------------------
+    # Papers With Code
+    # ------------------------------------------------------------------
+    print("\n\n=== Papers With Code ===")
+    for keywords in PWC_SEARCH_QUERIES:
+        print(f"\nQuerying Papers With Code for: {keywords!r} …")
+        try:
+            papers = fetch_pwc_papers(keywords, start_date)
+        except RuntimeError as exc:
+            print(f"  [error] {exc}", file=sys.stderr)
+            continue
+        new_count += _ingest(papers, existing)
         time.sleep(API_DELAY_SECONDS)
 
     print(f"\nFound {new_count} new papers. Total: {len(existing)}.")
