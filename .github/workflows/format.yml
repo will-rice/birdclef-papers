@@ -1,0 +1,37 @@
+name: Format Markdown
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**.md"
+  pull_request:
+    paths:
+      - "**.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+
+      - name: Run Prettier on Markdown files
+        run: npx --yes prettier --write "**/*.md"
+
+      - name: Commit formatted files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "style: format markdown with prettier [skip ci]"
+          file_pattern: "**/*.md"
