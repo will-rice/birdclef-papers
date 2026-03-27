@@ -4,7 +4,12 @@ A curated, automatically-updated collection of papers on **bird sound recognitio
 
 ## How it works
 
-* Papers are sourced from [arXiv](https://arxiv.org/) via its public API.
+* Papers are sourced from multiple indexes via their public APIs:
+  * [arXiv](https://arxiv.org/) — preprints in cs, eess, and q-bio.
+  * [Semantic Scholar](https://www.semanticscholar.org/) — broad coverage of journals and conferences not on arXiv.
+  * [DBLP](https://dblp.org/) / [CEUR-WS](https://ceur-ws.org/) — LifeCLEF and BirdCLEF workshop working-notes.
+  * [bioRxiv](https://www.biorxiv.org/) (via [Crossref](https://www.crossref.org/)) — ecology and bioacoustics preprints.
+  * [Papers With Code](https://paperswithcode.com/) — community-curated ML papers.
 * A [GitHub Actions workflow](.github/workflows/fetch_papers.yml) runs every **day at 06:00 UTC** to pull papers submitted in the previous day.
 * The full paper list is stored in [`papers.csv`](papers.csv) and the table below is regenerated automatically on every update.
 
@@ -30,9 +35,17 @@ Select *full = true* to back-fill from 2016, or leave it as *false* for an incre
 
 ## Search terms
 
-The following keyword queries are used against arXiv title and abstract fields:
+Papers are discovered by querying each source with the keyword sets below.
 
-`BirdCLEF` · `bird sound recognition` · `bird call recognition` · `bird song recognition` · `bird species identification audio` · `bird vocalization classification` · `avian sound classification` · `bioacoustics deep learning` · `passive acoustic monitoring birds` · `soundscape bird` · `bird audio detection` · `bird species classification spectrogram` · `ecoacoustics machine learning` · `bird call detection` · `LifeCLEF bird`
+**arXiv** · `BirdCLEF` · `bird sound recognition` · `bird call recognition` · `bird song recognition` · `bird species identification audio` · `bird vocalization classification` · `avian sound classification` · `bioacoustics deep learning` · `passive acoustic monitoring birds` · `soundscape bird` · `bird audio detection` · `bird species classification spectrogram` · `ecoacoustics machine learning` · `bird call detection` · `LifeCLEF bird` · `BirdNET` · `xeno-canto` · `avian bioacoustics` · `bird acoustic identification` · `automated bird identification` · `bird sound classification deep learning` · `bird species acoustic` · `soundscape ecology machine learning` · `wildlife acoustic monitoring` · `ornithology deep learning` · `bird audio neural network` · `avian call classification` · `bird sound event detection` · `bird sound dataset` · `PAM birds` · `bird species recognition neural` · `mel spectrogram bird classification`
+
+**Semantic Scholar** · `BirdCLEF` · `bird sound recognition` · `bird vocalization classification` · `avian bioacoustics deep learning` · `passive acoustic monitoring birds` · `LifeCLEF bird` · `BirdNET bird identification` · `bird call classification neural network` · `bird species audio identification` · `soundscape ecology bird machine learning` · `ecoacoustics bird deep learning` · `automated bird species recognition`
+
+**DBLP / CEUR-WS** · `BirdCLEF` · `LifeCLEF bird` · `bird sound recognition CLEF` · `avian sound classification CLEF` · `bird species identification audio CLEF` · `passive acoustic monitoring LifeCLEF`
+
+**bioRxiv** · `BirdCLEF bird sound` · `bird vocalization bioacoustics` · `passive acoustic monitoring birds` · `bird call classification` · `avian acoustic deep learning` · `bird species audio identification` · `soundscape ecology bird` · `ecoacoustics bird species`
+
+**Papers With Code** · `BirdCLEF` · `bird sound recognition` · `bird vocalization` · `bioacoustics bird` · `passive acoustic monitoring birds` · `avian sound classification`
 
 ## Papers
 
