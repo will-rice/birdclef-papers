@@ -222,6 +222,63 @@ NEGATIVE_KEYWORDS = [
     "bird's eye view",
     "autonomous driving",
     "object detection lidar",
+    # Medical / clinical audio
+    "cochlear implant",
+    "sleep apnea",
+    "epilepsy",
+    "heart sound",
+    "lung sound",
+    "breath sound",
+    "electroencephalogram",
+    "electrocardiogram",
+    # Plant / microbial biology
+    "pangenome",
+]
+
+# Positive keywords – at least one of these phrases (case-insensitive) must
+# appear in a paper's title or abstract for it to be included.  This keeps
+# the collection focused on bird, reptile, insect, and mammal acoustics.
+POSITIVE_KEYWORDS = [
+    # ----- Birds -----
+    "bird", "avian", "ornitholog", "songbird", "raptor",
+    "owl", "warbler", "finch", "sparrow", "thrush", "wren", "robin",
+    "hawk", "eagle", "parrot", "pigeon", "dove", "hummingbird",
+    "woodpecker", "kingfisher", "penguin", "albatross", "seabird",
+    "shorebird", "waterfowl", "duck", "goose", "heron", "egret", "crane",
+    "stork", "ibis", "flamingo", "pelican", "cormorant", "gannet",
+    "swift", "swallow", "nightjar", "cuckoo", "hornbill", "toucan",
+    "macaw", "cockatoo", "lark", "bunting", "crossbill", "flycatcher",
+    "vireo", "tanager", "blackbird", "starling", "magpie", "crow",
+    "raven", "jay", "nuthatch", "treecreeper", "firecrest", "goldcrest",
+    "chiffchaff", "oystercatcher", "passerine", "avifauna", "syrinx",
+    "burung", "kicau",
+    # ----- Mammals -----
+    "mammal", "bat ", "bats ", "cetacean", "dolphin", "whale", "porpoise",
+    "elephant", "primate", "monkey", "ape", "gibbon",
+    "wolf", "wolves", "coyote", "fox", "deer", "bear", "lion", "tiger",
+    "leopard", "cheetah", "seal", "sea lion", "otter", "rodent",
+    "squirrel", "rabbit", "hare", "hedgehog", "shrew",
+    "bovine", "cattle", "wildlife acoustic", "marine mammal",
+    # ----- Insects -----
+    "insect", "cricket", "cicada", "grasshopper", "katydid", "bee ",
+    "wasp ", "beetle", "moth ", "dragonfly",
+    "stridulat", "entomolog", "orthoptera", "mosquito", "beehive",
+    "sunn pest",
+    # ----- Reptiles -----
+    "reptile", "lizard", "snake ", "turtle", "tortoise", "crocodil",
+    "gecko", "chameleon", "iguana",
+    # ----- Amphibians (commonly included in bioacoustics datasets) -----
+    "frog", "toad ", "amphibian", "anuran", "salamander",
+    # ----- General animal acoustics / monitoring -----
+    "bioacoustic", "ecoacoustic", "soundscape", "animal sound",
+    "animal call", "animal vocal", "wildlife sound", "wildlife call",
+    "wildlife monitor", "passive acoustic monitor",
+    "species identif", "species classif", "species recogni",
+    "species detect", "species sound", "species acoustic",
+    "xeno-canto", "birdclef", "birdnet", "lifeclef",
+    "vocaliz", "acoustic index", "acoustic indices", "biosound",
+    "natural sound", "acoustic monitoring", "autonomous recording unit",
+    "vertebrate", "biodiversity", "communication mask",
 ]
 
 # Delay between API requests to respect rate-limit guidance (3 s).
@@ -316,12 +373,24 @@ def _parse_entry(entry: ET.Element) -> dict | None:
 
 
 _NEGATIVE_KEYWORDS_LOWER = [kw.lower() for kw in NEGATIVE_KEYWORDS]
+_POSITIVE_KEYWORDS_LOWER = [kw.lower() for kw in POSITIVE_KEYWORDS]
 
 
 def _is_excluded(paper: dict) -> bool:
     """Return True if the paper matches any negative keyword."""
     haystack = f"{paper.get('title', '')} {paper.get('abstract', '')}".lower()
     return any(kw in haystack for kw in _NEGATIVE_KEYWORDS_LOWER)
+
+
+def _is_relevant(paper: dict) -> bool:
+    """Return True if the paper matches at least one positive keyword.
+
+    Papers that contain none of the animal-acoustics positive keywords are
+    considered off-topic and should be excluded from the collection, which is
+    focused on bird, reptile, insect, and mammal acoustics.
+    """
+    haystack = f"{paper.get('title', '')} {paper.get('abstract', '')}".lower()
+    return any(kw in haystack for kw in _POSITIVE_KEYWORDS_LOWER)
 
 
 def fetch_papers(keywords: str, start_date: date, end_date: date) -> list[dict]:
@@ -828,8 +897,8 @@ def _ingest(
     count = 0
     for paper in new_papers:
         pid = paper["arxiv_id"]
-        # Duplicate check first (O(1)) before the more expensive keyword scan.
-        if pid not in existing and not _is_excluded(paper):
+        # Duplicate check first (O(1)) before the more expensive keyword scans.
+        if pid not in existing and not _is_excluded(paper) and _is_relevant(paper):
             existing[pid] = paper
             count += 1
             print(f"  + {pid}: {paper['title'][:70]}")
@@ -957,6 +1026,17 @@ def main() -> None:
     removed = before - len(existing)
     if removed:
         print(f"Removed {removed} existing paper(s) matching negative keywords.")
+
+    # Remove any previously saved papers that lack animal-acoustics content.
+    before = len(existing)
+    existing = {pid: p for pid, p in existing.items() if _is_relevant(p)}
+    removed_irrelevant = before - len(existing)
+    if removed_irrelevant:
+        print(
+            f"Removed {removed_irrelevant} existing paper(s) not related to "
+            "animal acoustics."
+        )
+    removed += removed_irrelevant
 
     new_count = 0
 
