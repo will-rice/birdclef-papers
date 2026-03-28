@@ -95,6 +95,35 @@ ARXIV_SEARCH_QUERIES = [
     "PAM birds",
     "bird species recognition neural",
     "mel spectrogram bird classification",
+    # Techniques commonly used in BirdCLEF solutions
+    "bird call transfer learning",
+    "bioacoustics transfer learning",
+    "bird sound self-supervised",
+    "bird sound contrastive learning",
+    "bird call few-shot",
+    "bioacoustics few-shot learning",
+    "bird species weakly supervised",
+    "bird call pseudo label",
+    "bird sound domain adaptation",
+    "bird call transformer",
+    "bird audio multi-label classification",
+    # Specific models and tools
+    "Perch bioacoustics",
+    "BirdSet dataset",
+    "AudioMoth bird",
+    "bird sound EfficientNet",
+    "bioacoustic foundation model",
+    # Broader related areas
+    "bird vocalization deep learning",
+    "avian species recognition deep learning",
+    "bird vocalization recognition",
+    "nocturnal flight call detection",
+    "bird species audio benchmark",
+    "soundscape species identification",
+    "biodiversity acoustic monitoring deep learning",
+    "bird sound separation",
+    "bird call identification neural",
+    "avian sound detection",
 ]
 
 # Keep old name as alias for backward-compat within this file.
