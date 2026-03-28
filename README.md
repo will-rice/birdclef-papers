@@ -52,6 +52,16 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Warm temperatures and severe fire drive a range contraction of an avian old-forest specialist in the Sierra Nevada, USA](https://doi.org/10.3389/fbirs.2026.1737313)
+**Luca Bielski, Spencer R. Keyser, M. Z. Peery, Connor M. Wood** · 2026-03-25
+
+<details>
+<summary>Abstract</summary>
+
+In recent decades, climate change has exerted detrimental effects on forest ecosystems and the biodiversity they harbor, in part via the combined effects of rising temperatures and changing disturbance regimes. Old-forest species may be acutely sensitive to these changes, especially in ecosystems such as the Sierra Nevada, USA, where historical losses of old-forest habitat are now coupled with a rise in atypically large, severe fires. However, the combined effects of temperature and severe fire are relatively understudied at landscape scales. We used a four-year, landscape-scale passive acoustic monitoring program to study the Hermit Warbler ( Setophaga occidentalis ), a temperature- and fire-sensitive bird species that is closely associated with old-forest habitat. Using a dynamic occupancy model, we characterized the population dynamics in response to elevation, latitude, relative temperature, and high-severity fire. The Hermit Warbler population declined 8.3% during our study, shifting away from the warmer, lower-elevation, and southern sites and toward sites at higher latitudes. It displayed a strong extinction response to severe fire over a 1-10-year post-fire period and failed to colonize such areas over the same time span. Our results suggest that limiting the occurrence of large, severe fires will be necessary to preserve this old-forest indicator but not sufficient: rising temperatures will also lead to population declines even in the absence of habitat loss due to fire. As climate change accelerates, understanding species’ responses to shifting environmental conditions will be crucial for guiding adaptive management and ensuring the persistence of biodiversity in fire-prone landscapes.
+
+</details>
+
 #### [Reliability and Spatiotemporal Autocorrelation of Acoustic Indices: Implications for Biodiversity Monitoring](https://doi.org/10.64898/2026.03.18.712292)
 **Xinyi Jiang, Yixuan Zhang, Zufei Shu, Zhishu Xiao et al.** · 2026-03-20
 
