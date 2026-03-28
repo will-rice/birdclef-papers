@@ -76,16 +76,6 @@ Passive acoustic monitoring (PAM) provides new opportunities for assessing bird 
 
 </details>
 
-#### [Improved seizure detection using optimized time sequence based deep learning framework](https://doi.org/10.11591/ijaas.v15.i1.pp198-208)
-**Puspanjali Mallik, A. Nayak, Satyaprakash Swain** · 2026-03-01
-
-<details>
-<summary>Abstract</summary>
-
-Epilepsy disease originates due to the presence of disordered neurons, and epilepsy detection stands as a challenging task for neurologists. With recent advances, electroencephalography (EEG)-based analysis is increasingly supported by deep learning and metaheuristic optimization approaches in order to improve the test results. This experiment uses a convolutional neural network (CNN) model hybridized with bidirectional long short-term memory (BiLSTM). CNN leverages the work with improved feature extraction cum classification supports, and BiLSTM keeps the time sequence of data in both the forward and backward direction for improving signal mapping purposes. To reduce the computational overhead and improve execution accuracy, a hybrid optimization algorithm called secretary bird optimization algorithm (SBOA) is used to fine-tune the execution. Key classification parameters such as accuracy, sensitivity, and specificity reflect the model’s strong predictive capability, with accuracy reaching up to 98.49%. The proposed method demonstrates the potential for high-performance EEG-based seizure detection, paving the way for future integration with edge computing devices to support remote clinical diagnostics and continuous monitoring in real-world healthcare applications.
-
-</details>
-
 #### [Canebrake and Associated Forest Structure Influence Avifauna Occurrence](https://doi.org/10.3390/f17030309)
 **Thanchira Suriyamongkol, Brent S. Pease, J. Zaczek, J. Schoonover et al.** · 2026-02-28
 
@@ -531,16 +521,6 @@ Hedgerows are key semi‐natural elements in European agricultural landscapes su
 
 </details>
 
-#### [Strong Public Disapproval of Proposed Reductions in Psychologist Competency Standards in Ontario: Findings from 1,141 General Community Adults in an Observational Cohort Study](https://doi.org/10.1101/2025.11.21.25340610)
-**James MacKillop, Emily MacKillop, Kyla Belisario, Ilvy Goossens et al.** · 2025-11-25
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT The regulatory body for psychologists in Ontario, the College of Psychologists and Behavior Analysts of Ontario, has proposed sweeping reductions in competency requirements. These include elimination of the doctoral degree requirement, dramatic reductions in clinical training, and elimination of specializations and would make Ontario the largest jurisdiction with the lowest competency standards in North America. There has been considerable public opposition from active practitioners, but public attitudes toward these changes are unknown. The current study assessed attitudes in 1,141 general community adults in Ontario (mean age = 42.7, 62.1% female) in an ongoing longitudinal observational cohort study. The large majority disapproved of the proposed changes (71%), whereas 20% reported no opinion and 9% approved of the changes. The modal response was strong disapproval (44%), which was more than half of those who disapproved, whereas among those who approved, only a small proportion expressed strong approval (2%). In order of frequency, reasons for disapproval were reduced quality of healthcare (94%), more healthcare providers with a lower skillset and competencies (85%), higher probability of misdiagnosis (78%), and increased risk in high-stakes contexts (69%), increased likelihood of conflicting medical opinions (55%), and adverse impacts on the current workforce and trainees (both 54%). When asked about the single most important concern, 62% identified reduced quality of healthcare followed by an increased number of healthcare providers with lower professional competency (22%). Responses to open text options were highly consistent with the quantitative results (e.g., “ We don’t need fewer professional standards--we need highly skilled professionals to deal with an increasingly complex world.” ). Collectively, the results suggest strong disapproval for the proposed reductions in psychologist competency standards among general community adults in Ontario. VISUAL ABSTRACT Simplified Distribution of Public Attitudes toward Psychologist Competency Reductions (n=1,141)
-
-</details>
-
 #### [Optimization of passive acoustic bird surveys: a global assessment of
  BirdNET
  settings](https://doi.org/10.1111/ibi.70013)
@@ -799,36 +779,6 @@ Automated recognition of bird vocalizations plays a critical role in ecological 
 
 </details>
 
-#### [Host cyclophilin-mediated maturation of an obligate intracellular bacterial surface virulence factor](https://doi.org/10.1101/2025.10.28.684717)
-**Brandon Sit, Allen G. Sanderlin, Clara Y. Zhu, Lauren E. Bird et al.** · 2025-10-28
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Obligate intracellular bacterial pathogens cannot grow extracellularly, a trait that renders them highly understudied, but also endows them with unexpected host dependencies. Here, using the emerging obligate intracellular tickborne pathogen Rickettsia parkeri, we conducted a genome-scale CRISPR/Cas12a knockout infection screen to identify human cell determinants of rickettsial intracellular fitness. We discovered that the host peptidylprolyl isomerase cyclophilin A (PPIA/CypA), was essential for the formation of the R. parkeri actin tails that enable pathogen motility. PPIA localized to actin-associated bacterial poles and directly interacted with Sca2, the R. parkeri surface-exposed autotransporter chiefly responsible for actin tail nucleation. Sca2 bound PPIA through a domain implicated in surface translocation, and Sca2 failed to reach the R. parkeri surface in PPIA-deficient host cells. We propose that host PPIA enables Sca2 surface exposure during R. parkeri infection through a direct interkingdom protein maturation event, which represents an unexplored axis of the intracellular host-bacterial interface.
-
-</details>
-
-#### [Tetramerisation governs SALL transcription factor function in development and disease](https://doi.org/10.1101/2025.10.27.684836)
-**Sara Giuliani, Kashyap Chhatbar, Martin Wear, Jacky Guy et al.** · 2025-10-27
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Spalt-like (SALL) proteins are C2H2 zinc-finger transcription factors important for embryogenesis, with mutations in SALL1 and SALL4 causing rare congenital disorders Townes-Brocks and Okihiro syndromes, respectively. While SALL proteins are known to associate with one another, the biological significance of the resulting complexes is unknown. Here we define a conserved glutamine-rich region that mediates SALL1/4 homo- and heterotetramerisation and find that complex formation is indispensable for DNA binding. Modelling a patient mutation that abolishes SALL4 multimerisation led to gene misregulation and, in mice, embryonic lethality, therefore phenocopying a complete Sall4 knockout. Furthermore, a common disease-causing SALL1 truncation, which retains multimerisation but lacks DNA-binding domains, sequesters SALL4 into heterotetramers that are defective in DNA binding, thereby providing a mechanistic explanation for the dominant-negative effects of many Townes-Brocks mutations. Together, our findings establish tetramerisation as a prerequisite for SALL function, linking complex formation to developmental gene regulation and human disease.
-
-</details>
-
-#### [Sound source history warps perceived azimuth and elevation](https://doi.org/10.1101/2025.10.25.681944)
-**Tanya Wen, W. Owen Brimijoin, Antje Ihlefeld** · 2025-10-26
-
-<details>
-<summary>Abstract</summary>
-
-Abstract In real-world auditory localization, humans make decisions based on acoustic cues that reach the ear as well as from expectations of where the sound may originate. Past studies have shown that the auditory system makes rapid adjustments in response to changes in the statistics of recent stimulation, which help maintain sensitivity over the range where most stimuli occur. In the current study, we explored the auditory system’s adaptability and plasticity by presenting sounds in different spatial contexts and examined the subsequent effects on sound localization accuracy. Identical sounds were rendered at different azimuth and elevation ranges of [−15°, −30°, 0°] or [15°, 30°, 0°] presented in contextual blocks. Sounds presented at 0° azimuth exhibited a rightward shift in perception when the targets were blocked within the left hemispace, and a leftward shift when targets were blocked in the right hemispace. Sounds that were blocked in the bottom hemispace showed an upward bias in perceived elevation, although the reverse was not found to be significant. Furthermore, participants who showed more errors in overall localization showed a higher degree of bias. Our results corroborate the account that the mapping of auditory space is dynamic and shifts depending on the context in which sounds are presented.
-
-</details>
-
 #### [Online AUC Optimization Based on Second-order Surrogate Loss](https://arxiv.org/abs/2510.21202)
 **JunRu Luo, Difei Cheng, Bo Zhang** · 2025-10-24
 
@@ -866,16 +816,6 @@ Abstract Climate warming and chemical pollution shape aquatic ecosystems, yet th
 <summary>Abstract</summary>
 
 Bird call classification - both manual and automatic - commonly relies on spectrograms, visual time-frequency representations of the signal power distribution of the audio signal. These spectrogram “images” can be processed using deep learning approaches like convolutional neural networks (CNNs) for call identification. However, such methods typically require significant computational resources. Using labelled data from the calls of three New Zealand bird species, we compare this approach with computationally lightweight approaches that extract texture-based features from both spectrograms and audio waveforms, specifically local binary pattern (LBP) and local phase quantisation (LPQ) features, paired with classical machine learning classifiers. We find that LBP-based features outperform other feature-classifier combinations and achieve superior accuracy compared to the standard CNN approach. Given their significantly lower computational cost, texture-based techniques prove particularly well-suited for resource-constrained environments. Experimental results demonstrate that lightweight feature extraction methods can serve as efficient and effective alternatives to deep learning approaches for automated bird call classification, offering practical advantages for deployment in field conditions or embedded systems.
-
-</details>
-
-#### [Astrocytic PIEZO activation by heartbeat sound promotes extracellular matrix and maturation in human brain organoids](https://doi.org/10.1101/2025.10.21.683816)
-**Alexandra Ferreira Oliveira, Florian Rambow, Samira Makhzami, Yury A. Nikolaev et al.** · 2025-10-22
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Heartbeat sound is one of the first rhythmic stimuli encountered by the developing human brain, yet its biological role has remained unexplored. Here we show that heartbeat sound promotes structural and functional maturation of human cortical organoids with a physiological astrocyte-to-neuron ratio. Continuous stimulation with heartbeat expanded the extracellular space (ECS), visualized by super-resolution 3D STED and 2-photon shadow imaging, and increased extracellular matrix (ECM) synthesis, detected by LC-MS/MS proteomics. Heartbeat sound promoted neuronal and astrocytic differentiation, synaptogenesis, and organoid maturation, as shown by single-cell RNA sequencing, synaptic marker immunohistochemistry, and high-density multielectrode electrophysiology. Transcriptomic analyses demonstrated astrocyte-specific expression of mechanosensitive PIEZO channels. Using Ca 2+ imaging, we confirmed that low-frequency sound stimulation, including heartbeat, activates PIEZO-mediated Ca 2+ responses, which in turn upregulate astrocytic ECM synthesis. Experiments with biomimetic hydrogels demonstrated that physiological matrix stiffness attenuates PIEZO activation, suggesting a mechanoprotective mechanism. Our findings demonstrate a fundamental mechanism for inducing ECM synthesis and neural differentiation through astrocytic PIEZO activation by heartbeat sound, suggesting that interoception of the internal acoustic environment is an underappreciated driver of human brain development. Highlights Heartbeat sound activates PIEZO ion channels Astrocytic PIEZO activation promotes extracellular matrix synthesis Heartbeat sound stimulates neural differentiation and brain organoid maturation Graphical Abstract
 
 </details>
 
@@ -949,16 +889,6 @@ BirdSonic is a deep learning-based AI-powered system that uses sound recordings 
 
 </details>
 
-#### [How the Brain Distinguishes Internal and External Sounds: An fMRI Investigation of Auditory Sound Externalization](https://doi.org/10.1101/2025.10.14.679174)
-**Laure Fivel, Jérôme Brunelin, Gaëlle Leroux, Frédéric Haesebaert et al.** · 2025-10-14
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Auditory externalization, the perception of a sound source as located outside the head, is essential for spatial hearing and auditory scene analysis. However, its neural correlates remain poorly understood. This study investigated differences in brain activation elicited by externalized versus internalized sound sources. Twenty-nine healthy participants underwent a 3T functional magnetic resonance imaging (fMRI) scan while listening to auditory stimuli presented in three spatialization conditions: reverberant externalized sounds (highest externalization), anechoic externalized sounds (intermediate externalization) and diotic anechoic sounds (internalized). Whole-brain analyses revealed greater activation for externalized compared to internalized sound sources in the left superior temporal gyrus, including the planum temporale, the cerebellum and the left posterior cingulate gyrus. Internalized sounds elicited greater relative activity in the left inferior temporal gyrus. Direct comparison between the two externalized conditions revealed stronger left superior temporal gyrus activation for reverberant sounds, while anechoic sounds preferentially activated the right middle temporal gyrus. These findings confirmed the key role of the planum temporale in auditory externalization and the involvement of higher-order brain regions, suggesting broader networks underpinning the perception of sound location.
-
-</details>
-
 #### [Towards accurate bird sound recognition through multi-scale texture-aware modeling](https://doi.org/10.1038/s44384-025-00025-6)
 **Rui Qin, Jing Huang** · 2025-10-13
 
@@ -998,16 +928,6 @@ Mammals play vital roles in ecological communities, but many are in rapid declin
 <summary>Abstract</summary>
 
 Reforestation is a widely promoted strategy to restore Mediterranean forests. However, its effectiveness in recovering avian diversity (key for ecosystem processes such as seed dispersal and insect control) remains unclear. We studied bird communities in 28 reforestations and 25 mature forests in central Spain, assessing bird species richness, community composition, and functional guild proportions. Bird communities were surveyed using passive acoustic monitoring, and forest structure was characterized by measurements of tree diameter, height, density, canopy and shrub cover, and deadwood volume. Mature forests hosted on average 10.5 % more species and higher proportions of cavity-nesters, insectivores, and long-distance migrants than reforestations. Structural differences, particularly larger mean tree size (+8.8 %) and lower tree density (-6.6 %), explained part of these richness patterns, while deadwood volume and canopy cover were linked to community composition and the prevalence of specialist guilds. Although reforestations supported fewer species, they already host a substantial part of the regional avifauna and show potential for further recovery as structural characteristics typical of mature forests. These findings highlight that reforestation can meaningfully contribute to bird conservation in Mediterranean landscapes, but its ecological value depends on promoting structural complexity. Conservation strategies should combine structural maturity recovery in reforestations, while safeguarding remnant mature forests, which remain irreplaceable for supporting diverse and functionally important bird guilds.
-
-</details>
-
-#### [Utility of at-home video recordings for functional skill assessment in Angelman Syndrome: a pilot study](https://doi.org/10.1101/2025.10.06.25337170)
-**Mindy Leffler, Rebecca J. Woods, Amber Sapp, Christina K. Zigler et al.** · 2025-10-08
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background Outcome measures currently used to assess function in Angelman Syndrome (AS) may be affected by subject anxiety in clinic, a disconnect between the normed age range of the measure and the study population, and a reliance on caregiver report. This study aimed to develop and pilot a novel outcome for AS, the Angelman Syndrome Video Assessment (ASVA) for the assessment of everyday functional skills in individuals with AS in their home environment. Methods The task list was informed by published conceptual disease models and determined by a team of experts based on family and clinician input. The study was conducted remotely in the home environment, with families capturing videos of everyday activities and participating in an exit interview about their experience. Videos were evaluated, and caregiver interview transcripts were coded and analyzed to determine whether each task would be included in the finalized measure. Results Eleven dyads completed the study. The video completion rate was 96%, with 99% of the submitted videos meeting quality standards. Caregivers endorsed the value of assessing people with AS in the home environment. The video capture list was reduced from 27 to 17 tasks. Conclusions The ASVA is a novel tool that captures data on the daily functioning of individuals with AS in their home environment. This tool presents a potential new way to evaluate subject function in clinical trials and for clinical care.
 
 </details>
 
@@ -1052,16 +972,6 @@ Abstract Passive Acoustic Monitoring has emerged as a promising tool for collect
 <summary>Abstract</summary>
 
 1. ABSTRACT Agricultural expansion is a major driver of tropical forest loss globally, making it critical to determine factors that maintain key plant-animal interactions, such as nectarivory, in human-dominated landscapes. In the Paleotropics, which is experiencing rapid expansion of tree crop plantations, few studies have compared floral and nectar-feeding bird communities, their interactions, and network organisation along a tree crop intensification gradient. In a cashew agriculture-forest matrix of the northern Western Ghats of India, we compared forests, cashew agroforests, and cashew monocultures to assess, 1) the abundance, diversity, and composition of flowers and nectar-feeding birds, 2) diversity of bird-flower interactions, and 3) network organisation. Floral abundance declined most sharply in monocultures, followed by agroforests. The abundance and diversity of nectar-feeding birds peaked in agroforests. Forests had the highest floral diversity and bird-flower interactions. Nectivore community composition differed across land-use types, with agroforests harbouring both forest specialists and open-habitat species typically found in monocultures. We found that sunbirds dominated plant-flower interactions across land-use types. After rarefaction (to control for differences in network size), agroforests and monocultures showed higher connectance, specialisation, and modularity than the forest network. Our results suggest that plantations that retain native trees (agroforests) can partially offset the alterations caused in floral resource availability and nectar-feeding bird communities by cashew cultivation. Planting bird-pollinated native tree species along orchard edges can make cashew farming more suitable for nectar-feeding birds, and has the potential to benefit cashew production by attracting avian pollinators.
-
-</details>
-
-#### [Machine Learning Guided Video Analysis Identifies Sound-Evoked Pain Behaviors from Facial Grimace and Body Cues in Mice](https://doi.org/10.1101/2025.09.30.679579)
-**Benjamin J. Seicol, Amelie Valles, Anna Kohler, Elisabeth Glowatzki et al.** · 2025-10-02
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Humans can experience sound-evoked pain, either from extremely loud sounds or in cases of pain hyperacusis from typically tolerable sounds. However, the mechanisms underlying sound-evoked pain remain poorly understood. Developing behavioral methods to measure sound-evoked pain in animal models is critical for elucidating these mechanisms. Here, a machine learning-based approach was developed to measure sound-evoked pain in freely moving mice by analyzing facial grimace and body position from video recordings during sound exposure. Facial grimace, a commonly used method to detect pain in mice, and body position, which can be used to measure postural and movement changes that also indicate pain, were both quantified using a deep neural network model trained to extract established facial and body features from video recorded by a single camera. To validate the model’s capability to detect pain, a known painful state, migraine induced by the injection of the neuropeptide calcitonin gene-related peptide (CGRP), was used. Using this machine learning-based approach, the ability to quantify a pain response from CGRP-induced migraine, distinct from baseline behavior, was demonstrated, resulting in a defined pain threshold. Sound exposures at high intensities elicited significant changes in facial grimace and body position, in comparison, surpassing the pain threshold calculated from CGRP-induced migraine. These behavioral changes were absent in Tmie -knockout mice, which lack functional sound transduction in the cochlea. This automated, high-throughput framework enables objective and sensitive analysis of pain providing a foundation for future studies investigating the peripheral and central mechanisms of sound-evoked pain. Significance This study introduces a quantitative framework for assessing pain using a single-camera setup and machine learning guided analysis to capture and analyze mouse behavior. By integrating two established pain metrics, facial grimace and attenuated movement, this method enables precise, non-invasive quantification of pain-related behaviors. The approach was validated with a well-characterized pain model, migraine, induced by injection of the neuropeptide CGRP, demonstrating the ability to quantify a pain response distinct from baseline behavior. By applying this framework to sound-evoked pain, the data revealed that exposure to intense sound triggers significant pain behavioral responses. These novel findings provide insights into the behavioral manifestations and neural underpinnings of sound-evoked pain, offering a robust tool for studying the mechanisms of pain perception.
 
 </details>
 
@@ -1122,18 +1032,6 @@ Monitoring bird and bat populations is essential for understanding ecosystem hea
 <summary>Abstract</summary>
 
 Unique identification is essential for understanding population demography and often relies on capturing, tagging, and resighting or tracking known individuals. Recent advances in acoustic analysis show that individual birds can be identified using spectral analysis of vocalizations. However, spectral analysis can be a time‐consuming process, often requiring measurement of multiple sound attributes by hand. The use of mel‐frequency cepstral coefficients (MFCC), which analyze the entire spectrum of a vocalization, is an alternative method to identify individuals within a species. Our goal was to compare the effectiveness of 2 techniques, 1) manual spectral analysis and 2) automated MFCC analysis, for identifying individuals across space and time, using vocalizations of the great gray owl (Strix nebulosa). We combined GPS tracking data of known individuals with audio data from autonomous recording units (ARUs) deployed in great gray owl territories during the breeding season to compare spectral analysis methods to automated MFCC methods for identifying individuals. Our analysis utilized territorial calls from 26 ARUs across 4 years (2019–2022) and 14 territories in the Greater Yellowstone Ecosystem in Wyoming, USA. We found that the average classification accuracy of the spectral analysis was 77.2%, whereas the accuracy of the MFCC method was 97.6% based on discriminant analysis. Call analysis using MFCCs was also successful in identifying the same unique individual owl across multiple ARU locations, both within and across years and territories. Our results demonstrated that automated MFCC methods are effective and efficient non‐invasive tools to identify individual great gray owls using territorial calls. The automated MFCC audio analysis method can be applied to other species for which individual identification is possible based on vocalizations. The use of ARUs and MFCC analysis of vocalizations to distinguish individuals can allow for non‐invasive monitoring of individuals and contribute to improved understanding of population dynamics, for example, by providing information on individual fitness and movement behavior.
-
-</details>
-
-#### [Structure and sequence evolution in the pennycress (
-                  <i>Thlaspi arvense</i>
-                  ) pangenome](https://doi.org/10.1101/2025.09.26.678720)
-**Kevin A. Bird, Joanna L. Rifkin, Chloee M. McLaughlin, Avril M. Harder et al.** · 2025-09-28
-
-<details>
-<summary>Abstract</summary>
-
-Summary Eukaryotic genomes harbor many forms of variation, including nucleotide diversity and structural polymorphisms, which experience natural selection and contribute to genome evolution and biodiversity. However, harnessing this variation for agriculture hinges on our ability to detect, quantify, catalog, and utilize genetic diversity. Here, we explore seven complete genomes of the emerging biofuel crop pennycress ( Thlaspi arvense ) drawn from across the species’s current genetic diversity to catalogue variation in genome structure and content. Across this new pangenome resource, we find contrasting evolutionary modes in different genomic regions. Gene-poor, repeat-rich pericentromeric regions experience frequent rearrangements, including repeated centromere repositioning. In contrast, conserved gene-dense chromosome arms maintain large-scale synteny across accessions, even in fast-evolving immune genes where microsynteny breaks down across species but the macrosynteny of gene cluster positioning is maintained. Our findings highlight that multiple elements of the genome experience dynamic evolution that conserves functional content on the chromosome scale but allows rearrangement and presence-absence variation on a local scale. This diversity is invisible to classical reference-based approaches and highlights the strength and utility of pangenomic resources. These results provide a valuable case study of rapid genomic structural evolution within a species and powerful resources for crop development in an emerging biofuel crop.
 
 </details>
 
@@ -1217,36 +1115,6 @@ Passive acoustic monitoring is increasingly used in ecological research to study
 
 </details>
 
-#### [A human spiking computational model to explore sound localization](https://doi.org/10.1101/2025.09.18.677043)
-**Francesco De Santis, Paolo Marzolo, Alessandra Pedrocchi, Alberto Antonietti** · 2025-09-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sound localization relies on precise processing of binaural cues in medial (MSO) and lateral superior olive (LSO). However, key questions remain on how these two nuclei perform their specific computations depending on sound frequency, the relative contributions of interaural time differences (ITDs) and interaural level differences (ILDs), as well as the role of inhibitory timings. Experimental studies have struggled to address these issues because of technical challenges and a lack of methodological consistency. Here, we present a comprehensive computational model of auditory peripheral and brainstem neural populations to investigate how ITDs and ILDs are encoded by LSO and MSO. We developed a spiking neural network with realistic tonotopic organization and biologically consistent synaptic connections. We tested responses to pure tones and white noise from different locations under three cue conditions: human-recorded head-related transfer functions, isolated ITDs, and isolated ILDs. LSO neurons showed realistic ipsilateral-preferring responses across different stimuli, with cue dependency varying by tone frequency, while white noise responses were driven mostly by ILDs. MSO responses showed heterogeneous tuning, with contralateral preference for low-frequency tones, which got lost for higher-frequency ones, and white noise response driven by ITDs. We further validated two experimental findings: (1) removing MSO inhibition abolished contralateral tuning, and (2) varying the timing between excitation and inhibition produced large shifts in tuning, highlighting the importance of synaptic timing for ITD coding. This model serves as an in silico testbed for auditory research, offering new insights into the functioning of human spatial hearing.
-
-</details>
-
-#### [Microbial community of a colloidal activated carbon barrier at a perfluoroalkyl substance impacted site and sorption of perfluorooctanesulfonic acid by bacteria](https://doi.org/10.1101/2025.09.19.677121)
-**Brian Eddie, Christopher Katilie, Lindsay Van House, Dagmar Leary et al.** · 2025-09-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Per- and polyfluorinated alkyl substances (PFAS) including perfluorooctanesulfonic acid (PFOS) are extremely refractory anthropogenic compounds that are widespread in the environment. Their fate and transport are of increasing interest, including the ways that biological activity may affect the efficiency of state-of-the-art mitigation efforts, such as colloidal activated carbon (CAC) injection. The microbial communities of sediments in and around a CAC barrier from 2.7 to 9 m below surface were investigated using 16S ribosomal RNA amplicon sequencing and strains isolated from the samples. The microbial community consisted of taxa commonly associated with the subsurface environment, including a high proportion of Bathyarchaeota in the deeper samples. The presence of PFAS or the CAC barrier used to treat it affected the microbial community. Bacteria in the order Peptococcales had higher relative abundance in the CAC barrier than upstream or downstream of it. The inverse Simpson index decreased with depth, indicating less variety in the microbes that were present, but was higher in the samples downstream of the CAC barrier, which may indicate an impact of the PFAS on the microbial community. The sorption of PFOS was investigated for six newly isolated strains as well as four other strains, and results indicate that sorption of PFOS by different species or genera of bacteria is more variable than previously thought. These results suggest that the microbial community could play a role in the mobility of PFAS within subsurface waters, and emphasizes the need to understand the subsurface microbial community and its interactions with PFAS.
-
-</details>
-
-#### [The trimeric structures of the extracellular domains of FAM171A1 and FAM171A2 neuronal proteins belong to a novel structural superfamily](https://doi.org/10.1101/2025.09.18.675241)
-**Tom Bird, Sepideh Valimehr, David M. Wood, Zachary D. Tillett et al.** · 2025-09-19
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Cell surface molecules play fundamental roles in cell-cell communication, attraction, or repulsion, and when expressed in neurons they are often implicated in neurological disorders. FAM171 is a family of three type-I transmembrane domain cell surface proteins (FAM171A1, FAM171A2, and FAM171B) expressed in several human tissues and especially enriched in the brain. Recent findings suggest that FAM171A1 transduces signals between the cell surface and the cytoskeleton. Genetic evidence links FAM171A1 to multiple cancers and FAM171A2 to neurodegenerative diseases, including Alzheimer’s and Parkinson’s diseases. Despite multiple connections with severe human diseases, no information is currently available on their monomeric structure or oligomerization. Here we show that, structurally, the monomeric ectodomains of human FAM171A1 and FAM171A2 have a new architecture with a novel combination of two domains. Furthermore, their ectodomains oligomerize to form an equilateral trimer. In addition, the ectodomain of FAM171A1 has the propensity to form larger trimer-trimer assemblies at high concentrations. Together, these results provide novel insights into the structure and oligomerization of the extracellular domain of FAM171A1 and FAM171A2, suggesting important roles in ligand binding and signaling.
-
-</details>
-
 #### [Mistimed surveys lead to underestimated migratory bird impacts from wind farms](https://doi.org/10.1101/2025.09.11.675726)
 **Xu Shi, William Holden, Jeremy S. Simmonds, Rohan H. Clarke et al.** · 2025-09-16
 
@@ -1291,16 +1159,6 @@ Abstract Amplitude-modulation (AM) is critical for the perception of complex sou
 
 </details>
 
-#### [Large-scale genomic characterisation of phage-plasmids in clinical Enterobacteriaceae isolates](https://doi.org/10.1101/2025.09.12.675607)
-**Satheesh Nair, Clare R Barker, Matthew Bird, Alice Ledda et al.** · 2025-09-15
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The life cycle of certain bacteriophages involves their maintenance within the bacterial cell as extrachromosomal elements, complete with replication and partitioning systems. These “phage-plasmids” (P-Ps) are distributed widely among bacterial phyla but are not typically included during genomic surveillance studies, and previous reports do not consider the context of their host strain diversity. We recently identified a P1-like P-P carrying the bla CTX-M-15 resistance gene in Salmonella enterica serovar Typhi, prompting a subsequent investigation into the overall frequency of P-Ps among gastrointestinal bacteria under routine genomic surveillance within England. We expanded our study to include P-P groups known to be associated with Enterobacteriaceae (P1, D6, SSU5, N15) and scanned a collection of 66,856 genomes of diarrhoeagenic Escherichia spp., Shigella spp. and S. enterica . All four P-P groups were detected in our dataset, totalling 9% of E. coli and Shigella genomes and 2% of S. enterica genomes. A small subset harboured two distinct P-P groups. P1-like P-Ps, some of which carried a cytotoxic necrotising factor, were predominantly associated with Shiga toxin-producing E. coli strains of public health concern, including clonal complexes CC11 (O157:H7), CC29 (O26:H11) and CC165. In contrast, SSU5 group P-Ps were linked with multidrug-resistant lineages of both S. Typhi and Shigella sonnei . We found multiple antimicrobial resistance genes inserted into P-Ps via transposons, integrons and insertion sequences, and numerous defence/anti-defence systems. There was evidence of vertical transmission but also many links across species, time and geography, indicating that horizontal transfer is occurring regularly. Phage-plasmids are often described only as cryptic elements or not detected during genomic surveillance. We show that P-Ps are associated with clinically relevant lineages of human pathogens and can acquire accessory genes that may impact on disease severity and therefore should play a more prominent role in pathogen surveillance and epidemiology.
-
-</details>
-
 #### [Bird Sound Classification Using Two-Channel Markov Transition Field Transformation Images and Convolutional Neural Networks](https://doi.org/10.1109/ICAIFI66942.2025.11325882)
 **Tricia Jonina B. Alcisto, William Caleb Arcena Perez, Angie M. Ceniza-Canillo** · 2025-09-14
 
@@ -1318,16 +1176,6 @@ Bird sounds are a rich source of information that can significantly enhance our 
 <summary>Abstract</summary>
 
 AI tools are increasingly employed in wildlife conservation to monitor animal populations and detect anthropogenic threats. Although various wild animal image datasets exist for training deep learning algorithms in species recognition, few resources focus on bird classification, particularly for monitoring reproductive success at nests. To address this gap, we introduce a new dataset concentrating on the Houbara bustard, a bird of both ecological and cultural significance, comprising 10,394 images and 23,387 object instances (Houbara adults, chicks, and eggs), each manually annotated with bounding boxes. We assessed several state-of-the-art object detection techniques on this dataset, with YOLOv12 demonstrating superior performance across multiple evaluation metrics. This dataset provides a valuable resource for researchers and conservation practitioners, enhancing the capability for automated wildlife monitoring and conservation efforts. [GitHub: https://github.com/sadaf-ali/HBCE].
-
-</details>
-
-#### [An Innovative Framework for Heart Sound Classification Integrating Adaptive Fuzzy Rank-Based Ensemble of Transfer Learning Models with Multi-Dimensional Features](https://doi.org/10.1101/2025.09.07.674773)
-**Shuvashis Sarker, Faika Fairuj Preotee, Tashreef Muhammad, Shamim Akhter** · 2025-09-12
-
-<details>
-<summary>Abstract</summary>
-
-Heart sound identification for diagnosing cardiovascular diseases is a complex challenge due to the intricate, spectro-temporal characteristics of conditions like Aortic Stenosis, Mitral Regurgitation, and multi-valvular disorders. Conventional methods frequently inadequately encompass the complete range of diagnostic characteristics, depending on fragmented or simplistic approaches that lack generalizability across varied patient demographics, clinical settings, and recording circumstances. To address these limitations, we offer an innovative, multi-dimensional feature fusion framework that integrates Wavelet Scattering Transform (WST) and Mel-Frequency Cepstral Coefficients (MFCC) to capture both temporal stability and perceptually optimal frequency patterns from cardiac sounds. This method is further refined by an adaptive fuzzy rank-based ensemble technique utilizing the Gompertz function, which dynamically modifies model weights according to confidence metrics, hence assuring more dependable and precise predictions amidst fluctuating clinical uncertainty. We meticulously assess our model utilizing eight advanced fine-tuned transfer learning architectures across four feature extraction techniques (WST, MFCC, STFT, Multi-Dimensional) on the clinically validated BUET Multi-disease Heart Sound (BMD-HS) dataset. This dataset comprises 864 phonocardiogram recordings from 108 participants with echocardiographically confirmed diagnoses. The multi-dimensional feature fusion method attains 97% accuracy with EfficientNetB2, whereas the adaptive fuzzy ensemble strategy achieves 98% accuracy, surpassing both individual models and conventional ensemble methods. Moreover, Explainable AI with Audio-LIME offers transparent, clinically interpretable insights, achieving fidelity scores surpassing 0.85 and clinical relevance ratings exceeding 90%, facilitating the identification of critical time-frequency regions that hold diagnostic significance. This system establishes a novel benchmark for heart sound classification, enhances the differentiation of intricate valvular disorders, and provides dependable, evidence-based decision support for cardiovascular diagnosis in clinical settings. Our research illustrates the capability for resilient, scalable, and interpretable heart sound classification systems that can improve clinical decision-making and promote the integration of automated diagnostic tools in healthcare.
 
 </details>
 
@@ -1429,18 +1277,6 @@ Bird sound detection provides valuable insights into regional biodiversity, supp
 
 </details>
 
-#### [Regulatory Role for Tumor Suppressor REST on Estrogen Receptor (
-                  <i>ESR1</i>
-                  ) Expression and Leiomyoma Pathophysiology](https://doi.org/10.1101/2025.08.29.673140)
-**Skylar G. Bird, Sumedha Gunewardena, Ashley Cloud, Sornakala Ganeshkumar et al.** · 2025-08-31
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Uterine fibroids, benign tumors of the smooth muscle layer of the uterus, plague approximately 80% of the female population by age 50. While there have been efforts to understand the mechanism behind this pathophysiology, it largely remains unclear. Lack of preclinical animal models that recapitulate aberrant steroid hormone pathways in UL has significantly hampered the development of long-term hormonal therapies for uterine fibroids. In addition, cultured myometrial as well as leiomyoma smooth muscle cells rapidly silence both estrogen receptor alpha ( ESR1 ) and progesterone receptor ( PGR ) expression through unknown mechanisms, further limiting in vitro mechanistic studies of UL. Previous work by our lab has determined the loss of REST, a master regulator of epigenetic gene silencing, in leiomyoma results in the upregulation of ESR1 targets and therefore estrogen signaling. Using ChIP-PCR, we find REST is directly associated with ESR1 genomic locus, playing a role in its epigenetic regulation. ChIP-seq analysis of Rest cKO mouse uterus samples reveals a global role for REST in the regulation of progesterone receptor target genes and highlights alterations in PGR binding within the Esr1 locus. Additionally, we find REST inhibition of ESR1 expression is regulated through upstream WNT planar cell polarity molecule, PRICKLE1. Based on role of REST in silencing ESR1 expression in cultured myometrial cells, our results support the development of a potential cell culture method to maintain ESR1 expression through REST modulation. Finally, we establish a broad role for REST in epigenetic regulation relevant to leiomyoma pathophysiology.
-
-</details>
-
 #### [Towards High-Fidelity and Controllable Bioacoustic Generation via Enhanced Diffusion Learning](https://arxiv.org/abs/2509.00318)
 **Tianyu Song, T. Tạ** · 2025-08-30
 
@@ -1493,26 +1329,6 @@ ABSTRACT Captive breeding can be a key component of species conservation strateg
 
 </details>
 
-#### [Dynamic representation of sound locations during task engagement in marmoset auditory cortex](https://doi.org/10.1101/2025.08.14.669832)
-**Chenggang Chen, Evan D. Remington, Xiaoqin Wang** · 2025-08-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract In auditory cortex, neural responses to stimuli inside receptive fields (RFs) can be further facilitated by behavioral demands, such as attending to a spatial location. It is less clear how off-RF stimuli modulate neural responses and contribute to behavioral tasks. Our recent study revealed a particular form of location-specific facilitation evoked by repeated stimulation from an off-RF location, suggesting behavioral modulation of spatial RFs. To further explore this question, we trained marmosets to attend to sound locations that were either inside or outside the RFs of auditory cortical neurons. The majority of neurons showed increased firing rates at target locations inside their RFs. Interestingly, this increase also occurred outside the RFs, sometimes exceeding the responses at the RF center during passive listening. These task-related off-RF facilitation were much more common in the caudal area than in the rostral area and the primary auditory cortex. A normalization model reproduced the off-RF facilitation using widespread suppression. The model’s prediction was confirmed by experimental observations of widespread reductions in firing rate and hyperpolarized membrane potentials for off-RF stimuli. These results suggest that behavioral task demands recruit a broader range of neurons than those that are responsive to a target sound in the passive state.
-
-</details>
-
-#### [Exploring the Challenges, Barriers and Opportunities for Neglected Tropical Disease Programmes of Conflict-affected Countries in sub-Saharan Africa: A Qualitative Investigation](https://doi.org/10.1101/2025.08.15.25333777)
-**Emma M Harding-Esch, Francesca Bird, Ambreen Bashir, Louise A. Kelly-Hope** · 2025-08-16
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background Insecurity and conflict threaten achievement of global Neglected Tropical Disease (NTD) targets. Identifying conflict-associated challenges, and strategies to mitigate them, can inform NTD programmatic decision-making. Methods In-depth interviews were conducted with key stakeholders, including NTD programme managers and implementing partners, to explore their experiences of implementing NTD programmes in conflict-affected regions in sub-Saharan Africa. Study 1 focused on Nigeria and Study 2 on multiple countries. Thematic analysis was used to identify and extract key themes. Results Fourteen participants (7 participants per study) from six countries and several NTD programmes reported an array of complex challenges, which were categorised into three common programme-specific activity themes (implementation, community engagement, sustainability) and five external influencing themes (access to areas, water and sanitation, hygiene, inclusivity, stakeholder partnering, financial resources). Several sub-themes (e.g. surveillance, community education), unique challenges (e.g., displaced populations, access for women) and potential solutions (e.g., innovation, collaboration) were reported. Conclusion There are many complex interacting factors that hinder NTD programmes in conflict-affected NTD-endemic areas. The scale and breadth of the common and unique challenges and potential solutions require more investigation to enable the development of a practical framework to support programmes in the efforts to meet global NTD control, elimination and eradication goals.
-
-</details>
-
 #### [Research and Implementation of Bird Species Identification Method Around Overhead Transmission Lines Based on Voiceprint Recognition](https://doi.org/10.1109/IPPR66507.2025.11198560)
 **Jian Wang, Danyu Li, Xiulong Wang, Bin Liu** · 2025-08-15
 
@@ -1550,16 +1366,6 @@ Ecoacoustic approaches are increasingly being used to monitor biodiversity, havi
 <summary>Abstract</summary>
 
 Neural network implementation on resourceconstrained MCUs for edge devices had always been a challenging task, where both the computation logics as well as parameter storage have to be counted and utilized efficiently. In this paper, we propose techniques including lightweight architectural modifications, mixed-precision quantization, and knowledge distillation to implement a complete neural network under tightly budgeted hardware resources. An optimized SqueezeNet network, called BirdCallNet is constructed for bird call classification and used as a case study to demonstrate these techniques. The bird call Mel spectrograms are resized to $112 \times 112$ single-channel inputs, and the model was quantized (with symmetric quantization for weights and asymmetric quantization for activations) through ONNX Runtime from FP32 to INT8. The architecture is refined by replacing standard convolutions with time-frequency separable convolutions and integrating efficient channel attention (ECA) blocks, further improving performance under tight constraints. The BirdCallNet can be successfully executed on a 32-bit microcontroller (STM32H743IIT6) with only $\mathbf{5 1 2 K B}$ (around $\mathbf{4 3 8 K B}$) flash and 256 KB (around 228 KB) of RAM, with the performance comparable to other implementations with much more hardware overhead. A Python-based GUI is built that allows audio files to be transformed into Mel spectrograms for real-time processing. The techniques proposed in this paper could be used as guidelines for neural network implementation on edge devices.
-
-</details>
-
-#### [Sound-evoked auditory neurophysiological signals are a window into prodromal functional differences in a preclinical model of Alzheimer′s Disease](https://doi.org/10.1101/2025.08.07.669134)
-**Aysegul Gungor Aydin, Pranav Manoj, Faiza Ramadan, Elias Youssef et al.** · 2025-08-11
-
-<details>
-<summary>Abstract</summary>
-
-Hearing is the largest modifiable mid-life risk factor for Alzheimer′s Disease (AD) yet its link to dementia remains unclear. We identified a neurophysiological biomarker of AD risk using the non-invasive, rapidly acquired, and clinically translatable auditory brainstem response (ABR) in normal hearing knock-in rats (Swedish familial AD risk variant to Amyloid precursor protein (AppS); male and female). Human ABRs have been proposed as a biomarker for AD and related dementias. The novel metric reported here is derived from multidimensional parametric feature extraction on the distribution statistics of repeated single-trial ABR traces. We report accurate prediction of genetic risk for AD risk in young and aged rats: AppS separate clearly from healthy humanized (AppH) in sex- and age-dependent manners. Notably, auditory learning during young adulthood shifted the AppS ABR signature towards a healthy AppH-like state that maintained over time into older age. Altogether the findings support the utility of the ABR to track disease state, progression, and effects of intervention, and point to a central neural generator of auditory dysfunction related to AD risk. ABRs could provide a very early biomarker for detection of AD risk and used to test the synergy of auditory and cognitive functions in human dementia.
 
 </details>
 
@@ -1647,26 +1453,6 @@ ABSTRACT Audio playback experiments in the natural environment have been a power
 
 </details>
 
-#### [Early activity and impact of a neighbourhood multidisciplinary team that integrates health, and social support for underserved children and young people in Birmingham, UK: an observational study](https://doi.org/10.1101/2025.07.31.25332535)
-**C Bird, F Dutton, S Kaur, C Wolhuter et al.** · 2025-08-01
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Objectives The Sparkbrook Children’s Zone (SCZ) is an integrated model of care for children and young people in an economically marginalised area of Birmingham, United Kingdom. It is an early example of the National Health Service’s planned shift toward Neighbourhood Multi-Disciplinary Teams. This work presents early data on the uptake and impact of the three key components of the SCZ’s care offer: Preventative care, Clinical care, and Social support to help inform commissioners, social, and healthcare staff developing similar models. Methods Descriptive, observational study using routinely collected data to evaluate the activity and impact of SCZ weekly clinics (&lt;16 years) in the three key care components. Results Demographics: From March 2022-December 2024, 2,265 CYP were booked into clinics (93.5% slots taken up); 45% &lt;5 years; 89% of families from bottom IMD quintile. Preventative health care: Immunisation advice increased over the course of the opening months from 10.7% in 2023 to 40.2% in 2024 (compared to 1% in the surrounding primary care network); oral health promotion from 29.2% to 46.8%; smoking cessation advice from 1.8%% to 12.5%; 97% eligible children received Healthy Start vitamins; 70% had Body Mass Index measured. The Healthier Together health information app was delivered via text message to 100% of families after clinic visit. Clinical care: 73.8% of CYP discharged after clinical consultation, 3.8% referred to secondary care. 14.7% patients were not brought to appointments; Social support: 28.2%) CYP referred to family support worker, with the five most frequent reasons for referral being feeding issues, behaviour, activities, Special Educational Needs and Disabilities, and parenting skills. Conclusion Although preliminary, this initial data has offers valuable insight into patterns of disposition and referral including the increase in health promotion in a neighbourhood health offer. It has also raised awareness of the data set needed for long-term evaluation.
-
-</details>
-
-#### [Evaluating Few-Shot Prompting for Spectrogram-Based Lung Sound Classification Using a Multimodal Language Model](https://doi.org/10.1101/2025.07.27.25332255)
-**Nicholas Dietrich, Mark F. Rzepka** · 2025-07-28
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Introduction Traditional deep learning models for lung sound analysis require large, labeled datasets; multimodal LLMs may offer a flexible, prompt-based alternative. This study aimed to evaluate the utility of a general-purpose multimodal LLM, GPT-4o, for lung sound classification from mel-spectrograms and assess whether a few-shot prompt approach improves performance over zero-shot prompting. Methods Using the ICBHI 2017 Respiratory Sound Database, 6898 annotated respiratory cycles were converted into mel-spectrograms. GPT-4o was prompted to classify each spectrogram in both zero-shot and few-shot settings. Few-shot prompts included labeled examples, while zero-shot prompts did not. Model outputs were evaluated against ground truth labels using performance metrics including accuracy, precision, recall, and F1-score. Results Few-shot prompting improved overall accuracy (0.363 vs. 0.320) and yielded modest gains in precision (0.316 vs. 0.283), recall (0.300 vs. 0.287), and F1-score (0.308 vs. 0.285) across labels. McNemar’s test indicated a statistically significant difference in performance between prompting strategies (p &lt; 0.001). Model repeatability analysis demonstrated high agreement (κ = 0.76–0.88; agreement: 89–96%), indicating excellent consistency. Conclusion GPT-4o demonstrated limited but statistically significant performance gains using few-shot prompting for lung sound classification. While not yet suitable for clinical use, this prompt-based approach offers a promising, scalable strategy for medical audio analysis without task-specific training.
-
-</details>
-
 #### [Parasitism by, species composition, morphometry, and parasitoidism of
                   <i>Protocalliphora</i>
                   bird blowflies (Diptera: Calliphoridae) in Quebec’s farmlands: a 16-year dataset](https://doi.org/10.1101/2025.07.23.666426)
@@ -1676,16 +1462,6 @@ Abstract Introduction Traditional deep learning models for lung sound analysis r
 <summary>Abstract</summary>
 
 Abstract Bird blowflies, Protocalliphora spp. (Diptera: Calliphoridae), are prevalent ectoparasites of altricial bird nestlings across the Holarctic region. Yet, their spatial and temporal dynamics of infestations, species composition, and interactions with parasitoids remain poorly understood. We present a 16-year (2004–2019) multisite study of bird blowfly infestations based on 2673 tree swallow, Tachycineta bicolor (Vieillot) (Passeriformes: Hirundinidae), nests collected across a 10 200-km² gradient of agricultural intensity in Quebec, Canada. Nest infestation prevalence and parasitic load varied markedly across space and time but showed synchronous recurrence at approximately 75% of sites, suggesting the influence of regional and local processes. Yearly rates of parasitoidism of bird blowfly puparia by Nasonia spp. wasps (Hymenoptera: Pteromalidae) were high but variable (48–90%), likely contributing to the temporal fluctuations in bird blowfly prevalence and load. Substantial interannual shifts in the relative abundance of Protocalliphora species ( P. bennetti , P. metallica , and P. sialia ) emphasised the importance of species-level identification in bird blowfly ecological studies. Large overlap in puparia size among species challenged the utility of traditional diagnostic traits for species identification. Finally, dormancy or mortality of Nasonia spp. occurred in 3–16% of Protocalliphora spp. puparia, depending on year. These findings highlight the importance of long-term, multitrophic, and spatially explicit monitoring to unravel the drivers of host–parasite–parasitoid dynamics.
-
-</details>
-
-#### [Automated Digital Outreach with Human in the Loop is an Effective strategy for Recruitment and Electronic Patient Reported Outcomes: Results from All4IBD Multi-Centric Pragmatic Trial](https://doi.org/10.1101/2025.07.25.25331443)
-**Stavros Stefanopoulos, Connie Chan, Morish Shah, Mounir Ibrahim et al.** · 2025-07-27
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Objectives Patient recruitment is a critical factor for successful completion of a clinical trial. Decentralized trial recruitment allows potential subjects to be identified via the electronic health record (EHR) and approached through digital channels. We sought to understand the real-world effectiveness of decentralized trial recruitment leveraging electronic patient reported outcomes (ePROs) in patients with inflammatory bowel disease (IBD). Methods As part of a National Institutes of Health (NIH) funded multi-site clinical trial, we designed an EHR-integrated decentralized trial recruitment process to contact eligible patients at three tertiary IBD centers. We leveraged the Commure Engage/Rx.health (Mountain View, California) digital health formulary and automation engine integrated with Epic Systems (Epic Systems, Verona, WI) to digitally approach patients in an automated manner (with human-in-the loop) to complete the online enrollment process and monitor adherence with ePROs. Results Using digital outreach complemented by in-person engagement, we approached 6,687 eligible patients over 12 months and successfully enrolled 543 patients (mean age 40.7 ± 15.7 years, 63.3% females, 39.4% ulcerative colitis, 60.6% Crohn’s disease). 81.2% were recruited from bulk outreach methods. Gender (P&lt;0.01), and race (P&lt;0.01) were significantly associated with digital clinical trial enrollment. Patients were continually monitored with ePROs throughout the duration of the study. Conclusions This is one of the first studies to show the feasibility and successful recruitment of patients with IBD using automated digital outreach. We found a combination of outreach methods with human in the loop an effective strategy for clinical trial accrual. These findings suggest that ePROs can be successfully used in IBD centers to support treat-to-target strategy. Study Highlights What is Known: The most common reason for clinical trial failure is lack of accrual. Clinical trial recruitment strategies have remained largely unchanged despite technological advances. There is limited real world data around the use of electronic patient reported outcomes on a digital platform for patients with inflammatory bowel disease What is New Here ne of the first studies to employ a prospective decentralized recruitment approach for a multicenter clinical trial in inflammatory bowel disease. feasibility of an automated digital outreach for enrollment and continued monitoring using electronic patient reported outcomes
 
 </details>
 
@@ -1817,26 +1593,6 @@ ABSTRACT Capsule Urban pressures, including artificial lights, traffic noise and
 
 </details>
 
-#### [Machine learning-enhanced behavioural approach to detecting reactions to sound in infants and toddlers: proof-of-concept study](https://doi.org/10.1101/2025.07.10.25331271)
-**Chelsea M. Blankenship, Josef Schlittenlacher, Iain R. Jackson, Anisa S. Visram et al.** · 2025-07-11
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Objective Show that a basic unsupervised machine learning (ML) algorithm can give information on the direction of child and infant reactions to sound using non-identifiable video-recorded facial features. Design Infants and toddlers were presented warble tones or single-syllable utterances 45 degrees to the left or right. A camera recorded their reactions, from which features like head turns or eye gaze were extracted with OpenFace. Three clusters were formed using Expectation Maximization on 80% of the toddler data. The remaining 20% and all infant data were used to verify if the clusters represent groups for sound presentations to the left, to the right, and both directions. Study Sample 28 infants (2-5 months) and 30 toddlers (2-4 years), born preterm (&lt;32 weeks gestational age) were presented ten sounds each. Results The largest cluster comprised 90% of the trials with sound presentations in both directions, indicating “no decision.” The remaining two clusters could be interpreted to represent reactions to the left and the right, respectively, and average sensitivities of 96% for the toddlers and 68% for the infants. Conclusions A simple machine learning algorithm demonstrated that it can form correct decisions on the direction of sound presentation using non-identifiable facial behavioural data.
-
-</details>
-
-#### [A View-Agnostic Deep Learning Framework for Comprehensive Analysis of 2D-Echocardiography](https://doi.org/10.1101/2025.07.10.25331304)
-**D M Anisuzzaman, Jeffrey G. Malins, John I. Jackson, Eunjung Lee et al.** · 2025-07-11
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Echocardiography traditionally requires experienced operators to select and interpret clips from specific viewing angles. Clinical decision-making is therefore limited for handheld cardiac ultrasound (HCU), which is often collected by novice users. In this study, we developed a view-agnostic deep learning framework to estimate left ventricular ejection fraction (LVEF), patient age, and patient sex from any of several views containing the left ventricle. Model performance was: (1) consistently strong across retrospective transthoracic echocardiography (TTE) datasets; (2) comparable between prospective HCU versus TTE (625 patients; LVEF r 2 0.80 vs. 0.86, LVEF [&gt; or ≤40%] AUC 0.981 vs. 0.993, age r 2 0.85 vs. 0.87, sex classification AUC 0.985 vs. 0.996); (3) comparable between prospective HCU data collected by experts versus novice users (100 patients; LVEF r 2 0.78 vs. 0.66, LVEF AUC 0.982 vs. 0.966). This approach may broaden the clinical utility of echocardiography by lessening the need for user expertise in image acquisition.
-
-</details>
-
 #### [Targeting NEDD9-SH3 with a Covalent Peptide Controls Endothelial Phenotype](https://doi.org/10.1101/2025.07.10.663547)
 **Andriy O. Samokhin, Hyuk-Soo Seo, Alison Leed, Behnoush Hajian et al.** · 2025-07-11
 
@@ -1871,16 +1627,6 @@ Abstract The gold standard for fungal classification has long been specimen or c
 
 </details>
 
-#### [Neural entrainment predicts the anticipatory P300 component during musical meter perception: An EEG study using dual-meter sound stimuli](https://doi.org/10.1101/2025.07.01.662512)
-**Sotaro Kondoh, Kazuo Okanoya, Ryosuke O. Tachibana** · 2025-07-04
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Meter, the organization of beats into regular groupings, is a core element of music perception. Switches in meters frequently occur in music, reflecting the interplay between top-down attentional processes and the bottom-up processing of acoustic features. To disentangle this interplay in meter perception, we had previously invented a sound stimulus that simultaneously contained two meters. This dual-meter stimulus consisted of band-limited noise bursts that varied in center frequency and duration, with one feature following a triple-meter pattern and the other following a quadruple-meter pattern. Thus, the perceived meter switches between the two by changing attention from one acoustic feature to another, even when listening to identical stimuli. Using these stimuli, we here demonstrated the neural processes involved in meter perception by recording electroencephalogram (EEG) signals, while dissociating the influence of acoustic differences. We first found that the perceived meter structure was reflected in the entrained neural oscillations by comparing the spectral profiles of EEG signals when the participants focused on triple-meter versus quadruple-meter features. Second, an event-related potential component for anticipation (P300) was observed when the expected meter structure was disrupted by altering the frequency or duration of one sound at the end of the stimulus. Finally, individuals with stronger neural entrainment exhibited larger P300 responses to these disruptions. Our findings suggest that top-down attention modulates anticipation of the meter structure, and this anticipation induces neural entrainment that is involved in meter perception. Significance Statement Understanding how neural entrainment and anticipation interact is central to uncovering how the brain predicts and interprets incoming information. Musical meter provides an ideal model for investigating this process, as it emerges from the integration of bottom-up acoustic processing with top-down attention. However, traditional approaches have struggled to disentangle attention-driven neural entrainment and anticipation from acoustic variability. To address this, we introduced novel “dual-meter” stimuli that can be perceived as different meters depending on whether listeners attend to frequency or duration. EEG recordings revealed that neural entrainment to the perceived meter predicts the brain’s anticipatory P300 response to metrical violations, suggesting that attention links neural entrainment and anticipatory processing.
-
-</details>
-
 #### [Lightweight Transformer with Enhanced Inverted Residual Blocks for Bird Sound Recognition](https://doi.org/10.1109/IJCNN64981.2025.11229104)
 **Xiangyu Cheng, Shengnan Fan, Jianyang Ding, Qin Wu et al.** · 2025-06-30
 
@@ -1888,18 +1634,6 @@ Abstract Meter, the organization of beats into regular groupings, is a core elem
 <summary>Abstract</summary>
 
 Bird sound recognition relies on capturing unique characteristics of avian vocalizations to achieve accurate species identification. Recent advances in deep learning have significantly improved classification accuracy and Transformer-based models stand out due to their superior ability to model long-range dependencies. However, most of them suffer from high computational complexity, posing challenges for deployment on edge devices in the wild. To address this issue, this paper proposes a lightweight Transformer-based model incorporating enhanced Inverted Residual Blocks (IRB). To this end, we first replace original Multilayer Perceptron (MLP) modules with IRB. Additionally, we propose a stage-wise incremental strategy for setting expansion factors to reduce redundancy. At the same time, we incorporate residual connections before and after depthwise convolutions to maintain model performance. Furthermore, we refine attention configurations throughout various phases of the network. We strategically minimize redundant attention in the initial stages, while intensifying its application in the crucial stages. This approach achieves an optimal balance between computation and accuracy. Experimental results on the Bird-CLEF2023, DCASE2020, and Birdsdata demonstrate that our proposed model can achieve approximately a 5-fold reduction in parameters, an 85% decrease in computational load, and a 2.7-fold increase in inference speed on Jetson AGX Xavier, while preserving high accuracy.
-
-</details>
-
-#### [Guanylate-Binding Proteins Promote Host Defense Against
-                  <i>Leishmania major</i>
-                  by Balancing iNOS/Arg-1 in Myeloid Cells](https://doi.org/10.1101/2025.06.26.661809)
-**Lucy Fry, Het Adhvaryu, Hayden Roys, Anne Bowlin et al.** · 2025-06-30
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Cutaneous leishmaniasis (CL) is a debilitating neglected tropical disease characterized by lesions that can range from self-healing to permanent disfigurations. A predominant Th1 response, which stimulates IFN-γ production, is crucial for parasite control during self-healing CL. While IFN-γ primarily activates macrophages to produce nitric oxide via inducible nitric oxide synthase (iNOS) leading to parasite control, IFN-γ also activates other downstream pathways involved in cell autonomous immunity. One such pathway is the activation of guanylate binding proteins (GBPs), a class of interferon inducible GTPases. However, the role of GBPs during CL has been minimally explored. Utilizing RNA-Seq we found that Leishmania major infection leads to the upregulation of several GBPs in C57Bl/6 mice. In vitro studies using GBPChr3 knockout (KO), and C57Bl/6 control mice reveal that bone marrow-derived macrophages (BMDMs) from KO mice exhibit higher parasite burdens following IFN-γ treatment, independent of GBP localization to the parasite. Single-cell RNA-Seq identifies macrophages as the primary expressers of GBPs during L. major infection in vivo . In vivo , GBPChr3 KO mice display increased disease severity and parasite load. GBPChr3 KO macrophages and monocytes show elevated ARG-1 and reduced iNOS expression, indicating a shift toward a parasite-permissive environment that supports parasite growth. These findings highlight a critical role for GBPs in immune-mediated control of CL.
 
 </details>
 
@@ -1957,16 +1691,6 @@ Soundscape is the sonic environment that a living being, like a human or animal,
 
 </details>
 
-#### [MeCP2 requires interactions with nucleosome linker DNA to read chromatin DNA methylation](https://doi.org/10.1101/2025.06.17.659564)
-**James A. Watson, Beatrice K. Alexander-Howden, Theo S. Hall, Martin A. Wear et al.** · 2025-06-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Methyl-CpG-binding protein 2 (MeCP2) is an epigenetic reader essential for neuronal function, but how it binds DNA methylation within chromatin is unclear. Using designer nucleosomes we observe that MeCP2 preferentially engages DNA methylation positioned at multiple sites around the nucleosome. Surprisingly, MeCP2 can bind methylated DNA in bent, histone-contacting core nucleosomal DNA. However, this activity requires additional DNA linker interactions, using MeCP2 regions beyond its canonical methyl binding domain. We mapped a novel DNA-binding region in MeCP2 required for this function. Furthermore, histone H1 antagonises the MeCP2-nucleosome interaction by competing for linker DNA. Overall, this reveals that MeCP2 combines nonspecific but essential interactions with linker DNA to aid specific binding to nucleosomal methylated DNA, independent of nucleosome structure. Our findings reveal a novel contribution to full MeCP2 function, and mechanistic insight into how this clinically important protein interacts with chromatin.
-
-</details>
-
 #### [Brain Representations of Natural Sound Statistics](https://doi.org/10.1101/2025.06.17.660096)
 **Yousef Mohammadi, Alexander J. Billig, Joel I. Berger, Timothy D. Griffiths** · 2025-06-17
 
@@ -2004,16 +1728,6 @@ ABSTRACT - This paper presents a machine learning-based system designed for reco
 <summary>Abstract</summary>
 
 Abstract Artificial light at night (ALAN), a growing consequence of global urbanisation, disrupts natural light cues that regulate biological rhythms across taxa. However, the behavioural pathways linking ALAN exposure to broader ecological impacts remain poorly understood. Here, we experimentally introduced ALAN into nestboxes of a long-distance migratory bird, the collared flycatcher ( Ficedula albicollis ), breeding in Gotland, Sweden, to assess ALAN effects on development and reproductive ecology. Nestlings were exposed to ALAN from two days post-hatching until fledging, and we video-recorded parental and nestling activity over 24 hours on day 8 post-hatching. From a high-resolution behavioural dataset (32,100 nestling and 3,709 parental events), we found that ALAN-exposed nestlings begged more frequently and for longer at night compared to dark controls, revealing disrupted nocturnal behaviour. These effects cascaded to parental care: both females and males in ALAN nests extended their daily activity, initiating feeding earlier and terminating later, but traded off this extension by reducing their hourly feeding counts compared to parents in dark conditions. Consequently, nestlings under ALAN fledged at an older age and had a lower fledging rate after day eight post-hatching, despite no difference in total fledging numbers compared to controls. Our findings provide the first comprehensive experimental evidence that ALAN alters the behaviour of both parents alongside their offspring and reduces reproductive success in a long-distance migrant, a species group that increasingly encounters light pollution during nocturnal migration. ALAN, though directly affecting mainly nestlings and females in nestboxes, triggered socially-mediated responses that altered the circadian behaviour of entire bird families. This study underscores the need to consider behavioural disruption as a critical mechanism underlying the ecological impacts of ALAN in natural populations. Abstract Figure Summary figure: Cascading effects of artificial light at night, an aspect of human-induced light pollution, on the behaviour and reproductive ecology of collared flycatchers
-
-</details>
-
-#### [The geometry of cortical sound processing in slow wave sleep](https://doi.org/10.1101/2025.06.13.658070)
-**Allan Muller, Anton Filipchuk, Sophie Bagur, Brice Bathellier** · 2025-06-14
-
-<details>
-<summary>Abstract</summary>
-
-Abstract During wake, sound-evoked and spontaneous neural activity of the auditory cortex evolve in distinct subspaces whereas anesthesia disrupts sound responses and merges these spaces. To evaluate if similar modifications of the sound representation geometry explain sensory disconnection during sleep, we followed large neural populations of the mouse auditory cortex across slow wave sleep and wakefulness. We observed that sleep dampens sound responses but preserves the geometry of sound representations which remain separate from spontaneous activity. Moreover, response dampening was strongly coordinated across neurons and varied throughout sleep spanning from fully preserved response patterns to population response failures on a fraction of sound presentations. These failures are more common during high spindle-band activity and more rarely observed in wakefulness. Therefore, in sleep, the auditory system preserves sound feature selectivity up to the cortex for detailed acoustic surveillance, but concurrently implements an intermittent gating mechanism leading to local sensory disconnections.
 
 </details>
 
@@ -2064,16 +1778,6 @@ Bird species vary widely in their diurnal vocalization patterns, and the drivers
 <summary>Abstract</summary>
 
 Machine learning has the potential to revolutionize passive acoustic monitoring (PAM) for ecological assessments. However, high annotation and computing costs limit the field’s adoption. Generalizable pretrained networks can overcome these costs, but high-quality pretraining requires vast annotated libraries, limiting their current development to data-rich bird taxa. Here, we identify the optimum pretraining strategy for data-deficient domains, using tropical reefs as a representative case study. We assembled ReefSet, an annotated library of 57 000 reef sounds taken across 16 datasets, though still modest in scale compared to annotated bird libraries. We performed multiple pretraining experiments and found that pretraining on a library of bird audio 50 times the size of ReefSet provides notably superior generalizability on held-out reef datasets, with a mean area under the receiver operating characteristic curve (AUC-ROC) of 0.881 (±0.11), compared to pretraining on ReefSet itself or unrelated audio, with a mean AUC-ROC of 0.724 (±0.05) and 0.834 (±0.05), respectively. However, our key findings show that cross-domain mixing, where bird, reef and unrelated audio are combined during pretraining, provides superior transfer learning performance, with an AUC-ROC of 0.933 (±0.02). SurfPerch, our optimum pretrained network, provides a strong foundation for automated analysis of tropical reef and related PAM data with minimal annotation and computing costs. This article is part of the theme issue ‘Acoustic monitoring for tropical ecology and conservation’.
-
-</details>
-
-#### [On the potential sources of a low-frequency sound percept only a few can perceive](https://doi.org/10.1101/2025.06.07.658448)
-**Bonifaz Baumann, Andrej Voss, Carlos Jurado, Markus Drexl** · 2025-06-11
-
-<details>
-<summary>Abstract</summary>
-
-Abstract A small percentage of the general population reports almost constant humming or pulsing low-frequency sound percepts (LFSPs) while others in their vicinity, such as family members, often do not perceive these sounds. The origin of these LFSPs remains to be elucidated and may or may not be related to external sound sources. The underlying causes of these perceptions could also be subjective and belong to the tinnitus family, especially in cases where no external sound source sufficiently explaining the LFSP can be found. The present study puts forth two hypotheses to explain the phenomenon, based on both subjective and objective auditory phenomena: an unusually high auditory sensitivity to low-frequency sound, and hearing one’s own low-frequency spontaneous otoacoustic emissions (SOAEs), sounds actively produced by the inner ear as a normal, physiological by-product of cochlear amplification. The present study employed high-resolution, low-frequency hearing threshold measurements and SOAE measurements in 28 individuals with LFSPs, and in control groups devoid of LFSPs. LFSP complainants self-reported hearing a LFSP at a median frequency of 50 Hz obtained with a frequency-matching procedure. With a few clear exceptions, complainants most often did not present unusually sensitive low-frequency hearing thresholds. Furthermore, hearing threshold fine structure was comparable to the control group. In addition, no SOAEs in the low-frequency range could be measured. Based on our results, while cases of hearing physical external sound sources are not ruled out, we suggest that a subjective tinnitus in the low-frequency range is often the reason behind hearing these LFSPs.
 
 </details>
 
@@ -2261,26 +1965,6 @@ ABSTRACT Avoiding lysosomal degradation is vital to the success of intracellular
 
 </details>
 
-#### [Sound offset responses become highly informative in the auditory cortex](https://doi.org/10.1101/2025.05.19.654889)
-**Charly Lamothe, Sophie Bagur, Etienne Gosselin, Brice Bathellier** · 2025-05-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The entire auditory system downstream of the cochlea features pronounced offset responses, which follow the termination of sounds. Because of their ubiquity, it is still an unsolved question whether offset responses are generated early in the auditory system and then propagated or recomputed at each processing stage. Here, we analysed large-scale sound responses datasets acquired in the cochlear nucleus, inferior colliculus, medial geniculate nucleus and auditory cortex of awake mice. All brain regions showed a significant proportion of offset responses often combined with onset and sustained responses in the same neuron. However, using population activity decoders, we observed that neural representations after the sound offset show a three-fold increase in sound encoding accuracy in the cortex relative to subcortical areas. This result indicates that cortical offsets encode a more precise short-term memory of the elapsed sound than subcortical offsets and that they likely result from specific computational steps. Key points summary Offset responses are found throughout the central auditory system Offset responses are often combined to sustained and onset responses at all central auditory system stages Offset responses provide richer information about elapsed sounds in the auditory cortex
-
-</details>
-
-#### [Congenital heart disease missense mutations in the TBX5 DNA-binding domain alter thermal stability and DNA-binding affinity](https://doi.org/10.1101/2025.05.16.654568)
-**Alejandro Rivera-Madera, Edwin G. Peña-Martínez, Jean L. Messon-Bird, Diego A. Pomales-Matos et al.** · 2025-05-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Missense mutations can alter the biochemical properties of proteins, including stability, structure, and function, potentially contributing to the development of multiple human diseases. Mutations in TBX5 , a transcription factor (TF) necessary for heart development, are among the causes of congenital heart diseases (CHD). However, further research on biophysical and biochemical mechanisms is needed to understand how missense mutations in TFs alter their function in regulating gene expression. In this work, we applied in vitro and in silico approaches to understand how five missense mutations in the TBX5 T-box DNA-binding domain (I54T, M74V, I101F, R113K, and R237W) impact protein structure, thermal stability, and DNA-binding affinity to known TBX5 cognate binding sites. Differential Scanning Fluorimetry showed that mutants I54T and M74V decreased thermal stability, whereas I101F and R113K had increased stability. Additionally, DNA-binding affinity decreased for all five missense mutants when evaluated in vitro for known TBX5 genomic binding sites within regulatory elements of Nppa and Camta1 genes . Structural modeling of the TBX5 T-box domain predicted altered protein conformation and stability due to the loss or gain of amino acid residue interactions. Together, our findings provide biophysical and biochemical mechanisms that can be further explored to establish causality between TBX5 missense mutations and the development of CHDs. Article Summary Mutations in genes crucial for heart development, such as TBX5 , a cardiac transcription factor (TF), have been shown to cause congenital heart diseases. However, the functional consequences of missense mutations in cardiac TF have not been fully explored. In this work, we performed biochemical evaluations and found significant changes in thermal stability and DNA-binding of five TBX5 missense mutants (I54T, M74V, I101F, R113K, and R237W). Additionally, we generated in silico predictions of protein structure, stability, and pathogenicity for the five missense mutants. Our approach is scalable to other TF mutants crucial for organ development to further our understanding of congenital disease etiology. Graphical Abstract
-
-</details>
-
 #### [Threshold Detection-Based Intelligent Sensor for Bird Vocalization Recognition](https://doi.org/10.1109/YAC66630.2025.11149797)
 **Mengqiang Gou, Zhiyao Zhao, Jiaxin Dong** · 2025-05-17
 
@@ -2379,16 +2063,6 @@ The issue of substantial labor and time demands for monitoring bird species dive
 
 </details>
 
-#### [Parental stress and family quality of life in families of individuals living with Angelman syndrome](https://doi.org/10.1101/2025.05.07.25327165)
-**Catherine Merton, Angela Gwaltney, Anna Booman, Sarah Nelson Potter et al.** · 2025-05-08
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Background Angelman syndrome (AS) is a developmental disorder caused by one of four molecular etiologies. Affected individuals have intellectual disability (ID), limited speech, seizures, and sleep problems. Parents of individuals with AS exhibit elevated stress compared to parents of individuals with other IDs. We examined parental stress and family quality of life (FQOL) over time in families of individuals living with AS. Methods Data were collected in a natural history study of AS. The Parenting Stress Index, Third Edition (PSI) and the Beach Center FQOL scale assessed parent stress and FQOL. Stress and FQOL were examined across AS molecular subtypes, and predictors were analyzed using a generalised linear model. Relationships between parental stress and FQOL were examined using Pearson correlations and a stepwise mixed-linear model approach. Results Our sample consisted of 231 families of individuals living with AS. Parental stress was clinically elevated and was highest in families of individuals with UBE3A mutations, while FQOL did not differ across subtype in most domains. Increasing age predicted a decrease in parental stress but did not predict FQOL. Elevated parental stress was additionally predicted by maladaptive behaviours and child male sex, while lower FQOL was predicted by child male sex, parent marital status, and family income. Parental stress had a small negative impact on FQOL. Conclusions Stress is elevated in parents of individuals with AS across subtypes and has a small negative impact on family quality of life. Interventions to reduce stress have potential to improve individual and family well-being.
-
-</details>
-
 #### [The Search for Squawk: Agile Modeling in Bioacoustics](https://arxiv.org/abs/2505.03071)
 **Vincent Dumoulin, Otilia Stretcu, Jenny Hamer, Lauren Harrell et al.** · 2025-05-05
 
@@ -2426,36 +2100,6 @@ Compared with traditional field techniques, automated and noninvasive bird monit
 <summary>Abstract</summary>
 
 Recent advances in audio signal processing and pattern recognition have made the classification of bird vocalization a focus of bioacoustic research. However, the accurate classification of birdsongs is challenged by environmental noise and the limitations of traditional feature extraction methods. This study proposes the iWAVE-BiFBank method, an innovative approach combining improved wavelet adaptive denoising (iWAVE) and a bidirectional Mel-filter bank (BiFBank) for effective birdsong classification with enhanced robustness. The iWAVE method achieves adaptive optimization using the autocorrelation coefficient and peak-sum-ratio (PSR), overcoming the manual adjustments required with and incompleteness of traditional methods. BiFBank combines FBank and inverse FBank (iFBank) to enhance feature representation. This fusion addresses the shortcomings of FBank and introduces novel transformation methods and filter designs to iFBank, with a focus on high-frequency components. The iWAVE-BiFBank method creates a robust feature set, which can effectively reduce the noise of audio signals and capture both low- and high-frequency information. Experiments were conducted on a dataset of 16 species of birds, and the proposed method was verified with a random forest (RF) classifier. The results show that iWAVE-BiFBank achieves an accuracy of 94.00%, with other indicators, including the F1 score, exceeding 93.00%, outperforming all other tested methods. Overall, the proposed method effectively reduces audio noise, comprehensively captures the characteristics of bird vocalization, and provides improved classification performance.
-
-</details>
-
-#### [Examining Cognitive Predictors of Static Balance in Older Adults: The Role of Global Cognition and Inhibition: A cross-sectional study](https://doi.org/10.1101/2025.04.24.25326312)
-**Nahid Divandari, Marie-Louise Bird, Maryam Zoghi, Fefe Vakili et al.** · 2025-04-28
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background and Objectives Falls are a critical public health issue, with postural balance being key to prevention. While cognition is known to influence balance, the cognitive domain most strongly associated with static balance, and its ability to predict balance performance independently of age, remains unclear. Research Design and Methods Sixty-two healthy older adults (mean age 74 ± 8.6 years) participated in this cross-sectional study. Static balance was assessed using the Sway Medical App, and cognitive domains were evaluated through global cognition (Mini-Mental State Examination), inhibition (Stroop test), working memory (N-back test), and processing speed (Deary-Liewald test). Hierarchical multiple regression was applied to analyse cognitive predictors of static balance. Results Higher cognitive performance correlated with better balance. Global cognition and inhibition significantly predicted static balance beyond age, while processing speed and working memory were not significant predictors. Discussion and Implications Global cognition and inhibition may serve as biomarkers for early detection of balance impairments. Incorporating assessments of global cognition and inhibition into balance evaluations could guide targeted interventions to reduce fall risks and enhance mobility in older adults.
-
-</details>
-
-#### [Integrating AI-ECG and Point-of-Care Cardiac Ultrasound for Screening Structural Heart Disease: A Proof-of-Concept Study](https://doi.org/10.1101/2025.04.24.25326391)
-**Francisco B. Alexandrino, Reid Schlesinger, Jared Bird, Eunjung Lee et al.** · 2025-04-28
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Background Early structural heart disease (SHD) detection is crucial for improving prognostic outcomes, but widely accessible screening methods are lacking. The advent of artificial intelligence-enabled electrocardiograms (AI-ECG) and point-of-care cardiac-ultrasonography (POCCUS) offers promising new approaches for patient screening. We explored the feasibility and potential of integrating these innovative technologies into a practical SHD screening framework. Methods Outpatients who underwent ECG at the Mayo Clinic electrocardiogram-laboratory between November 2023 and February 2024 were randomly offered also to receive POCCUS, performed by a novice operator and reviewed by an expert echocardiologist. Impressions from AI-ECG and POCCUS were integrated to assess for SHD, including low left ventricular systolic function (ejection-fraction&lt;50%), aortic stenosis, and increased left ventricular wall thickness indicative of cardiac amyloidosis or hypertrophic cardiomyopathy. Operators were blinded to patients’ comorbidities and formal echocardiogram results. Results Of 486 patients (median-age 64 years;49% women), 286 had available formal echocardiography, with 17.5% having SHD. AI-ECG had a 32% positive predictive value (PPV) and a 94% negative predictive value (NPV) to detect any SHD. Adding POCCUS increased the overall PPV to 64% with an NPV of 93%, with an increase in diagnostic accuracy from 67% to 88%. Notably, 89.5% (17/19) of the “false positives” by AI-ECG+POCCUS had less-than-moderate-SHD. Applying the AI-ECG+POCCUS screening workflow on the entire cohort resulted in a number-needed-to-screen of eight to identify one patient requiring formal echocardiography (Central Figure). Conclusions The integration of AI-ECG and POCCUS holds promise as a potentially effective screening method for SHD, facilitating improved patient selection for formal echocardiography.
-
-</details>
-
-#### [Slow Outer Hair Cell Contractions Are Essential for Fast Electrical Responses to Intense Sound](https://doi.org/10.1101/2025.04.24.650391)
-**Henrik Sahlin Pettersen, Anders Fridberger, Pierre Hakizimana** · 2025-04-27
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The cochlea protects itself from intense sound via slow mechanical contractions, but the real-time kinetics linking this process to the stimulus-evoked electrical potentials have remained unresolved. Here, using high-speed confocal imaging with AI-driven analysis, we synchronously measured organ of Corti mechanics and stimulus-evoked potentials in the living isolated guinea pig cochlea. We discovered an inverse kinetic relationship: the outer hair cell’s (OHC) slow, somatic contraction is essential for generating a fast electrical response. Pharmacologically blocking the OHC motor protein prestin inverted this dynamic; the OHC’s mechanical contraction became faster, while the normally rapid electrical potential became nearly ten times slower. These findings indicate that slow OHC motility is not merely a byproduct of overstimulation but a control mechanism. It functions to regulate and sharpen the kinetics of the stimulus-evoked potential, providing a cellular-level explanation for how the hearing organ protects itself while maintaining temporal fidelity during intense sound exposure.
 
 </details>
 
@@ -2533,36 +2177,6 @@ This paper presents an automated one-shot bird call classification pipeline desi
 
 </details>
 
-#### [The role of inhibitory neurons in deviance sound detection in regular and random statistical contexts](https://doi.org/10.1101/2025.04.20.649735)
-**Xiaomao Ding, Nathan W. Vogler, Melanie Tobin, Linda Garami et al.** · 2025-04-21
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Detecting statistical regularities in sound and responding to violations of these patterns, termed deviance detection, is a core function of the auditory system. In the human brain, studies have shown that deviance responses are enhanced in regular compared to random auditory contexts, but the underlying neuronal circuit mechanisms remain unclear. Here, we examined how inhibitory neurons contribute to context-dependent deviance responses in mouse auditory cortex (AC). Using two-photon calcium imaging in AC of awake head-fixed male and female mice, we recorded neuronal activity during presentation of spectro-temporally rich moving ripple sounds, with deviant ripples embedded in either regular or random ripple sequences. AC neurons exhibited stronger responses to deviant sounds in regular contexts compared to random ones. To identify circuit mechanisms, we selectively inactivated parvalbumin (PV), somatostatin (SST), or vasoactive intestinal polypeptide (VIP) inhibitory neurons during the deviant stimulus presentation. Inactivation of PV and SST neurons broadly increased deviance responses in both contexts. In contrast, VIP inactivation selectively reduced responses to deviant stimuli in the regular, but not random, context, decreasing the context-dependent deviance signal enhancement. At the population level, inactivating all three neuronal subtypes increased detectability of the deviant stimulus, but the effects were context-dependent only for VIP inactivation. These findings reveal a distinct role for VIP neurons in modulating deviance signals based on context regularity, identifying a specific inhibitory neuron type that is critical for context-sensitive auditory processing and predictive coding. SIGNIFICANCE STATEMENT Understanding how the brain detects and responds to predictable and unexpected sounds is critical for communication and navigation in complex acoustic environments. Although prior studies have shown that detection of novel sounds is enhanced by regularity in background sound patterns, the underlying circuit mechanisms have remained unknown. Here, we find that neurons in the auditory cortex exhibit stronger deviance responses when the deviant sounds are embedded in regular, predictable sound sequences as compared to random sound sequences. Importantly, we identify a distinct role for specific inhibitory neurons in modulating this context-dependent enhancement. These findings reveal a new insight into how cortical circuits implement predictive coding strategies to optimize sensory processing.
-
-</details>
-
-#### [Feature-dependent decorrelation of sound representations across the auditory pathway](https://doi.org/10.1101/2025.04.17.649364)
-**Etienne Gosselin, Sophie Bagur, Sara Jamali, Jean-Luc Puel et al.** · 2025-04-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Early studies on orientation selectivity in the visual cortex have suggested that sensory systems generate new feature representations at specific processing stages. Many observations challenge this view, but in the absence of systematic, multistage measurements, the logic of how feature tuning emerges remains elusive. Here, using a generic approach based on representational similarity analysis with a noise-corrected population metric, we demonstrate in the mouse auditory system that feature representations evolve gradually with, in some cases, major, feature-specific improvements at particular stages. We observe that single frequency tuning is already fully developed in the cochlear nucleus, the first stage of processing, while tuning to higher-order features improves up to the auditory cortex, with major steps in the inferior colliculus for amplitude modulation frequency or noise bandwidth tuning and in the cortex for frequency modulation direction and for complex sound identity or direction. Moreover, we observe that intensity tuning is established in a feature-dependent manner, earlier for pure frequencies than for more complex sounds. This indicates that auditory feature computations are a mix of stepwise and gradual processes which together contribute to decorrelate sound representations.
-
-</details>
-
-#### [Survey of hippocampal responses to sound in naïve mice reveals widespread activation by broadband noise onsets](https://doi.org/10.1101/2025.04.15.649017)
-**James Bigelow, Toshiaki Suzuki, Yulang Wu, Ying Hu et al.** · 2025-04-20
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Recent studies suggest some hippocampal (HC) neurons respond to passively presented sounds in naïve subjects, but the specificity and prevalence of these responses remain unclear. We used Neuropixels probes to record unit activity in HC and auditory cortex (ACtx) of awake, untrained mice during presentation of diverse sound stimuli. A subset of HC neurons exhibited reliable, short-latency responses to passive sounds, including tones and broadband noise. HC units showed evidence of tuning for tone frequency but not spectrotemporal features in continuous dynamic moving ripples. Across sound types, HC responses overwhelmingly occurred at stimulus onset; they quickly adapted to continuous sounds and did not respond at sound offset. Among all sounds tested, broadband noise was by far most effective at driving HC activity, with response prevalence scaling with increasing spectral bandwidth and density. Responses to noise were also far more common than visual flash stimuli. Sound-evoked face movements, quantified by total facial motion energy (FME), correlated with population-level HC activity, but many individual units responded regardless of movement, indicating both auditory and motor-related inputs. These results show that abrupt, acoustic events are sufficient to activate HC neurons in the absence of learning or behavioral engagement. This suggests a possible role for HC in detecting salient environmental changes and supports the idea that auditory inputs contribute directly to HC function. Given emerging links between hearing loss and dementia, these findings highlight a potential pathway by which auditory deafferentation could impact cognitive health.
-
-</details>
-
 #### [Bird Sounds Recognition Based on Optoelectric Reservoir Computing](https://doi.org/10.1109/AINIT65432.2025.11035925)
 **Yingzhe Kou, Dianzuo Yue, Y. Hou, Siyu Li et al.** · 2025-04-11
 
@@ -2610,26 +2224,6 @@ Based on anecdotal evidence and research involving human observation and communi
 <summary>Abstract</summary>
 
 Abstract When compared to nature sounds, exposure to mechanical sounds evokes higher levels of perceptual and physiological arousal, prompting the recruitment of attentional and physiological resources to elicit adaptive responses. However, it is unclear whether these attributes are solely related to the sound intensity of mechanical sounds, since in most real-world scenarios, mechanical sounds are present at high intensities, or if other acoustic or semantic factors are also at play. We measured the Skin Conductance Response (SCR), reflecting sympathetic nervous system (SNS) activity as well as the pleasantness and eventfulness of the soundscape across two passive and active listening tasks in (N = 25) healthy subjects. The auditory stimuli were divided into two categories, nature, and mechanical sounds, and were manipulated to vary in three perceived loudness levels. As expected, we found that the sound category influenced perceived soundscape pleasantness and eventfulness. SCR was analysed by taking the mean level across the stimulus epoch, and also by quantifying its dynamic. We found that mean SCR was modulated by loudness only. SCR rise-time (a measure of speed of the skin response) correlated significantly with soundscape pleasantness and eventfulness for nature and mechanical sounds. This study highlights the importance of considering both loudness level and sound category in evaluating the perceptual soundscape, highlighting SCR as a valuable tool for such assessments. Impact statement Loud mechanical sounds are considered more unpleasant than nature sounds. This study examined whether loudness alone causes this effect or if the type of sound (e.g., mechanical vs. Nature) also plays a role. By measuring skin conductance reflecting the automatic and unconscious activation of the body’s autonomic system, we found that physical reactions are driven by loudness but also correlate with the listener’s judgement of the pleasantness and eventfulness (describing the perceived level of activity or stimulation) of a soundscape.
-
-</details>
-
-#### [Tonotopic Specialization of MYO7A Isoforms in Auditory Hair Cells](https://doi.org/10.1101/2025.04.01.646665)
-**Sihan Li, Jinho Park, Tobey M. Phan, Edward H. Egelman et al.** · 2025-04-03
-
-<details>
-<summary>Abstract</summary>
-
-1. Abstract Mutations in Myo7a cause Usher syndrome type 1B and non-syndromic deafness, but the precise function of MYO7A in sensory hair cells remains unclear. We identify and characterize a novel isoform, MYO7A-N, expressed in auditory hair cells alongside the canonical MYO7A-C. Isoform-specific knock-in mice reveal that inner hair cells primarily express MYO7A-C, while outer hair cells express both isoforms in opposing tonotopic gradients. Both localize to the upper tip-link insertion site, consistent with a role in the tip link for mechanotransduction. Loss of MYO7A-N leads to outer hair cell degeneration and progressive hearing loss. Cryo-EM structures reveal isoform-specific differences at actomyosin interfaces, correlating with distinct ATPase activities. These findings reveal an unexpected layer of molecular diversity within the mechanotransduction machinery. We propose that MYO7A isoform specialization enables fine-tuning of tip-link tension, thus hearing sensitivity, and contributes to the frequency-resolving power of the cochlea.
-
-</details>
-
-#### [Listening to Your Own Brain Waves Sound Enhances Your Sleep Quality and Quantity](https://doi.org/10.1101/2025.03.31.646309)
-**A. Aloulou, M. Chauvineau, A. Destexhe, D. Léger** · 2025-04-03
-
-<details>
-<summary>Abstract</summary>
-
-Abstract This pilot study examined the effects of relaxing personalized sound sequences (PSS), derived from individual slow-wave brain activity on sleep in adults with subjective insomnia complaints. Thirteen participants underwent one-night polysomnography to record delta wave activity (0.5–4 Hz), which was then transformed into individualized sound sequences. A randomized, single-blind, crossover protocol was then conducted at home, including two conditions of 3 to 5 consecutive nights: listening to the PSS and a non-personalized placebo sound sequence (PLA) for 30 minutes at bedtime. Objective sleep was assessed using a dry-electroencephalographic (EEG) headband and subjective sleep with a digital sleep diary. Compared to PLA, the PSS condition significantly increased total sleep time (Δ = +18.9 min, p = 0.05) and REM sleep proportion (Δ = +2.3%, p &lt; 0.05), reduced REM latency (Δ = -16.6 min, p &lt; 0.05) and improved overall sleep quality score (Δ = +1.4 A.U., p &lt; 0.05). Participants with the shorter sleep duration (&lt; 390 min, n = 5) and longer sleep onset latencies (&gt; 20 min, n = 4) in PLA condition experienced greater improvements with PSS. These preliminary results suggest that listening to one’s own slow brain waves converted into sound may improve both sleep quality and quantity in individuals with moderate insomnia, with potentially enhanced benefits for those with more severe sleep difficulties. Highlights Personalized soundtracks were created by transforming each participant’s N3 slow-wave activity into audio sequences to listen to before bedtime. Participants reported significantly better subjective sleep quality when listening to their own brainwave-based soundtracks compared to placebo. Objective measures increased total sleep time and REM sleep during nights with personalized sound exposure.
 
 </details>
 
@@ -2683,26 +2277,6 @@ Although Tamil Nadu is home to a wide variety of bird species, the absence of ea
 
 </details>
 
-#### [Predicting the Sound-Induced Flash Illusion: A Time-Window-of-Integration Approach](https://doi.org/10.1101/2025.03.19.644110)
-**Hans Colonius, Adele Diederich** · 2025-03-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The sound-induced flash illusion (SIFI) refers to the observation that pairing a single flash with 2 auditory beeps leads to the illusory perception of 2 visual stimuli (fission illusion). Susceptibility to the illusion depends on many factors like exact physical stimulus parameters, participants’ expectations, attention, age, and clinical/non-clinical population membership. While there exist many experimental studies, very few models have been proposed to account for the phenomenon. Here we suggest a formal model (SIFI-TWIN) based on the notion of a temporal binding window that predicts the occurrence of illusory flashes as a function of the temporal and physical stimulus arrangement. The model’s performance is illustrated on a study investigating differences in SIFI performance between elderly hearing aid users and those with the same degree of mild hearing loss who were not using hearing aids. The results suggests that the higher incidence of reporting an illusory flash for hearing-aid users is due to both a larger temporal window of integration and a larger bias to report the illusion. The SIFI-TWIN model will help to better understand the diverse results from clinical and non-clinical studies as well as the cognitive foundations of the SIFI.
-
-</details>
-
-#### [Flexibility and Neural Correlates of Action-Sound Predictions](https://doi.org/10.1101/2025.03.19.644065)
-**Fabian Aurich, Andreas Widmann, Tjerk T. Dercksen, Betina Korka et al.** · 2025-03-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract To interact efficiently with our environment, our brain predicts the sensory effects of our actions and compares them with the actual outcomes. This allows us to adapt our actions when predictions and sensory outcomes mismatch. While this process is generally well understood for action-sound predictions, it is an open question how flexibly these predictions can adapt in frequently changing environments, as they occur in real life. To investigate the flexibility of top-down predictions, we asked participants (N = 41) to press one of two buttons, a left-hand and a right-hand button, and switch hands autonomously. One button frequently produced a sound (80%) and rarely no sound. The other button frequently generated no sound (80%) and rarely produced a sound. In a third, separate condition, each button produced a sound in 50% of the trials. Unexpected sounds and unexpected sound omissions elicited a series of error-related brain responses in the electroencephalogram (EEG) at different levels of auditory processing, including a mismatch negativity (MMN) and the P3 complex for unexpected sounds, and the oN1, oN2, and oP3 complex for unexpected omissions. Moreover, unexpected sounds elicited an equivalent MMN—regardless of whether silence was expected (80%) or no reliable expectation was possible (50%), while later P3 components showed different amplitudes. Our results demonstrate flexible action-sound predictions at sensory and higher cortical levels. Furthermore, they indicate that predicted silence does not have an explicit sensory representation at lower levels but emerges at later stages, when higher-level information has been integrated.
-
-</details>
-
 #### [Methods of acoustic data processing affect species detectability in passive acoustic monitoring of multi‐species playback](https://doi.org/10.1111/ibi.13405)
 **Dominika Winiarska, Paweł Szymański, T. Osiejuk** · 2025-03-16
 
@@ -2710,16 +2284,6 @@ Abstract To interact efficiently with our environment, our brain predicts the se
 <summary>Abstract</summary>
 
 Passive acoustic monitoring (PAM) efforts have recently been accelerated by the development of automated detection tools, enabling quick and reliable analysis of recordings. However, automated methods are still susceptible to errors, and human processors achieve more accurate results. Our study evaluates the efficacy of three detection methods (auditory, visual and automated using BirdNET) for 43 European bird species (31 diurnal, 12 nocturnal), analysing the impact of various factors on detection probability over different distances. We conducted transmission experiments in two forest types from March to June, examining the effect of call characteristics, weather conditions and habitat features, to assess their impact on detection probability at different distances. Our findings reveal that species detection distance varies with each detection method, with listening to recordings obtaining the highest detectability, followed by the visual method. Although BirdNET is less accurate, it still proves useful for detection, especially for loud species. Large diurnal and small nocturnal species were most detected. Our study emphasizes the importance of considering detection methods to maximize species detectability for effective PAM research.
-
-</details>
-
-#### [Target deletion or holding on sections after enzyme digestion monitored with attenuation-of-sound images](https://doi.org/10.1101/2025.03.14.643196)
-**Katsutoshi Miura, Toshihide Iwashita** · 2025-03-16
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Tissues consist of various components and if these can be deleted or reserved, their location and proportion can be detected. Scanning acoustic microscopy (SAM) calculates the attenuation of sound (AOS) through tissue sections to obtain histological images without staining. AOS values are reduced as tissue components break down. Here, we digested specific components in tissues using enzymes and followed the process with AOS imaging over time. In addition, we applied specific dyes and antibodies to inhibit enzyme activity and maintain a specific component in the section. We used specific enzymes to degrade tissues that contain the enzyme’s substrate, such as collagenase for bone, elastase for skin and arteries, actinase for amyloid-positive cervical arteries and lymph nodes, amylase for the corpora amylacea (CA) of the brain and DNase and haematoxylin for adenocarcinomas. Collagenase digested bone and cartilage to clearly visualise the internal structure. The structural components had characteristic AOS values, which gradually decreased. Elastases break elastic fibres in the skin and arteries differently between young and old individuals. The dermis and tunica media of arteries in the elderly fracture more easily than those of younger individuals. Actinase digested the cervical artery except for amyloid deposits, which were preferentially detected by Congo red staining. Actinase-digested lymphoid cells remained horseradish peroxidase (HRP)-staining positive. Amylase digested some CAs, which became periodic acid-Schiff (PAS) staining negative and diminished in size by electron microscopy observation. Cell nuclei were digested and deleted by DNase except for those stained with HRP. Residual nuclear images of AOS matched those of light microscopy, and haematoxylin staining inhibited DNase digestion of the nucleus. Specific inhibition of enzymes preserved the target cells and materials. SAM observation can monitor the tissue breakdown process, which provides an advantage over light microscopy as no staining is required and exhibits higher sensitivity to detect fragile structures.
 
 </details>
 
@@ -3013,16 +2577,6 @@ Abstract The intensification and expansion of croplands are among the greatest t
 
 </details>
 
-#### [Deep Sound Synthesis Reveals Novel Category-Defining Sound Features in the Human Auditory Cortex](https://doi.org/10.1101/2025.02.14.638230)
-**Lidongsheng Xing, Elia Formisano, Lars Riecke** · 2025-02-14
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The human auditory system extracts meaning from the environment by transforming acoustic input signals into semantic categories. Specific acoustic features give rise to distinct categorical percepts, such as speech or music, and to spatially distinct preferential responses in the auditory cortex. These responses contain category-relevant information, yet their representational level and role within the acoustic-to-semantic transformation process remain unclear. We combined neuroimaging, a deep neural network, a brain-based sound synthesis, and psychophysics to identify the sound features that are internally represented in the speech- and music-selective human auditory cortex and test their functional role in sound categorization. We found that the synthetized sounds exhibit unnatural features distinct from those normally associated with speech and music, yet they elicit categorical cortical and behavioral responses resembling those of natural speech and music. Our findings provide new insights into the fundamental sound features underlying speech and music categorization in the human auditory cortex.
-
-</details>
-
 #### [Monitoring Grassland Bird Communities with Acoustic Indices](https://doi.org/10.3390/birds6010011)
 **Bethany L. Ostrom, M. Harner, Andrew J. Caven** · 2025-02-11
 
@@ -3194,16 +2748,6 @@ Abstract Highly pathogenic avian influenza viruses (HPAIV) of subtype H5N1 (clad
 <summary>Abstract</summary>
 
 Abstract Biodiversity is undergoing severe declines while threats to natural populations continue to escalate worldwide. Ambitious international commitments have been made to preserve biodiversity, with the goal of preventing extinctions and maintaining ecosystem resilience, yet the efficacy of large-scale protection remains unclear. Here we use a trait-based approach to show that global actions – such as the immediate abatement of all threats across at least half of species ranges for ∼10,000 bird species - will only prevent half of projected species extinctions and functional diversity loss attributable to current and future threats in the next 100 years. Nonetheless, targeted recovery programmes prioritizing protection of the 100 most functionally unique threatened birds could avoid 68% of projected functional diversity loss. Actions targeting ‘habitat loss and degradation’ will prevent the greatest number of species extinctions and proportion of functional diversity loss relative to other drivers of extinction, whereas control of ‘hunting and collection’ and ‘disturbance and accidental mortality’ would save fewer species but disproportionately boost functional richness. These findings show that conservation of avian diversity requires action partitioned across all drivers of decline, and highlights the importance of understanding and mitigating the ecological impacts of species extinctions predicted to occur even under optimistic levels of conservation action.
-
-</details>
-
-#### [PixlMap: A generalisable pixel classifier for cellular phenotyping in multiplex immunofluorescence images](https://doi.org/10.1101/2025.01.08.632002)
-**Rachel Louise Pennie, David Mason, Kai Rakovic, Fiona Ballantyne et al.** · 2025-01-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Multiplexed methods for the detection of protein expression generate extremely data-rich images of intact tissue sections. These images are invaluable for the quantification and analysis of complex biology and biomarker development. However, their interpretation presents a considerable analytical challenge. Cell segmentation from images is a key bottleneck and a major focus of research activity in artificial intelligence. Most current methods depend initially on the use of a nuclear counterstain to identify nuclear boundaries, which is a relatively straightforward task. The cellular boundary is then assigned either by expansion of the nuclear outline, or by the use of membrane or cytoplasm-specific stains to delineate cell boundaries, or by some combination of the two. The task is critical, as inaccurate segmentation leads to information loss and data contamination from neighbouring cells. Increasingly sophisticated methods are being developed to address these issues, but each has its own shortcomings. We present an alternative method which is inspired by the fact that the assignation of a cellular phenotype ‘by eye’ does not depend upon the accurate identification of cell boundaries. We present an easy-to-use deep learning-based cellular phenotyping method which leverages this human capacity to assign phenotypes without segmenting the entire cell, and which can accurately phenotype cells based on nuclear segmentation alone. Using human ground truth annotations of entire cellular regions, we developed a classifier leveraging the U-Net architecture within a commercially available deep learning image analysis platform, but the principle is transferrable to any deep-learning framework. Crucially, training requires only a single example of each compartmental stain (nuclear/cytoplasmic/membranous). The resulting algorithm assigns class identities to cells with nuclear labelling alone, without the need for whole cell expansion. The method is highly novel, broadly generalisable, and comparable in accuracy to intensity-based phenotyping methods, bridging the gap between inaccurate cellular segmentation and accurate phenotype generation.
 
 </details>
 
@@ -3434,26 +2978,6 @@ Abstract Large comparative datasets of avian functional traits have been used to
 
 </details>
 
-#### [Sound-Evoked Plasticity Differentiates Tinnitus from Non-Tinnitus Mice](https://doi.org/10.1101/2024.12.20.629689)
-**Emily M. Fabrizio-Stover, Christopher M. Lee, Douglas L. Oliver, Alice L. Burghard** · 2024-12-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Tinnitus is the perception of non-meaningful sound in the absence of external stimuli. Although tinnitus behavior in animal models is associated with altered central nervous system activity, it is not currently possible to identify tinnitus using neuronal activity alone. In the mouse inferior colliculus (IC), a subpopulation of neurons demonstrates a sustained increase in spontaneous activity after a long-duration sound (LDS). Here, we use the “ LDS test ” to reveal tinnitus-specific differences in sound-evoked plasticity through IC extracellular recordings and the auditory brainstem response (ABR LDS ) in CBA/CaJ mice after sound exposure and behavioral tinnitus assessment. Sound-exposed mice showed stronger and shorter tone-evoked responses in the IC compared to unexposed controls, but these differences were not strong predictors of tinnitus. In contrast, in the LDS test, non-tinnitus mice had a significantly stronger suppression in tone-evoked spike rate compared to tinnitus and unexposed control mice. ABR peak amplitudes also revealed robust differences between tinnitus and non-tinnitus mice, with ABR peaks from non-tinnitus mice exhibiting significantly stronger suppression in the LDS test compared to tinnitus and control mice. No significant differences were seen between cohorts in ABR amplitude, latency, wave V:I ratio, wave V:III ratio, I-V intra-peak latency, and I-VI intra-peak latency. We found high-frequency tone stimuli better suited to reveal tinnitus-specific differences for both extracellular IC and ABR recordings. We successfully used the LDS test to demonstrate that tinnitus-specific differences in sound-evoked plasticity can be shown using both multi-unit near-field recordings in the IC and non-invasive far-field recordings, providing a foundation for future electrophysiological research into the causes and treatment of tinnitus.
-
-</details>
-
-#### [Tonic sound-evoked motility of cochlear outer hair cells in mice with impaired mechanotransduction](https://doi.org/10.1101/2024.12.19.629412)
-**James B. Dewey** · 2024-12-20
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Cochlear outer hair cells (OHCs) transduce sound-induced vibrations of their stereociliary bundles into receptor potentials that drive changes in cell length. While fast, phasic OHC length changes are thought to underlie an amplification process required for sensitive hearing, OHCs also exhibit large tonic length changes. The origins and functional significance of this tonic motility are unclear. Here, in vivo cochlear vibration measurements reveal tonic, sound-induced OHC motility in mice with stereociliary defects that impair mechanotransduction and eliminate cochlear amplification. Tonic motility in impaired mice was physiologically vulnerable but weakly related to any residual phasic motility, possibly suggesting a dissociation between the underlying mechanisms. Nevertheless, a simple model demonstrates how tonic responses in both normal and impaired mice can result from asymmetric mechanotransduction currents and be large even when phasic motility is undetectable. Tonic OHC responses are therefore not unique to sensitive ears, though their potential functional role remains uncertain.
-
-</details>
-
 #### [Multispecies relations shape bird-feeding practices](https://doi.org/10.1101/2024.12.19.629318)
 **Tuomas Aivelo, Mikko Aulio, Johanna Enström, Purabi Deshpande et al.** · 2024-12-20
 
@@ -3560,18 +3084,6 @@ ABSTRACT Mixed-species flocks (MSF) represent an important form of social organi
 
 </details>
 
-#### [Identification of an Outbreak of Bivalve Transmissible Neoplasia in Soft-Shell Clams (
-                  <i>Mya arenaria</i>
-                  ) in the Puget Sound Using Hemolymph and eDNA Surveys](https://doi.org/10.1101/2024.12.03.626659)
-**Sydney A. Weinandt, Zachary J. Child, Dorothy Lartey, Angel Santos et al.** · 2024-12-07
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Bivalve transmissible neoplasia (BTN) is one of three known types of naturally transmissible cancer— cancers in which the whole cancer cells move from individual to individual, spreading through natural populations. BTN is a lethal leukemia-like cancer that has been observed throughout soft-shell clam ( Mya arenaria ) populations on the east coast of North America, with two distinct sublineages circulating at low enzootic levels in New England, USA, and Prince Edward Island, Canada. Major cancer outbreaks likely due to Mya arenaria BTN (MarBTN) were reported in 1980s and the 2000s and the disease has been observed since the 1970s, but it has not been observed in populations of this clam species on the US west coast. In 2022, we collected soft-shell clams from several sites in Puget Sound, Washington, USA, and unexpectedly found high prevalence of BTN in two sites (Triangle Cove on Camano Island and near Stanwood in South Skagit Bay). Prevalence of BTN increased in subsequent years, reaching &gt;75% in both sites in 2024, while it was not observed in other sites, suggesting the early stages of a severe disease outbreak following recent introduction. We observed that these cancer cells contain several somatic transposing insertion sites found only in the USA-sublineage of MarBTN, showing that it likely was recently transplanted from New England to this location. We then developed a sensitive environmental DNA (eDNA) assay, using qPCR to target somatic mutations in the MarBTN mitogenome, and showed that MarBTN can be detected in seawater at Triangle Cove, as well as several kilometers outside of the cove. We then used this assay to survey 50 sites throughout Puget Sound, confirming that the disease can be detected at high levels at Triangle Cove and South Skagit Bay, and showing that it extends beyond these known sites. However, while normal soft-shell clam mtDNA was widely detected, MarBTN was undetectable throughout most of Puget Sound and currently remains limited to the South Skagit Bay area and north Port Susan. These results identify a previously unknown severe outbreak of a transmissible cancer due to long-distance transplantation of disease from another ocean, and they demonstrate the utility of eDNA methods to track the spread of BTN through the environment.
-
-</details>
-
 #### [Structural-Semantic Analysis of Verbs and Nouns Representing Bird Vocalizations in M. Prishvin’s Artistic and Diary Heritage](https://doi.org/10.31857/s0131611724060067)
 **G. N. Abreimova, N. Borodina, Vladimir A. Burtsev** · 2024-12-06
 
@@ -3579,18 +3091,6 @@ ABSTRACT Bivalve transmissible neoplasia (BTN) is one of three known types of na
 <summary>Abstract</summary>
 
 This article investigates the linguistic means employed to convey avian vocal signals within M. Prishvin’s writer’s perspective. The study used the AntConc software and was conducted in two stages, resulting in the formation of the writer’s ornitophonosphere depiction as a complex, multi-level phenomenon. Initially, all ornithonyms encountered in M. Prishvin’s literary works and diary entries were identified, followed by an analysis of their most vivid verb-based and noun-based sound-descriptive lexemes. Authors adhere to traditional classification in describing bird sounds, enabling the differentiation of vocal diversity among avian species in M. Prishvin’s oeuvre based on loudness, intensity, pitch, timbre, tempo, and clarity. The application of corpus analysis of the collected data helped to create a comprehensive picture reflecting the multi-layered and individual ornithophonosphere of the writer, demonstrating his deep understanding and sensitive perception of the surrounding world. The analysis of lexical richness and linguistic finesse of M. Prishvin’s idiolect in capturing avian vocalizations not only reveals the writer’s unique approach to ornithological themes but also provides the readers with a deeper understanding of the true voice of nature through the prism of his artistic and diary heritage.
-
-</details>
-
-#### [Use of a predictor cue during a speech sound discrimination task in a
-                  <i>Cntnap2</i>
-                  knockout rat model of autism](https://doi.org/10.1101/2024.12.04.626861)
-**Tracy M. Centanni, Logun P. K. Gunderson, Monica Parra** · 2024-12-06
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Autism is a common neurodevelopmental disorder that despite its complex etiology, is marked by deficits in prediction that manifest in a variety of domains including social interactions, communication, and movement. The tendency of individuals with autism to focus on predictable schedules and interests that contain patterns and rules highlights the likely involvement of the cerebellum in this disorder. One candidate-autism gene is contact in associated protein 2 ( CNTNAP2 ), and variants in this gene are associated with sensory deficits and anatomical differences. It is unknown, however, whether this gene directly impacts the brain’s ability to make and evaluate predictions about future events. The current study was designed to answer this question by training a genetic knockout rat on a rapid speech sound discrimination task. Rats with Cntnap2 knockout (KO) and their littermate wildtype controls (WT) were trained on a validated rapid speech sound discrimination task that contained unpredictable and predictable targets. We found that although both genotype groups learned the task in both unpredictable and predictable conditions, the KO rats responded more often to distractors during training as well as to the target sound during the predictable testing conditions compared to the WT group. There were only minor effects of sex on performance and only in the unpredictable condition. The current results provide preliminary evidence that removal of this candidate-autism gene may interfere with the learning of unpredictable scenarios and enhance reliance on predictability. Future research is needed to probe the neural anatomy and function that drives this effect.
 
 </details>
 
@@ -3691,36 +3191,6 @@ Abstract As the auditory brain becomes functional during the third trimester of 
 <summary>Abstract</summary>
 
 Abstract Vertebrate gut microbiome has significant effects on host development, health, and fitness. Multiple external factors contribute to gut microbiome variation, and the role of ambient temperature has gained increasing attention. Yet, temperature effects are often tested in extremes and in captive systems. We experimentally studied the effect of subtle temperature decreases during post-natal development on gut microbiome diversity and composition in wild pied flycatchers ( Ficedula hypoleuca) . We also performed partial cross-fostering to study the relative contribution of genetic and rearing environment on microbiome. Nest-box cold treatment did not influence gut microbiome diversity or composition, which may be due to the small temperature change, ontogenetic stage, or other factors, such as diet, causing large variation in the data. Rearing environment explained more of the variation in gut microbiome than genetic background, but the variance explained was relatively small. Future studies need to further address the drivers of the large intraspecific variation in microbiome in natural populations.
-
-</details>
-
-#### [Shaping the developing homunculus: the roles of deprivation and compensatory behaviour in sensory remapping](https://doi.org/10.1101/2024.11.26.624817)
-**Raffaele Tucciarelli, Laura Bird, Zdenek Straka, Maggie Szymanska et al.** · 2024-11-26
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Some of the most dramatic examples of neuroplasticity in the human brain follow congenital sensory deprivation, though we have limited understanding of the plasticity mechanisms driving such large-scale remapping. Hand loss due to congenital limb differences (CLD) offers a unique temporal dissociation of developmental neuroplasticity mechanisms: While sensory deprivation is congenital, compensatory motor behaviours develop progressively across childhood. Using paediatric neuroimaging and semi-ecological behavioural analysis in children (5-7 years old) and adults (&gt;25 years old) with unilateral upper-limb CLD, we studied deprivation- and use-dependent plasticity in the deprived primary somatosensory cortex and beyond. We reveal that global remapping, encompassing the entire sensory homunculus, is established early and maintained in adulthood. We demonstrate that deprivation-driven homeostatic plasticity can drive this global remapping, with Hebbian-based compensatory learning further contributing to inter-individual differences both in childhood and adulthood. Our findings emphasise the early establishment and stability of cortical maps, despite extensive daily-life behavioural adaptation.
-
-</details>
-
-#### [Understanding the influence of leadership, organisation, and policy on delivering an integrated child health and social care service in community settings: A qualitative exploration using the SELFIE framework](https://doi.org/10.1101/2024.11.20.24317624)
-**I Litchfield, L Harper, S Abbas, F Dutton et al.** · 2024-11-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background The Sparkbrook Children’s Zone is an example of a place-based integrated health and social care service developed to support children and young people living in marginalized populations in the United Kingdom. This model of care is expected to address both clinical need and the social determinants of health but evidence of the practical support needed is lacking. Objective To understand the infrastructural challenges of providing a service combining clinical and non-clinical staff from a range of organisations and settings. Methods A qualitative exploration of the experiences of staff delivering the service and used a directed content analysis to present the results within the Sustainable integrated chronic care model for multi-morbidity: delivery, financing, and performance (SELFIE) framework. Results A total of 14 staff were interviewed including clinicians, social care providers, local voluntary groups, and school-based family mentors. Participants described the gap between system-level integration and the lack of practical support for delivering a unified service on the ground; the training opportunities afforded by collocation; the complexity of securing staff from multiple employers using various funding sources; and the need for lengthier evaluations that extend beyond early instability. Conclusions Despite decades of structural reform aimed at integrating the health and social care system in the UK, there was a surprising lack of practicable support for delivering a place-based integrated health and social care service. Their delivery is also hindered by short-term funding cycles limiting the reliability of evidence gathered from complex and evolving services. Research in Context What is already known about the topic? Policymakers and commissioners in health systems worldwide are encouraging greater collaboration between health services, social care providers, and voluntary, community and faith sector groups to improve health outcomes and more effectively address the social determinants of health. Work on how precisely these integrated services might be configured is in its infancy and evidence of best practice is inconsistent. What does this study add to the literature? Participants described the gap between structural integration at system level and the lack of established process or infrastructure necessary to support a unified service on the ground. Those working in the service described how observational on-the-job training helped them understand the elements being delivered by different sectors. The complexity of negotiating with multiple employers and funding sources to secure staff was described, alongside the need for a lengthier period of evaluation that extends beyond short-term funding cycles. What are the policy implications? In the UK, policies for integrated care have resulted in the integration of high-level processes such as commissioning, strategic planning and financing. They now need to address practicable issues of infrastructure, targeted funding and administrative process necessary to support frontline provision of integrated care.
-
-</details>
-
-#### [Regional heterogeneities of oligodendrocytes underlie biased Ranvier node spacing along single axons in sound localization circuit](https://doi.org/10.1101/2024.11.20.624589)
-**Ryo Egawa, Kota Hiraga, Ryosuke Matsui, Dai Watanabe et al.** · 2024-11-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Spacing of Ranvier nodes along myelinated axons is a critical determinant of conduction velocity, influencing spike arrival timing and hence neural circuit function. In the chick brainstem auditory circuit, the pattern of nodal spacing varies regionally along single axons, enabling precise binaural integration for sound localization. Using this model, we investigated the potential factors underlying the biased nodal spacing pattern. 3D morphometry revealed that these axons were almost fully myelinated by oligodendrocytes exhibiting distinct morphologies and cell densities across regions after hearing onset. The structure of axons did not affect internodal length. Inhibiting vesicular release from the axons did not affect internodal length or oligodendrocyte morphology, but caused unmyelinated segments on the axons by suppressing oligodendrogenesis near the presynaptic terminals. These results suggest that the regional heterogeneity in the intrinsic properties of oligodendrocytes is a prominent determinant of the biased nodal spacing pattern in the sound localization circuit, while activity-dependent signaling supports the pattern by ensuring adequate oligodendrocyte density. Our findings highlight the importance of oligodendrocyte heterogeneity in fine-tuning neural circuit function.
 
 </details>
 
@@ -3920,26 +3390,6 @@ This research paper presents an advanced methodology for the automated detection
 
 </details>
 
-#### [Perceptual discrimination of complex objects: APOE e4 gene-dose effects in mid-life](https://doi.org/10.1101/2024.10.18.24315682)
-**Claire Lancaster, Sam Berens, Jessica Daly, Jennifer Rusted et al.** · 2024-10-18
-
-<details>
-<summary>Abstract</summary>
-
-Abstract INTRODUCTION Complex perceptual discrimination is supported by tau-vulnerable regions of the medial temporal lobe; notably the perirhinal cortex. This research tests whether there is a gene-dose effect of Apolipoprotein e4 on perceptual discrimination in mid-life. METHODS 313 adults (45-65 years; grouped by APOE e4 gene-dose (142 APOE33, 135 APOE34, 36 APOE44)) completed a Greebles ‘odd-one-out’ task. RESULTS APOE44 carriers were significantly less accurate in their perceptual judgements than APOE33 and APOE34 individuals. There was a significant Age x APOE e4 gene-dose interaction in response speed, with the slope of age-related slowing increasing stepwise with the number of e4 alleles carried. Estimates suggest high-risk individuals are quicker than the APOE33 control group until age 54, but slower thereafter. DISCUSSION Perceptual disadvantages specific to APOE44 individuals suggest this high-risk group show compromised MTL-function by mid-life, potentially through accelerated tau-aggregation. Task performance in APOE34 carriers is relatively preserved across the studied age range. Research in Context Systematic review: A review of the literature (e.g., PubMed; Google Scholar databases) revealed perceptual discrimination is impaired in the mild to moderate stages of Alzheimer’s Disease. No prior study, however, tests for an effect of APOE e4 gene-dose in healthy adulthood. Interpretation: Homozygous carriers of an APOE e4 genetic risk variant show perceptual disadvantages in mid-life. This may possibly reflect compromised MTL-function in this group, consistent with the theory perceptual discrimination will be vulnerable to early transentorhinal tau-accumulation. There is limited evidence of impairment in individuals carrying one copy of APOE e4 in mid-life. Future directions: Whether transentorhinal and hippocampal tau mediates the relationship between APOE e4 gene-dose and perceptual discrimination remains to be established. Future research may also explore the utility of perceptual discrimination tasks in clinical trials targeting the preclinical stages of Alzheimer’s Disease.
-
-</details>
-
-#### [Convergent evolution of epigenome recruited DNA repair across the Tree of Life](https://doi.org/10.1101/2024.10.15.618488)
-**J. Grey Monroe, Chaehee Lee, Daniela Quiroz, Mariele Lensink et al.** · 2024-10-18
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Mutations fuel evolution while also causing diseases like cancer. Epigenome-targeted DNA repair can help organisms protect important genomic regions from mutation. However, the adaptive value, mechanistic diversity, and evolution of epigenome-targeted DNA repair systems across the tree of life remain unresolved. Here, we investigated the evolution of histone reader domains fused to the DNA repair protein MSH6 (MutS Homolog 6) across over 4,000 eukaryotes. We uncovered a paradigmatic example of convergent evolution: MSH6 has independently acquired distinct histone reader domains; PWWP (metazoa) and Tudor (plants), previously shown to target histone modifications in active genes in humans (H3K36me3) and Arabidopsis (H3K4me1). Conservation in MSH6 histone reader domains shows signatures of natural selection, particularly for amino acids that bind specific histone modifications. Species that have gained or retained MSH6 histone readers tend to have larger genome sizes, especially marked by significantly more introns in genic regions. These patterns support previous theoretical predictions about the co-evolution of genome architectures and mutation rate heterogeneity. The evolution of epigenome-targeted DNA repair has implications for genome evolution, health, and the mutational origins of genetic diversity across the tree of life. Short Summary Fusions between histone reader domains and the mismatch repair protein MSH6 have evolved multiple times across Eukaryotes and show evidence of selection, providing mechanistic and theoretical insight into the forces shaping genomic mutation rate heterogeneity.
-
-</details>
-
 #### [WingsSL: Integrated Approach for the Detection and Conservation of Birds in Sri Lanka](https://doi.org/10.1109/UEMCON62879.2024.10754737)
 **R. Rajapaksha, D.C. Gonapoladeniya, H. Peiris, H.P.N.S. Siriwardana et al.** · 2024-10-17
 
@@ -3992,16 +3442,6 @@ Abstract Several hypotheses have been proposed on the anatomical brain differenc
 
 </details>
 
-#### [Prospective Quantification of Tricuspid Regurgitation with Echocardiography vs 4D Flow Cardiac Magnetic Resonance](https://doi.org/10.1101/2024.10.11.24315310)
-**Agata Sularz, Ahmed S. Negm, Alejandra Chavez-Ponce, Ahmed El Shaer et al.** · 2024-10-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Introduction Cardiac magnetic resonance (CMR) is a valuable tool in the assessment of valvular disease. However, its utilization in tricuspid regurgitation (TR) evaluation has been limited. We sought to compare TR grading with 4D-CMR and transthoracic echocardiography (TTE). Methods We prospectively recruited patients with ≥moderate TR on TTE to undergo multiparametric CMR with integrated cardiac function and 4D flow assessments using a 1.5-T scanner (Siemens Somatom Aera, Erlangen, Germany). Patients with other severe valvulopathy, end-stage renal disease, or pacemakers were excluded. TR was graded severe on CMR when TR volume ≥45 mL, and/or TR fraction ≥50%. The weighted kappa test was used to assess the agreement in overall TR grading on TTE and MR. Results Fifty-two patients were enrolled (mean age 78.5±7.6 years, 53.8% men). The median interval between CMR and TTE was 2 days (IQR=1-37). The agreement between TTE and CMR-derived TR volume was fair (kappa = 0.28, 95%CI 0.13-0.45), with only 10 of 31 patients (32%) with ≥severe TR on TTE meeting severe TR volume criterion on CMR (TR volume ≥45 ml). There was no agreement between TTE and CMR-derived TR fraction (kappa=0.04, 95%CI 0.13-0.46) with only 3 of 31 patients (13%) with ≥severe TR on TTE meeting severe TR criterion on CMR (TR fraction ≥50%). Conclusion Grading of TR was frequently discordant between TEE and 4D-MRI. Further studies are needed to elucidate the clinical impact of concordant/discordant TR grading on multi-modality imaging.
-
-</details>
-
 #### [Snake-like bird hisses induce anti-predator responses in a frog](https://doi.org/10.1186/s12862-024-02312-4)
 **Longhui Zhao, Yuanyu Qin, Yanjun Jin, Jichao Wang et al.** · 2024-10-12
 
@@ -4025,26 +3465,6 @@ Birds play a pivotal role in ecosystem and biodiversity research, and accurate b
 #### [Effects of a large-scale bioretention installation on the species composition of an urban bird community as determined by passive acoustic monitoring](https://doi.org/10.1007/s10661-024-13143-7)
 **David Wituszynski, Donald Hayford, Angelika Poesel, Gautam Apte et al.** · 2024-10-09
 
-
-#### [Cholecystokinin-expressing GABA neurons elicit long-term potentiation in the cortical inhibitory synapses and attenuate sound-shock associative memory](https://doi.org/10.1101/2024.10.08.617188)
-**Ge Zhang, Kwok Kin Pang, Xi Chen, Fengwen Huang et al.** · 2024-10-08
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Neuronal interactions between inhibitory and excitatory neurons play a pivotal role in regulating the balance of excitation and inhibition in the central nervous system (CNS). Consequently, the efficacy of inhibitory/excitatory synapses profoundly affects neural network processing and overall neuronal functions. Here, we describe a novel form of long-term potentiation (LTP) induced at cortical inhibitory synapses and its behavioral consequences. We show that high-frequency laser stimulation (HFLS) of GABAergic neurons elicit inhibitory LTP (i-LTP) in pyramidal neurons of the auditory cortex (AC). The selective activation of cholecystokinin-expressing GABA (GABA CCK ) neurons is essential for the formation of HFLS-induced i-LTP, rather than the classical parvalbumin (PV) neurons and somatostatin (SST) neurons. Intriguingly, i-LTP can be evoked in the AC by adding the exogenous neuropeptide CCK when PV neurons and SST neurons are selectively activated in PV-Cre and SST-Cre mice, respectively. Additionally, we discovered that low-frequency laser stimulation (LFLS) of PV neurons paired with HFLS of GABA CCK neurons potentiates the inhibitory effect of PV interneurons on pyramidal neurons, thereby generating heterosynaptic i-LTP in the AC. Notably, light activation of GABA CCK neurons in CCK-Cre mice significantly attenuates sound-shock associative memory, while stimulation of PV neurons does not affect this memory in PV-Cre mice. In conclusion, these results demonstrate a critical mechanism regulating the excitation-inhibition balance and modulating learning and memory in cortical circuits. This mechanism might serve as a potential target for the treatment of neurological disorders, including epilepsy and Alzheimer’s disease.
-
-</details>
-
-#### [Understanding the influences on the design and delivery of an integrated child health and social care service in underserved communities in the UK: A qualitative exploration using the SELFIE framework](https://doi.org/10.1101/2024.10.03.24314613)
-**I Litchfield, L Harper, S Abbas, F Dutton et al.** · 2024-10-07
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background The UK’s National Health Service has provided funds for developing localized services integrating health and social care intended to address the health inequities prevalent in children and young people living in marginalized communities. However, little is understood of the factors that influence their design and delivery, nor which combined health and social care models are most effective. Objective To use evidence drawn from staff delivering a collocated integrated health and social support service to inform future integrated care offers. Methods A qualitative exploration of staff experience using a directed content analysis to populate and present the results within the Sustainable integrated chronic care model for multi-morbidity: delivery, financing, and performance (SELFIE) framework. The analysis presented here focusses on the domain of Service delivery , predominantly relating to the content and access of care. Results A total of 14 staff were interviewed: clinicians from primary and secondary care, social care providers, local voluntary groups, and school-based family mentors. Participants described at the Micro- level how the service increased engagement of families and facilitated referral to social support and preventative care; at a Meso- level the benefits of collocation, collaborative working, and community outreach were described. Finally at the Macro level, improvements to the access and availability of appropriate care were observed. Conclusions The pilot appeared to deliver multiple benefits for both patients and staff and the broader health economy particularly through collocating health care and social support. However, sustainable integrated care requires greater institutional commitment and leadership. Research in Context What is already known abou t the topic? In the UK, the National Health Service England has been reorganised to facilitate closer collaboration between health and social care organisations. This includes prioritizing and funding localized services that integrate multiple strands of clinical, preventative and social care. Despite these policy intentions there are few lasting examples that have produced practical learning of which the ‘Sparkbrook Children’s Zone’ is one. What does this study add to the literature? Participants described how school outreach, the multidisciplinary team, and extended consultation times increased engagement of underserved families. The collocation of health and social support, both improved referral rates and allowed for more personalised care. Despite the positive experience of staff and patients and the improvement in access and availability of health and social care there was a perceived lack of support at a system level. What are the policy implications? Carefully fostered links with local schools meant the service was better able to identify and reach vulnerable families earlier and helped address issues of trust around mainstream healthcare that can exist in underserved populations. The collocation of social support allowed for direct same-visit referrals between services and the chance to address underlying issues.
-
-</details>
 
 #### [A sound recognition algorithm to filter non construction site noise](https://doi.org/10.3397/in_2024_2628)
 **Alexis Bigot** · 2024-10-04
@@ -4128,26 +3548,6 @@ ABSTRACT Context. Biodiversity is declining worldwide, with many species decreas
 
 </details>
 
-#### [Psilocybin prevents habituation to familiar stimuli and preserves sensitivity to sound following repeated stimulation in mouse primary auditory cortex](https://doi.org/10.1101/2024.09.27.614985)
-**Conor P. Lane, Veronica M. Tarka, Olivier Valentin, Alexandre Lehmann et al.** · 2024-09-30
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Psilocybin, a psychoactive substance derived from fungi, has been utilized historically by diverse cultures for both medicinal and non-medicinal purposes, owing to its ability to elicit profound sensory and cognitive alterations and sustain long-term changes in mood and cognition. Promising results from recent clinical studies have generated a wave of interest in employing psilocybin to treat neuropsychiatric and neuro-degenerative conditions. How psychedelics cause acute perceptual effects, and how these relate to long-lasting alterations is still debated. Whereas it is thought that perceptual disturbances may be caused by disrupted flow of information between sensory and higher order areas, in vivo studies have focused mostly on the latter. In particular, there has been little study of how psilocybin affects sensory representations in primary auditory cortex (A1). We used two-photon microscopy and wide field calcium imaging to examine how psilocybin affects A1 neuron response properties in the mouse. Administration of 1 mg/kg psilocybin prevented habituation of sound-evoked responses to repeated stimuli, maintaining overall responsiveness, bandwidth, and sound-level response thresholds after repeated stimulation. This was in contrast to marked habituation of responses and narrowing of tuning in controls. We observed no effect on overall distribution of best frequencies at the cortical level, suggesting psilocybin in A1 disrupts normal sensory gating, rather than tonotopic organization. This supports models of psychedelic action in which perceptual disturbances are driven by disrupted hierarchical sensory gating. With further research, influences of psychedelics on sensory representations could be harnessed to target maladaptive sensory processing in conditions such as tinnitus. Significance Statement Despite its role in altering auditory sensory perception, the impact of psilocybin on modulating neuronal activity in the auditory cortex remains understudied. This study is the first to identify an inhibition of normal auditory habituation to repeated stimuli with single-neuron resolution. We identify a role for psilocybin in the targeted, context-dependent modulation of auditory sensory neural tuning properties, which may help to explain how disruption of hierarchical control of sensory representations leads to perceptual disturbances. With further work, this influence on sensory representations could be used to target conditions where maladaptive sensory processing leads to deleterious health outcomes.
-
-</details>
-
-#### [Integrating health care and early years support for children and young people living in deprivation: A cost effectiveness analysis of a novel integrated clinic in Birmingham, UK](https://doi.org/10.1101/2024.09.26.24314416)
-**Melyda Melyda, Mark Monahan, Chris Bird, Tracy Roberts et al.** · 2024-09-26
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background Increased use of emergency and secondary care by children and young people, especially in deprived populations, drive increased costs in health and social care systems in rich country settings, without necessarily delivering quality care. Aim To assess the potential cost-effectiveness of the Sparkbrook’s Children Zone (SCZ), a pilot clinic for children and young people which integrates health and early years support in a highly deprived area of Birmingham, the UK’s second city, compared with standard primary care. Methods A decision-analytic model taking healthcare and partial social care perspective was developed using best available, though limited, evidence from aggregated data of an ongoing pilot, published literature, expert opinions and assumptions. Effectiveness was measured as proportion of patients attending the emergency department. Deterministic and probabilistic sensitivity analyses were performed to assess the impact of parameter uncertainties. Results The integrated SCZ clinic may potentially be cost-effective based on this preliminary model-based analysis. The SCZ had lower proportion of patients attending emergency department, 0.017 compared with 0.029 for standard primary care, reducing proportion of emergency department visits by 0.012. The average cost of SCZ was £66.22 compared with £110.36 for standard primary care, leading to a cost-saving of £44.08 per patient. This potential reduction in total costs resulting from fewer referrals to children’s social care and secondary medical services, including the emergency department. Extensive sensitivity analysis supported the indications that the intervention was likely to be cost-effective. Conclusion The SCZ pilot shows potential in integrating health and social care within a community setting, with Its early years services likely enhancing the cost-effectiveness of the SCZ compared to standard primary care. Further robust data and trial evaluation are essential to confirm these findings, ensuring the scalability and sustainability of such programs.
-
-</details>
-
 #### [A persistent bacterial
                   <i>Regiella</i>
                   transinfection in the bird cherry-oat aphid
@@ -4159,16 +3559,6 @@ Abstract Background Increased use of emergency and secondary care by children an
 <summary>Abstract</summary>
 
 Abstract The bird cherry-oat aphid, Rhopalosiphum padi , is a major pest of agriculture due to its ability to directly damage crops and transmit plant viruses. As industries move away from chemical pest control, there is interest in exploring new options to suppress the impact of this pest. Here we describe the production of a transinfected line of R. padi carrying the bacterial endosymbiont, Regiella insecticola , originating from the green peach aphid, Myzus persicae . We show that Regiella increases the fitness of its novel host despite decreasing fitness in its native host. Regiella also shows a low level of horizontal transmission. Importantly the infection suppresses the ability of R. padi to transmit the barley yellow dwarf virus which damages wheat plants. This transinfection could be released to suppress virus transmission by aphids with its ability to persist and spread, making it potentially suitable for wide area release.
-
-</details>
-
-#### [Cardiovascular Disease-Associated Non-Coding Variants Disrupt GATA4-DNA Binding and Regulatory Functions](https://doi.org/10.1101/2024.09.19.613959)
-**Edwin G. Peña-Martínez, Jean L. Messon-Bird, Jessica M. Rodríguez-Ríos, Rosalba Velázquez-Roig et al.** · 2024-09-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Genome-wide association studies have mapped over 90% of cardiovascular disease (CVD)-associated variants within the non-coding genome. Non-coding variants in regulatory regions of the genome, such as promoters, enhancers, silencers, and insulators, can alter the function of tissue-specific transcription factors (TFs) proteins and their gene regulatory function. In this work, we used a computational approach to identify and test CVD-associated single nucleotide polymorphisms (SNPs) that alter the DNA binding of the human cardiac transcription factor GATA4. Using a gapped k-mer support vector machine (GKM-SVM) model, we scored CVD-associated SNPs localized in gene regulatory elements in expression quantitative trait loci (eQTL) detected in cardiac tissue to identify variants altering GATA4-DNA binding. We prioritized four variants that resulted in a total loss of GATA4 binding (rs1506537 and rs56992000) or the creation of new GATA4 binding sites (rs2941506 and rs2301249). The identified variants also resulted in significant changes in transcriptional activity proportional to the altered DNA-binding affinities. In summary, we present a comprehensive analysis comprised of in silico, in vitro, and cellular evaluation of CVD-associated SNPs predicted to alter GATA4 function. Graphical Abstract Highlights An integrative computational approach combining functional genomics data and machine learning was implemented to prioritize potential causal genetic variants associated with cardiovascular disease (CVD). We prioritized and validated CVD-associated SNPs that created or destroyed genomic binding sites of the cardiac transcription factor GATA4. Changes in GATA4-DNA binding resulted in significant changes in GATA4-dependent transcriptional activity in human cells. Our results contribute to the mechanistic understanding of cardiovascular disease-associated non-coding variants impacting GATA4 function.
 
 </details>
 
@@ -4223,26 +3613,6 @@ Abstract BirdNET has become a leading tool for recognising bird species in audio
 <summary>Abstract</summary>
 
 Abstract Loz1 is a zinc-responsive transcription factor in fission yeast that maintains cellular zinc homeostasis by repressing the expression of genes required for zinc uptake in high zinc conditions. Previous deletion analysis of Loz1 found a region containing two tandem C 2 H 2 zinc-fingers and an upstream “accessory domain” rich in histidine, lysine, and arginine residues to be sufficient for zinc-dependent DNA binding and gene repression. Here we report unexpected biophysical properties of this pair of seemingly classical C 2 H 2 zinc fingers. Isothermal titration calorimetry and NMR spectroscopy reveal two distinct zinc binding events localized to the zinc fingers. NMR spectra reveal complex dynamic behavior in this zinc responsive region spanning time scales from fast 10 −12 -10 −10 to slow &gt; 10 0 sec. Slow exchange due to cis-trans isomerization of the TGERP linker results in doubling of many signals in the protein. Conformational exchange on the 10 −3 s timescale throughout the first zinc finger distinguishes it from the second and is linked to weaker affinity for zinc. These findings reveal the mechanism of zinc sensing by Loz1 and illuminate how the protein’s rough free-energy landscape enable zinc sensing, DNA binding and regulated gene expression.
-
-</details>
-
-#### [Increased listening effort and decreased speech discrimination at high presentation sound levels in acoustic hearing listeners and cochlear implant users](https://doi.org/10.1101/2024.09.20.614145)
-**Chengjie G. Huang, Natalie A. Field, Marie-Elise Latorre, Samira Anderson et al.** · 2024-09-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The sounds we experience in our everyday communication can vary greatly in terms of level and background noise depending on the environment. Paradoxically, increasing the sound intensity may lead to worsened speech understanding, especially in noise. This is known as the “Rollover” phenomenon. There have been limited studies on rollover and how it is experienced differentially across aging groups, for those with and without hearing loss, as well as cochlear implant (CI) users. There is also mounting evidence that listening effort plays an important role in challenging listening conditions and can be directly quantified with objective measures such as pupil dilation. We found that listening effort was modulated by sound level and that rollover occurred primarily in the presence of background noise. The effect on listening effort was exacerbated by age and hearing loss in acoustic listeners, with greatest effect in older listeners with hearing loss, while there was no effect in CI users. The age- and hearing-dependent effects of rollover highlight the potential negative impact of amplification to high sound levels and therefore has implications for effective treatment of age-related hearing loss.
-
-</details>
-
-#### [Stigma longevity is not a major limiting factor in hybrid wheat seed production](https://doi.org/10.1101/2024.09.13.612789)
-**Marina Millan-Blanquez, James Simmonds, Nicholas Bird, Yann Manes et al.** · 2024-09-18
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Hybrids offer a promising approach to improve crop performance because the progeny are often superior to their parent lines and they outyield inbred varieties. A major challenge in producing hybrid progeny in wheat, however, lies in the low outcrossing rates of the maternal parent. This is often attributed to suboptimal synchronisation of male and female flowering as delayed pollination can result in reproductive failure due to female stigma deterioration. To test this accepted dogma, we examined the seed set capacity of six male sterile (MS) cultivars, each varying in the onset of stigma deterioration. To mimic a hybrid seed production scenario, MS cultivars were grown during two consecutive field seasons, and open pollination was allowed up to 15 days after flowering of the female parent using a blend of seven male fertile cultivars with varying flowering times. Detailed analysis of the temporal and spatial distribution of hybrid seed set along the spike across the six MS cultivars showed that grain production remained remarkably stable during the pollination window tested. These findings suggest sustained receptivity of stigma to pollen across all tested MS cultivars throughout the entire time course. We therefore conclude that stigma longevity does not represent a limiting factor in hybrid wheat seed production, and that breeding efforts should prioritise the study of other female traits, such as enhanced access to airborne pollen.
 
 </details>
 
@@ -4323,16 +3693,6 @@ Bird invasion will reduce the yield of high-value crops, which threatens the hea
 <summary>Abstract</summary>
 
 Sound symbolism, the idea that the sound of a word alone can convey its meaning, is often studied using auditory pseudowords. For example, people reliably assign the auditory pseudowords /bouba/ and /kiki/ to rounded and pointed shapes, respectively. Previously we showed that representational dissimilarity matrices (RDMs) of the shape ratings of auditory pseudowords correlated significantly with RDMs of acoustic parameters reflecting spectro-temporal variations; the ratings also correlated significantly with voice quality features. Here, participants rated auditory pseudowords on scales representing categorical opposites across seven meaning domains, including shape. Examination of the relationships of the perceptual ratings to spectro-temporal and vocal parameters of the pseudowords essentially replicated our previous findings for shape while varying patterns emerged for the other domains. Thus, the spectro-temporal and vocal properties of spoken pseudowords contribute differentially to sound-symbolic mapping depending on the meaning domain.
-
-</details>
-
-#### [Musical training does not enhance neural sound encoding at early stages of the auditory system: A large-scale multisite investigation](https://doi.org/10.1101/2024.09.02.610856)
-**Kelly L. Whiteford, Lucas S. Baltzell, Matt Chiu, John K. Cooper et al.** · 2024-09-04
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Musical training has been associated with enhanced neural processing of sounds, as measured via the frequency following response (FFR), implying the potential for human subcortical neural plasticity. We conducted a large-scale multi-site preregistered study (n &gt; 260) to replicate and extend the findings underpinning this important relationship. We failed to replicate any of the major findings published previously in smaller studies. Musical training was related neither to enhanced spectral encoding strength of a speech stimulus (/da/) in babble nor to a stronger neural-stimulus correlation. Similarly, the strength of neural tracking of a speech sound with a time-varying pitch was not related to either years of musical training or age of onset of musical training. Our findings provide no evidence for plasticity of early auditory responses based on musical training and exposure.
 
 </details>
 
@@ -4491,37 +3851,6 @@ The western black-crested gibbon (Nomascus concolor) is a rare and endangered pr
 
 </details>
 
-#### [Reciprocal cross-feeding between bacteria can limit the emergence of metabolic dependencies](https://doi.org/10.1101/2024.08.19.608702)
-**Ying-Chih Chuang, Megan G. Behringer, Gillian Patton, Jordan T. Bird et al.** · 2024-08-19
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Cross-feeding is prevalent in microbial communities. Through time, cross-feeding is thought to enrich for loss-of-function mutations, thereby creating or reinforcing dependencies between community members. However, few studies have compared how cross-feeding affects the evolutionary trajectory of partners compared to monoculture conditions. Here we compared mutations that were differentially enriched in bacterial monocultures versus cocultures pairing phototrophic Rhodopseudomonas palustris with fermentative Escherichia coli in an obligate cross-feeding relationship based on the exchange of nitrogen and carbon for 650-800 generations. Opposite trends for the number of differentially enriched mutations were observed for each species; R. palustris accumulated more unique mutations in monoculture whereas E. coli accumulated more unique mutations in coculture. Contrary to expectations, the emergence of additional dependencies was more apparent for both species in monoculture, even though additional layers of cross-feeding involving iron and adenine were present in coculture. We reasoned that iron and adenine cross-feeding occurred at levels sufficient to repress gene expression in the recipient, thereby promoting gene retention by lowering gene cost. Thus, the influence of cross-feeding on evolutionary trajectories can vary with organisms and conditions, and there are situations where cross-feeding can limit, rather than promote, emergent dependencies. IMPORTANCE Bacteria commonly engage in cross-feeding where nutrients are transferred between neighbors. Cross-feeding is thought to alleviate energy expenditures for genes whose role can be met by cross-fed nutrients, leading to eventual gene loss. However, few examples have been documented, especially in comparison to monocultures where bacteria are grown without a cross-feeding partner. Here we grew cocultures pairing phototrophic Rhodopseudomonas palustris with fermentative Escherichia coli alongside corresponding monocultures for 650-800 generations. While coculture conditions required obligate exchange of nitrogen and carbon, additional cross-feeding of adenine and iron likely occurred. Contrary to expectations, iron and uncharacterized dependencies emerged in monocultures but not in cocultures. Low expression for iron scavenging and adenine synthesis genes in cocultures suggested that cross-feeding repressed gene expression, thereby lowering gene cost. Thus, whereas there are likely cases where cross-feeding makes costly genes dispensable, there are also cases where cross-feeding lowers gene cost, thereby promoting gene retention.
-
-</details>
-
-#### [Task-related activity in auditory cortex enhances sound representation](https://doi.org/10.1101/2024.08.18.608392)
-**Ana Polterovich, Maciej M Jankowski, Johannes Niediek, Alex Kazakov et al.** · 2024-08-18
-
-<details>
-<summary>Abstract</summary>
-
-In auditory-guided tasks, sound presentations often occupy a small fraction of the total task time. We studied here neuronal dynamics that spanned trial duration. Many neurons had large, slow, firing rate modulations, which were not driven by sounds, were larger than the sound evoked responses, and were locked to specific time points during the task, similar to responses of hippocampal time-sensitive neurons. Concurrently, responses to sounds differed between active behavior and passive listening conditions: in the active sessions, the on-going activity just before sound presentations was higher and the responses to target stimuli were weaker but more informative about the task-relevant sounds. We show that the slow firing rate modulations caused the increased on-going activity. Using a model, we demonstrate that higher on-going activity led to more synaptic depression of the cortico-cortical synapses, reducing the tendency to produce population spikes and resulting in weaker but more informative responses.
-
-</details>
-
-#### [Allopolyploidy expanded gene content but not pangenomic variation in the hexaploid oilseed
-                  <i>Camelina sativa</i>](https://doi.org/10.1101/2024.08.13.607619)
-**Kevin A. Bird, Jordan R. Brock, Paul P. Grabowski, Avril M. Harder et al.** · 2024-08-16
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Ancient whole-genome duplications (WGDs) are believed to facilitate novelty and adaptation by providing the raw fuel for new genes. However, it is unclear how recent WGDs may contribute to evolvability within recent polyploids. Hybridization accompanying some WGDs may combine divergent gene content among diploid species. Some theory and evidence suggest that polyploids have a greater accumulation and tolerance of gene presence-absence and genomic structural variation, but it is unclear to what extent either is true. To test how recent polyploidy may influence pangenomic variation, we sequenced, assembled, and annotated twelve complete, chromosome-scale genomes of Camelina sativa , an allohexaploid biofuel crop with three distinct subgenomes. Using pangenomic comparative analyses, we characterized gene presence-absence and genomic structural variation both within and between the subgenomes. We found over 75% of ortholog gene clusters are core in Camelina sativa and &lt;10% of sequence space was affected by genomic structural rearrangements. In contrast, 19% of gene clusters were unique to one subgenome, and the majority of these were Camelina-specific (no ortholog in Arabidopsis). We identified an inversion that may contribute to vernalization requirements in winter-type Camelina, and an enrichment of Camelina-specific genes with enzymatic processes related to seed oil quality and Camelina’s unique glucosinolate profile. Genes related to these traits exhibited little presence-absence variation. Our results reveal minimal pangenomic variation in this species, and instead show how hybridization accompanied by WGD may benefit polyploids by merging diverged gene content of different species.
-
-</details>
-
 #### [Introgression across narrow contact zones shapes the genomic landscape of phylogenetic variation in an African bird clade](https://doi.org/10.1101/2024.08.13.607717)
 **Loïs Rancilhac, Stacey G. de Souza, Sifiso M. Lukhele, Matteo Sebastianelli et al.** · 2024-08-14
 
@@ -4551,26 +3880,6 @@ The classification of bird species is of significant importance in the field of 
 <summary>Abstract</summary>
 
 Higher-order ambisonic rendering is an increasingly common soundscape reproduction technique that, in theory, enables presentation of virtual sounds at nearly any location in 3D space, relatively unconstrained by the veridical locations of loudspeakers. We evaluated whether 3D sound reproduction through a 9 th -order ambisonic loudspeaker array was indeed sufficiently accurate to probe the limits of human spatial perception. We first estimated minimum audible angles for human listeners for a variety of reference points on the horizontal plane. We demonstrated that the system can reproduce sounds with a spatial resolution that is equal or superior to the limits of human acuity, at least on the horizontal plane at the front. Importantly, the resolution of ambisonic reproduction appeared equivalent for regions of the system with high and low loudspeaker density. We also estimated localization cues at the same locations and showed that although localization cues for low-frequency components were well preserved, they were somewhat distorted for components above 4000 Hz. Finally, we provide evidence that these high-frequency distortions can serve elevation cues by human listeners. In summary, we showed that a 9 th order ambisonic system is able to render highly focal sound sources, and that high-frequency reproduction distortions may introduce unwanted localization cues.
-
-</details>
-
-#### [Sound preferences in mice are sex-dependent](https://doi.org/10.1101/2024.08.04.606510)
-**Kamini Sehrawat, Israel Nelken** · 2024-08-07
-
-<details>
-<summary>Abstract</summary>
-
-Abstract We investigated the impact of early exposure to sound and to silence on sound preferences later in life in mice. We exposed young mice during the critical periods to excerpts of music (first movement of Beethoven’s symphony no. 9), non-music sounds, or to silence. We tested the sound preference behavior a few weeks later. Music exposure affected mouse behavior in a sex- dependent manner: male mice largely preferred the environment to which they were exposed, while female mice showed a weak reduction in their seemingly inborn aversion to sound. The neural activity in auditory cortex was suppressed in exposed compared to naive mice, regardless of exposure type. Remarkably, a robust negative correlation was found between neural response and behavior in female, but not in male, mice.
-
-</details>
-
-#### [Enhanced translational activity is linked to lymphatic endothelial cell activation in cutaneous leishmaniasis](https://doi.org/10.1101/2024.08.07.605632)
-**Lucy Fry, Hayden Roys, Anne Bowlin, Gopinath Venugopal et al.** · 2024-08-07
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Cutaneous leishmaniasis (CL) is a significant public health problem leading to permanently disfiguring skin lesions caused by Leishmania parasites. Lesion severity stems from an excessive host inflammatory response that prevents healing. Here, we characterized the transcriptional and translational responses of lymphatic endothelial cells (LECs) during murine CL using historical single-cell RNA sequencing data combined with flow cytometry and in vivo puromycin incorporation to assess translational activity. We identified upregulation of antigen presentation pathways including MHC-I, MHC-II, and immunoproteasome transcripts in dermal LECs from Leishmania major -infected mice compared to naive controls. LECs also exhibited increased expression of guanylate binding proteins and interferon-inducible genes, indicative of immune activation. Moreover, our findings demonstrate that LECs in leishmanial lesions displayed heightened translational activity relative to LECs from uninflamed ears, and LEC translational activity was highest in activated LECs. Furthermore, LEC translational activity exceeded that of other cell types within the lesion microenvironment. Validating the transcriptomic data, LECs in lesions expressed elevated MHC-II and programmed death-ligand 1 (PDL-1), supporting their potential role in antigen presentation. Functional assays using DQ-OVA confirmed that LECs from leishmanial lesions efficiently uptake and process antigens, highlighting their capability as antigen presenting cells in the inflamed dermal microenvironment. Overall, our study reveals the activation status of LECs in leishmanial lesions, shedding light on their potential role in shaping local immunity and inflammation in a variety of skin diseases.
 
 </details>
 
@@ -4608,26 +3917,6 @@ Monitoring biodiversity at scale is challenging. Detecting and identifying speci
 
 </details>
 
-#### [Nonlinear sound-sheet microscopy: imaging opaque organs at the capillary and cellular scale](https://doi.org/10.1101/2024.07.31.605825)
-**Baptiste Heiles, Flora Nelissen, Dion Terwiel, Byung Min Park et al.** · 2024-07-31
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Light-sheet fluorescence microscopy has revolutionized biology by visualizing dynamic cellular processes in three dimensions. However, light scattering in thick tissue and photobleaching of fluorescent reporters limit this method to studying thin or translucent specimens. Here we show that non-diffractive ultrasonic beams used in conjunction with a cross-amplitude modulation sequence and nonlinear acoustic reporters enable fast and volumetric imaging of targeted biological functions. We report volumetric imaging of tumor gene expression at the cm 3 scale using genetically encoded gas vesicles, and localization microscopy of currently uncharted cerebral capillary networks using intravascular microbubble contrast agents. Nonlinear sound-sheet microscopy provides a ∼64x acceleration in imaging speed, ∼35x increase in imaged volume and ∼4x increase in classical imaging resolution compared to the state-of-the-art in biomolecular ultrasound.
-
-</details>
-
-#### [It’s the Sound, not the Pulse: Peripheral Magnetic Stimulation Reduces Central Sensitization through Auditory Modulatory Effects](https://doi.org/10.1101/2024.07.30.605813)
-**Spencer S. Abssy, Natalie R. Osborne, Evgeny E. Osokin, Rossi Tomin et al.** · 2024-07-31
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Repetitive peripheral magnetic stimulation (rPMS) is a non-pharmacological, non-invasive analgesic modality with limited side effects. However, there is a paucity of controlled studies demonstrating its efficacy compared to existing pain management tools. Here, in an initial sample of 100 healthy participants (age 18-40), we compared the analgesic efficacy of two rPMS stimulation protocols—continuous theta burst stimulation (ctbPMS) and intermittent TBS (itbPMS)—against transcutaneous electric nerve stimulation (TENS), a peripheral stimulation technique that is commonly used for pain management. We also included a sham rPMS protocol where participants heard the sound of rPMS stimulation while the coil was placed over their arm, but received no peripheral stimulation. We hypothesized that itbPMS and ctbPMS—but not sham—would reduce pain intensity, pain unpleasantness, and secondary hyperalgesia evoked by a phasic heat pain (PHP) paradigm on the volar forearm with similar efficacy to TENS. Neither rPMS nor TENS reduced reported pain intensity or unpleasantness (p&gt;0.25). However, ctbPMS and itbPMS significantly reduced the area of secondary hyperalgesia, whereas TENS did not (F 3,96 = 4.828, p= 0.004). Unexpectedly, sham rPMS, which involved auditory but no peripheral nerve stimulation, also significantly reduced secondary hyperalgesia compared to TENS. We performed a second study (n=32) to investigate auditory contributions to rPMS analgesia. Masking the rPMS stimulation sound with pink noise eliminated its analgesic effect on secondary hyperalgesia (p=0.5). This is the first study to show that the analgesic properties of rPMS in acute experimental pain may be largely attributed to its auditory component rather than peripheral nerve stimulation.
-
-</details>
-
 #### [A path analysis disentangling determinants of natal dispersal in a cooperatively breeding bird](https://doi.org/10.1101/2024.07.26.605387)
 **Mirjam J. Borger, Kiran G.L. Lee, Franz J. Weissing, David S. Richardson et al.** · 2024-07-29
 
@@ -4658,16 +3947,6 @@ Abstract Glucose is a vital metabolic component in the functioning of organisms,
 
 </details>
 
-#### [Bayesian Prior Uncertainty and Surprisal Elicit Distinct Neural Patterns During Sound Localization in Dynamic Environments](https://doi.org/10.1101/2024.07.22.604566)
-**Burcu Bayram, David Meijer, Roberto Barumerli, Michelle Spierings et al.** · 2024-07-23
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Estimating the location of a stimulus is a key function in sensory processing, and widely considered to result from the integration of prior information and sensory input according to Bayesian principles. A deviation of sensory input from the prior elicits surprisal, depending on the uncertainty of the prior. While this mechanism is increasingly understood in the visual domain, much less is known about its implementation in audition, especially regarding spatial localization. Here, we combined human EEG with computational modeling to study auditory spatial inference in a noisy, volatile environment and analyzed behavioral and neural patterns associated with prior uncertainty and surprisal. First, our results demonstrate that participants indeed used prior information during periods of stable environmental statistics, but showed evidence of surprisal and discarded prior information following environmental changes. Second, we observed distinct EEG activity patterns associated with prior uncertainty and surprisal in both the time- and time-frequency domain, which are in line with previous studies using visual tasks. Third, these EEG activity patterns were predictive of our participants’ sound localization error, response uncertainty, and prior bias on a trial-by-trial basis. In summary, our work provides novel behavioral and neural evidence for Bayesian inference during dynamic auditory localization.
-
-</details>
-
 #### [Spiking neural network models of sound localisation via a massively collaborative process](https://doi.org/10.1101/2024.07.19.604252)
 **Marcus Ghosh, Karim G. Habashy, Francesco De Santis, Tomas Fiers et al.** · 2024-07-23
 
@@ -4675,17 +3954,6 @@ Abstract Estimating the location of a stimulus is a key function in sensory proc
 <summary>Abstract</summary>
 
 Abstract Neuroscientists are increasingly initiating large-scale collaborations which bring together tens to hundreds of researchers. However, while these projects represent a step-change in scale, they retain a traditional structure with centralised funding, participating laboratories and data sharing on publication. Inspired by an open-source project in pure mathematics, we set out to test the feasibility of an alternative structure by running a grassroots, massively collaborative project in computational neuroscience. To do so, we launched a public Git repository, with code for training spiking neural networks to solve a sound localisation task via surrogate gradient descent. We then invited anyone, anywhere to use this code as a springboard for exploring questions of interest to them, and encouraged participants to share their work both asynchro-nously through Git and synchronously at monthly online workshops. At a scientific level, our work investigated how a range of biologically-relevant parameters, from time delays to mem-brane time constants and levels of inhibition, could impact sound localisation in networks of spiking units. At a more macro-level, our project brought together 31 researchers from multiple countries, provided hands-on research experience to early career participants, and opportunities for supervision and teaching to later career participants. Looking ahead, our project provides a glimpse of what open, collaborative science could look like and provides a necessary, tentative step towards it.
-
-</details>
-
-#### [<i>Bona fide</i>
-                  cytotoxic iNKT cells with superior antitumour responses identified in mice and humans](https://doi.org/10.1101/2024.07.18.603987)
-**Carolina de Amat Herbozo, Stephanie WY Wong, Meggie Kuypers, Guy Ilango et al.** · 2024-07-22
-
-<details>
-<summary>Abstract</summary>
-
-SUMMARY Adoptive cell therapies (ACT) using unmodified or engineered invariant Natural Killer T (iNKT) cells are in clinical trials for cancer treatment. While promising, outcomes are still suboptimal, possibly due to iNKT cell heterogeneity. This study identified unique iNKT cell populations with strong cytotoxic activity in mice and humans. In mice, iNKT1c cells showed potent CD1d-dependent and -independent antitumor functions, with responses influenced by NK receptors. IL-15 enhances their cytolytic activity, while retinoic acid is essential for their generation. In humans, terminally differentiated CD57 + iNKT cells showed marked NK-receptor expression and most effectively killed C1R tumor cells in vitro . These cells appeared activated/exhausted within tumors of non-small cell lung cancer patients. Additionally, a central memory-like CD62L + CD4 - iNKT subset efficiently expanded and generated cytotoxic CD57 + iNKT cells in vitro , making them an appealing candidate for ACT. This study paves the way for the design of more effective iNKT cell-based immunotherapies.
 
 </details>
 
@@ -4736,16 +4004,6 @@ Recognition and interpretation of bird vocalizations are pivotal in ornithologic
 <summary>Abstract</summary>
 
 We present working notes for the DS@GT team on transfer learning with pseudo multi-label birdcall classification for the BirdCLEF 2024 competition, focused on identifying Indian bird species in recorded soundscapes. Our approach utilizes production-grade models such as the Google Bird Vocalization Classifier, BirdNET, and EnCodec to address representation and labeling challenges in the competition. We explore the distributional shift between this year's edition of unlabeled soundscapes representative of the hidden test set and propose a pseudo multi-label classification strategy to leverage the unlabeled data. Our highest post-competition public leaderboard score is 0.63 using BirdNET embeddings with Bird Vocalization pseudo-labels. Our code is available at https://github.com/dsgt-kaggle-clef/birdclef-2024
-
-</details>
-
-#### [Cloud-Connected Patch-Worn Auscultation Device for Chest Sound Monitoring](https://doi.org/10.1101/2024.07.03.601965)
-**R. Scott Downen, Baichen Li, Quan Dong, Zhenyu Li** · 2024-07-06
-
-<details>
-<summary>Abstract</summary>
-
-Abstract In recent years, wearable electrocardiograms have risen in popularity as a solution for personal monitoring of heart activity. However, this technology has limitations in diagnostic capability and structural function monitoring. Meanwhile, auscultation of the heart remains a fundamental tool for physicians in diagnosis and monitoring of heart disease largely unaddressed in a convenient wearable format. The present work outlines a promising system currently under investigation, allowing user-initiated 10-second chest-sound recordings to be transmitted over Bluetooth-Low-Energy, with an innovative package design providing inherent noise reduction and a high signal-to-noise ratio. The device has been tested on healthy individuals, and system response has been validated against calibrated electrocardiogram recording equipment to analyze signal capture fidelity. Abstract Figure
 
 </details>
 
@@ -4890,16 +4148,6 @@ Abstract When altricial birds hatch, they are unable to regulate their own tempe
 <summary>Abstract</summary>
 
 Passive acoustic monitoring (PAM) in avian bioacoustics enables cost-effective and extensive data collection with minimal disruption to natural habitats. Despite advancements in computational avian bioacoustics, deep learning models continue to encounter challenges in adapting to diverse environments in practical PAM scenarios. This is primarily due to the scarcity of annotations, which requires labor-intensive efforts from human experts. Active learning (AL) reduces annotation cost and speed ups adaption to diverse scenarios by querying the most informative instances for labeling. This paper outlines a deep AL approach, introduces key challenges, and conducts a small-scale pilot study.
-
-</details>
-
-#### [Integrating neurophysiological insights into effective bird deterrence using flickering light](https://doi.org/10.1101/2024.06.20.599983)
-**Takeshi Hondaa, Hiroki Tominaga, Akio Shimizu** · 2024-06-25
-
-<details>
-<summary>Abstract</summary>
-
-Abstract There are few effective methods to mitigate the economic or health-related disadvantages caused by birds. Traditional countermeasures employing sound and light have been utilized for mitigating crop damage, but their efficacy is insufficient, and human-avian conflicts persist. This study explores a fundamentally different approach to resolving these conflicts. Flashing lights that alternate between red and blue are known to stimulate the human brain and can potentially cause photosensitive epilepsy in one in 100,000 people, though very rarely. A 15 Hz flashing stimulus is known to elicit a significant response in humans; however, the optimal flashing pattern for birds remained unclear. We investigated the effect of different flickering patterns, specifically 12.5, 15, and 20 Hz, on crows when illuminated from a distance within 200 meters. The flashlight used was a long-range model and the Light Emitting Diodes (LEDs) consumed about 9 watts of power. The power was supplied by 21700 type lithium-ion batteries. Using a long-range flashlight during daylight, we determined that a 15 Hz flashing stimulus was most effective. This finding suggests that the most intense stimulus identified in human physiology can be equally effective when applied to birds. Survival analysis estimated that by projecting this pattern from a distance of 100 meters, crows fled within 8.1 seconds. Unlike traditional bird damage control techniques that rely on neophobia, this study utilizes physiological aversion. In this regard, our approach is fundamentally different from traditional techniques. The method of using flashing light to stimulate the brain, rather than the eyes, is based on insights from human medical and physiological studies. These findings elucidate the principle of a novel aversive stimulus using flashing light, which holds potential for widespread application in mitigating bird-related issues.
 
 </details>
 
@@ -5073,16 +4321,6 @@ Bird species classification plays a crucial role in various ecological and conse
 
 </details>
 
-#### [Temporal-Coherence Induces Binding of Responses to Sound Sequences in Ferret Auditory Cortex](https://doi.org/10.1101/2024.05.21.595170)
-**Kai Lu, Kelsey Dutta, Ali Mohammed, Mounya Elhilali et al.** · 2024-05-22
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Binding the attributes of a sensory source is necessary to perceive it as a unified entity, one that can be attended to and extracted from its surrounding scene. In auditory perception, this is the essence of the cocktail party problem in which a listener segregates one speaker from a mixture of voices, or a musical stream from simultaneous others. It is postulated that coherence of the temporal modulations of a source’s features is necessary to bind them. The focus of this study is on the role of temporal-coherence in binding and segregation, and specifically as evidenced by the neural correlates of rapid plasticity that enhance cortical responses among synchronized neurons, while suppressing them among asynchronized ones. In a first experiment, we find that attention to a sound sequence rapidly binds it to other coherent sequences while suppressing nearby incoherent sequences, thus enhancing the contrast between the two groups. In a second experiment, a sequence of synchronized multi-tone complexes, embedded in a cloud of randomly dispersed background of desynchronized tones, perceptually and neurally pops-out after a fraction of a second highlighting the binding among its coherent tones against the incoherent background. These findings demonstrate the role of temporal-coherence in binding and segregation.
-
-</details>
-
 #### [“Decoding Bird Species Diversity through Image Analysis](https://ijsrem.com/download/decoding-bird-species-diversity-through-image-analysis/?wpdmdl=34426&refresh=665a04d79089a1717175511)
 **Swapnil Bhandawale** · 2024-05-21
 
@@ -5152,28 +4390,6 @@ ABSTRACT Surgical personnel face various stressors in the workplace, including e
 <summary>Abstract</summary>
 
 The Internet of Things (IoT)-based passive acoustic monitoring (PAM) has shown great potential in large-scale remote bird monitoring. However, field recordings often contain overlapping signals, making precise bird information extraction challenging. To solve this challenge, first, the interchannel spatial feature is chosen as complementary information to the spectral feature to obtain additional spatial correlations between the sources. Then, an end-to-end model named BACPPNet is built based on Deeplabv3plus and enhanced with the polarized self-attention mechanism to estimate the spectral magnitude mask (SMM) for separating bird vocalizations. Finally, the separated bird vocalizations are recovered from SMMs and the spectrogram of mixed audio using the inverse short Fourier transform (ISTFT). We evaluate our proposed method utilizing the generated mixed data set. Experiments have shown that our method can separate bird vocalizations from mixed audio with root mean square error (RMSE), source-to-distortion ratio (SDR), source-to-interference ratio (SIR), source-to-artifact ratio (SAR), and short-time objective intelligibility (STOI) values of 2.82, 10.00 dB, 29.90 dB, 11.08 dB, and 0.66, respectively, which are better than existing methods. Furthermore, the average classification accuracy of the separated bird vocalizations drops the least. This indicates that our method outperforms other compared separation methods in bird sound separation and preserves the fidelity of the separated sound sources, which might help us better understand wild bird sound recordings.
-
-</details>
-
-#### [Tau filaments with the Alzheimer fold in cases with
-                  <i>MAPT</i>
-                  mutations V337M and R406W](https://doi.org/10.1101/2024.04.29.591661)
-**Chao Qi, Sofia Lövestam, Alexey G. Murzin, Sew Peak-Chew et al.** · 2024-04-30
-
-<details>
-<summary>Abstract</summary>
-
-Frontotemporal dementia (FTD) and Alzheimer’s disease are the most common forms of early-onset dementia. Dominantly inherited mutations in MAPT , the microtubule-associated protein tau gene, cause FTD and parkinsonism linked to chromosome 17 (FTDP-17). Individuals with FTDP-17 develop abundant filamentous tau inclusions in brain cells. Here we used electron cryo-microscopy to determine the structures of tau filaments from the brains of individuals with MAPT mutations V337M and R406W. Both mutations gave rise to tau filaments with the Alzheimer fold, which consisted of paired helical filaments in all V337M and R406W cases and of straight filaments in two V337M cases. We also identified a new assembly of the Alzheimer fold into triple tau filaments in a V337M case. Filaments assembled from recombinant tau(297-391) with mutation V337M had the Alzheimer fold and showed an increased rate of assembly.
-
-</details>
-
-#### [Insights into dynamic sound localisation: A direction-dependent comparison between human listeners and a Bayesian model](https://doi.org/10.1101/2024.04.26.591250)
-**Glen McLachlan, Piotr Majdak, Jonas Reijniers, Michael Mihocic et al.** · 2024-04-29
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Self-motion is an essential but often overlooked component of sound localisation. While the directional information of a source is implicitly contained in head-centred acoustic cues, that acoustic input needs to be continuously combined with sensorimotor information about the head orientation in order to decode these cues to a world-centred frame of reference. On top of that, the use of head movement significantly reduces ambiguities in the directional information provided by the incoming sound. In this work, we evaluate a Bayesian model that predicts dynamic sound localisation, by comparing its predictions to human performance measured in a behavioural sound-localisation experiment. Model parameters were set a-priori, based on results from various psychoacoustic and sensorimotor studies, i.e., without any post-hoc parameter fitting to behavioral results. In a spatial analysis, we evaluated the model’s capability to predict spatial localisation responses. Further, we investigated specific effects of the stimulus duration, the spatial prior and sizes of various model uncertainties on the predictions. The spatial analysis revealed general agreement between the predictions and the actual behaviour. The altering of the model uncertainties and stimulus duration revealed a number of interesting effects providing new insights on modelling the human integration of acoustic and sensorimotor information in a localisation task. Author summary In everyday life, sound localisation requires both interaural and monaural acoustic information. In addition to this, sensorimotor information about the position of the head is required to create a stable and accurate representation of our acoustic environment. Bayesian inference is an effective mathematical framework to model how humans combine information from different sources and form beliefs about the world. Here, we compare the predictions from a Bayesian model for dynamic sound localisation with data from a localisation experiment. We show that we can derive the model parameter values from previous psychoacoustic and sensorimotor experiments and that the model without any post-hoc fitting, can predict general dynamic localisation performance. Finally, the discrepancies between the modelled data and behavioural data are analysed by testing the effects of adjusting the model parameters.
 
 </details>
 
@@ -5274,16 +4490,6 @@ Abstract Understanding the anatomical and genetic basis of complex phenotypic tr
 <summary>Abstract</summary>
 
 Abstract Linear infrastructures (LIs) such as roads, railroads, and powerlines are expanding rapidly around the globe. While most future developments are projected to take place in tropical regions, available information on impacts of LIs is biased towards single species studies of solely road impacts in temperate regions. Therefore, we investigated impacts of three types of LIs (road, railroad, and powerline) on the bird community of a tropical dry forest. Point-count surveys to record avian richness and abundance were conducted at 80 plots that were spatially stratified to include sites proximate to all possible LI combinations. Five measures of vegetation structure were collected at each plot as well. We then assessed the relationship between the bird community (i.e., richness, abundance, composition) and distance to each LI type while accounting for variation in vegetation structure. Species richness and abundance both declined significantly (25% and 20%, respectively) from edge habitat next to railroad to interior forest plots, while community composition was significantly altered by the distance to all three LIs. Road and railroad (both forms of dynamic infrastructure with moving vehicles) had similar effects on the bird community that contrasted with those of powerline (a type of static infrastructure). The resulting ordination reveled that Sri Lankan endemics are significantly disfavored by LI proximity, while the three species most often found proximal to LIs all have naturalized populations across the world. Our results emphasize that LI drive biotic homogenization by favoring generalist species at the expense of unique elements of the biota.
-
-</details>
-
-#### [Distinct mechanisms of visual and sound adaptation in the cat visual cortex](https://doi.org/10.1101/2024.04.11.589131)
-**Yassine Yahia Belkacemi, Solène Hospital, Nayan Chanauria, Oliver Flouty et al.** · 2024-04-15
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sensory areas exhibit modular selectivity to stimuli, but they can also respond to features outside of their basic modality. Several studies have shown cross-modal plastic modifications between visual and auditory cortices; however, the exact mechanisms of these modifications are yet not completely known. To this aim, we investigated the effect of 12 minutes of visual vs. sound adaptation [forceful application of a non-optimal stimulus to a neuron(s) under observation] on the infra- and supra-granular primary visual neurons (V1) of the cat ( Felis catus ). Previous reports showed that both protocols induced orientation tuning shifts, but sound increased the bandwidths. Here, we compared visual vs. sound adaptation effects, specifically analysing the raw tuning curves by computing the area under the curve (AUC) on a trial-by-trial basis. We report that sound adaptation elicited broader tuning curves accompanied with increased variance in the supra- and infra-granular layers, compared with visual adaptation. These findings suggest unique modulation of dendritic structure by distinct adaptation protocols, resulting in disparate tunings. We suggest that broader tuning curves after sound adaptation may keep the visual cortex prepared across a spectrum of abstract representations that match with visual stimuli.
 
 </details>
 
@@ -5388,16 +4594,6 @@ Abstract While both motor imagery (MI) and low-frequency sound listening have in
 
 </details>
 
-#### [Solicited Cough Sound Analysis for Tuberculosis Triage Testing: The CODA TB DREAM Challenge Dataset](https://doi.org/10.1101/2024.03.27.24304980)
-**Sophie Huddart, Vijay Yadav, Solveig K. Sieberts, Larson Omberg et al.** · 2024-03-28
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Cough is a common and commonly ignored symptom of lung disease. Cough is often perceived as difficult to quantify, frequently self-limiting, and non-specific. However, cough has a central role in the clinical detection of many lung diseases including tuberculosis (TB), which remains the leading infectious disease killer worldwide. TB screening currently relies on self-reported cough which fails to meet the World Health Organization (WHO) accuracy targets for a TB triage test. Artificial intelligence (AI) models based on cough sound have been developed for several respiratory conditions, with limited work being done in TB. To support the development of an accurate, point-of-care cough-based triage tool for TB, we have compiled a large multi-country database of cough sounds from individuals being evaluated for TB. The dataset includes more than 700,000 cough sounds from 2,143 individuals with detailed demographic, clinical and microbiologic diagnostic information. We aim to empower researchers in the development of cough sound analysis models to improve TB diagnosis, where innovative approaches are critically needed to end this long-standing pandemic.
-
-</details>
-
 #### [Identification and Uses of Deep Learning Backbones via Pattern Mining](https://arxiv.org/abs/2403.18278)
 **Michael Livanos, Ian Davidson** · 2024-03-27
 
@@ -5415,16 +4611,6 @@ Deep learning is extensively used in many areas of data mining as a black-box me
 <summary>Abstract</summary>
 
 Abstract Antibiotic resistance, especially in multidrug-resistant ESKAPE pathogens, remains a worldwide problem. Combination antimicrobial therapies may be an important strategy to overcome resistance and broaden the spectrum of existing antibiotics. However, this strategy is limited by the ability to efficiently screen large combinatorial chemical spaces. Here, we deployed a high-throughput combinatorial screening platform, DropArray, to evaluate the interactions of over 30,000 compounds with up to 22 antibiotics and 6 strains of Gram-negative ESKAPE pathogens, totaling to over 1.3 million unique strain-antibiotic-compound combinations. In this dataset, compounds more frequently exhibited synergy with known antibiotics than single-agent activity. We identified a compound, P2-56, and developed a more potent analog, P2-56-3, which potentiated rifampin (RIF) activity against Acinetobacter baumannii and Klebsiella pneumoniae . Using phenotypic assays, we showed P2-56-3 disrupts the outer membrane of A. baumannii . To identify pathways involved in the mechanism of synergy between P2-56-3 and RIF, we performed genetic screens in A. baumannii . CRISPRi-induced partial depletion of lipooligosaccharide transport genes ( lptA - D , lptFG ) resulted in hypersensitivity to P2-56-3/RIF treatment, demonstrating the genetic dependency of P2-56-3 activity and RIF sensitization on lpt genes in A. baumannii. Consistent with outer membrane homeostasis being an important determinant of P2-56-3/RIF tolerance, knockout of maintenance of lipid asymmetry complex genes and overexpression of certain resistance-nodulation-division efflux pumps – a phenotype associated with multidrug-resistance – resulted in hypersensitivity to P2-56-3. These findings demonstrate the immense scale of phenotypic antibiotic combination screens using DropArray and the potential for such approaches to discover new small molecule synergies against multidrug-resistant ESKAPE strains. Significance Statement There is an unmet need for new antibiotic therapies effective against the multidrug-resistant, Gram-negative ESKAPE pathogens. Combination therapies have the potential to overcome resistance and broaden the spectrum of existing antibiotics. In this study, we use DropArray, a massively parallel combinatorial screening tool, to assay more than 1.3 million combinations of small molecules against the Gram-negative ESKAPE pathogens, Acinetobacter baumannii , Klebsiella pneumoniae , and Pseudomonas aeruginosa . We discovered a synthetic small molecule potentiator, P2-56, of the antibiotic rifampin effective in A. baumannii and K. pneumoniae . We generated P2-56-3, a more potent derivative of P2-56, and found that it likely potentiates rifampin by compromising the outer membrane integrity. Our study demonstrates a high-throughput strategy for identifying antibiotic potentiators against multidrug-resistant bacteria.
-
-</details>
-
-#### [Automated Detection of Sleep Apnea Using Machine Learning: A Novel Approach Using Smartphone and Microphone for Breathing Sound Analysis](https://doi.org/10.1101/2024.03.22.24304619)
-**Om Bhatt** · 2024-03-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract In this study, we evaluate the accuracy of a novel setup in the detection of apneas and hypopneas and estimating the apnea-hypopnea index (AHI). The study device setup consists of a microphone placed underneath the nose and a smartphone to collect the data. We recruited patients who were referred to the St. Josephs Hamilton Sleep Clinic for a sleep study. Data from our study device is collected simultaneously with polysomnography (PSG) in the sleep lab. A total of 26 patients were recruited, of which 2 dropped out during the data collection. Data from the microphone was too noisy for interpretation in 3 patients. Across the remaining 21 patients, the AHI based on their PSG ranged from 2 to 125 events/h, with an average AHI of 34 events/h. We used regression models trained on microphone audio data to identify noise and we developed an algorithm based on root-mean-square of the audio data for automatic detection of apneas and hypopneas. With reference to the PSG, our study device had a sensitivity of 94% and specificity of 87% in detecting apneas/hypopneas across a cumulative 120.9 hours of sleep data and more than 3700 such events. Our study device was able to accurately predict the AHI to within 4.3 events/h (+/-3.1). As such, we can conclude that our study device is accurate in identifying apneas/hypopneas, estimating the AHI and at ruling out cases of severe sleep apnea and can potentially be used as a screening test for this purpose. Our study device has the practical advantages of being very low cost and potentially more accessible as a screening tool, though further validation studies are needed to study accuracy across a larger population and for use at-home.
 
 </details>
 
@@ -5618,16 +4804,6 @@ Monitoring vulnerable species inhabiting mountain environments is crucial to tra
 
 </details>
 
-#### [Female GluA3-KO mice show early onset hearing loss and afferent swellings in ambient sound levels](https://doi.org/10.1101/2024.02.21.581467)
-**Indra Pal, Atri Bhattacharyya, Babak V-Ghaffari, Essence D. Williams et al.** · 2024-02-22
-
-<details>
-<summary>Abstract</summary>
-
-Abstract AMPA-type glutamate receptors (AMPAR) mediate excitatory cochlear transmission. However, the unique roles of AMPAR subunits are unresolved. Lack of subunit GluA3 ( Gria3 KO ) in male mice reduced cochlear output by 8-weeks of age. Since Gria3 is X-linked and considering sex differences in hearing vulnerability, we hypothesized accelerated presbycusis in Gria3 KO females. Here, auditory brainstem responses (ABR) were similar in 3-week-old female Gria3 WT and Gria3 KO mice. However, when raised in ambient sound, ABR thresholds were elevated and wave-1 amplitudes were diminished at 5-weeks and older in Gria3 KO . In contrast, these metrics were similar between genotypes when raised in quiet. Paired synapses were similar in number, but lone ribbons and ribbonless synapses were increased in female Gria3 KO mice in ambient sound compared to Gria3 WT or to either genotype raised in quiet. Synaptic GluA4:GluA2 ratios increased relative to Gria3 WT , particularly in ambient sound, suggesting an activity-dependent increase in calcium-permeable AMPARs in Gria3 KO . Swollen afferent terminals were observed by 5-weeks only in Gria3 KO females reared in ambient sound. We propose that lack of GluA3 induces sex-dependent vulnerability to AMPAR-mediated excitotoxicity.
-
-</details>
-
 #### [Combining radio-telemetry and radar measurements to test optimal foraging in an aerial insectivore bird](https://doi.org/10.1101/2024.02.18.580922)
 **Itai Bloch, David Troupin, Sivan Toledo, Ran Nathan et al.** · 2024-02-21
 
@@ -5683,16 +4859,6 @@ Widespread declines in wild bee populations necessitate urgent action, but there
 **Connor M. Wood, Stefan Kahl** · 2024-02-14
 
 
-#### [Evolutionary and biological mechanisms underpinning chitin degradation in aquatic fungi](https://doi.org/10.1101/2024.02.10.579206)
-**Nathan Chrismas, Kimberley Bird, Davis Laundon, Poppy Hesketh-Best et al.** · 2024-02-12
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Fungal biology underpins major processes in ecosystems. The Chytridiomycota (chytrids) is a group of early-diverging fungi, many of which function in ecosystems as saprotrophs processing high molecular weight biopolymers, however the mechanisms underpinning chytrid saprotrophy are poorly understood. Genome sequences from representatives across the group and the use of model chytrids offers the potential to determine new insights into their evolution. In this study, we focused on the biology underpinning chitin saprotrophy, a common ecosystem function of aquatic chytrids. The genomes of chitinophilic chytrids have expanded inventories of glycoside hydrolase genes responsible for chitin processing, complemented with bacteria-like chitin-binding modules (CBMs) that are absent in other chytrids. In the model chitinophilic saprotroph Rhizoclosmatium globosum JEL800, the expanded repertoire of chitinase genes is diverse and almost half were detected as proteins in the secretome when grown with chitin. Predicted models of the secreted chitinases indicate a range of active site sizes and domain configurations. We propose that increased diversity of secreted chitinases is an adaptive strategy that facilitates chitin degradation in the complex heterologous organic matrix of the arthropod exoskeleton. Free swimming R. globosum JEL800 zoospores are chemotactic to the chitin monomer N-acetylglucosamine and accelerate zoospore development when grown with chitin. Our study sheds light on the underpinning biology and evolutionary mechanisms that have supported the saprotrophic niche expansion of some chytrids to utilise lucrative chitin-rich particles in aquatic ecosystems and is a demonstration of the adaptive capability of this successful fungal group.
-
-</details>
-
 #### [Automatic Identification Of Birds Using Speech Signal Processing And Neural Networks](https://doi.org/10.1109/ESIC60604.2024.10481650)
 **P. Reshma, R. Meghana, S. Sree, Roshan Rishi Sravanam et al.** · 2024-02-09
 
@@ -5714,16 +4880,6 @@ This study proposes a method based on fully convolutional neural networks (FCNs)
 <summary>Abstract</summary>
 
 Abstract Hypertension is estimated to affect almost 1 billion people globally and significantly increases risk of myocardial infarction, heart failure, stroke, retinopathy and kidney disease. One major front line therapy that has been used for over 50 years involves L-type Ca 2+ channel blockers (LCCBs). One class of LCCBs is the dihydropyridine family, with amlodipine being widely prescribed regardless of gender, race, ethnicity or age. In 2020, Johnson et al. 7 reported that all LCCBs significantly increased the risk of heart failure, and attributed this effect to non-canonical activation of store-operated Ca 2+ entry. A major approach on which they based many of their arguments was to measure cytosolic Ca 2+ using the fluorescent Ca 2+ indicator dye fura-2. We recently demonstrated that amlodipine is highly fluorescent within cells and overwhelms the fura-2 signal, precluding the use of the indicator dye with amlodipine 24 . Our meta-analyses and prospective real world study showed that dihydropyridines were not associated with an increase in heart failure, likely explained by the lack of consideration by Johnson et al. 7 of well-known confounding factors such as age, race, obesity, prior anti-hypertensive treatment or diabetes 24 . Trebak and colleagues have responded to our paper with a forthright and unwavering defence of their work 27 . In this paper, we carry out a forensic dissection of Johnson et al., 7 and conduct new experiments that address directly points raised by Trebak et al. 27 . We show that there are major flaws in the design and interpretation of their key experiments, that fura-2 cannot be used with amlodipine, that there are fundamental mathematical misunderstandings and mistakes throughout their study leading to critical calculations on heart failure that are demonstrably wrong, and several of their own results are inconsistent with their interpretation. We therefore believe the study by Johnson et al. 7 is flawed at many levels and we stand by our conclusions.
-
-</details>
-
-#### [Massive perturbation of sound representations by anesthesia in the auditory brainstem](https://doi.org/10.1101/2024.02.06.579173)
-**Etienne Gosselin, Sophie Bagur, Brice Bathellier** · 2024-02-07
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Anesthesia modifies sensory representations in the thalamo-cortical circuit, but is considered to have a milder impact on peripheral sensory processing. Here, tracking the same neurons across wakefulness and isoflurane anesthesia, we show that the amplitude and sign of single neuron responses to sounds are massively modified by anesthesia in the cochlear nucleus of the brainstem, the first relay of the auditory system. The reorganization of activity is so profound that decoding of sound representation in anesthesia is not possible based on awake activity. However, population level parameters, such as average tuning strength and population decoding accuracy are weakly affected by anesthesia, explaining why its effect has previously gone unnoticed when comparing independently sampled neurons. Together, our results indicate that the functional organization of the auditory brainstem largely depends on the network state and is ill-defined under anesthesia. This demonstrates a remarkable sensitivity of an early sensory stage to anesthesia, which is bound to disrupt downstream processing. Teaser Anesthesia compromises the normal transmission of sensory information as early as the first relay in the auditory system.
 
 </details>
 
@@ -5749,30 +4905,9 @@ ABSTRACT. Acoustic spatial capture-recapture (SCR) methods appear ideally suited
 
 </details>
 
-#### [Stress relaxing granular bioprinting materials enable complex and uniform organoid self-organization](https://doi.org/10.1101/2024.02.01.578324)
-**Austin J. Graham, Michelle W.L. Khoo, Vasudha Srivastava, Sara Viragova et al.** · 2024-02-05
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Complex and robust self-organization requires defined initial conditions and dynamic boundaries – neighboring tissues and extracellular matrix (ECM) that actively evolve to guide morphogenesis. A major challenge in tissue engineering is identifying material properties that mimic dynamic tissue boundaries but that are compatible with the engineering tools necessary for controlling the initial conditions of culture. Here we describe a highly tunable granular biomaterial, MAGIC matrix, that supports long-term bioprinting and gold-standard tissue self-organization. MAGIC matrix is designed for two temperature regimes: at 4 °C it exhibits reversible yield-stress behavior to support hours-long high-fidelity 3D printing without compromising cell viability; when transferred to cell culture at 37 °C, the material cross-links and exhibits viscoelasticity and stress relaxation that can be tuned to match numerous conditions, including that of reconstituted basement membrane matrices like Matrigel. We demonstrate that the timescale of stress relaxation and loss tangent are decoupled in MAGIC matrices, allowing us to test the role of stress relaxation rate and strain-dependence across formulations with identical storage and loss moduli. We find that fast absolute stress relaxation rates and large relative deformation magnitudes are required to optimize for morphogenesis. We apply optimized MAGIC matrices toward precise extrusion bioprinting of saturated cell suspensions directly into 3D culture. The ability to carefully control initial conditions for tissue growth yields dramatic increases in organoid reproducibility and complexity across multiple tissue types. We also fabricate perfusable 3D microphysiological systems that experience large strains in response to pressurization due to the compliant and dynamic tissue boundaries. Combined, our results both identify key parameters for optimal organoid morphogenesis in an engineered material and lay the foundation for fabricating more complex and reproducible tissue morphologies by canalizing their self-organization in both space and time.
-
-</details>
-
 #### [Passive acoustic monitoring detects new records of globally threatened birds in a high elevation wetland (Free State, South Africa) – CORRIGENDUM](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6CD8D6D33FAA1ABE58D955007F627651/S0959270924000017a.pdf/div-class-title-passive-acoustic-monitoring-detects-new-records-of-globally-threatened-birds-in-a-high-elevation-wetland-free-state-south-africa-corrigendum-div.pdf)
 **Toka Mosikidi, N. L. Le Maitre, S. Steenhuisen, V. R. Clark et al.** · 2024-02-02
 
-
-#### [Presence of phage-plasmids in multiple serovars of
-                  <i>Salmonella enterica</i>](https://doi.org/10.1101/2024.02.02.574330)
-**Satheesh Nair, Clare R Barker, Matthew Bird, David R Greig et al.** · 2024-02-02
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Evidence is accumulating in the literature that the horizontal spread of antimicrobial resistance (AMR) genes mediated by bacteriophages and bacteriophage-like plasmid (phage-plasmid) elements is much more common than previously envisioned. For instance, we recently identified and characterised a circular P1-like phage-plasmid harbouring a bla CTX-M-15 gene conferring extended-spectrum beta-lactamase (ESBL) resistance in Salmonella enterica serovar Typhi. As the prevalence and epidemiological relevance of such mechanisms has never been systematically assessed in Enterobacterales, in this study we carried out a follow-up retrospective analysis of UK Salmonella isolates previously sequenced as part of routine surveillance protocols between 2016 and 2021. Using a high-throughput bioinformatics pipeline we screened 47,784 isolates for the presence of the P1 lytic replication gene repL , identifying 226 positive isolates from 25 serovars and demonstrating that phage-plasmid elements are more frequent than previously thought. The affinity for phage-plasmids appears highly serovar-dependent, with several serovars being more likely hosts than others; most of the positive isolates (170/226) belonged to S. Typhimurium ST34 and ST19. The phage-plasmids ranged between 85.8–98.2kb in size, with an average length of 92.1kb; detailed analysis indicated a high amount of diversity in gene content and genomic architecture. 132 phage-plasmids had the p0111 plasmid replication type, and 94 the IncY type; phylogenetic analysis indicated that both horizontal and vertical gene transmission mechanisms are likely to be involved in phage-plasmid propagation. Finally, phage-plasmids were present in isolates that were resistant and non-resistant to antimicrobials. In addition to providing a first comprehensive view of the presence of phage-plasmids in Salmonella , our work highlights the need for a better surveillance and understanding of phage-plasmids as AMR carriers, especially through their characterisation with long-read sequencing. Data Summary All of the FASTQ files examined in this study have been uploaded to the Sequence Read Archive under BioProject PRJNA248792. Accessions of individual isolates which were found to contain phage plasmids are listed in Supplementary Table S1. Impact Statement Bacteriophage-like plasmids are increasingly being recognised as important mobile elements in many species of bacteria, particularly due to their involvement in the transmission of antimicrobial resistance (AMR); however, few studies of their overall prevalence in clinical datasets have been undertaken to date. In this study we have performed the first large-scale surveillance of human disease-associated Salmonella genomes for the presence of P1-like phage-plasmids, showing that they are more common than previously thought. Furthermore, we highlight how valuable information about the evolution and transmission of phage-plasmids in Salmonella and other Enterobacterales can be revealed by linking phage-plasmid prevalence and genetic diversity to epidemiologically relevant metadata such as S. enterica serovar, outbreak clusters, time, and geography. Our work shows the ability to use sequencing data and scalable bioinformatics workflows for the detection and characterisation of these extrachromosomal elements, highlights the importance of screening for novel mechanisms of AMR transmission, and provides a foundation for further surveillance studies of phage-plasmid prevalence.
-
-</details>
 
 #### [CDPNet: conformer-based dual path joint modeling network for bird sound recognition](https://doi.org/10.1007/s10489-024-05362-9)
 **Huimin Guo, Haifang Jian, Yiyu Wang, Hongchang Wang et al.** · 2024-02-01
@@ -5792,16 +4927,6 @@ The songbird trade crisis in East and South East Asia has been fuelled by high d
 **Wazib Ansar, Ahan Chatterjee, Saptarsi Goswami, Amlan Chakrabarti** · 2024-02-01
 
 
-#### [Subcortical origin of nonlinear sound encoding in auditory cortex](https://doi.org/10.1101/2024.02.01.578402)
-**Michael Lohse, Andrew J King, Ben DB Willmore** · 2024-02-01
-
-<details>
-<summary>Abstract</summary>
-
-Summary A major challenge in neuroscience is to understand how neural representations of sensory information are transformed by the network of ascending and descending connections in each sensory system. By recording from neurons at several levels of the auditory pathway, we show that much of the nonlinear encoding of complex sounds in auditory cortex can be explained by transformations in the midbrain and thalamus. Modeling cortical neurons in terms of their inputs across these subcortical populations enables their responses to be predicted with unprecedented accuracy. In contrast, subcortical responses cannot be predicted from descending cortical inputs, indicating that ascending transformations are irreversible, resulting in increasingly lossy, higher-order representations across the auditory pathway. Rather, auditory cortex selectively modulates the nonlinear aspects of thalamic auditory responses and the functional connectivity between subcortical neurons, without affecting the linear encoding of sound. These findings reveal the fundamental role of subcortical transformations in shaping cortical responses.
-
-</details>
-
 #### [Multiplex PCR reveals population structure in an inbred communal bird](https://doi.org/10.1101/2024.01.29.577869)
 **Sarah Babaei, Leanne A. Grieves, Ben Evans, James S. Quinn** · 2024-01-31
 
@@ -5809,16 +4934,6 @@ Summary A major challenge in neuroscience is to understand how neural representa
 <summary>Abstract</summary>
 
 Abstract We sampled communally breeding pūkeko ( Porphyrio melanotus melanotus , family Rallidae) populations on the North (Tāwharanui Park) and South (Otokia Reserve) Islands of New Zealand that differ in climate and ecology. North Island populations have year-round territories, philopatry, and form kin groups, resulting in inbreeding. South Island populations have seasonal territories, high dispersal rates, and form non-kin groups, leading to outbreeding. Given behavioural evidence of inbreeding we predicted that the North Island population would exhibit lower heterozygosity and higher inbreeding coefficients than the South Island population. We hypothesized that the South Island population originated via a range expansion from the north and predicted that South Island birds would have lower allelic diversity due to founder effects. To test these predictions, we developed microsatellite primers, optimized multiplex PCRs, and genotyped breeding groups from the North and South Island. Breeding groups from North Island were genetically differentiated, whereas population structure was not detected in the South Island birds. North Island birds had higher inbreeding coefficients and levels of within group kinship, but not allelic diversity, compared to South Island birds. Our results are thus inconclusive about whether the South Island population originated via a range expansion from the north. This pilot study validated microsatellite markers and PCR methods and is the first genetic analysis of population structure and relatedness within communal breeding pūkeko groups. These genetic tools will be used for larger-scale studies to help resolve the origins of the South Island population and provide further insights into the effects of ecology and behaviour on inbreeding, reproductive success, and population demographics in this species. Pūkeko may provide an excellent model for experimental analyses of inbreeding effects on wild avian populations without the attendant concerns that come with small, endangered populations. This work may thus inform conservation efforts, including translocations of endangered species.
-
-</details>
-
-#### [Carrier-frequency specific omission-related neural activity in ordered sound sequences are independent of omissions-predictability](https://doi.org/10.1101/2024.01.31.578194)
-**Anne Hauswald, Kaja Rosa Benz, Thomas Hartmann, Gianpaolo Demarchi et al.** · 2024-01-31
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Regularities in our surroundings lead to predictions about upcoming events. Previous research has shown, that omitted sounds during otherwise regular tone sequences elicit frequency-specific neural activity related to the upcoming but omitted tone. We tested whether this neural response is depending on the unpredictability of the omission. Therefore we recorded MEG data while participants listened to ordered or random tone sequences with omissions occurring either ordered or randomly. Using multivariate pattern analysis shows that the frequency-specific neural pattern during omission within ordered tone sequences occurs independent of the regularity of the omissions suggesting that the auditory predictions based on sensory experiences are not immediately updated by violations of those expectations.
 
 </details>
 
@@ -5906,16 +5021,6 @@ In highly threatened habitats such as the dry deciduous forests of western Madag
 
 </details>
 
-#### [Characteristics of Walk-In Clinic Physicians and Patients in Ontario, Canada: A Cross-Sectional Study](https://doi.org/10.1101/2024.01.16.24301360)
-**Lauren Lapointe-Shaw, Christine Salahub, Peter C. Austin, Li Bai et al.** · 2024-01-17
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Objective We aimed to describe family physicians who primarily practice in a walk-in clinic setting and compare them to family physicians who provide longitudinal care. Design A cross-sectional study that linked results from an annual physician survey (2019) to administrative healthcare data from Ontario, Canada. We compared the characteristics, practice patterns, and patients of physicians primarily working in a walk-in clinic setting, with family physicians providing longitudinal care. Setting Ontario, Canada. Participants Physicians who primarily worked in a walk-in clinic setting in 2019, as indicated by an annual physician survey. Exposure Whether the physician was a walk-in clinic physician or a family physician who provided longitudinal care. Main Measures Physician demographic and practice characteristics, as well as their patients’ demographic and healthcare utilization characteristics. Results Compared to the 9,137 family physicians practicing longitudinal care, the 597 physicians who self-identified as practicing primarily in walk-in clinics were more frequently male (67% vs. 49%) and could speak a language other than English or French (43% vs. 32%). Walk-in clinic physicians had more encounters with patients who were younger ( M 37 vs. 47 years), had lower levels of prior healthcare utilization (15% vs. 19% in highest band), who resided in large urban areas (87% vs. 77%), and in highly ethnically diverse neighborhoods (45% vs. 35%). Walk-in clinic physicians had more encounters with unattached patients (32% vs. 17%) and with patients attached to another physician outside their group (54% vs. 18%). Conclusion Physicians who primarily work in walk-in clinics saw many patients from historically underserved groups, and many patients who were attached to another family physician.
-
-</details>
-
 #### [Exploring explainable AI methods for bird sound-based species recognition systems](https://doi.org/10.1007/s11042-023-17982-3)
 **Nabanita Das, N. Padhy, Nilanjan Dey, Hrithik Paul et al.** · 2024-01-15
 
@@ -5947,26 +5052,6 @@ Passive acoustic monitoring has proven to have many advantages for monitoring ef
 <summary>Abstract</summary>
 
 As a crucial component of terrestrial ecosystems, urban forests play a pivotal role in protecting urban biodiversity by providing suitable habitats for acoustic spaces. Previous studies note that vegetation structure is a key factor influencing bird sounds in urban forests; hence, adjusting the frequency composition may be a strategy for birds to avoid anthropogenic noise to mask their songs. However, it is unknown whether the response mechanisms of bird vocalizations to vegetation structure remain consistent despite being impacted by anthropogenic noise. It was hypothesized that anthropogenic noise in urban forests occupies the low-frequency space of bird songs, leading to a possible reshaping of the acoustic niches of forests, and the vegetation structure of urban forests is the critical factor that shapes the acoustic space for bird vocalization. Passive acoustic monitoring in various urban forests was used to monitor natural and anthropogenic noises, and sounds were classified into three acoustic scenes (bird sounds, human sounds, and bird-human sounds) to determine interconnections between bird sounds, anthropogenic noise, and vegetation structure. Anthropogenic noise altered the acoustic niche of urban forests by intruding into the low-frequency space used by birds, and vegetation structures related to volume (trunk volume and branch volume) and density (number of branches and leaf area index) significantly impact the diversity of bird sounds. Our findings indicate that the response to low and high frequency signals to vegetation structure is distinct. By clarifying this relationship, our results contribute to understanding of how vegetation structure influences bird sounds in urban forests impacted by anthropogenic noise.
-
-</details>
-
-#### [Sound-seeking before and after hearing loss in mice](https://doi.org/10.1101/2024.01.08.574475)
-**Jessica Mai, Rowan Gargiullo, Megan Zheng, Valentina Esho et al.** · 2024-01-09
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT How we move our bodies affects how we perceive sound. For instance, we can explore an environment to seek out the source of a sound and we can use head movements to compensate for hearing loss. How we do this is not well understood because many auditory experiments are designed to limit head and body movements. To study the role of movement in hearing, we developed a behavioral task called sound-seeking that rewarded mice for tracking down an ongoing sound source. Over the course of learning, mice more efficiently navigated to the sound. We then asked how auditory behavior was affected by hearing loss induced by surgical removal of the malleus from the middle ear. An innate behavior, the auditory startle response, was abolished by bilateral hearing loss and unaffected by unilateral hearing loss. Similarly, performance on the sound-seeking task drastically declined after bilateral hearing loss and did not recover. In striking contrast, mice with unilateral hearing loss were only transiently impaired on sound-seeking; over a recovery period of about a week, they regained high levels of performance, increasingly reliant on a different spatial sampling strategy. Thus, even in the face of permanent unilateral damage to the peripheral auditory system, mice recover their ability to perform a naturalistic sound-seeking task. This paradigm provides an opportunity to examine how body movement enables better hearing and resilient adaptation to sensory deprivation.
-
-</details>
-
-#### [Exploring the impact of integrated health and social care services on child health and wellbeing in underserved populations: a systematic review](https://doi.org/10.1101/2024.01.05.24300706)
-**Chris Bird, Lorraine Harper, Syed Muslim, Derick Yates et al.** · 2024-01-07
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Objective To explore the evidence for interventions that integrate child health and social care and support programmes and the impact they have on child health and wellbeing. Data sources The Cochrane Library, Ovid Medline, Ovid Embase, Ovid Emcare, Ovid Health Management Information Consortium (HMIC) database, and Ovid Social Policy and Practice, Proquest Psychinfo and Ebscohost Cinahl. Eligibility Peer-reviewed original research that described an intervention integrating health care and social support or care interventions for children and young people (CYP) up to the age of 18 years in high-income countries. All databases were searched from inception to August 2023. Data extraction and synthesis 16 studies were identified: 4 RCTs, 5 quantitative studies, 5 qualitative studies and 2 mixed methods studies. A narrative review and quality check of included studies was performed. Study heterogeneity meant a meta-analysis could not be completed. Results Five qualitative, five quantitative, two mixed methods and four randomised controlled trials were included. We identified three main models of delivering integrated health and social care services: targeted support for vulnerable groups, where the provision of packages of interventions focussed on target populations showed potential for decreasing the need for social support in the long-term but with limited evidence for reducing referrals into other services. They were more successful in meeting specific objectives such as lower rates of smoking, and reducing repeat pregnancies; collaborative health and social support were typically collocated services which improved collaborative working but with little impact on workload, job satisfaction, or service delivery; and school centred health and social care, which improved some aspects of CYP wellbeing and physical health but with concerns they added to teacher workload. Conclusions Integrated health and social support programmes offer promising solutions to addressing health inequity in children and young people in underserved populations. However, more robust and consistent study designs are needed to guide researchers and policy makers in their implementation and evaluation. What is already known on this topic. Integrated care that is equipped to mitigate at least some of the social determinants of health is considered key to improving health inequalities in children and young people in underserved populations. Despite increasing investment in integrating health and social support there is little evidence of which models of delivery are most effective in which circumstances nor of the precise impact on target groups and the wider healthcare system. What this study adds We identified three models of integrating health and social support: Packages of interventions targeted at specific groups; Collaborative (and collocated) health and social support; and School-centered health and social care interventions. Results across the three models offered promise of improved care and support for the underserved, referral rates into other services tended to be lower and packages interventions achieved positive results for specific objectives. However, findings were inconsistent, drop-out rates were high, and there are concerns over sustainability without sufficient resources. How this study might affect research, practice and policy Embedding iterative co-production in future research and interventions could improve engagement and outcomes and it’s important that further works explores their cost effectiveness and implications for other elements of health and care services. Appropriate resources and a longer-term commitment to promoting integrated health and social support is needed to fully understand the strengths and weaknesses of the offer and maximise the potential benefits.
 
 </details>
 
@@ -6193,26 +5278,6 @@ Abstract Social communication deficit is a hallmark of autism spectrum disorders
 
 </details>
 
-#### [The human pupil and face encode sound affect and provide objective signatures of tinnitus and auditory hypersensitivity disorders](https://doi.org/10.1101/2023.12.22.571929)
-**Samuel S. Smith, Kelly N. Jahn, Jenna A. Sugai, Ken E. Hancock et al.** · 2023-12-23
-
-<details>
-<summary>Abstract</summary>
-
-Summary Sound is jointly processed along acoustic and emotional dimensions. These dimensions can become distorted and entangled in persons with sensory disorders, producing a spectrum of loudness hypersensitivity, phantom percepts, and – in some cases – debilitating sound aversion. Here, we looked for objective signatures of disordered hearing (DH) in the human face. Pupil dilations and micro facial movement amplitudes scaled with sound valence in neurotypical listeners but not DH participants with chronic tinnitus (phantom ringing) and sound sensitivity. In DH participants, emotionally evocative sounds elicited abnormally large pupil dilations but blunted and invariant facial reactions that jointly provided an accurate prediction of individual tinnitus and hyperacusis questionnaire handicap scores. By contrast, EEG measures of central auditory gain identified steeper neural response growth functions but no association with symptom severity. These findings highlight dysregulated affective sound processing in persons with bothersome tinnitus and sound sensitivity disorders and introduce approaches for their objective measurement.
-
-</details>
-
-#### [CompHEAR: A Customizable and Scalable Web-Enabled Auditory Performance Evaluation Platform for Cochlear Implant Sound Processing Research](https://doi.org/10.1101/2023.12.22.573126)
-**Kris Merrill, Leah Muller, Jordan A. Beim, Phillipp Hehrmann et al.** · 2023-12-23
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Objective Cochlear implants (CIs) are auditory prostheses for individuals with severe to profound hearing loss, offering substantial but incomplete restoration of hearing function by stimulating the auditory nerve using electrodes. However, progress in CI performance and innovation has been constrained by the inability to rapidly test multiple sound processing strategies. Current research interfaces provided by major CI manufacturers have limitations in supporting a wide range of auditory experiments due to portability, programming difficulties, and the lack of direct comparison between sound processing algorithms. To address these limitations, we present the CompHEAR research platform, designed specifically for the Cochlear Implant Hackathon, enabling researchers to conduct diverse auditory experiments on a large scale. Study Design Quasi-experimental Setting Virtual Methods CompHEAR is an open-source, user-friendly platform which offers flexibility and ease of customization, allowing researchers to set up a broad set of auditory experiments. CompHEAR employs a vocoder to simulate novel sound coding strategies for CIs. It facilitates even distribution of listening tasks among participants and delivers real-time metrics for evaluation. The software architecture underlies the platform’s flexibility in experimental design and its wide range of applications in sound processing research. Results Performance testing of the CompHEAR platform ensured that it could support at least 10,000 concurrent users. The CompHEAR platform was successfully implemented during the COVID-19 pandemic and enabled global collaboration for the CI Hackathon ( www.cihackathon.com ). Conclusion The CompHEAR platform is a useful research tool that permits comparing diverse signal processing strategies across a variety of auditory tasks with crowdsourced judging. Its versatility, scalability, and ease of use can enable further research with the goal of promoting advancements in cochlear implant performance and improved patient outcomes.
-
-</details>
-
 #### [Fine-scale forest structure, not management regime, drives occupancy of a declining songbird, the Olive-sided Flycatcher, in the core of its range](https://doi.org/10.1093/ornithapp/duad065)
 **Benjamin Hack, C. A. Cansler, M. Z. Peery, Connor M. Wood** · 2023-12-21
 
@@ -6223,16 +5288,6 @@ ABSTRACT Climate change, management legacies, pest outbreaks, and fire regimes a
 
 </details>
 
-#### [Between group heritability and the status of hereditarianism as an evolutionary science](https://doi.org/10.1101/2023.12.18.572247)
-**Charles C Roseman, Kevin A Bird** · 2023-12-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Hereditarianism is a school of thought that contends there are substantial evolved cognitive and behavioral differences among groups of humans which are both resistant to environmental intervention and are a root cause of differential social outcomes across groups. The relationship of betweengroup heritability to within-group heritability is one of the key theoretical components of hereditarianism and forms one of the bases for its claim to be an evolutionary science. Here, we examine the relationship between and and its application to problems in the hereditarian literature from an evolutionary genetic perspective. We demonstrate that the formulation of the relationship between and used in the hereditarian literature has no evolutionary content. By re-writing the relationship between and in a novel evolutionary framework, we demonstrate that there is no way to predict using without considerable additional theory that is absent from the hereditarian literature. Furthermore, we demonstrate that the hereditarian technique that uses and as a means of judging whether a given difference between groups may be plausibly ameliorated through environmental intervention is mathematically flawed. Lastly, we fill a gap in the hereditarian literature by writing out a means of using to predict the absolute difference between groups under a neutral evolutionary model and find that it is much smaller than claimed by hereditarians. In conclusion, we propose a path forward for the study of human variation that moves us past the ill-conceived nature vs. nurture question and allows us to focus on more productive issues.
-
-</details>
-
 #### [Orbitofrontal Cortex Modulates Auditory Cortical Sensitivity and Sound Perception](https://doi.org/10.1101/2023.12.18.570797)
 **Matheus Macedo-Lima, Lashaka Sierra Hamlette, Melissa L. Caras** · 2023-12-18
 
@@ -6240,27 +5295,6 @@ Abstract Hereditarianism is a school of thought that contends there are substant
 <summary>Abstract</summary>
 
 Abstract Sensory perception is dynamic, quickly adapting to sudden shifts in environmental or behavioral context. Though decades of work have established that these dynamics are mediated by rapid fluctuations in sensory cortical activity, we have a limited understanding of the brain regions and pathways that orchestrate these changes. Neurons in the orbitofrontal cortex (OFC) encode contextual information, and recent data suggest that some of these signals are transmitted to sensory cortices. Whether and how these signals shape sensory encoding and perceptual sensitivity remains uncertain. Here, we asked whether the OFC mediates context-dependent changes in auditory cortical sensitivity and sound perception by monitoring and manipulating OFC activity in freely moving animals under two behavioral contexts: passive sound exposure and engagement in an amplitude modulation (AM) detection task. We found that the majority of OFC neurons, including the specific subset that innervate the auditory cortex, were strongly modulated by task engagement. Pharmacological inactivation of the OFC prevented rapid context-dependent changes in auditory cortical firing, and significantly impaired behavioral AM detection. Our findings suggest that contextual information from the OFC mediates rapid plasticity in the auditory cortex and facilitates the perception of behaviorally relevant sounds. Significance Statement Sensory perception depends on the context in which stimuli are presented. For example, perception is enhanced when stimuli are informative, such as when they are important to solve a task. Perceptual enhancements result from an increase in the sensitivity of sensory cortical neurons; however, we do not fully understand how such changes are initiated in the brain. Here, we tested the role of the orbitofrontal cortex (OFC) in controlling auditory cortical sensitivity and sound perception. We found that OFC neurons change their activity when animals perform a sound detection task. Inactivating OFC impairs sound detection and prevents task-dependent increases in auditory cortical sensitivity. Our findings suggest that the OFC controls contextual modulations of the auditory cortex and sound perception.
-
-</details>
-
-#### [Prenatal exposure to valproic acid reduces synaptic δ-catenin levels and disrupts ultrasonic vocalization in neonates](https://doi.org/10.1101/2023.12.14.571709)
-**Seung Hyun Roh, Hadassah Mendez-Vazquez, Matheus F. Sathler, Michael J. Doolittle et al.** · 2023-12-15
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Valproic acid (VPA) is an effective and commonly prescribed drug for epilepsy and bipolar disorder. However, children born from mothers treated with VPA during pregnancy exhibit an increased incidence of autism spectrum disorder (ASD). Although VPA may impair brain development at the cellular level, the mechanism of VPA-induced ASD has not been completely addressed. A previous study has found that VPA treatment strongly reduces δ-catenin mRNA levels in cultured human neurons. δ-catenin is important for the control of glutamatergic synapses and is strongly associated with ASD. VPA inhibits dendritic morphogenesis in developing neurons, an effect that is also found in neurons lacking δ-catenin expression. We thus hypothesize that prenatal exposure to VPA significantly reduces δ-catenin levels in the brain, which impairs glutamatergic synapses to cause ASD. Here, we found that prenatal exposure to VPA markedly reduced δ-catenin levels in the brain of mouse pups. VPA treatment also impaired dendritic branching in developing mouse cortical neurons, which was reversed by elevating δ-catenin expression. Prenatal VPA exposure significantly reduced synaptic AMPA receptor levels and postsynaptic density 95 (PSD95) in the brain of mouse pups, indicating dysfunctions in glutamatergic synaptic transmission. VPA exposure also significantly altered ultrasonic vocalization (USV) in newly born pups when they were isolated from their nest. Moreover, VPA-exposed pups show impaired hypothalamic response to isolation, which is required to produce animals’ USVs following isolation from the nest. Therefore, these results suggest that VPA-induced ASD pathology can be mediated by the loss of δ-catenin functions. Highlights Prenatal exposure of valproic acid (VPA) in mice significantly reduces synaptic δ-catenin protein and AMPA receptor levels in the pups’ brains. VPA treatment significantly impairs dendritic branching in cultured cortical neurons, which is reversed by increased δ-catenin expression. VPA exposed pups exhibit impaired communication such as ultrasonic vocalization. Neuronal activation linked to ultrasonic vocalization is absent in VPA-exposed pups. The loss of δ-catenin functions underlies VPA-induced autism spectrum disorder (ASD) in early childhood.
-
-</details>
-
-#### [Fructose-1-kinase has pleiotropic roles in
-                  <i>Escherichia coli</i>](https://doi.org/10.1101/2023.12.14.571569)
-**Chamitha Weeramange, Cindy Menjivar, Pierce T. O’Neil, Samir El Qaidi et al.** · 2023-12-14
-
-<details>
-<summary>Abstract</summary>
-
-Abstract In Escherichia coli , the master transcription regulator Catabolite Repressor Activator (Cra) regulates &gt;100 genes in central metabolism. Cra binding to DNA is allosterically regulated by binding to fructose-1-phosphate (F-1-P), but the only documented source of F-1-P is from the concurrent import and phosphorylation of exogenous fructose. Thus, many have proposed that fructose-1,6-bisphosphate (F-1,6-BP) is also a physiological regulatory ligand. However, the role of F-1,6-BP has been widely debated. Here, we report that the E. coli enzyme fructose-1-kinase (FruK) can carry out its “reverse” reaction under physiological substrate concentrations to generate F-1-P from F-1,6-BP. We further show that FruK directly binds Cra with nanomolar affinity and forms higher order, heterocomplexes. Growth assays with a Δ fruK strain and fruK complementation show that FruK has a broader role in metabolism than fructose catabolism. The Δ fruK strain also alters biofilm formation. Since fruK itself is repressed by Cra, these newly-reported events add layers to the dynamic regulation of E. coli central metabolism that occur in response to changing nutrients. These findings might have wide-spread relevance to other γ-proteobacteria, which conserve both Cra and FruK.
 
 </details>
 
@@ -6388,26 +5422,6 @@ Precision agriculture, characterized by integrating cutting-edge technologies to
 
 </details>
 
-#### [Longitudinal trajectories of the neural encoding mechanisms of speech-sound features during the first year of life](https://doi.org/10.1101/2023.11.24.567803)
-**Marta Puertollano, Teresa Ribas-Prats, Natàlia Gorina-Careta, Siham Ijjou-Kadiri et al.** · 2023-11-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Infants quickly recognize the sounds of their mother language, perceiving the spectrotemporal acoustic features of speech. However, the underlying neural machinery remains unclear. We used an auditory evoked potential termed frequency-following response (FFR) to unravel the neural encoding maturation for two speech sound characteristics: voice pitch and temporal fine structure. The FFR was elicited by a two-vowel stimulus (/oa/) in a sample of 41 healthy-term neonates, tested at birth and retested at the ages of six and twelve months. Results revealed a reduction in neural phase-locking time to the stimulus envelope from birth to six months, remaining stable thereafter. While neural encoding of voice pitch remained consistent, temporal fine structure encoding matured rapidly from birth to six months, without further improvement from this age onwards. Results highlight the critical importance of the first six months in the maturation of neural encoding mechanisms, crucial for phoneme discrimination during early language acquisition.
-
-</details>
-
-#### [A Cortico-Striatal Circuit for Sound-Triggered Prediction of Reward Timing](https://doi.org/10.1101/2023.11.21.568134)
-**Harini Suri, Karla Salgado-Puga, Yixuan Wang, Nayomie Allen et al.** · 2023-11-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract A crucial aspect of auditory perception is the ability to use sound cues to predict future events and to time actions accordingly. For example, distinct smartphone notification sounds reflect a call that needs to be answered within a few seconds, or a text that can be read later; the sound of an approaching vehicle signals when it is safe to cross the street. Other animals similarly use sounds to plan, time and execute behaviors such as hunting, evading predation and tending to offspring. However, the neural mechanisms that underlie sound-guided prediction of upcoming salient event timing are not well understood. To address this gap, we employed an appetitive sound-triggered reward time prediction behavior in head-fixed mice. We find that mice trained on this task reliably estimate the time from a sound cue to upcoming reward on the scale of a few seconds, as demonstrated by learning-dependent well-timed increases in reward-predictive licking. Moreover, mice showed a dramatic impairment in their ability to use sound to predict delayed reward when the auditory cortex was inactivated, demonstrating its causal involvement. To identify the neurophysiological signatures of auditory cortical reward-timing prediction, we recorded local field potentials during learning and performance of this behavior and found that the magnitude of auditory cortical responses to the sound prospectively encoded the duration of the anticipated sound-reward time interval. Next, we explored how and where these sound-triggered time interval prediction signals propagate from the auditory cortex to time and initiate consequent action. We targeted the monosynaptic projections from the auditory cortex to the posterior striatum and found that chemogenetic inactivation of these projections impairs animal’s ability to predict sound-triggered delayed reward. Simultaneous neural recordings in the auditory cortex and posterior striatum during task performance revealed coordination of neural activity across these regions during the sound cue predicting the time interval to reward. Collectively, our findings identify an auditory cortical-striatal circuit supporting sound-triggered timing-prediction behaviors.
-
-</details>
-
 #### [Correlated evolution of beak and braincase morphology is present only in select bird clades](https://doi.org/10.1101/2023.11.19.567761)
 **Xiaoni Xu, Rossy Natale** · 2023-11-20
 
@@ -6498,16 +5512,6 @@ Abstract The sound localisation behaviour of the nocturnally hunting barn owl an
 
 </details>
 
-#### [Extending Subcortical EEG Responses to Continuous Speech to the Sound-Field](https://doi.org/10.1101/2023.11.08.566173)
-**Florine L. Bachmann, Joshua P. Kulasingham, Kasper Eskleund, Martin Enqvist et al.** · 2023-11-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The auditory brainstem response (ABR) is a valuable clinical tool for objective hearing assessment, which is conventionally detected by averaging neural responses to thousands of short stimuli. Progressing beyond these unnatural stimuli, brainstem responses to continuous speech presented via earphones have been recently detected using linear temporal response functions (TRFs). Here, we extend earlier studies by measuring subcortical responses to continuous speech presented in the sound-field, and assess the amount of data needed to estimate brainstem TRFs. Electroencephalography (EEG) was recorded from 24 normal hearing participants while they listened to clicks and stories presented via earphones and loudspeakers. Subcortical TRFs were computed after accounting for non-linear processing in the auditory periphery by either stimulus rectification or an auditory nerve model. Our results demonstrated that subcortical responses to continuous speech could be reliably measured in the sound-field. TRFs estimated using auditory nerve models outperformed simple rectification, and 16 minutes of data was sufficient for the TRFs of all participants to show clear wave V peaks for both earphones and sound-field stimuli. Subcortical TRFs to continuous speech were highly consistent in both earphone and sound-field conditions, and with click ABRs. However, sound-field TRFs required slightly more data (16 minutes) to achieve clear wave V peaks compared to earphone TRFs (12 minutes), possibly due to effects of room acoustics. By investigating subcortical responses to sound-field speech stimuli, this study lays the groundwork for bringing objective hearing assessment closer to real-life conditions, which may lead to improved hearing evaluations and smart hearing technologies.
-
-</details>
-
 #### [Mind the gap: exploring the usefulness of historical data to assess the impacts of land-use change on bird diversity in a farmland mosaic of Northeastern Portugal (1980-2000)](https://doi.org/10.1101/2023.11.10.566211)
 **Tiago Múrias, Sérgio B. Ribeiro, Angela Lomba, Nuno Ferrand De Almeida** · 2023-11-13
 
@@ -6515,18 +5519,6 @@ Abstract The auditory brainstem response (ABR) is a valuable clinical tool for o
 <summary>Abstract</summary>
 
 Summary Agriculture intensification and land abandonment are the main threats to bird communities in farmlands. Although they represent the opposite endpoints of a gradient of land-use change, they are usually examined separately. In this study, we assessed the effects of the occurrence of both drivers in space and in time, on bird assemblages. The study was performed in a Mediterranean vineyard-dominated farmland mosaic located in North-Eastern Portugal, where land abandonment and (mechanized) intensification coexisted for twenty years. The aims of this study were (1) to describe the temporal patterns of land-use change; (2) to investigate whether these changes affected the local bird species composition and ecological guild structure; and (3) to assess which species/ecological traits were more responsive to land-use changes. We compared the occurrence of birds before (1979-84) and after (2002-03) the triggering of the land-use change proccess. Results showed the prevalence of three interacting gradients of land-use change: land intensification, and direct and indirect effects of land abandonment. While the composition and ecological structure of the bird communities remained stable during the period analyzed, trait and species-specific analysis showed significant correlations with the gradients of change. This suggest that the local bird communities were able to cope with the synergic dynamics of the land-use change, possibly due to a combination of a resilient pre-change bird assemblage and the buffering effect of the competing drivers. The pros and cons of the approach adopted and the utility of past datasets as baselines to assess and monitor the impacts of environmental change on farmland bird diversity are discussed.
-
-</details>
-
-#### [Mutational scanning reveals oncogenic
-                  <i>CTNNB1</i>
-                  mutations have diverse effects on signalling and clinical traits](https://doi.org/10.1101/2023.11.09.566307)
-**Anagha Krishna, Alison Meynert, Martijn Kelder, Ailith Ewing et al.** · 2023-11-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract CTNNB1 , the gene encoding β-catenin, is a frequent target for oncogenic mutations activating the canonical Wnt signalling pathway, typically via missense mutations within a degron hotspot motif in exon 3. Here, we combine saturation genome editing with a fluorescent reporter assay to quantify signalling phenotypes for all 342 missense mutations in the mutation hotspot, including 74 recurrent mutations reported in over 6000 tumours. Our data define the genetic requirements for β-catenin degron function and reveal diverse levels of signal activation among known driver mutations. Tumorigenesis in different human tissues involves selection for CTNNB1 mutations spanning distinct ranges of effect size. In hepatocellular carcinoma, mutations that activate β-catenin relatively weakly are associated with worse prognosis compared to stronger activating mutations, despite greater immune cell infiltration in the tumour microenvironment. Our work therefore provides a resource to understand mutational diversity within a pan-cancer mutation hotspot, with potential implications for targeted therapy.
 
 </details>
 
@@ -6547,16 +5539,6 @@ Climate change is increasing the frequency, intensity, and duration of extreme w
 <summary>Abstract</summary>
 
 This study investigates the potential of automated deep learning to enhance the accuracy and efficiency of multi-class classification of bird vocalizations, compared against traditional manually-designed deep learning models. Using the Western Mediterranean Wetland Birds dataset, we investigated the use of AutoKeras, an automated machine learning framework, to automate neural architecture search and hyperparameter tuning. Comparative analysis validates our hypothesis that the AutoKeras-derived model consistently outperforms traditional models like MobileNet, ResNet50 and VGG16. Our approach and findings underscore the transformative potential of automated deep learning for advancing bioacoustics research and models. In fact, the automated techniques eliminate the need for manual feature engineering and model design while improving performance. This study illuminates best practices in sampling, evaluation and reporting to enhance reproducibility in this nascent field.
-
-</details>
-
-#### [Modelling hepatitis C infection acquired from blood transfusions in the UK between 1970 and 1991 for the Infected Blood Inquiry](https://doi.org/10.1101/2023.11.03.23298029)
-**Sarah Hayes, Ruth McCabe, Daniela De Angelis, Christl A Donnelly et al.** · 2023-11-03
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The Statistics Expert Group was convened at the request of the Infected Blood Inquiry to provide estimates of the number of infections and deaths from bloodborne infections including hepatitis B virus; human immunodeficiency virus; hepatitis C virus and variant Creutzfeldt Jakob disease, as a direct result of contaminated blood and blood products administered in the United Kingdom of Great Britain and Northern Ireland (UK). In the absence of databases of HCV infections and related deaths for all nations of the UK, a statistical model was required to estimate the number of infections and subsequent deaths from HCV acquired from blood transfusions throughout January 1970 – August 1991. We present this statistical model in detail alongside the results of its application to each of the four nations in the UK. We estimated that 26,800 people (95% uncertainty interval 21,300 – 38,800) throughout the UK were chronically infected with HCV because of contaminated blood transfusions between January 1970 and August 1991. The number of deaths up to the end of 2019 that occurred as a result of this chronic infection is estimated to be 1,820 (95% uncertainty interval 650 – 3,320).
 
 </details>
 
@@ -6629,16 +5611,6 @@ Abstract Cross-modal interactions between auditory and haptic perception manifes
 <summary>Abstract</summary>
 
 Bird sound recognition is crucial for bird protection. As bird populations have decreased at an alarming rate, monitoring and analyzing bird species helps us observe diversity and environmental adaptation. A machine learning model was used to classify bird sound signals. To improve the accuracy of bird sound recognition in low-cost hardware systems, a recognition method based on the adaptive frequency cepstrum coefficient and an improved support vector machine model using a hunter-prey optimizer was proposed. First, in sound-specific feature extraction, an adaptive factor is introduced into the extraction of the frequency cepstrum coefficients. The adaptive factor was used to adjust the continuity, smoothness and shape of the filters. The features in the full frequency band are extracted by complementing the two groups of filters. Then, the feature was used as the input for the following support vector machine classification model. A hunter-prey optimizer algorithm was used to improve the support vector machine model. The experimental results show that the recognition accuracy of the proposed method for five types of bird sounds is 93.45%, which is better than that of state-of-the-art support vector machine models. The highest recognition accuracy is obtained by adjusting the adaptive factor. The proposed method improved the accuracy of bird sound recognition. This will be helpful for bird recognition in various applications.
-
-</details>
-
-#### [Spike-phase coupling of subthalamic neurons to posterior opercular cortex predicts speech sound accuracy](https://doi.org/10.1101/2023.10.18.562969)
-**Matteo Vissani, Alan Bush, Witold J. Lipski, Latané Bullock et al.** · 2023-10-19
-
-<details>
-<summary>Abstract</summary>
-
-Summary Speech provides a rich context for understanding how cortical interactions with the basal ganglia contribute to unique human behaviors, but opportunities for direct intracranial recordings across cortical-basal ganglia networks are rare. We recorded electrocorticographic signals in the cortex synchronously with single units in the basal ganglia during awake neurosurgeries where subjects spoke syllable repetitions. We discovered that individual STN neurons have transient (200ms) spike-phase coupling (SPC) events with multiple cortical regions. The spike timing of STN neurons was coordinated with the phase of theta-alpha oscillations in the posterior supramarginal and superior temporal gyrus during speech planning and production. Speech sound errors occurred when this STN-cortical interaction was delayed. Our results suggest that the STN supports mechanisms of speech planning and auditory-sensorimotor integration during speech production that are required to achieve high fidelity of the phonological and articulatory representation of the target phoneme. These findings establish a framework for understanding cortical-basal ganglia interaction in other human behaviors, and additionally indicate that firing-rate based models are insufficient for explaining basal ganglia circuit behavior.
 
 </details>
 
@@ -6823,16 +5795,6 @@ Abstract Secondary contact between closely related taxa represents a “moment o
 
 </details>
 
-#### [Deep Learning for Heart Sound Analysis: A Literature Review](https://doi.org/10.1101/2023.09.16.23295653)
-**Qinghao Zhao, Shijia Geng, Boya Wang, Yutong Sun et al.** · 2023-09-17
-
-<details>
-<summary>Abstract</summary>
-
-A bstract Heart sound auscultation is a physical examination routinely used in clinical practice to identify potential cardiac abnormalities. However, accurate interpretation of heart sounds requires specialized training and experience, thereby limiting its generalizability. Deep learning, a subset of machine learning, involves training artificial neural networks to learn from large datasets and perform complex tasks related to intricate patterns, such as disease diagnosis, event prediction, and clinical decision-making. Over the past decade, deep learning has been successfully applied to heart sound analysis with remarkable achievements. Meanwhile, as heart sound analysis is gaining attention, many public and private heart sound datasets have been established for model training. The massive accumulation of heart sound data improves the performance of deep learning-based heart sound models and extends their clinical application scenarios. In this review, we will compile the commonly used datasets in heart sound analysis, introduce the fundamentals and state-of-the-art techniques in heart sound analysis and deep learning, and summarize the current applications of deep learning for heart sound analysis and their limitations for future improvement.
-
-</details>
-
 #### [Sound-mediated nucleation and growth of amyloid fibrils](https://doi.org/10.1101/2023.09.16.558053)
 **Anna Kozell, Aleksei Solomonov, Roman Gaidarov, Doron Benyamin et al.** · 2023-09-16
 
@@ -6893,16 +5855,6 @@ Rapid accumulation of biodiversity data and development of deep learning methods
 
 </details>
 
-#### [Sound elicits stereotyped facial movements that provide a sensitive index of hearing abilities](https://doi.org/10.1101/2023.09.07.556766)
-**Kameron K. Clayton, Kamryn S. Stecyk, Anna A. Guo, Anna R. Chambers et al.** · 2023-09-09
-
-<details>
-<summary>Abstract</summary>
-
-SUMMARY Sound elicits rapid movements of muscles in the face, ears, and eyes that protect the body from injury and trigger brain-wide internal state changes. Here, we performed quantitative facial videography from mice resting atop a piezoelectric force plate and observed that broadband sounds elicit rapid, small, and highly stereotyped movements of a facial region near the vibrissae array. Facial motion energy (FME) analysis revealed sensitivity to far lower sound levels than the acoustic startle reflex and greater reliability across trials and mice than sound-evoked pupil dilations or movement of other facial and body regions. FME tracked the low-frequency envelope of sounds and could even decode speech phonemes in varying levels of background noise with high accuracy. FME growth slopes were disproportionately steep in mice with autism risk gene mutations and noise-induced sensorineural hearing loss, providing an objective behavioral measure of sensory hyper-responsivity. Increased FME after noise-induced cochlear injury was closely associated with the emergence of excess gain in later waves of the auditory brainstem response, suggesting a midbrain contribution. Deep layer auditory cortex units were entrained to spontaneous facial movements but optogenetic suppression of cortical activity facilitated – not suppressed – sound-evoked FME, suggesting the auditory cortex is a modulator rather than a mediator of sound-evoked facial movements. These findings highlight a simple involuntary behavior that is more sensitive and integrative than other auditory reflex pathways and captures higher-order changes in sound processing from mice with inherited and acquired hearing disorders.
-
-</details>
-
 #### [Stacked Res2Net-CBAM with Grouped Channel Attention for Multi-Label Bird Species Classification](https://doi.org/10.23919/EUSIPCO58844.2023.10290129)
 **Noumida Abdul Kareem, R. Mukund, N. Nair, R. Rajan** · 2023-09-04
 
@@ -6923,16 +5875,6 @@ Environmental interactions of marine renewable energy (MRE) projects are challen
 
 </details>
 
-#### [Prioritizing Cardiovascular Disease-Associated Variants Altering NKX2-5 Binding through an Integrative Computational Approach](https://doi.org/10.1101/2023.09.01.23294951)
-**Edwin G. Peña-Martínez, Diego A. Pomales-Matos, Alejandro Rivera-Madera, Jean L. Messon-Bird et al.** · 2023-09-02
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Cardiovascular diseases (CVDs) are the leading cause of death worldwide and are heavily influenced by genetic factors. Genome-wide association studies (GWAS) have mapped &gt; 90% of CVD-associated variants within the non-coding genome, which can alter the function of regulatory proteins, like transcription factors (TFs). However, due to the overwhelming number of GWAS single nucleotide polymorphisms (SNPs) (&gt;500,000), prioritizing variants for in vitro analysis remains challenging. In this work, we implemented a computational approach that considers support vector machine (SVM)-based TF binding site classification and cardiac expression quantitative trait loci (eQTL) analysis to identify and prioritize potential CVD-causing SNPs. We identified 1,535 CVD-associated SNPs that occur within human heart footprints/enhancers and 9,309 variants in linkage disequilibrium (LD) with differential gene expression profiles in cardiac tissue. Using hiPSC-CM ChIP-seq data from NKX2-5 and TBX5, two cardiac TFs essential for proper heart development, we trained a large-scale gapped k-mer SVM (LS-GKM-SVM) predictive model that can identify binding sites altered by CVD-associated SNPs. The computational predictive model was tested by scoring human heart footprints and enhancers in vitro through electrophoretic mobility shift assay (EMSA). Three variants (rs59310144, rs6715570, and rs61872084) were prioritized for in vitro validation based on their eQTL in cardiac tissue and LS-GKM-SVM prediction to alter NKX2-5 DNA binding. All three variants altered NKX2-5 DNA binding. In summary, we present a bioinformatic approach that considers tissue-specific eQTL analysis and SVM-based TF binding site classification to prioritize CVD-associated variants for in vitro experimental analysis. Graphical Abstract
-
-</details>
-
 #### [Bird species recognition using spiking neural network along with distance based fuzzy co-clustering](https://doi.org/10.1007/s10772-023-10040-1)
 **Ricky Mohanty, H. Bhuyan, S. Pani, Vinayakumar Ravi et al.** · 2023-09-01
 
@@ -6948,16 +5890,6 @@ Abstract Cardiovascular diseases (CVDs) are the leading cause of death worldwide
 <summary>Abstract</summary>
 
 The SMART-BARN (scalable multimodal arena for real-time tracking behavior of animals in large numbers) achieves fast, robust acquisition of movement, behavior, communication, and interactions of animals in groups, within a large (14.7 meters by 6.6 meters by 3.8 meters), three-dimensional environment using multiple information channels. Behavior is measured from a wide range of taxa (insects, birds, mammals, etc.) and body size (from moths to humans) simultaneously. This system integrates multiple, concurrent measurement techniques including submillimeter precision and high-speed (300 hertz) motion capture, acoustic recording and localization, automated behavioral recognition (computer vision), and remote computer-controlled interactive units (e.g., automated feeders and animal-borne devices). The data streams are available in real time allowing highly controlled and behavior-dependent closed-loop experiments, while producing comprehensive datasets for offline analysis. The diverse capabilities of SMART-BARN are demonstrated through three challenging avian case studies, while highlighting its broad applicability to the fine-scale analysis of collective animal behavior across species.
-
-</details>
-
-#### [Large-scale annotated dataset for cochlear hair cell detection and classification](https://doi.org/10.1101/2023.08.30.553559)
-**Christopher J. Buswinka, David B. Rosenberg, Rubina G. Simikyan, Richard T. Osgood et al.** · 2023-09-01
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Our sense of hearing is mediated by cochlear hair cells, localized within the sensory epithelium called the organ of Corti. There are two types of hair cells in the cochlea, which are organized in one row of inner hair cells and three rows of outer hair cells. Each cochlea contains a few thousands of hair cells, and their survival is essential for our perception of sound because they are terminally differentiated and do not regenerate after insult. It is often desirable in hearing research to quantify the number of hair cells within cochlear samples, in both pathological conditions, and in response to treatment. However, the sheer number of cells along the cochlea makes manual quantification impractical. Machine learning can be used to overcome this challenge by automating the quantification process but requires a vast and diverse dataset for effective training. In this study, we present a large collection of annotated cochlear hair-cell datasets, labeled with commonly used hair-cell markers and imaged using various fluorescence microscopy techniques. The collection includes samples from mouse, human, pig and guinea pig cochlear tissue, from normal conditions and following in-vivo and in-vitro ototoxic drug application. The dataset includes over 90,000 hair cells, all of which have been manually identified and annotated as one of two cell types: inner hair cells and outer hair cells. This dataset is the result of a collaborative effort from multiple laboratories and has been carefully curated to represent a variety of imaging techniques. With suggested usage parameters and a well-described annotation procedure, this collection can facilitate the development of generalizable cochlear hair cell detection models or serve as a starting point for fine-tuning models for other analysis tasks. By providing this dataset, we aim to supply other groups within the hearing research community with the opportunity to develop their own tools with which to analyze cochlear imaging data more fully, accurately, and with greater ease.
 
 </details>
 
@@ -7053,16 +5985,6 @@ Abstract Point counts and transect surveys are both common methods for estimatin
 
 </details>
 
-#### [The eIF4A2 negative regulator of mRNA translation promotes extracellular matrix deposition to accelerate hepatocellular carcinoma initiation](https://doi.org/10.1101/2023.08.16.553544)
-**Madeleine Moore, Luis Pardo-Fernandez, Louise Mitchell, Tobias Schmidt et al.** · 2023-08-16
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Increased protein synthesis supports growth of established tumours. However, how mRNA translation contributes to early tumorigenesis remains unclear. Here we show that following oncogene activation, hepatocytes enter a non-proliferative/senescent-like phase characterized by α5β1 integrin-dependent deposition of fibronectin-rich extracellular matrix (ECM) niches. These niches then promote exit from oncogene-induced senescence to permit progression to proliferating hepatocellular carcinoma (HCC). Removal of eIF4A2, a negative regulator of mRNA translation, boosts the synthesis of membrane/secretory proteins which drives a compensatory increase in the turnover/degradation of membrane proteins including α5β1 integrin. This increased membrane protein degradation, in turn, compromises generation of ECM-rich tumour initiation niches, senescence-exit and progression to proliferating HCC. Consistently, pharmacological inhibition of mRNA translation following eIF4A2 loss restores ECM deposition and reinstates HCC progression. Thus, although inhibition of protein synthesis may be an effective way to reduce tumour biomass and the growth of established tumours, our results highlight how agents which reduce mRNA translation, if administered during early tumorigenesis, may awaken senescent cells and promote tumour progression.
-
-</details>
-
 #### [Active Bird2Vec: Towards End-to-End Bird Sound Monitoring with Transformers](https://arxiv.org/abs/2308.07121)
 **Lukas Rauch, Raphael Schwinger, Moritz Wirth, Bernhard Sick et al.** · 2023-08-14
 
@@ -7100,18 +6022,6 @@ The acoustic landscape of a place is formed by biophony, anthropophony and geoph
 <summary>Abstract</summary>
 
 To address the problems of low classification accuracy in bird sound recognition algorithms, a bird sound recognition method based on FBank feature extraction is proposed. FBank features are extracted from bird audio data, trained with Transformer model, and confusion matrix of the model is obtained by adjusting learning rate and optimizing loss function. Tests have shown that the proposed method has good accuracy in identifying 10 types of bird sounds.
-
-</details>
-
-#### [Whole genome structural predictions reveal hidden diversity in putative oxidative enzymes of the lignocellulose degrading ascomycete
-                  <i>Parascedosporium putredinis</i>
-                  NO1](https://doi.org/10.1101/2023.08.08.552407)
-**Conor JR Scott, Daniel R Leadbeater, Nicola C Oates, Sally R James et al.** · 2023-08-10
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Economic valorisation of lignocellulose is paramount to realising a true circular bioeconomy; however, this requires the development of systems and processes to expand the repertoire of bioproducts beyond current renewable fuels, chemicals, and sustainable materials. Parascedosporium putredinis NO1 is an ascomycete that thrived at the later stages of a wheat- straw composting community culture, indicating a propensity to degrade recalcitrant lignin- enriched biomass, but exists within an underrepresented and underexplored fungal lineage. This strain has proven an exciting candidate for the identification of new enzymes targeting recalcitrant components of lignocellulose following the recent discovery of a new lignin β-ether linkage cleaving enzyme. The first genome for the genus Parascedosporium for P. putredinis NO1 genome was sequenced, assembled, and annotated. The genome is 39 Mb in size, consisting of 21 contigs annotated to contain 9.998 protein-coding sequences. The carbohydrate-active enzyme (CAZyme) repertoire was compared to 2570 ascomycete genomes and in detail with Trichoderma reesei , Fusarium oxysporum, and sister taxa Scedosporium boydii. Significant expansion in the oxidative auxiliary activity class of CAZymes was observed in the P. putredinis NO1 genome resulting from increased sequences encoding putative lytic polysaccharide monooxygenases (LPMOs), oxidative enzymes acting within LPMO redox systems, and lignin-degrading laccases. P. putredinis NO1 scored above the 95 th percentile for AA gene density across the ascomycete phylum, suggesting a primarily oxidative strategy for lignocellulose breakdown. Novel structure-based searching approaches were employed, revealing 17 new sequences with structural similarity to LPMO, laccase, and peroxidase sequences and which are potentially new lignocellulose-degrading enzymes. Importance An annotated reference genome has revealed P. putredinis NO1 as a useful resource for the identification of new lignocellulose degrading enzymes for biorefining of woody plant biomass. Utilising a ‘structure-omics’ based searching strategy, new potentially lignocellulose-active sequences were identified that would have been missed by traditional sequence searching methods. These new identifications, alongside the discovery of novel enzymatic functions from this underexplored lineage with the recent discovery of a new phenol oxidase that cleaves the main structural β-O-4 linkage in lignin from P. putredinis NO1 highlights the underexplored and poorly represented family Microascaceae as particularly interesting candidates worthy of further exploration toward the valorisation of high value biorenewable products.
 
 </details>
 
@@ -7166,16 +6076,6 @@ Abstract Fine-scale resolution of spatial genetic structure is important for und
 
 </details>
 
-#### [Parallel EEG assessment of different sound predictability levels in tinnitus](https://doi.org/10.1101/2023.07.25.550472)
-**Pia Brinkmann, Jana V. P. Devos, Jelle H. M. van der Eerden, Jasper V. Smit et al.** · 2023-07-28
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Objective Tinnitus denotes perception of a non-environmental sound and might result from aberrant auditory prediction. Successful prediction of formal (e.g. type) and temporal sound characteristics facilitates the filtering of irrelevant information (“sensory gating”, SG). Here, we explored if and how parallel manipulations of formal and temporal predictability affect sensory gating in persons with and without tinnitus. Methods Age-, education- and sex-matched persons with and without tinnitus (N = 52) participated and listened to paired-tone “oddball” sequences, varying in formal (standard vs. deviant pitch) and temporal predictability (isochronous vs. random timing). EEG was recorded from 128 channels and data were analyzed by means of temporal spatial principal component analysis (tsPCA). Results SG was observed in P50- and N100-like activity (amplitude suppression for the 2 nd tone in the pair) in both timing conditions and groups. Correspondingly, deviants elicited overall larger amplitudes than standards. However, only in persons without tinnitus N100-like activity in response to deviants was enhanced with isochronous relative to random timing. Conclusions Persons with tinnitus do not benefit similarly as persons without tinnitus from temporally predictable context in deviance processing. Significance The current results indicate altered temporal sensitivity and selective attention allocation in persons with tinnitus. Highlights - Persons with tinnitus display altered auditory predictions affecting the processing of unexpected auditory input - Position predictions did not differ between persons with tinnitus and without - Temporal predictability facilitated deviance processing for P50-like activity in persons with tinnitus and without
-
-</details>
-
 #### [A comparison of convolutional neural networks and few-shot learning in classifying long-tailed distributed tropical bird songs](https://www.biorxiv.org/content/biorxiv/early/2023/07/27/2023.07.25.550590.full.pdf)
 **Ming Zhong, Jack LeBien, Marconi Campos‐Cerqueira, T. Aide et al.** · 2023-07-27
 
@@ -7206,16 +6106,6 @@ This research explores approaches for bird identification and develops an automa
 
 </details>
 
-#### [POPSHIFT: A THERMODYNAMICALLY SOUND APPROACH TO ESTIMATE BINDING FREE ENERGIES BY ACCOUNTING FOR LIGAND-INDUCED POPULATION SHIFTS FROM A LIGAND-FREE MSM](https://doi.org/10.1101/2023.07.14.549110)
-**Louis G. Smith, Borna Novak, Meghan Osato, David L. Mobley et al.** · 2023-07-18
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Obtaining accurate binding free energies from in silico screens has been a longstanding goal for the computational chemistry community. However, accuracy and computational cost are at odds with one another, limiting the utility of methods that perform this type of calculation. Many methods achieve massive scale by explicitly or implicitly assuming that the target protein adopts a single structure, or undergoes limited fluctuations around that structure, to minimize computational cost. Others simulate each protein-ligand complex of interest, accepting lower throughput in exchange for better predictions of binding affinities. Here, we present the PopShift framework for accounting for the ensemble of structures a protein adopts and their relative probabilities. Protein degrees of freedom are enumerated once, and then arbitrarily many molecules can be screened against this ensemble. Specifically, we use Markov state models (MSMs) as a compressed representation of a protein’s thermodynamic ensemble. We start with a ligand-free MSM and then calculate how addition of a ligand shifts the populations of each protein conformational state based on the strength of the interaction between that protein conformation and the ligand. In this work we use docking to estimate the affinity between a given protein structure and ligand, but any estimator of binding affinities could be used in the PopShift framework. We test PopShift on the classic benchmark pocket T4 Lysozyme L99A. We find that PopShift is more accurate than common strategies, such as docking to a single structure and traditional ensemble docking—producing results that compare favorably with alchemical binding free energy calculations in terms of RMSE but not correlation—and may have a more favorable computational cost profile in some applications. In addition to predicting binding free energies and ligand poses, PopShift also provides insight into how the probability of different protein structures is shifted upon addition of various concentrations of ligand, providing a platform for predicting affinities and allosteric effects of ligand binding. Therefore, we expect PopShift will be valuable for hit finding and for providing insight into phenomena like allostery.
-
-</details>
-
 #### [Snowmobile noise alters bird vocalization patterns during winter and pre-breeding season](https://doi.org/10.1101/2023.07.13.548680)
 **Benjamin Cretois, Ian Avery Bick, Cathleen Balantic, Femke B. Gelderblom et al.** · 2023-07-15
 
@@ -7223,16 +6113,6 @@ Abstract Obtaining accurate binding free energies from in silico screens has bee
 <summary>Abstract</summary>
 
 Abstract Noise pollution poses a significant threat to ecosystems worldwide, disrupting animal communication and causing cascading effects on biodiversity. In this study, we focus on the impact of snowmobile noise on avian vocalizations during the non-breeding winter season, a less-studied area in soundscape ecology. We developed a pipeline relying on deep learning methods to detect snowmobile noise and applied it to a large acoustic monitoring dataset collected in Yellowstone National Park. Our results demonstrate the effectiveness of the snowmobile detection model in identifying snowmobile noise and reveal an association between snowmobile passage and changes in avian vocalization patterns. Snowmobile noise led to a decrease in the frequency of bird vocalizations during mornings and evenings, potentially affecting winter and pre-breeding behaviors such as foraging, predator avoidance and successfully finding a mate. However, we observed a recovery in avian vocalizations after detection of snowmobiles during mornings and afternoons, indicating some resilience to sporadic noise events. These findings emphasize the need to consider noise impacts in the non-breeding season and provide valuable insights for natural resource managers to minimize disturbance and protect critical avian habitats. The deep learning approach presented in this study offers an efficient and accurate means of analyzing large-scale acoustic monitoring data and contributes to a comprehensive understanding of the cumulative impacts of multiple stressors on avian communities. Graphical Abstract
-
-</details>
-
-#### [Body Maps of Sound Pitch and its individual differences in Alexithymia and Depression](https://doi.org/10.1101/2023.07.12.548627)
-**Tatsuya Daikoku, Takato Horii, Shigeto Yamawaki** · 2023-07-14
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sound perception extends beyond the boundaries of auditory sensation, encompassing a profound engagement with the entire human body. This intricate interplay between sound and body sensation has long captivated the interest of researchers. In this study, we examined the relationship between our perception of sound pitch and our bodily position senses, while also exploring the role of emotions in shaping this intriguing cross-modal correspondence. We also compare the topography of pitch-triggered body sensations between depressive, alexithymia, and the control groups, and examine their associations with anxiety. Our findings reveal that individuals with depression and alexithymia experience diffuse and less localized body sensations in response to sound pitch, accompanied by heightened feelings of anxiety and negative emotions. These findings imply that diffuse bodily sensations in response to sound may trigger negative emotions such as anxiety and indicate that monitoring pitch-triggered body sensations could serve as a valuable biomarker for emotional disorders. Our study sheds light on the profound importance of body sense awareness in response to sounds, a phenomenon that may be mediated by interoception. This research enhances our understanding of the intricate relationship between sound, emotions, and the human body, offering insights for potential interventions in emotional disorders.
 
 </details>
 
@@ -7301,18 +6181,6 @@ ABSTRACT Limited ancestral diversity has impaired our ability to detect risk var
 <summary>Abstract</summary>
 
 Abstract We present a high-resolution, densely-sampled dataset of wild bird songs collected over multiple years from a single population of Great Tits ( Parus major ) in the UK. The dataset includes over 1,100,000 individual acoustic units from 109,963 richly annotated songs, sung by more than 400 individual birds, and provides unprecedented detail on the vocal behaviour of wild birds. Here, we describe the data collection and processing procedures and provide a summary of the data. We also discuss potential research questions that can be addressed using this dataset, including behavioural repeatability and stability, links between vocal performance and reproductive success, the timing of song production, syntactic organisation of song production, and song learning in the wild. We have made the dataset and associated software tools publicly available with the aim that other researchers can benefit from this resource and use it to further our understanding of bird vocal behaviour in the wild.
-
-</details>
-
-#### [A familial missense variant in the Alzheimer’s Disease gene
-                  <i>SORL1</i>
-                  impairs its maturation and endosomal sorting](https://doi.org/10.1101/2023.07.01.547348)
-**Elnaz Fazeli, Daniel D. Child, Stephanie A. Bucks, Miki Stovarsky et al.** · 2023-07-03
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The SORL1 gene has recently emerged as a strong Alzheimer’s Disease (AD) risk gene. Over 500 different variants have been identified in the gene and the contribution of individual variants to AD development and progression is still largely unknown. Here, we describe a family consisting of 2 parents and 5 offspring. Both parents were affected with dementia and one had confirmed AD pathology with an age of onset &gt;75 years. All offspring were affected with AD with ages at onset ranging from 53yrs-74yrs. DNA was available from the parent with confirmed AD and 5 offspring. We identified a coding variant, p.(Arg953Cys), in SORL1 in 5 of 6 individuals affected by AD. Notably, variant carriers had severe AD pathology, and the SORL1 variant segregated with TDP-43 pathology (LATE-NC). We further characterized this variant and show that this Arginine substitution occurs at a critical position in the YWTD-domain of the SORL1 translation product, SORL1. Functional studies further show that the p.R953C variant leads to retention of the SORL1 protein in the endoplasmic reticulum which leads to decreased maturation and shedding of the receptor and prevents its normal endosomal trafficking. Together, our analysis suggests that p.R953C is a pathogenic variant of SORL1 and sheds light on mechanisms of how missense SORL1 variants may lead to AD.
 
 </details>
 
@@ -7582,16 +6450,6 @@ Episodic memory, or memory of experienced events, is a critical function of the 
 
 </details>
 
-#### [Auditory cortex conveys non-topographic sound localization signals to visual cortex](https://doi.org/10.1101/2023.05.28.542580)
-**Camille Mazo, Margarida Baeta, Leopoldo Petreanu** · 2023-05-28
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Perception requires binding spatiotemporally congruent multimodal sensory stimuli. The auditory cortex (AC) sends projections to the primary visual cortex (V1), which could provide signals for binding spatially corresponding audio-visual stimuli. However, it is unknown whether AC inputs in V1 encode sound location. We used dual-color two-photon axonal calcium imaging and an array of speakers to measure the auditory spatial information that AC transmits to V1. We found that AC relays information about the location of ipsilateral and contralateral sound sources to V1. Sound location could be accurately decoded by sampling AC axons in V1, providing a substrate for making location-specific audiovisual associations. However, AC inputs were not retinotopically arranged in V1, and audio-visual modulations of V1 neurons did not depend on the spatial congruency of the sound and light stimuli. The distributed, non-topographic sound localization signals provided by AC might allow the association of specific audiovisual spatial patterns in V1 neurons.
-
-</details>
-
 #### [Rapid decline of prenatal maternal effects with age is independent of postnatal environment in a precocial bird](https://doi.org/10.1101/2023.05.26.542383)
 **Oscar Vedder, Barbara Tschirren, Erik Postma, Maria Moiron** · 2023-05-26
 
@@ -7619,16 +6477,6 @@ In this study, we present the development of an automatic bird species recogniti
 <summary>Abstract</summary>
 
 Abstract Highly pathogenic avian influenza virus (HPAIV) A H5 clade 2.3.4.4 has caused worldwide outbreaks in domestic poultry, occasional spillover to humans, and increasing deaths of diverse species of wild birds since 2014. Wild bird migration is currently acknowledged as an important ecological process contributing to the global dispersal of HPAIV H5. However, it is unclear how seasonal bird migration facilitates global virus dispersal , and which avian species are exposed to HPAI H5 clade 2.3.4.4 viruses and where . To shed light on ongoing global outbreaks, we sought to explore these questions through phylodynamic analyses based on empirical data of bird movement tracking and virus genome sequences. First, based on viral phylogeography and bird migration networks, we demonstrate that seasonal bird migration can explain salient features of the global dispersal of clade 2.3.4.4. Second, we detect synchrony between the seasonality of bird annual cycle phases and virus lineage movements. We reveal the differing vulnerable bird orders at geographical origins and destinations of HPAIV H5 lineage movements. Notably, we highlight the potential importance of relatively under-discussed Suliformes and Ciconiiformes, in addition to Anseriformes and Charadriiformes, in virus lineage movements. Our study provides a phylodynamic framework that links the bird movement ecology and genomic epidemiology of avian influenza; it highlights the importance of integrating bird behaviour and life history in avian influenza studies.
-
-</details>
-
-#### [Sound-based assembly of three-dimensional cellularized and acellularized constructs](https://doi.org/10.1101/2023.05.23.541870)
-**Riccardo Tognato, Romedi Parolini, Shahrbanoo Jahangir, Junxuan Ma et al.** · 2023-05-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Herein we show an accessible technique based on Faraday waves that assist the rapid assembly osteoinductive β-TCP particles as well as human osteoblast pre-assembled in spheroids. The hydrodynamic forces originating at ’seabed’ of the assembly chamber can be used to tightly aggregate inorganic and biological entities at packing densities that resemble those of native tissues. Additionally, following a layer-by-layer assembly procedure, centimeter scaled osteoinductive three-dimensional and cellularised constructs have been fabricated. We showed that the intimate connection between biological building blocks is essential in engineering living system able of localized mineral deposition. Our results demonstrate, for the first time, the possibility to obtain three-dimensional cellularised and acellularised anisotropic constructs using Faraday waves.
 
 </details>
 
@@ -7752,32 +6600,6 @@ A sketch is a black-and-white, 2-D graphical representation of an object and con
 
 </details>
 
-#### [GluN2C/D-containing NMDA receptors enhance temporal summation and increase sound-evoked and spontaneous firing in the inferior colliculus](https://doi.org/10.1101/2023.04.27.538607)
-**Audrey C. Drotos, Rachel L. Zarb, Victoria Booth, Michael T. Roberts** · 2023-04-27
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Along the ascending auditory pathway, there is a broad shift from temporal coding, which is common in the lower auditory brainstem, to rate coding, which predominates in auditory cortex. This temporal-to-rate transition is particularly prominent in the inferior colliculus (IC), the midbrain hub of the auditory system, but the mechanisms that govern how individual IC neurons integrate information across time remain largely unknown. Here, we report the widespread expression of Glun2c and Glun2d mRNA in IC neurons. GluN2C/D-containing NMDA receptors are relatively insensitive to voltage-dependent Mg 2+ block, and thus can conduct current at resting membrane potential. Using in situ hybridization and pharmacology, we show that VIP neurons in the IC express GluN2D-containing NMDA receptors that are activatable by commissural inputs from the contralateral IC. In addition, GluN2C/D-containing receptors have much slower kinetics than other NMDA receptors, and we found that GluN2D-containing receptors facilitate temporal summation of synaptic inputs in VIP neurons. In a model neuron, we show that a GluN2C/D-like conductance interacts with the passive membrane properties of the neuron to alter temporal and rate coding of stimulus trains. Consistent with this, we show in vivo that blocking GluN2C/D-containing receptors decreases both the spontaneous firing rate and the overall firing rate elicited by amplitude-modulated (AM) sounds in many IC neurons. These results suggest that GluN2C/D-containing NMDA receptors influence rate coding for auditory stimuli in the IC by facilitating the temporal integration of synaptic inputs. Significance statement NMDA receptors are critical components of most glutamatergic circuits in the brain, and the diversity of NMDA receptor subtypes yields receptors with a variety of functions. We found that many neurons in the auditory midbrain express GluN2C and/or GluN2D NMDA receptor subunits, which are less sensitive to Mg 2+ block than the more commonly expressed GluN2A/B subunits. We showed that GluN2C/D-containing receptors conducted current at resting membrane potential and enhanced temporal summation of synaptic inputs. In a model, we show that GluN2C/D-containing receptors provide additive gain for input-output functions driven by trains of synaptic inputs. In line with this, we found that blocking GluN2C/D-containing NMDA receptors in vivo decreased both spontaneous firing rates and firing evoked by amplitude-modulated sounds.
-
-</details>
-
-#### [WITHDRAWN: Evaluation of Fourier Transform Infrared spectroscopy (IR Biotyper) as a complement to Whole genome sequencing (WGS) to characterise
-                  <i>Enterobacter cloacae</i>
-                  ,
-                  <i>Citrobacter freundii</i>
-                  and
-                  <i>Klebsiella pneumoniae</i>
-                  isolates recovered from hospital sinks](https://doi.org/10.1101/2023.04.24.23289028)
-**P Aranega-Bou, C Cornbill, G Rodger, M Bird et al.** · 2023-04-26
-
-<details>
-<summary>Abstract</summary>
-
-Withdrawal statement The authors have withdrawn their manuscript due to becoming aware of methodology issues related to the curation of the training set used to determine cut-off values for Biotyper cluster assignation and lack of replicate measurements on different days for the isolates analysed. It is therefore unclear whether the conclusions of the manuscript are founded and no further work is possible to correct these issues as the instrument is no longer available to the authors. If you have any questions, please contact the corresponding author.
-
-</details>
-
 #### [Passive monitoring of avian habitat on working lands.](https://mdsoar.org/bitstreams/316df922-32be-4b42-8043-2631e9e885cf/download)
 **A. Dixon, M. Baker, E. Ellis** · 2023-04-24
 
@@ -7870,16 +6692,6 @@ This research involved identifying the birds with the help of audio recorded fro
 
 </details>
 
-#### [Characterization of methionine dependence in melanoma cells](https://doi.org/10.1101/2023.04.05.535723)
-**Sarita Garg, Lauren C. Morehead, Jordan T. Bird, Stefan Graw et al.** · 2023-04-05
-
-<details>
-<summary>Abstract</summary>
-
-Dietary methionine restriction is associated with a reduction in tumor growth in preclinical studies and an increase in lifespan in animal models. The mechanism by which methionine restriction inhibits tumor growth while sparing normal cells is incompletely understood. We do know that normal cells can utilize methionine or homocysteine interchangeably (methionine independence) while most cancer cells are strictly dependent on methionine availability. Here, we compared a typical methionine dependent and a rare methionine independent melanoma cell line. We show that replacing methionine, a methyl donor, with its precursor homocysteine generally induced hypomethylation in gene promoters. This decrease was similar in methionine dependent and methionine independent cells. There was only a low level of pathway enrichment, suggesting that the hypomethylation is generalized rather than gene specific. Whole proteome and transcriptome were also analyzed. This analysis revealed that contrarily to the effect on methylation, the replacement of methionine with homocysteine had a much greater effect on the transcriptome and proteome of methionine dependent cells than methionine independent cells. Interestingly, methionine adenosyltransferase 2A (MAT2A), responsible for the synthesis of s-adenosylmethionine from methionine, was equally strongly upregulated in both cell lines. This suggests that the absence of methionine is equally detected but triggers different outcomes in methionine dependent versus independent cells. Our analysis reveals the importance of cell cycle control, DNA damage repair, translation, nutrient sensing, oxidative stress and immune functions in the cellular response to methionine stress in melanoma.
-
-</details>
-
 #### [Spatial and seasonal variation in thermal sensitivity within North American bird species](https://doi.org/10.1101/2023.03.31.535105)
 **Jeremy M. Cohen, Daniel Fink, Benjamin Zuckerberg** · 2023-04-03
 
@@ -7903,16 +6715,6 @@ ABSTRACT Diverse influenza A viruses (IAVs) circulate in wild birds, including d
 #### [An Auto Encoder-Decoder Approach to Classify the Bird Sounds Using Deep Learning Techniques](https://doi.org/10.1007/s42979-023-01686-4)
 **B. Vamsi, Mohan Mahanty, B. P. Doppala** · 2023-03-27
 
-
-#### [Absence of Telomerase Leads to Immune Response and Tumor Regression in Zebrafish Melanoma](https://doi.org/10.1101/2023.03.24.534079)
-**Bruno Lopes-Bastos, Joana Nabais, Tânia Ferreira, Mounir El Maï et al.** · 2023-03-25
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Most cancers reactivate telomerase to maintain telomere length to acquire immortality. The importance of this process is well illustrated by the fact that telomerase promoter mutations are found at a high frequency in many cancer types, including melanoma. However, it is unclear when and if telomerase is strictly required during tumorigenesis. Here, we show that melanoma can occur in the absence of telomerase but is required to sustain later growth and to avoid tumor regression. We combined telomerase mutant zebrafish ( tert-/- ) with two established melanoma models and found equal melanoma incidence and invasiveness as tumors became visible. Later, however, while tert+/+ fish develop increasing larger tumors, tert-/- tumors stagnate growth and regress. tert-/- tumors showed lower cell proliferation, higher apoptosis and melanocyte differentiation. We also detected an immune response directed at tert-/- tumors. tert-/- tumors exhibited increased immune cell infiltrates and resume growth when transplanted into immunocompromised hosts. We propose that telomerase is required for melanoma in zebrafish, albeit at later stages of progression, to sustain growth while avoiding immune rejection and regression. Thus, absence of telomerase restricts melanoma through tumor-autonomous mechanisms (cell cycle arrest, apoptosis and melanocyte differentiation) and a non-tumor-autonomous mechanisms (immune rejection).
-
-</details>
 
 #### [Estimating the Repertoire Size in Birds using Unsupervised Clustering techniques](https://arxiv.org/abs/2303.10678)
 **Joachim Poutaraud** · 2023-03-19
@@ -7954,16 +6756,6 @@ Abstract The mammalian hippocampal formation (HF) is organized into domains asso
 
 </details>
 
-#### [Skewed distribution of spines is independent of presynaptic transmitter release and synaptic plasticity and emerges early during adult neurogenesis](https://doi.org/10.1101/2023.03.15.532740)
-**Nina Rößler, Tassilo Jungenitz, Albrecht Sigler, Alexander Bird et al.** · 2023-03-15
-
-<details>
-<summary>Abstract</summary>
-
-Summary Dendritic spines are crucial for excitatory synaptic transmission as the size of a spine head correlates with the strength of its synapse. The distribution of spine head sizes follows a lognormal-like distribution with more small spines than large ones. We analysed the impact of synaptic activity and plasticity on the spine size distribution in adult-born hippocampal granule cells from rats with induced homo- and heterosynaptic long-term plasticity in vivo and CA1 pyramidal cells from Munc-13-1-Munc13-2 knockout mice with completely blocked synaptic transmission. Neither induction of extrinsic synaptic plasticity nor the blockage of presynaptic activity degrades the lognormal-like distribution but changes its mean, variance and skewness. The skewed distribution develops early in the life of the neuron. Our findings and their computational modelling support the idea that intrinsic synaptic plasticity is sufficient for the generation, while a combination of intrinsic and extrinsic synaptic plasticity maintains lognormal like distribution of spines.
-
-</details>
-
 #### [Evolution of the CRISPR-Cas9 defence system in
                   <i>Mycoplasma gallisepticum</i>
                   following colonization of a novel bird host](https://doi.org/10.1101/2023.03.14.532377)
@@ -7983,17 +6775,6 @@ Abstract CRISPR-Cas systems are bacterial defences that target bacteriophages an
 <summary>Abstract</summary>
 
 Abstract Bird nests are fascinating microcosms harboring a wide range of arthropods parasitizing the nesting birds or feeding on prey remains, feces, and the nest material. Studies of these communities have been entirely based on emergence traps which collect live organisms out of the nests. The analysis of nest contents and environmental DNA (eDNA) via metabarcoding could expand our knowledge and identify prey, exuviae, and other animal remains in bird nests. Here, we investigated the potential of arthropod remains, nest dust, and feathers to better describe taxonomic diversity accumulated in 20 bird nests collected in Guelph (Canada). We used subsampling strategies and tested two extraction approaches to investigate the distribution of DNA in nests, account for low-quality DNA, and the presence of inhibitory substances. In total, 103 taxa were detected via metabarcoding. Arthropod remains delivered the highest number of taxa (n=67), followed by nest dust (n=29). Extractions with the PowerSoil kit outperformed DNeasy extractions coupled with PowerClean Pro inhibitor removal. The subsamples of the same nest showed 5.5% and 47.1% taxonomic overlap for arthropod remains and PowerSoil extracted nest dust, respectively, indicating a heterogeneous eDNA distribution in nests. Most detected species were either feeding in the nest, i.e., herbivorous / predatory, or bird food. We also detected molecular traces of 25 bird species, whose feathers were likely used as nest material. Consequently, the metabarcoding of bird nest materials provides a more complete picture of nest communities, which can enable future studies on functional diversity and better comparisons between nesting species.
-
-</details>
-
-#### [Characterisation of the retinal phenotype using multimodal imaging in novel compound heterozygote variants of
-                  <i>CYP2U1</i>](https://doi.org/10.1101/2023.03.07.23286486)
-**Ferenc B Sallo, Chantal Dysli, Franz Josef Holzer, Emmanuelle Ranza et al.** · 2023-03-09
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Purpose To report the retinal phenotype in two patients simulating type 2 macular telangiectasis with new variants in CYP2U1 implicated in Hereditary Spastic Paraplegia type 56 (HSP 56). Methods Five members of a non-consanguineous family (parents and three male children) were investigated. All family members underwent a full ophthalmological evaluation and multimodal retinal imaging. Two family members demonstrating retinal anomalies underwent additional OCT angiography, dual wavelength autofluorescence and fluorescence lifetime imaging ophthalmoscopy, kinetic perimetry, fundus-correlated microperimetry, electroretinography and electro-oculography. Whole exome sequencing was performed in all five family members. Results The two siblings with compound heterozygous novel variants c.452C&gt;T; p.(Pro151Leu), c.943C&gt;T; p.(Gln315Ter) in CYP2U1 demonstrated parafoveal loss of retinal transparency and hyperreflectivity to blue light, redistribution of luteal pigment to the parafoveal edge, photoreceptor loss, FLIO anomalies: a pattern compatible with that seen in macular telangiectasia type 2 (MacTel). One had manifest neurological abnormalities since early childhood, the second had no neurological abnormalities. Each parent and the third sibling were heterozygous for one variant and were neurologically and ophthalmologically normal. Conclusion These CYP2U1 variants are associated with a retinal phenotype very similar to that otherwise specific for MacTel, suggestive of possible links in the aetiology/pathogenesis of these diseases.
 
 </details>
 
@@ -8107,16 +6888,6 @@ Abstract Background Long-term monitoring is needed to understand the statuses an
 
 </details>
 
-#### [Sea Star Wasting Syndrome Reaches the High Antarctic: Two Recent Outbreaks in McMurdo Sound](https://doi.org/10.1101/2023.02.17.529025)
-**Amy Moran, Rowan H. McLachlan, Andrew R. Thurber** · 2023-02-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sea star wasting syndrome (SSWS) can cause widespread mortality in starfish populations as well as long-lasting changes to benthic community structure and dynamics. SSWS symptoms have been documented in numerous species and locations around the world, but to date there is only one record of SSWS from the Antarctic and this outbreak was associated with volcanically-driven high temperature anomalies. Here we report outbreaks of SSWS-like symptoms that affected ∼30% of individuals of Odontaster validus at two different sites in McMurdo Sound, Antarctica in 2019 and 2022. Unlike many SSWS events in other parts of the world, these outbreaks were not associated with anomalously warm temperatures. Instead, we suggest they may have been triggered by high nutrient input events on a local scale. Although the exact cause of these outbreaks is not known, these findings are of great concern because of the keystone role of O. validus and the slow recovery rate of Antarctic benthic ecosystems to environmental stressors.
-
-</details>
-
 #### [Learnable Frontends That Do Not Learn: Quantifying Sensitivity To Filterbank Initialisation](https://arxiv.org/abs/2302.10014)
 **Mark Anderson, T. Kinnunen, Naomi Harte** · 2023-02-20
 
@@ -8124,16 +6895,6 @@ Abstract Sea star wasting syndrome (SSWS) can cause widespread mortality in star
 <summary>Abstract</summary>
 
 While much of modern speech and audio processing relies on deep neural networks trained using fixed audio representations, recent studies suggest great potential in acoustic frontends learnt jointly with a backend. In this study, we focus specifically on learnable filterbanks. Prior studies have reported that in frontends using learnable filterbanks initialised to a mel scale, the learned filters do not differ substantially from their initialisation. Using a Gabor-based filterbank, we investigate the sensitivity of a learnable filterbank to its initialisation using several initialisation strategies on two audio tasks: voice activity detection and bird species identification. We use the Jensen-Shannon Distance and analysis of the learned filters before and after training. We show that although performance is overall improved, the filterbanks exhibit strong sensitivity to their initialisation strategy. The limited movement from initialised values suggests that alternate optimisation strategies may allow a learnable frontend to reach better overall performance.
-
-</details>
-
-#### [Beta-catenin mediates growth defects induced by centrosome loss in APC mutant colorectal cancer independently of p53](https://doi.org/10.1101/2023.02.13.528233)
-**Mohamed Bourmoum, Nikolina Radulovich, Ming-Sound Tsao, Laurence Pelletier** · 2023-02-16
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Colorectal cancer is the third most common cancer and the second leading cause of cancer-related deaths worldwide. The centrosome is the main microtubule-organizing center in animal cells and centrosome amplification is a hallmark of cancer cells. To investigate the importance of centrosomes in colorectal cancer, we induced centrosome loss in normal and cancer human-derived colorectal organoids using centrinone B, a Polo-like kinase 4 (Plk4) inhibitor. We show that centrosome loss represses human normal colorectal organoid growth in a p53-dependent manner in accordance with previous studies in cell models [1]. However, cancer colorectal organoid lines exhibited different sensitivities to centrosome loss independently of p53. Centrinone-induced cancer organoid growth defect/death positively correlated with a loss of function mutation in the APC gene, suggesting a causal role of the hyperactive WNT pathway. Consistent with this notion, β-catenin inhibition using XAV-939 or ICG-001 partially prevented centrinone-induced death and rescued the growth of APC-mutant organoid lines. Our study reveals a novel role for canonical WNT signaling in regulating centrosome loss-induced growth defect/death in APC-mutant colorectal cancer independently of the classical p53 pathway.
 
 </details>
 
@@ -8267,16 +7028,6 @@ Martin et al. (2022) contributed a thoughtful quantitative analysis to the under
 
 </details>
 
-#### [Live imaging of excitable axonal microdomains in ankyrin-G-GFP mice](https://doi.org/10.1101/2023.02.01.525891)
-**Christian Thome, Jan Maximilian Janssen, Seda Karabulut, Claudio Acuna et al.** · 2023-02-01
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The axon initial segment (AIS) constitutes not only the site of action potential initiation, but also a hub for activity-dependent modulation of output generation. Recent studies shedding light on AIS function used predominantly post-hoc approaches since no robust murine in vivo live reporters exist. Here, we introduce a reporter line in which the AIS is intrinsically labeled by an ankyrin-G-GFP fusion protein activated by Cre recombinase, tagging the native Ank3 gene. Using confocal, superresolution, and two-photon microscopy as well as whole-cell patch-clamp recordings in vitro, ex vivo , and in vivo , we confirm that the subcellular scaffold of the AIS and electrophysiological parameters of labeled cells remain unchanged. We further uncover rapid AIS remodeling following increased network activity in this model system, as well as highly reproducible in vivo labeling of AIS over weeks. This novel reporter line allows longitudinal studies of AIS modulation and plasticity in vivo in real-time and thus provides a unique approach to study subcellular plasticity in a broad range of applications.
-
-</details>
-
 #### [Generation time and seasonal migration explain variation in spatial population synchrony across European bird species](https://doi.org/10.1101/2023.01.30.526164)
 **Ellen C. Martin, Brage Bremset Hansen, Aline Magdalena Lee, Ivar Herfindal** · 2023-01-31
 
@@ -8304,16 +7055,6 @@ Abstract Using whole genome re-sequencing data we study the effects of climate i
 <summary>Abstract</summary>
 
 Abstract Bamboos (Poaceae: Bambuseae) are a unique and diverse group of plants (&gt; 1500 species) that are found in tropical and subtropical regions of the world. Various birds, mammals, and insects use bamboo either directly or indirectly, and some species are obligate bamboo specialists. For instance, several species of Neotropical birds are found in bamboo alone. However, the mechanisms underlying dependence on/associations with bamboo are almost entirely unknown. We studied bird communities in bamboo and rainforest across two seasons in the Eastern Himalaya, where we explored a possible mechanism for bird associations with bamboo – dietary resource specialization. We calculated use of bamboo versus rainforest by bird species and described the structure and composition of the bird and arthropod communities in both habitats and seasons. We provide the first systematic evidence of bamboo specialist bird species from the Eastern Himalaya. Although the species richness of birds and arthropods in both habitats and seasons did not vary starkly, we found that the composition of bird and arthropod communities in both habitats and both seasons to be distinct. Interestingly, we found arthropod communities in different substrates of bamboo to also be distinct. Bird specialization in bamboo in the Eastern Himalaya could be because of their dietary specialization to the unique arthropods found in bamboo. The results from this study emphasise the importance of bamboo in the Eastern Himalaya and provide baseline information that might aid in conservation.
-
-</details>
-
-#### [Early maturation of sound duration processing in the infant brain](https://doi.org/10.1101/2023.01.24.525349)
-**Silvia Polver, Brigitta Tóth, Gábor P. Háden, Hermann Bulf et al.** · 2023-01-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The ability to process sound duration is crucial already at a very early age for laying the foundation for the main functions of auditory perception, such as object perception and music and language acquisition. With the availability of age-appropriate structural anatomical templates, we can reconstruct EEG source activity with much-improved reliability. The current study capitalized on this possibility by reconstructing the sources of event-related potential (ERP) waveforms sensitive to sound duration in four- and nine-month-old infants. Infants were presented with short (200 ms) and long (300 ms) sounds equiprobably delivered in random order. Two temporally separate ERP waveforms were found to be modulated by sound duration. Generators of these waveforms were mainly located in primary and secondary auditory area and other language-related regions, such as the superior temporal and the inferior frontal gyri. The results show marked developmental changes between four and nine months, partly reflected by scalp-recorded ERPs, but appearing in the underlying generators in a far more nuanced way. The results also confirm the feasibility of the application of anatomical templates in developmental populations.
 
 </details>
 
@@ -8364,27 +7105,6 @@ Abstract Aim Climate is a major driver of large scale variability in biodiversit
 <summary>Abstract</summary>
 
 ABSTRACT Objective To track elective surgery activity before, during and after the COVID-19 pandemic in England. To examine for hypothesised differences in use of independent vs NHS hospitals, and more urgent vs less urgent operations over the pre- and post-COVID time windows. Design We extracted data from the Hospital Episodes Statistics database from 1 st April 2015 to 30 th April 2022. This database contains all emergency and elective patient admissions, outpatient appointments and A&amp;E attendances funded by the NHS in England. Setting NHS and Independent hospitals in England. Participants Adult patients (over 18 years) admitted for elective surgery between April 2015 and April 2022, who were classified as being in priority groups 3 or 4. Main Outcomes Total operations, operations by hospital type, and NHS England priority ranking. Results The data show that there was a large reduction in the number of elective operations during lockdown with incomplete recovery thereafter. Also the proportion of more urgent surgeries and surgeries in independent hospitals increased in the post-COVID vs pre-COVID time windows. Conclusion Under conditions of high-demand, higher value elective surgery procedures are awarded increasing priority and the Independent sector bears a larger share of the load.
-
-</details>
-
-#### [<i>Bacopa monnieri</i>
-                  phytochemicals regulate fibroblast cell migration via modulation of focal adhesions](https://doi.org/10.1101/2023.01.18.524521)
-**Ravindra K. Zirmire, Dyuti Saha, Habibu Tanimu, Rania Zaarour et al.** · 2023-01-19
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT The Bacopa monnieri plant contains a large repertoire of active phytochemicals that have been used extensively in traditional medicine for the treatment of various complex diseases. More recently it has been shown to increase the wound healing rate in rats, though its mechanism of action is largely unknown. Here we investigated the cellular pathways activated by a methanol extract of Bacopa monnieri in human dermal fibroblasts, which play many critical roles in the wound healing program. Gene expression analysis revealed that Bacopa monnieri extract can enhance tissue repair by modulating multiple processes involved in the wound healing program such as migration, proliferation, and angiogenesis. We discovered that Bacopa monnieri extract can increase migration of fibroblasts via modulating the size and number of focal adhesions. Bacopa monnieri -mediated changes in focal adhesions are dependent on α5β1 integrin activation and subsequent phosphorylation of Focal Adhesion Kinase (FAK). Altogether our results suggest that Bacopa monnieri extract could enhance the wound healing rate via modulating fibroblast migration in the wound bed.
-
-</details>
-
-#### [Bridging Big Data: Procedures for Combining Non-equivalent Cognitive Measures from the ENIGMA Consortium](https://doi.org/10.1101/2023.01.16.524331)
-**Eamonn Kennedy, Shashank Vadlamani, Hannah M Lindsey, Pui-Wa Lei et al.** · 2023-01-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Investigators in neuroscience have turned to Big Data to address replication and reliability issues by increasing sample sizes, statistical power, and representativeness of data. These efforts unveil new questions about integrating data arising from distinct sources and instruments. We focus on the most frequently assessed cognitive domain - memory testing - and demonstrate a process for reliable data harmonization across three common measures. We aggregated global raw data from 53 studies totaling N = 10,505 individuals. A mega-analysis was conducted using empirical bayes harmonization to remove site effects, followed by linear models adjusting for common covariates. A continuous item response theory (IRT) model estimated each individual’s latent verbal learning ability while accounting for item difficulties. Harmonization significantly reduced inter-site variance while preserving covariate effects, and our conversion tool is freely available online. This demonstrates that large-scale data sharing and harmonization initiatives can address reproducibility and integration challenges across the behavioral sciences. Teaser We present a global effort to devise harmonization procedures necessary to meaningfully leverage big data.
 
 </details>
 
@@ -8555,16 +7275,6 @@ Abstract Conservation genomics often relies on non-invasive methods to obtain DN
 
 </details>
 
-#### [LRRC37B is a species-specific regulator of voltage-gated channels and excitability in human cortical neurons](https://doi.org/10.1101/2022.12.21.521423)
-**Baptiste Libé-Philippot, Amélie Lejeune, Keimpe Wierda, Ine Vlaeminck et al.** · 2022-12-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The enhanced cognitive abilities characterizing the human species result from specialized features of neurons and circuits, but the underlying molecular mechanisms remain largely unknown. Here we report that the hominid-specific gene LRRC37B encodes a novel receptor expressed in a subset of human cortical pyramidal neurons (CPNs). LRRC37B protein localizes at the axon initial segment (AIS), the specialized domain triggering action potentials. LRRC37B ectopic expression in mouse CPNs in vivo leads to reduced intrinsic excitability, a distinctive feature of some classes of human CPNs. At the molecular level, LRRC37B acts as a receptor for the secreted ligand FGF13A and interacts with the voltage gated sodium channel (VGSC) beta subunit SCN1B, thereby inhibiting the channel function of VGSC, specifically at the AIS. Electrophysiological recordings in adult human cortical slices reveals that endogenous expression of LRRC37B in human CPNs reduces neuronal excitability. LRRC37B thus acts as a species-specific modifier of human cortical neuron function, with important implications for human brain evolution and diseases.
-
-</details>
-
 #### [Energy Assessment from Broiler Chicks’ Vocalization Might Help Improve Welfare and Production](https://www.mdpi.com/2076-2615/13/1/15/pdf?version=1671763378)
 **E. Pereira, I. A. Nääs, André Henrique Ivale, R. G. Garcia et al.** · 2022-12-20
 
@@ -8605,16 +7315,6 @@ Audio sound recognition and classification is used for many tasks and applicatio
 
 </details>
 
-#### [Capabilities of the CCi-Mobile Cochlear Implant Research Platform for Real-Time Sound Coding](https://doi.org/10.1101/2022.12.08.519687)
-**Mahan Azadpour, Juliana Saba, John H.L. Hansen, Mario A. Svirsky** · 2022-12-09
-
-<details>
-<summary>Abstract</summary>
-
-Abstract One important obstacle to optimizing fitting and sound coding for auditory implants is lack of flexible, powerful and portable platforms that can be used in real-world listening environments by implanted patients. The clinical processors and the typically available research tools either do not have sufficient computational power and flexibility or are not portable. In response to this need, the Center for Robust Speech Systems (CRSS) at the University of Texas at Dallas has developed CCI-Mobile, in collaboration with the Laboratory for Translational Auditory Research at New York University School of Medicine and the Binaural Hearing and Speech Laboratory at the University of Wisconsin-Madison. The CCI-Mobile platform provides unique flexibility to implement a variety of real-time sound coding algorithms in real-world environments, including algorithms that require synchronized binaural stimulation. In this paper, we will describe the overall architecture of the CCI-Mobile platform and provide practical considerations for designing real-time sound coding algorithms with this platform. CCI-Mobile is under development and future generations may provide further functionality, beyond what is described in this paper.
-
-</details>
-
 #### [NEAL: an open-source tool for audio annotation](https://arxiv.org/abs/2212.01457)
 **A. Gibbons, I. Donohue, Courtney E. Gorman, Emma King et al.** · 2022-12-02
 
@@ -8649,16 +7349,6 @@ This paper introduces a new few-shot learning pipeline that casts relevance rank
 
 </details>
 
-#### [Timescales of adaptation to context in horizontal sound localization](https://doi.org/10.1101/2022.11.27.518080)
-**Gabriela Andrejková, Virginia Best, Norbert Kopčo** · 2022-11-27
-
-<details>
-<summary>Abstract</summary>
-
-Psychophysical experiments explored how the repeated presentation of a context, consisting of an adaptor and a target, induces plasticity in the localization of an identical target presented alone on interleaved trials. The plasticity, and its time course, was examined both in a classroom and in an anechoic chamber. Adaptors and targets were 2-ms noise clicks and listeners were tasked with localizing the targets while ignoring the adaptors (when present). The context had either a fixed temporal structure, consisting of a single-click adaptor and a target, or its structure varied from trial to trial, either containing a single-click or an 8-click adaptor. The adaptor was presented either from a frontal or a lateral location, fixed within a run. The presence of context caused responses to the isolated targets to be displaced up to 14° away from the adaptor location. This effect was stronger and slower if the context was variable, growing over the 5-minute duration of the runs. Additionally, the fixed-context buildup had a slower onset in the classroom. Overall, the results illustrate that sound localization is subject to slow adaptive processes that depend on the spatial and temporal structure of the context and on the level of reverberation in the environment.
-
-</details>
-
 #### [Multi-label Bird Species Classification Using Hierarchical Attention Framework](https://doi.org/10.1109/INDICON56171.2022.10039791)
 **A Noumida, R. Rajan** · 2022-11-24
 
@@ -8676,16 +7366,6 @@ The paper uses an attention-based framework to classify bird vocalizations in re
 <summary>Abstract</summary>
 
 Unmanned aerial vehicles and drones are flying objects carrying small payloads for various applications, including agriculture, photography for weddings & religious ceremonies, e-commerce deliveries, remote sensing, 3D mapping, surveillance and defense. These flying objects also called as drones are available in two variants; 1. Fixed wing propeller type, and 2. Multi-wings propeller type. Nowadays, UAVs and Drones are the primary threat to the national security on the mainland and the line of actual control. Generally, these threat-rising drones can be eradicated by anti-missile techniques, which are not economical however will destroy them. The objective of the work here is to design and develop a ballistic drone capturing system comprising two main steps; 1. classification of UAVs from the flying birds and 2. Capturing the UAVs without causing significant damage to the drone. Here, the methodology uses computer-generated infrared images of the drone in the pretrained network architecture, which acts as the Convolution Neural Network (CNN) for classifying drones and birds. The performance of AlexNet and ResNet-50 performs better and it shows 100 percent efficiency and small distribution with more stability. In the near future, the ballistic capturing system will be designed and developed as a product, which would support acquiring data about malicious drones.
-
-</details>
-
-#### [Validity of a deep learning algorithm for detecting wheezes and crackles from lung sound recordings in adults](https://doi.org/10.1101/2022.11.18.22282442)
-**Hasse Melbye, Johan Ravn, Mikolaj Pabiszczak, Lars Ailo Bongo et al.** · 2022-11-18
-
-<details>
-<summary>Abstract</summary>
-
-Abstract We validated our state-of-the-art deep learning algorithm for detection of wheezes and crackles in sound files by comparing the classification of our algorithm with those of human experts. We had two validation sets classified by experienced raters that were not used to train the algorithm with 615 (A) and 120 (B) sound files, respectively. We calculated Area Under Curve (AUC) of the algorithm’s probability scores for wheezes and crackles. We dichotomized the scores and calculated sensitivity and specificity as well as kappa agreement. In set A, the AUC was 0.88 (95% CI 0.84 – 0.92) for wheezes and 0.88 (95% CI 0.84 – 0.92) for crackles. The sensitivities and specificities of the labels were 81% and 89% for wheezes and 67% and 96% for crackles. In set B, the kappa agreement between the algorithm and the validation set was 0.78 (95% CI 0.58 – 0.99) for wheezes and 0.75 (95% CI 0.59 – 0.92) for crackles. The 24 observers who had rated the same 120 sound files agreed less with the reference classification with a mean kappa of 0.68 for wheezes and 0.55 for crackles. We found the algorithm to be superior to doctors in detecting wheezes and crackles in lung sound files.
 
 </details>
 
@@ -8719,16 +7399,6 @@ Birds are vital parts of ecosystems across the world and are an excellent measur
 
 </details>
 
-#### [A Deep Denoising Sound Coding Strategy for Cochlear Implants](https://doi.org/10.1101/2022.11.11.516123)
-**Tom Gajecki, Yichi Zhang, Waldo Nogueira** · 2022-11-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Cochlear implants (CIs) have proven to be successful at restoring the sensation of hearing in people who suffer from profound sensorineural hearing loss. CI users generally achieve good speech understanding in quiet acoustic conditions. However, their ability to understand speech degrades drastically when background interfering noise is present. To address this problem, current CI systems are delivered with front-end speech enhancement modules that can aid the listener in noisy environments. However, these only perform well under certain noisy conditions, leaving quite some room for improvement in more challenging circumstances. In this work, we propose replacing the CI sound coding strategy with a deep neural network (DNN) that performs end-to-end speech denoising by taking the raw audio as input and providing a denoised electrodogram, i.e., the electrical stimulation patterns applied to the electrodes across time. We specifically introduce a DNN that emulates a common CI sound coding strategy, the advanced combination encoder (ACE). We refer to the proposed algorithm as ‘Deep ACE’. Deep ACE is designed not only to accurately code the acoustic signals in the same way that ACE would but also to automatically remove unwanted interfering noises, without sacrificing processing latency. The model was optimized using a CI-specific loss function and evaluated using objective measures as well as listening tests in CI participants. Results show that, based on objective measures, the proposed model achieved higher scores when compared to the baseline algorithms. Also, the proposed deep learning-based sound coding strategy gave eight CI users the highest speech intelligibility results.
-
-</details>
-
 #### [Two pup vocalization types are genetically and functionally separable in deer mice](https://doi.org/10.1101/2022.11.11.516230)
 **N. Jourjine, M.L. Woolfolk, J.I. Sanguinetti-Scheck, J.E. Sabatini et al.** · 2022-11-12
 
@@ -8736,16 +7406,6 @@ Abstract Cochlear implants (CIs) have proven to be successful at restoring the s
 <summary>Abstract</summary>
 
 Abstract Vocalization is a widespread vertebrate social behavior that is essential for fitness in the wild. While many vocal behaviors are highly conserved, heritable features of specific vocalization types can vary both within and between species, raising the questions of why and how some vocal behaviors evolve. Here, using new computational tools to automatically detect and cluster vocalizations into distinct acoustic categories, we compare pup isolation calls across neonatal development in eight taxa of deer mice (genus Peromyscus ) and compare them to laboratory mice (C57Bl6/j strain) and free-living, wild house mice ( Mus musculus musculus ). Whereas both Peromyscus and Mus pups produce ultrasonic vocalizations (USVs), Peromyscus pups also produce a second call type with acoustic features, temporal rhythms, and developmental trajectories that are distinct from those of USVs. In deer mice, these tonal and low frequency “cries” are predominantly emitted in postnatal days one through nine, while USVs are primarily made after day nine. Using playback assays, we show that cries result in a more rapid approach by Peromyscus mothers than USVs, suggesting a role for cries in eliciting parental care early in neonatal development. Using genetic crosses between two sister species of deer mice exhibiting large, innate differences in the acoustic structure of cries and USVs, we find that variation in vocalization rate, duration, and pitch display different degrees of genetic dominance and that cry and USV features can be uncoupled in second-generation hybrids. Taken together, this work shows that vocal behavior can evolve quickly between closely related rodent species in which vocalization types, likely serving distinct functions in communication, are controlled by distinct genetic loci.
-
-</details>
-
-#### [Music sound quality assessment in bimodal cochlear implant users – toward improved hearing aid fitting](https://doi.org/10.1101/2022.11.07.22281824)
-**Khaled H. A. Abdellatif, Verena Müller, Martin Walger, Hartmut Meister** · 2022-11-10
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The use of cochlear implants (CI) is the common treatment to counteract severe-profound hearing loss. CI often allow reasonable speech understanding but are generally limited in terms of spectro-temporal resolution. Many CI recipients use a hearing aid (HA) on the non-implanted ear (so called bimodal patients) that complements the electrical stimulation of the CI by providing acoustical fine structure information. Amongst others, this might be especially beneficial for music appraisal. However, it is not clear how the HA should be fitted in conjunction with the CI in order to provide the best sound quality. The purpose of this study was to vary different fitting parameters of the HA systematically and to determine the resulting music sound quality. To this end, a master hearing aid was used in order to have controlled access to the different parameters. Three different music excerpts (pop with and without vocals, classic) were presented to 13 bimodally fitted CI users and the sound quality was assessed using the “multiple-stimulus with hidden reference and anchor” (MUSHRA) test. Since the goal was to gain information on possible improvement of fitting, a complete retest was performed and individual reliability of the assessments was determined by the eGauge method. It could be shown that most of the listeners were able to provide reliable sound quality judgements. In terms of HA fitting it turned out that changing compression and varying low frequency gain had a significant effect compared to a standard prescriptive fitting based on DSL v5.0. However, especially the effect of changing low frequency gain depended on the music excerpts presented, since pop music with vocals revealed the largest effect. The study gives evidence that hearing aid fitting can be optimized relative to a standard prescriptive rule in order to improve music sound quality in bimodal CI users. Moreover, the method might be helpful in a clinical setting to determine the best fitting based on individual results.
 
 </details>
 
@@ -8766,16 +7426,6 @@ Abstract Aim A core objective of contemporary biodiversity science is to underst
 <summary>Abstract</summary>
 
 Abstract Soybean is an important agricultural crop around the world, and previous studies suggest that honey bees can be a component for optimizing soybean production through pollination. Determining when bees are present in soybean fields is critical for assessing pollination activity and identifying periods when bees are absent so that bee-toxic pesticides may be applied. There are currently several methods for detecting pollinator activity, but these existing methods have substantial limitations, including the bias of pan trappings against large bees and the limited duration of observation possible using manual techniques. This study aimed to develop a new method for detecting honey bees in soybean fields using bioacoustics monitoring. Microphones were placed in soybean fields to record the audible wingbeats of foraging bees. Foraging activity was identified using the wingbeat frequency of honey bees (234±13.9 Hz) through a combination of algorithmic and manual approaches. A total of 243 honey bees were detected over ten days of recording in four soybean fields. Bee activity was significantly greater in blooming fields than in non-blooming fields. Temperature had no significant effect on bee activity, but bee activity differed significantly between soybean varieties, suggesting that soybean attractiveness to honey bees is heavily dependent on varietal characteristics. Refinement of bioacoustics methods, particularly through incorporation of machine learning, could provide a practical tool for measuring activity of honey bees and other flying insects in soybeans as well as other crops and ecosystems.
-
-</details>
-
-#### [Robust and consistent measures of pattern separation based on information theory and demonstrated in the dentate gyrus](https://doi.org/10.1101/2022.11.04.515143)
-**Alexander D Bird, Hermann Cuntz, Peter Jedlicka** · 2022-11-04
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Pattern separation is a valuable computational function performed by neuronal circuits, such as the dentate gyrus, where dissimilarity between inputs is increased, reducing noise and increasing the storage capacity of downstream networks. Pattern separation is studied from both in vivo experimental and computational perspectives and, a number of different measures (such as orthogonalisation, decorrelation, or spike train distance) have been applied to quantify the process of pattern separation. However, these are known to give conclusions that can differ qualitatively depending on the choice of measure and the parameters used to calculate it. We here demonstrate that arbitrarily increasing sparsity, a noticeable feature of dentate granule cell firing and one that is believed to be key to pattern separation, typically leads to improved classical measures for pattern separation even, inappropriately, up to the point where almost all information about the inputs is lost. Standard measures therefore both cannot differentiate between pattern separation and pattern destruction, and give results that may depend on arbitrary parameter choices. We propose that techniques from information theory, in particular mutual information, transfer entropy, and redundancy, should be applied to penalise the potential for lost information (often due to increased sparsity) that is neglected by existing measures. We compare five commonly-used measures of pattern separation with three novel techniques based on information theory, showing that the latter can be applied in a principled way and provide a robust and reliable measure for comparing the pattern separation performance of different neurons and networks. We demonstrate our new measures on detailed compartmental models of individual dentate granule cells and a dentate microcircuit, and show how structural changes associated with epilepsy affect pattern separation performance. We also demonstrate how our measures of pattern separation can predict pattern completion accuracy. Overall, our measures solve a widely acknowledged problem in assessing the pattern separation of neural circuits such as the dentate gyrus, as well as the cerebellum and mushroom body. Finally we provide a publicly available toolbox allowing for easy analysis of pattern separation in spike train ensembles. Author summary The hippocampus is a region of the brain strongly associated with spatial navigation and encoding of episodic memories. To perform these functions effectively it makes use of circuits that perform pattern separation , where redundant structure is removed from neural representations leaving only the most salient information. Pattern separation allows downstream pattern completion networks to better distinguish between similar situations. Pathological changes, caused by Alzheimer’s, schizophrenia, or epilepsy, to the circuits that perform pattern separation are associated with reduced discriminative ability in both animal models and humans. Traditionally, pattern separation has been described alongside the complementary process of pattern completion, but more recent studies have focussed on the detailed neuronal and circuit features that contribute to pattern separation alone. We here show that traditional measures of pattern separation are inappropriate in this case, as they do not give consistent conclusions when parameters are changed and can confound pattern separation with the loss of important information. We show that directly accounting for the information throughput of a pattern separation circuit can provide new measures of pattern separation that are robust and consistent, and allow for nuanced analysis of the structure-function relationship of such circuits and how this may be perturbed by pathology.
 
 </details>
 
@@ -8991,16 +7641,6 @@ Significant changes in the environment have the potential to affect bird species
 
 </details>
 
-#### [Subcortical coding of predictable and unsupervised sound-context associations](https://doi.org/10.1101/2022.10.06.511202)
-**Chi Chen, Hugo Cruces-Solís, Alexandra Ertman, Livia de Hoz** · 2022-10-07
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Our environment is made of a myriad of stimuli present in combinations often patterned in predictable ways. For example, there is a strong association between where we are and the sounds we hear. Like so many environmental patterns, sound-context associations are learned implicitly, in an unsupervised manner, and are highly informative and predictive of normality. Yet, we know little about where and how unsupervised sound-context associations are coded in the brain. Here we measured plasticity in the auditory midbrain of mice living over days in a naturalistic environment designed to present sound-context associations with different degrees of predictability. Plasticity in the auditory midbrain, a hub of auditory input and multimodal feedback, developed over days and reflected learning of contextual information in a manner that depended on the predictability of the sound-context association and not on reinforcement. Plasticity took the form of broad frequency shifts in tuning in auditory midbrain neurons. These shifts were paralleled by an increase in response gain and correlated with an increase in neuronal frequency discrimination. Thus, the auditory midbrain codes for unsupervised predictable sound-context associations, revealing a subcortical engagement in the detection of contextual sounds. This detection might facilitate the processing of behaviorally relevant foreground information described to occur in cortical auditory structures.
-
-</details>
-
 #### [Learnable Acoustic Frontends in Bird Activity Detection](https://arxiv.org/abs/2210.00889)
 **Mark Anderson, Naomi Harte** · 2022-10-03
 
@@ -9111,26 +7751,6 @@ Urban areas often impose strong, novel selection pressures on wildlife. Phenotyp
 
 </details>
 
-#### [An optimized approach to study sub-sarcomere structure utilizing super-resolution microscopy with secondary VHH nanobodies](https://doi.org/10.1101/2022.09.07.506832)
-**CM Douglas, JE Bird, D Kopinke, KA Esser** · 2022-09-09
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The sarcomere is the fundamental contractile unit in skeletal muscle, and the maintenance of its structure is critical for its function. While alterations in sarcomere structure are implicated in many clinical conditions of muscle weakness this area has made limited progress due, in part, to limitations in the ability to robustly detect and measure at sub-sarcomere resolution. Classically the field has relied on approaches including confocal and electron microscopy, but there are technique-specific limitations with respect to resolution, tissue morphology, and protein specific labeling. In this study, our goal was to establish a robust and reproducible method to probe sub-sarcomere protein localization in longitudinal muscle sections. We optimized several steps from tissue preparation to antibody selection and imaging to provide the ability to quantitatively assess spatial distribution of proteins within a single sarcomere. This includes 1) in situ fixation for structural integrity, 2) use of multiple same host-species primary antibodies with Fab fragment antibody blocking to maintain specificity, and 3) the use of super-resolution structured illumination microscopy (SIM) to improve from confocal, along with use of emergent VHH secondary nanobodies to double the resolution. The combination of these methods provides a unique approach to improve visualization of sarcomere structure while simultaneously providing the ability to rigorously probe protein localization. While this study focused on assessment of skeletal muscle structure and provides an important set of tools for analysis of skeletal muscle health in disease and aging, we suggest the methods herein may prove advantageous for research outside of skeletal muscle.
-
-</details>
-
-#### [A structural dendrogram of the actinobacteriophage major capsid proteins provides important structural insights into the evolution of capsid stability](https://doi.org/10.1101/2022.09.09.507160)
-**Jennifer M. Podgorski, Krista Freeman, Sophia Gosselin, Alexis Huet et al.** · 2022-09-09
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Many double-stranded DNA viruses, including tailed bacteriophages (phages) and herpesviruses, use the HK97-fold in their major capsid protein to make the capsomers of the icosahedral viral capsid. Following the genome packaging at near-crystalline densities, the capsid is subjected to a major expansion and stabilization step that allows it to withstand environmental stresses and internal high pressure. Several different mechanisms for stabilizing the capsid have been structurally characterized, but how these mechanisms have evolved is still not understood. Using cryo-EM structure determination, structural comparisons, phylogenetic analyses, and Alphafold predictions, we have constructed a detailed structural dendrogram describing the evolution of capsid structural stability within the actinobacteriophages. The cryo-EM reconstructions of ten capsids solved to resolutions between 2.2 and 4 Ångstroms revealed that eight of them exhibit major capsid proteins that are linked by a covalent cross-linking (isopeptide bond) between subunits that was first described in the HK97 phage. Those covalent interactions ultimately lead to the formation of mutually interlinked capsomers that has been compared to the structure of chain mail. However, three of the closely related phages do not exhibit such an isopeptide bond as demonstrated by both our cryo-EM maps and the lack of the required residue. This work raises questions about the importance of previously described capsid stabilization mechanisms.
-
-</details>
-
 #### [General cognitive performance declines with female age and is negatively related to fledging success in a wild bird](https://doi.org/10.1101/2022.08.30.505947)
 **Camilla Soravia, Benjamin J. Ashton, Alex Thornton, Amanda R. Ridley** · 2022-09-02
 
@@ -9201,26 +7821,6 @@ Passive acoustic monitoring using Autonomous Recording Units (ARUs) is becoming 
 
 </details>
 
-#### [Dinoflagellate Proton-Pump Rhodopsin Gene in Long Island Sound: Diversity and Spatiotemporal Distribution](https://doi.org/10.1101/2022.08.24.505117)
-**Huan Zhang, Kelly J. Nulick, Zair Burris, Melissa Pierce et al.** · 2022-08-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Microbial proton-pump rhodopsin (PPR), an alternative light-harvesting mechanism to chlorophyll-based photosystems, may contribute significantly to solar energy entry into the marine ecosystem. PPR transforms solar energy to cellular energy used for various metabolic processes in the cells or flagellar movement. Although rhodopsins or their encoding genes have been documented in a wide phylogenetic range of cultured dinoflagellates, information is limited about how widespread and how spatiotemporally dynamical dinoflagellate PPR (DiPPR) are in the marine ecosystem. In this study, using the quantitative PCR method, we investigated the abundance and diversity of DiPPR genes in Long Island Sound (LIS), a temperate estuary, both spatially and temporally in 2010. DiPPR genes were found year-round and throughout LIS, with higher abundances in the eutrophic Western Sound and during April and July. The gene diversity data suggest that there are at least five distinct rhodopsin-harboring groups of dinoflagellates throughout the year. The abundance of DiPPR genes, measured as copy number per mL seawater, appeared not to be influenced by water temperature and nitrogen nutrient concentration; however, weak negative correlations with orthophosphate concentration and salinity and a positive correlation with the abundance of typical-DiPPR-harboring dinoflagellates were observed. The association of DiPPR with phosphorus nutrition warrants further studies.
-
-</details>
-
-#### [A living conductive marine biofilm engineered to sense and respond to small molecules](https://doi.org/10.1101/2022.08.23.504934)
-**Lina J. Bird, Dasha Leary, Judson Hervey, Jaimee Compton et al.** · 2022-08-23
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Engineered electroactive bacteria have potential applications ranging from sensing to biosynthesis. In order to advance the use of engineered electroactive bacteria, it is important to demonstrate functional expression of electron transfer modules in chassis adapted to operationally relevant conditions, such as non-freshwater environments. Here, we use the Shewanella oneidensis electron transfer pathway to induce current production in a marine bacterium, Marinobacter atlanticus , during biofilm growth in artificial seawater. Genetically encoded sensors optimized for use in E. coli were used to control protein expression in planktonic and biofilm attached cells. Significant current production required addition of menaquinone, which M. atlanticus does not produce, for electron transfer from the inner membrane to the expressed electron transfer pathway. Current through the S. oneidensis pathway in M. atlanticus was observed when inducing molecules were present during biofilm formation. Electron transfer was also reversible, indicating electron transfer into M. atlanticus could be controlled. These results show that an operationally relevant marine bacterium can be genetically engineered for environmental sensing and response using an electrical signal.
-
-</details>
-
 #### [Noisy neuronal populations effectively encode sound localization in the dorsal inferior colliculus of awake mice](https://doi.org/10.1101/2022.08.19.504510)
 **Juan C. Boffi, Brice Bathellier, Hiroki Asari, Robert Prevedel** · 2022-08-22
 
@@ -9260,16 +7860,6 @@ Abstract The common marmoset ( Callithrix jacchus ) is a small arboreal New Worl
 <summary>Abstract</summary>
 
 ABSTRACT Savanna ecosystems are maintained by fires with a fire-adapted biota, and savannas occur in Amazonia in patches surrounded by tropical forest. Different fire regimes can generate structurally diverse vegetation, and the composition of savanna bird assemblages is known to be closely related to vegetation structure. However, long-term approaches and interaction of fire with other environmental factors need to be explored for the better understanding of the effects of fire on birds. In an Amazonian landscape composed by savanna and forest, we investigated the effects of different fire regimes in a 12-ha area in three periods through 23 years. We also examined the effects of frequency and extent of fires, tree cover, and distance to forest on bird composition in twelve 3.7- ha savanna plots. Birds were surveyed with mist-nets and species were classified as to their habitat use by comparison of registers in forest and savanna plots through visual/acoustical surveys. After 13 years without fire, many forest species colonized the area and some savanna species were lost. Fire regime affected avifauna assemblages. The avifauna was sensitive to the occurrence of fires. After one fire event in a plot that had not burned for 12 years, some savanna species returned. These results highlight the effects of the fire regime on birds and indicate that many savanna bird species depend on the occurrence of regular fires.
-
-</details>
-
-#### [Compensatory mutations reducing the fitness cost of plasmid carriage occur in plant rhizosphere communities](https://doi.org/10.1101/2022.08.01.502293)
-**Susannah M. Bird, Samuel Ford, Catriona M. A. Thompson, Richard Little et al.** · 2022-08-01
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Plasmids drive bacterial evolutionary innovation by transferring ecologically important functions between lineages, but acquiring a plasmid often comes at a fitness cost to the host cell. Compensatory mutations, which ameliorate the cost of plasmid carriage, promote plasmid maintenance in simplified laboratory media across diverse plasmid-host associations. Whether such compensatory evolution can occur in more complex communities inhabiting natural environmental niches where evolutionary paths may be more constrained is, however, unclear. Here we show a substantial fitness cost of carrying the large conjugative plasmid pQBR103 in Pseudomonas fluorescens in the plant rhizosphere. This plasmid fitness cost could be ameliorated by compensatory mutations affecting the chromosomal global regulatory system gacA/gacS , which arose rapidly in plant rhizosphere communities and were exclusive to plasmid carriers. These findings expand our understanding of the importance of compensatory evolution in plasmid dynamics beyond simplified lab media. Compensatory mutations contribute to plasmid survival in bacterial populations living within complex microbial communities in their natural environmental niche.
 
 </details>
 
@@ -9363,26 +7953,6 @@ Abstract Despite the accumulation of data and studies, deciphering animal vocal 
 
 </details>
 
-#### [Plasmid manipulation of bacterial behaviour through translational regulatory crosstalk](https://doi.org/10.1101/2022.06.27.497698)
-**Catriona M A Thompson, James P. J. Hall, Govind Chandra, Carlo Martins et al.** · 2022-06-27
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Beyond their role in horizontal gene transfer, conjugative plasmids commonly encode homologues of bacterial regulators. Known plasmid regulator homologues have highly targeted effects upon the transcription of specific bacterial traits. Here, we characterise a plasmid translational regulator, RsmQ, capable of taking global regulatory control in Pseudomonas fluorescens and causing a behavioural switch from motile to sessile lifestyle. RsmQ acts as a global regulator controlling the host proteome through direct interaction with host mRNAs and interference with the host’s translational regulatory network. This mRNA interference leads to largescale proteomic changes in metabolic genes, key regulators and genes involved in chemotaxis, thus controlling bacterial metabolism and motility. Moreover, comparative analyses found RsmQ on a large number of divergent plasmids isolated from multiple bacterial host taxa, suggesting the widespread importance of RsmQ for manipulating bacterial behaviour across clinical, environmental, and agricultural niches. RsmQ is a widespread plasmid global translational regulator primarily evolved for host chromosomal control to manipulate bacterial behaviour and lifestyle. Significance Statement Plasmids are recognised for their important role in bacterial evolution as drivers of horizontal gene transfer. Less well understood are the effects of plasmids upon bacterial behaviours by manipulating the expression of key bacterial phenotypes. Until now, examples of plasmid manipulation of their bacterial hosts were limited to highly targeted transcriptional control of a few related traits. In contrast, here we describe the first plasmid global translational regulator evolved to control the bacterial behavioural switch from a motile to a sessile lifestyle and bacterial metabolism, mediated through manipulation of the bacterial proteome. Moreover, this global translational regulator is common across divergent plasmids in a wide range of bacterial host taxa, suggesting that plasmids may commonly control bacterial lifestyle in the clinic, agricultural fields, and beyond.
-
-</details>
-
-#### [Subjective Audibility Modulates the Susceptibility to Sound-Induced Flash Illusion](https://doi.org/10.1101/2022.06.22.497147)
-**Yuki Ito, Hanaka Matsumoto, Kohta I. Kobayasi** · 2022-06-26
-
-<details>
-<summary>Abstract</summary>
-
-Summary When a brief flash is presented along with two brief sounds, the single flash is often perceived as two flashes. This phenomenon is called a sound-induced flash illusion, in which the auditory sense, with its relatively higher reliability in providing temporal information, modifies the visual perception. Decline of audibility due to hearing impairment is known to make subjects less susceptible to the flash illusion. However, the effect of decline of audibility on susceptibility to the illusion has not been directly investigated in subjects with normal hearing. The present study investigates the relationship between audibility and susceptibility to the illusion by varying the sound pressure level of the stimulus. In the task for reporting the number of auditory stimuli, the lowering of the sound pressure level caused the rate of perceiving two sounds to decrease on account of forward masking. The occurrence of the illusory flash was reduced as the intensity of the second auditory stimuli decreased, and was significantly correlated with the rate of perceiving the two auditory stimuli. These results suggest that the susceptibility to sound-induced flash illusion depends on the subjective audibility of each sound.
-
-</details>
-
 #### [The cynosure of CtBP: evolution of a bilaterian transcriptional corepressor](https://doi.org/10.1101/2022.06.23.497424)
 **Ana-Maria Raicu, Dhruva Kadiyala, Madeline Niblock, Aanchal Jain et al.** · 2022-06-26
 
@@ -9400,26 +7970,6 @@ Abstract Evolution of sequence-specific transcription factors clearly drives lin
 <summary>Abstract</summary>
 
 It is easier to hear birds than see them. However, they still play an essential role in nature and are excellent indicators of deteriorating environmental quality and pollution. Recent advances in Deep Neural Networks allow us to process audio data to detect and classify birds. This technology can assist researchers in monitoring bird populations and biodiversity. We propose a sound detection and classification pipeline to analyze complex soundscape recordings and identify birdcalls in the background. Our method learns from weak labels and few data and acoustically recognizes the bird species. Our solution achieved 18th place of 807 teams at the BirdCLEF 2022 Challenge hosted on Kaggle.
-
-</details>
-
-#### [Natural and hybrid immunity following four COVID-19 waves in a South African cohort](https://doi.org/10.1101/2022.06.20.22276647)
-**Heather J Zar, Rae MacGinty, Lesley Workman, Maresa Botha et al.** · 2022-06-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background More than half the global population has been exposed to SARS-CoV-2. Naturally induced immunity influences the outcome of subsequent exposure to variants and vaccine responses. We measured anti-spike IgG responses to explore the basis for this enhanced immunity. Methods A prospective cohort study in a South African community through the ancestral/beta/delta/omicron SARS-CoV-2 waves. Health seeking behaviour/illness were recorded and post-wave serum samples probed for IgG to Spike (CoV2-S-IgG). To estimate protective CoV2-S-IgG threshold levels, logistic functions were fit to describe the correlation of CoV2-S-IgG measured before a wave and the probability for seroconversion/boosting thereafter for unvaccinated and vaccinated adults. Findings Despite little disease, 176/339 (51·9%) participants were seropositive following wave 1, rising to 74%, 89·8% and 97·3% after waves 2, 3 and 4 respectively. CoV2-S-IgG induced by natural exposure protected against subsequent SARS-CoV-2 infection with the greatest protection for beta and the least for omicron. Vaccination induced higher CoV2-S-IgG in seropositive compared to naïve vaccinees. Amongst seropositive participants, proportions above the 50% protection against infection threshold were 69% (95% CrI: 62, 72) following 1 vaccine dose, 63% (95% CrI: 63, 75) following 2 doses and only 11% (95% CrI: 7, 14) in unvaccinated during the omicron wave. Interpretation Naturally induced CoV2-S-IgG do not achieve high enough levels to prevent omicron infection in most exposed individuals but are substantially boosted by vaccination leading to significant protection. A single vaccination in those with prior immunity is more immunogenic than 2 doses in a naïve vaccinee and thus may provide adequate protection. Funding UK NIH GECO award (GEC111), Wellcome Trust Centre for Infectious Disease Research in Africa (CIDRI), Bill &amp; Melinda Gates Foundation, USA (OPP1017641, OPP1017579) and NIH H3 Africa (U54HG009824, U01AI110466]. HZ is supported by the SA-MRC. MPN is supported by an Australian National Health and Medical Research Council Investigator Grant (APP1174455). BJQ is supported by a grant from the Bill and Melinda Gates Foundation (OPP1139859). Stefan Flasche is supported by a Sir Henry Dale Fellowship jointly funded by the Wellcome Trust and the Royal Society (Grant number 208812/Z/17/Z). Research in context Evidence before this study Natural infection with ancestral SARS-CoV-2 virus provides partial protection against re-infection with the same and closely related SARS-CoV-2 variants, but higher rates of re-infection have been described with Omicron. In addition, vaccination against SARS-CoV2 provides relatively lower protection against symptomatic Omicron infection than for other variants. Hybrid immunity, a combination of immunity induced by natural infection and vaccination is of critical interest due to the high incidence of natural infection in many populations and increased availability of vaccination. Vaccination following infection may provide more robust immunity than either infection or vaccination alone, but there are limited data on the impact of hybrid immunity for protection against different variants or on the optimal vaccination strategy following natural infection. Added value of this study We leveraged a unique South African birth cohort in a poor peri-urban area, to longitudinally investigate infection, illness and serological responses to natural exposure to SARS-CoV-2 over 4 waves of the pandemic in healthy mothers. We also investigated the impact of prior natural exposure on BNT162b2 mRNA vaccine responses. We used this information to derive estimates of levels of spike-specific IgG associated with protection for subsequent infection following natural or hybrid immunity. Despite little disease, most participants were seropositive with rates rising from 52% to 74%, 90% and 97% after waves 1, 2, 3 and 4 respectively. Antibodies to spike protein induced by natural exposure protected against subsequent infection with the greatest protection for beta and the least for omicron. Antibody levels following vaccination were significantly higher in those who were seropositive prior to vaccine, compared to those seronegative. Amongst seropositive participants, proportions above the 50% protection against infection threshold were 69% following 1 vaccine dose, 63% following 2 doses and only 11% in unvaccinated during the omicron wave. In those seropositive prior to vaccination no significant increase in antibody levels occurred after the 2 nd dose of vaccine, unlike the increase in seronegative participants. A single dose of vaccine in seropositive individuals induced higher antibody concentrations than two doses in seronegative recipients. Implications of all the available evidence Naturally induced spike antibodies do not achieve high enough levels to prevent omicron infection in most exposed individuals but are substantially boosted by vaccination leading to significant protection. A single vaccination in those with prior natural immunity is more immunogenic than 2 doses in seronegative people and may provide adequate protection against omicron and other variants. Vaccination programs in populations with high seroprevalence using a single vaccination as a primary strategy should be considered.
-
-</details>
-
-#### [Hierarchical differences in the encoding of sound and choice in the subcortical auditory system](https://doi.org/10.1101/2022.06.15.496306)
-**Chase A. Mackey, Margit Dylla, Peter Bohlen, Jason Grigsby et al.** · 2022-06-17
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Detection of sounds is a fundamental function of the auditory system. While studies of auditory cortex have gained substantial insight into detection performance using behaving animals, previous subcortical studies have mostly taken place under anesthesia, in passively listening animals, or have not measured performance at threshold. These limitations preclude direct comparisons between neuronal responses and behavior. To address this, we simultaneously measured auditory detection performance and single-unit activity in the inferior colliculus (IC) and cochlear nucleus (CN) in macaques. The spontaneous activity and response variability of CN neurons were higher than those observed for IC neurons. Signal detection theoretic methods revealed that the magnitude of responses of IC neurons provided more reliable estimates of psychometric threshold and slope compared to the responses of single CN neurons. However, pooling small populations of CN neurons provided reliable estimates of psychometric threshold and slope, suggesting sufficient information in CN population activity. Trial-by-trial correlations between spike count and behavioral response emerged 50-75 ms after sound onset for most IC neurons, but for few neurons in the CN. These results highlight hierarchical differences between neurometric-psychometric correlations in CN and IC, and have important implications for how subcortical information could be decoded. New &amp; Noteworthy The cerebral cortex is widely recognized to play a role in sensory processing and decision-making. Accounts of the neural basis of auditory perception and its dysfunction are based on this idea. However, significantly less attention has been paid to midbrain and brainstem structures in this regard. Here we find that subcortical auditory neurons represent stimulus information sufficient for detection, and predict behavioral choice on a trial-by-trial basis.
 
 </details>
 
@@ -9474,16 +8024,6 @@ Abstract Convolutional neural networks (CNNs) can provide powerful and flexible 
 <summary>Abstract</summary>
 
 We build a classification model for the BirdCLEF 2022 challenge using unsupervised methods. We implement an unsupervised representation of the training dataset using a triplet loss on spectrogram representation of audio motifs. Our best model performs with a score of 0.48 on the public leaderboard.
-
-</details>
-
-#### [An intelligent synthetic bacterium with sound-integrated ability for chronological toxicant detection, degradation, and lethality](https://doi.org/10.1101/2022.06.08.495251)
-**Huan Liu, Lige Zhang, Weiwei Wang, Haiyang Hu et al.** · 2022-06-08
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Modules, toolboxes, and systems of synthetic biology are being designed to solve environmental problems. However, weak and decentralized functional modules require complicated controls. To address this issue, we investigated an integrated system that can complete detection, degradation, and lethality, in chronological order without exogenous inducers. Biosensors were optimized by regulating expression of receptor and reporter to get higher sensitivity and output signal. Several stationary-phase promoters were selected and compared, while promoter P fic was chosen to express the degradation enzyme. We created two concepts of lethal circuits by testing various toxic proteins, with a toxin/antitoxin circuit showing a potent lethal effect. Three modules were coupled, step-by-step. Detection, degradation, and lethality were sequentially completed, and the modules had partial attenuation compared to pre-integration, except for degradation. Our study provides a novel concept for integrating and controlling functional modules, which can accelerate the transition of synthetic biology from a concept to practical applications. Teaser We provide new ideas for integration and chronological control of multiple modules in synthetic biology.
 
 </details>
 
@@ -9637,27 +8177,6 @@ Abstract Despite its prominence in learning and memory, hippocampal influence in
 
 </details>
 
-#### [Selective auditory attention modulates cortical responses to sound location change for speech in quiet and in babble](https://doi.org/10.1101/2022.05.12.491622)
-**Erol J. Ozmeral, Katherine N. Palandrani** · 2022-05-12
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Listeners use the spatial location or change in spatial location of coherent acoustic cues to aid in auditory object formation. From stimulus-evoked onset responses in normal-hearing listeners using electroencephalography (EEG), we have previously shown measurable tuning to stimuli changing location in quiet, revealing a potential window into cortical object formation. These earlier studies used non-fluctuating, spectrally narrow stimuli, so it was still unknown whether previous observations would translate to speech stimuli and whether responses would be preserved for stimuli in the presence of background maskers. To examine the effects that selective auditory attention and interferers have on object formation, we measured cortical responses to speech changing location in the free field with and without background babble (+6 dB SNR) during both passive and active conditions. Active conditions required listeners to respond to the onset of the speech stream when it occurred at a new location, explicitly indicating yes or no to whether the stimulus occurred at a block-specific location either 30 degrees to the left or right of midline. In the aggregate, results show similar evoked responses to speech stimuli changing location in quiet compared to babble background. However, the effect of the two background environments diverges when considering the magnitude and direction of the location change, in which there was a clear influence of change vector in quiet but not in babble. Therefore, consistent with challenges associated with cocktail party listening, directed spatial attention can be shunted in the presence of stimulus noise and likely leads to poorer use of spatial cues in auditory streaming.
-
-</details>
-
-#### [Conservation of energetic pathways for electroautotrophy in the uncultivated candidate order
-                  <i>Tenderiales</i>](https://doi.org/10.1101/2022.05.06.490989)
-**Brian J. Eddie, Lina J. Bird, Claus Pelikan, Marc Mussmann et al.** · 2022-05-07
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Electromicrobiology can be used to understand extracellular electron uptake in previously undescribed chemolithotrophs. Enrichment and characterization of the uncultivated electroautotroph “ Candidatus Tenderia electrophaga” using electromicrobiology led to the designation of the order Tenderiales . Representative Tenderiales metagenome assembled genomes (MAGs) have been identified in a number of environmental surveys, yet a comprehensive characterization of conserved genes for extracellular electron uptake has thus far not been conducted. Using comparative genomics we identified conserved orthologous genes within the Tenderiales and nearest neighbor orders important for extracellular electron uptake based on a previously proposed pathway from “ Ca . Tenderia electrophaga”. The Tenderiales contained a conserved cluster we designated uetABCDEFGHIJ , which encodes proteins containing features that would enable transport of extracellular electrons to cytoplasmic membrane bound energy transducing complexes such as two conserved cytochrome cbb 3 oxidases. For example, UetJ is predicted to be an extracellular undecaheme c -type cytochrome that forms a heme wire. We also identified clusters of genes predicted to facilitate assembly and maturation of electron transport proteins, as well as cellular attachment to surfaces. Autotrophy among the Tenderiales is supported by the presence of carbon fixation and stress response pathways that could allow cellular growth by extracellular electron uptake. Key differences between the Tenderiales and other known neutrophilic iron oxidizers were revealed, including very few Cyc2 genes in the Tenderiales . Our results reveal a possible conserved pathway for extracellular electron uptake and suggests the Tenderiales have an distribution unlimited ecological role coupling metal or mineral redox chemistry and the carbon cycle in marine and brackish sediments. Importance Electromicrobiology enables enrichment and identification of chemolithotrophic bacteria capable of extracellular electron uptake to drive energy metabolism and CO 2 fixation. The recently described order Tenderiales contains the uncultivated electroautotroph “ Candidatus Tenderia electrophaga”. The “ Ca . Tenderia electrophaga” genome contains genes proposed to make up a previously undescribed extracellular electron uptake pathway. Here we use comparative genomics to show that this pathway is well conserved among Tenderiales spp. recovered by metagenome assembled genomes. This conservation extends to near neighbors of the Tenderiales , but not to other well-studied chemolithotrophs including iron and sulfur oxidizers. Our findings suggest that extracellular electron uptake may be pervasive among the Tenderiales and the geographic location from which metagenome assembled genomes were recovered offers clues to their natural ecological niche.
-
-</details>
-
 #### [Acoustic cues and season affect mobbing responses in a bird community](https://doi.org/10.1101/2022.05.05.490715)
 **Ambre Salis, Jean-Paul Léna, Thierry Lengagne** · 2022-05-05
 
@@ -9679,16 +8198,6 @@ Heterospecific communication is common for birds when mobbing a predator. Howeve
 <summary>Abstract</summary>
 
 Abstract Perception of speech requires sensitivity to features, such as amplitude and frequency modulations, that are often temporally regular. Previous work suggests age-related changes in neural responses to temporally regular features, but little work has focused on age differences for different types of modulations. We recorded magnetoencephalography in younger (21–33 years) and older adults (53–73 years) to investigate age differences in neural responses to slow (2-6 Hz sinusoidal and non-sinusoidal) modulations in amplitude, frequency, or combined amplitude and frequency. Audiometric pure-tone average thresholds were elevated in older compared to younger adults, indicating subclinical hearing impairment in the recruited older-adult sample. Neural responses to sound onset (independent of temporal modulations) were increased in magnitude in older compared to younger adults, suggesting hyperresponsivity and a loss of inhibition in the aged auditory system. Analyses of neural activity to modulations revealed greater neural synchronization with amplitude, frequency, and combined amplitude-frequency modulations for older compared to younger adults. This potentiated response generalized across different degrees of temporal regularity (sinusoidal and non-sinusoidal), although neural synchronization was generally lower for non-sinusoidal modulation. Despite greater synchronization, sustained neural activity was reduced in older compared to younger adults for sounds modulated both sinusoidally and non-sinusoidally in frequency. Our results suggest age differences in the sensitivity of the auditory system to features present in speech and other natural sounds.
-
-</details>
-
-#### [A critique of the hypothesis that CA repeats are primary targets of neuronal MeCP2](https://doi.org/10.1101/2022.04.26.489598)
-**Kashyap Chhatbar, John Connelly, Shaun Webb, Skirmantas Kriaucionis et al.** · 2022-04-26
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The DNA binding protein MeCP2 is reported to bind methylated cytosine in CG and CA motifs in genomic DNA, but it was recently proposed that arrays of tandemly repeated CA containing either methylated or hydroxymethylated cytosine are the primary targets for MeCP2 binding and function. Here we investigated the predictions of this hypothesis using a range of published datasets. We failed to detect enrichment of cytosine modification at genomic CA repeat arrays in mouse brain regions and found no evidence for preferential MeCP2 binding at CA repeats. Moreover, we did not observe a correlation between the CA repeat density near genes and their degree of transcriptional deregulation when MeCP2 was absent. Our results do not provide support for the hypothesis that CA repeats are key mediators of MeCP2 function. Instead, we found that CA repeats are subject to CAC methylation to a degree that is typical of the surrounding genome and contribute modestly to MeCP2-mediated modulation of gene expression in accordance with their content of this canonical target motif.
 
 </details>
 
@@ -9743,16 +8252,6 @@ Abstract In the absence of pollination, female reproductive organs senesce leadi
 <summary>Abstract</summary>
 
 Abstract The interface between field biology and technology is energizing the collection of vast quantities of environmental data. Passive acoustic monitoring, the use of unattended recording devices to capture environmental sound, is an example where technological advances have facilitated an influx of data that routinely exceeds the capacity for analysis. Computational advances, particularly the integration of machine learning approaches, will support data extraction efforts. However, the analysis and interpretation of these data will require parallel growth in conceptual and technical approaches for data analysis. Here, we use a large hand‐annotated dataset to showcase analysis approaches that will become increasingly useful as datasets grow and data extraction can be partially automated. We propose and demonstrate seven technical approaches for analyzing bioacoustic data. These include the following: (1) generating species lists and descriptions of vocal variation, (2) assessing how abiotic factors (e.g., rain and wind) impact vocalization rates, (3) testing for differences in community vocalization activity across sites and habitat types, (4) quantifying the phenology of vocal activity, (5) testing for spatiotemporal correlations in vocalizations within species, (6) among species, and (7) using rarefaction analysis to quantify diversity and optimize bioacoustic sampling. To demonstrate these approaches, we sampled in 2016 and 2018 and used hand annotations of 129,866 bird vocalizations from two forests in New Hampshire, USA, including sites in the Hubbard Brook Experiment Forest where bioacoustic data could be integrated with more than 50 years of observer‐based avian studies. Acoustic monitoring revealed differences in community patterns in vocalization activity between forests of different ages, as well as between nearby similar watersheds. Of numerous environmental variables that were evaluated, background noise was most clearly related to vocalization rates. The songbird community included one cluster of species where vocalization rates declined as ambient noise increased and another cluster where vocalization rates declined over the nesting season. In some common species, the number of vocalizations produced per day was correlated at scales of up to 15 km. Rarefaction analyses showed that adding sampling sites increased species detections more than adding sampling days. Although our analyses used hand‐annotated data, the methods will extend readily to large‐scale automated detection of vocalization events. Such data are likely to become increasingly available as autonomous recording units become more advanced, affordable, and power efficient. Passive acoustic monitoring with human or automated identification at the species level offers growing potential to complement observer‐based studies of avian ecology.
-
-</details>
-
-#### [MAIT cells activate dendritic cells to promote T follicular helper cell differentiation and humoral immunity](https://doi.org/10.1101/2022.03.31.486638)
-**Theresa E. Pankhurst, Kaitlin H. Buick, Joshua L. Lange, Andrew J. Marshall et al.** · 2022-04-01
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Protective immune responses against respiratory pathogens, including influenza virus are initiated by the mucosal immune system. However, most licensed vaccines are administered parenterally and are largely ineffective at inducing mucosal immunity. The development of safe and effective mucosal vaccines has largely been hampered by the lack of a suitable mucosal adjuvant. In this study we explore a novel class of adjuvant that harness mucosal-associated invariant T (MAIT) cells. We show evidence that intranasal immunisation of MAIT cell agonists co-administered with protein, including haemagglutinin from influenza A virus induced potent humoral immunity and immunoglobulin (Ig)A production, which protected mice against infection. MAIT cell adjuvant activity was mediated by CD40L-dependent activation of dendritic cells and subsequent priming of CD4 + T follicular helper cells. In summary, we show that MAIT cells are promising vaccine targets that can be utilised as cellular adjuvants in mucosal vaccines.
 
 </details>
 
@@ -9836,16 +8335,6 @@ Abstract Organisms inhabiting extreme thermal environments, such as desert birds
 
 </details>
 
-#### [Neural representations of vicarious rewards are linked to interoception and prosocial behaviour](https://doi.org/10.1101/2022.03.04.482889)
-**Luis Sebastian Contreras-Huerta, Michel-Pierre Coll, Geoffrey Bird, Hongbo Yu et al.** · 2022-03-05
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Every day we constantly observe other people receiving rewards. Theoretical accounts posit that vicarious reward processing might be linked to people’s sensitivity to internal body states (interoception) and facilitates a tendency to act prosocially. However, the neural processes underlying the links between vicarious reward processing, interoception and prosocial behaviour are poorly understood. Previous research has linked vicarious reward processing to the anterior cingulate gyrus (ACCg) and the anterior insula (AI). Can we predict someone’s propensity to be prosocial or to be aware of interoceptive signals from variability in how the ACCg and AI process rewards? Here, participants monitored rewards being delivered to themselves or a stranger during functional magnetic resonance imaging. Later, they performed a task measuring their willingness to exert effort to obtain rewards for others, and a task measuring their propensity to be aware and use interoceptive signals. Using multivariate similarity analysis, we show that people’s willingness to be prosocial is predicted by greater similarity between self and other representations in the ACCg. Moreover, greater dissimilarity in self-other representations in the AI is linked to interoceptive propensity. These findings highlight that vicarious reward is linked to bodily signals in AI, and foster prosocial tendencies through the ACCg.
-
-</details>
-
 #### [When and where to count? Implications of migratory connectivity and non-breeding distribution to population censuses in a migratory bird population](https://doi.org/10.1101/2022.02.26.482079)
 **Antti Piironen, Anthony D. Fox, Hakon Kampe-Persson, Ulf Skyllberg et al.** · 2022-03-01
 
@@ -9863,16 +8352,6 @@ Abstract Migratory connectivity is a metric of the co-occurrence of migratory an
 <summary>Abstract</summary>
 
 Acoustic communication is a way of information exchange between individuals, and it is used by several animal species. Therefore, the detection, recognition and correct understanding of acoustic signals are key factors in effective communication. The priority of acoustic communication is effectiveness rather than perfection, being effective avoids affecting the sound-based communication system of the species. One of the factors that can affect effective communication is the overlap in time and frequency during signal transmission, known as signal masking. One type of sound that can cause masking is anthropogenic noise, which is currently increasing due to urban growth and consequently motorized transportation and machinery. When exposed to anthropogenic noise, animals can use compensatory mechanisms to deal with sound masking, such as the modification of acoustic parameters of their acoustic signal. Here, we performed a meta-analysis investigating whether different taxa have a general tendency for changes in acoustic parameters due to anthropogenic noise, we used taxa and acoustic parameters available in the literature that met the minimum criteria to perform a meta-analysis. We hypothesized that animals exposed to anthropogenic noise use compensation mechanisms, such as changes in dominant, maximum or minimum frequencies, call duration, note duration and call rate to deal with masking. We performed a meta-analysis, which synthesized information from 73 studies comprising 82 species of three taxa: insects, anurans and birds. Our results showed that in the presence of anthropogenic noise, insects did not change the acoustic parameters, while anurans increased call amplitude and birds increased dominant frequency, minimum and maximum frequencies, note duration and amplitude of their songs. The different responses of the groups to anthropogenic noise may be related to their particularities in the production and reception of sound or to the differences in the acoustic parameters considered between the taxa and also the lack of studies in some taxa.
-
-</details>
-
-#### [Sound-evoked responses of distinct neuron classes from the tail of the striatum](https://doi.org/10.1101/2022.02.26.482132)
-**Matthew B. Nardoci, Anna A. Lakunina, Devin C. Henderling, Jewlyssa C. Pedregon et al.** · 2022-02-27
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Given its inputs from auditory structures and neuromodulatory systems, the posterior tail of the striatum is ideally positioned to influence behavioral responses to acoustic stimuli according to context and previous rewards. Results from previous studies indicate that neurons in this striatal region display selective responses to sounds. However, it is not clear whether different striatal cell classes code for distinct features of sounds, nor how different striatal output pathways may use acoustic information to guide behavior. Here we compared the sound-evoked responses of posterior striatal neurons that form the striatal direct pathway (and express the dopamine receptor D1) to the responses of neighboring neurons in naive mice. We achieved this via optogenetic photo-identification of D1-expressing neurons during extracellular electrophysiological recordings in awake head-fixed mice of both sexes. We found that the frequency tuning of sound-responsive direct-pathway striatal neurons is comparable to that of their sound-responsive neighbors. Moreover, we found that both populations encode amplitude modulated sounds in a similar fashion. These results suggest that different classes of neurons in the posterior striatum of naive animals have similar access to acoustic features conveyed by the auditory system even outside the context of an auditory task.
 
 </details>
 
@@ -9998,16 +8477,6 @@ There are about 10,000 to 13,000 different species of birds in the world. Identi
 **Y. Kumar, Surbhi Gupta, Williamjeet Singh** · 2022-01-14
 
 
-#### [Reaction time sensitivity to spectrotemporal modulations of sound](https://doi.org/10.1101/2022.01.13.476175)
-**Lidwien C.E. Veugen, A. John van Opstal, Marc M. van Wanrooij** · 2022-01-14
-
-<details>
-<summary>Abstract</summary>
-
-Abstract We tested whether sensitivity to acoustic spectrotemporal modulations can be observed from reaction times for normal-hearing and impaired-hearing conditions. In a manual reaction-time task, normal-hearing listeners had to detect the onset of a ripple (with density between 0-8 cycles/octave and a fixed modulation depth of 50%), that moved up or down the log-frequency axis at constant velocity (between 0-64 Hz), in an otherwise-unmodulated broadband white-noise. Spectral and temporal modulations elicited band-pass filtered sensitivity characteristics, with fastest detection rates around 1 cycle/oct and 32 Hz for normal-hearing conditions. These results closely resemble data from other studies that typically used the modulation-depth threshold as a sensitivity criterion. To simulate hearing-impairment, stimuli were processed with a 6-channel cochlear-implant vocoder, and a hearing-aid simulation that introduced separate spectral smearing and low-pass filtering. Reaction times were always much slower compared to normal hearing, especially for the highest spectral densities. Binaural performance was predicted well by the benchmark race model of binaural independence, which models statistical facilitation of independent monaural channels. For the impaired-hearing simulations this implied a “best-of-both-worlds” principle in which the listeners relied on the hearing-aid ear to detect spectral modulations, and on the cochlear-implant ear for temporal-modulation detection. Although singular-value decomposition indicated that the joint spectrotemporal sensitivity matrix could be largely reconstructed from independent temporal and spectral sensitivity functions, in line with time-spectrum separability, a substantial inseparable spectral-temporal interaction was present in all hearing conditions. These results suggest that the reaction-time task yields a valid and effective objective measure of acoustic spectrotemporal-modulation sensitivity.
-
-</details>
-
 #### [TCF7L2 acts as a molecular switch in midbrain to control mammal vocalization through a transcriptional repression mechanism](https://doi.org/10.1101/2022.01.10.475593)
 **Huihui Qi, Li Luo, Caijing Lu, Runze Chen et al.** · 2022-01-11
 
@@ -10101,10 +8570,6 @@ Bird sounds recognition is of great significance in bird protection. With approp
 Abstract To acquire a fundamental understanding of animal communication, continuous observations in a natural setting and at an individual level are required. Whereas the use of animal‐borne acoustic recorders in vocal studies remains challenging, light‐weight accelerometers can potentially register individuals’ vocal output when this coincides with body vibrations. We collected one‐dimensional accelerometer data using light‐weight tags on a free‐living, crepuscular bird species, the European Nightjar (Caprimulgus europaeus). We developed a classification model to identify four behaviors (rest, sing, fly, and leap) from accelerometer data and, for the purpose of this study, validated the classification of song behavior. Male nightjars produce a distinctive “churring” song while they rest on a stationary song post. We expected churring to be associated with body vibrations (i.e., medium‐amplitude body acceleration), which we assumed would be easy to distinguish from resting (i.e., low‐amplitude body acceleration). We validated the classification of song behavior using simultaneous GPS tracking data (i.e., information on individuals’ movement and proximity to audio recorders) and vocal recordings from stationary audio recorders at known song posts of one tracked individual. Song activity was detected by the classification model with an accuracy of 92%. Beyond a threshold of 20 m from the audio recorders, only 8% of the classified song bouts were recorded. The duration of the detected song activity (i.e., acceleration data) was highly correlated with the duration of the simultaneously recorded song bouts (correlation coefficient = 0.87, N = 10, S = 21.7, p = .001). We show that accelerometer‐based identification of vocalizations could serve as a promising tool to study communication in free‐living, small‐sized birds and demonstrate possible limitations of audio recorders to investigate individual‐based variation in song behavior.
 
 </details>
-
-#### [Animal Repellent System for Smart Farming Using Artificial Intelligence and Deep Learning](https://www.semanticscholar.org/paper/c35993a07a088c3bb9d398306100b2835606991e)
-**R. Abirami** · 2022-01-01
-
 
 #### [An Energy-Efficient WMSN-based System for Endangered Birds Monitoring](https://doi.org/10.1016/j.ifacol.2022.08.013)
 **Aya Sakhri, M. Maimour, É. Rondeau, N. Doghmane et al.** · 2022-01-01
@@ -10235,16 +8700,6 @@ Due to the unique mechanism of bird vocalization, it is difficult to achieve the
 
 </details>
 
-#### [Speech Sound Discrimination by Mongolian Gerbils](https://doi.org/10.1101/2021.12.10.471947)
-**Carolin Jüchter, Rainer Beutelmann, Georg Martin Klump** · 2021-12-10
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The present study establishes the Mongolian gerbil ( Meriones unguiculatus ) as a model for investigating the perception of human speech sounds. We report data on the discrimination of logatomes (CVCs 1 - consonant-vowel-consonant combinations with outer consonants /b/, /d/, /s/ and /t/ and central vowels /a/, /a:/, /ε/, /e:/, /I/, /i:/, /ɔ/, /o:/, /℧/ and /u:/, VCVs 2 - vowel-consonant-vowel combinations with outer vowels /a/, /I/ and /℧/ and central consonants /b/, /d/, /f/, /g/, /k/, /l/, /m/, /n/, /p/, /s/, /t/ and /v/) by young gerbils. Four young gerbils were trained to perform an oddball target detection paradigm in which they were required to discriminate a deviant CVC or VCV in a sequence of CVC or VCV standards, respectively. The experiments were performed with an ICRA-1 noise masker with speech-like spectral properties, and logatomes of multiple speakers were presented at various signal-to-noise ratios. Response latencies were measured to generate perceptual maps employing multidimensional scaling, which visualize the gerbils’ internal representations of the sounds. The dimensions of the perceptual maps were correlated to multiple phonetic features of the speech sounds for evaluating which features of vowels and consonants are most important for the discrimination. The perceptual representation of vowels and consonants in gerbils was similar to that of humans, although gerbils needed higher signal-to-noise ratios for the discrimination of speech sounds than humans. The gerbils’ discrimination of vowels depended on differences in the frequencies of the first and second formant determined by tongue height and position. Consonants were discriminated based on differences in combinations of their articulatory features. The similarities in the perception of logatomes by gerbils and humans renders the gerbil a suitable model for human speech sound discrimination. Highlights Perceptual maps of vowels and consonants in Mongolian gerbils are derived Gerbils perceive vowels and consonants in the same way as humans Gerbils discriminate vowels based on frequency differences of the formants Gerbils discriminate consonants based on differences in articulatory features
-
-</details>
-
 #### [Altricial bird early-stage embryos express the molecular ‘machinery’ to respond to maternal thyroid hormone cues](https://doi.org/10.1101/2021.12.07.471587)
 **Suvi Ruuskanen, Mikaela Hukkanen, Natacha Garcin, Nina Cossin-Sevrin et al.** · 2021-12-09
 
@@ -10268,26 +8723,6 @@ Abstract The creation of patient-derived cancer organoids represents a key advan
 #### [Design Recommendations for a Collaborative Game of Bird Call Recognition Based on Internet of Sound Practices](https://zenodo.org/records/5772562/files/JAES2021_Rovithis_et_al_Internet_of_Sounds.pdf)
 **Emmanouel Rovithis, N. Moustakas, Konstantinos Vogklis, K. Drossos et al.** · 2021-12-06
 
-
-#### [Experimental sound exposure modifies swimming activities and increases food handling error in adult zebrafish](https://doi.org/10.1101/2021.12.01.470707)
-**Reza Mohsenpour, Saeed Shafiei Sabet** · 2021-12-03
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Anthropogenic noise is increasing globally and is recognized as a source of environmental pollution in terrestrial and aquatic habitats. Sound is an important sensory stimulus for aquatic organisms and it may alter stress-related physiological indices and induce broad behavioural effects in a range of marine and freshwater fishes. Specifically, sound exposure may induce changes in swimming activities, feed efficiency and spatial distribution changes in fish. Here, we experimentally tested sound effects on swimming activities and foraging performance in thirty individually housed, captive adult Zebrafish ( Danio rerio ). Adult zebrafish and water fleas ( Daphnia magna ) were used as model predator and prey species, respectively. Acoustic stimuli consisted of four sound treatments with different temporal patterns. All had the same frequency range and were administered on average 121 dB re 1 µPa 2 /Hz. Our results constitute strong evidence for sound-related effects on zebrafish behaviour. All sound treatments led to a significant increase in the number of startle responses, and the brief and prolonged swimming speed for zebrafish. We found sound effects on the spatial distribution of zebrafish; Although there were no significant sound-related changes for horizontal spatial displacement in all treatments, zebrafish swam significantly more in the lower layer of the tank except during the irregular intermittent 1:1-7 in brief sound exposure treatment. The results of foraging performance showed that food discrimination error was unaffected by sound treatments and was low for the zebrafish. However, food handling error was affected by sound treatments; all treatments induced a significant rise in handling error. This study highlights the impact of sound on zebrafish swimming activities, and that more feeding bouts are needed to consume the same number of food items increasing energy demand under noisy conditions.
-
-</details>
-
-#### [The feasibility of an objective measure of the parent-child relationship in health visiting practice: assessment of the Maternal Postnatal Attachment Scale](https://doi.org/10.1101/2021.11.30.21267061)
-**Abigail Dunn, Philippa K. Bird, Charlotte Endacott, Tracey Bywater et al.** · 2021-12-02
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Positive parent infant relationships are key to achieving long term child outcomes. Identifying parents who may need support is difficult because of a lack of robust assessment tools. Working in partnership with health services we piloted the Maternal Postnatal Attachment Scale (MPAS) in a deprived, multi-ethnic urban community in Bradford, UK. The pilot aimed to assess the clinical utility of MPAS to identify need for support: Was it administered to a representative group of women? Is MPAS valid for this population? Data were linked to a cohort study in the pilot area (Born in Bradford’s Better Start - BiBBS). Chi Square tests assessed sample representativeness (age, ethnicity, parity, English language, education, deprivation). Exploratory factor analysis explored MPAS’ validity. 563 women in BiBBS were eligible, 210 (37%) completed MPAS. No differences were found between completers and non-completers, suggestive of a representative sample. In total, 336 women completed MPAS in the pilot. MPAS had ceiling effects and a satisfactory factor structure could not be identified, indicating poor psychometric properties Health visitors were successful in administering MPAS to a representative sample, but poor psychometric robustness indicates that MPAS is unsuitable for routine use in this setting. A gap for such a measure remains. Statement of relevance to practitioners This research shows that: Health practitioners working in universal early years services were willing and able to integrate structured assessments of parent-infant relationship into their routine practice There is no evidence that health professionals were less likely to offer traditionally considered ‘hard to reach’ families an assessment of their parent-infant relationship The Maternal Postnatal Attachment Scale did not demonstrate psychometric robustness when delivered in routine, universal, health visiting services in Bradford as part of an initial assessment of parent-infant relationship, and therefore cannot be recommended for continued routine use. Statement of relevance to the field This pilot study explores a significant gap in the field, namely how universal services can assess parent-infant relationship to facilitate timely signposting to appropriate services, in a preventative model, to those families that may benefit. This study contributes to the evidence base by assessing if health professionals working in a universal service can offer an assessment to a representative group of families, including families who may be considered hard to reach as well as providing psychometric evidence on the Maternal Postnatal Attachment Scale. We did not find good evidence for the psychometric properties of the Maternal Postnatal Attachment Scale when used in this way in Bradford. We found that health professionals offered the assessment to a representative sample of families, including those who may be at an enhanced risk of health inequalities because of their ethnicity, age, education, and wider socioeconomic circumstances. This evidence is important for measure/tool selection for community studies. The findings also emphasise that practitioners can integrate tools for assessment in their practice, including with families who are at an increased risk of experiencing inequalities. Diversity and anti-racist scholarship This study was designed and executed in a very diverse community with approximately 60% of the population identifying as Asian/Asian British: Pakistani, and 10% of the population identifying as White: British and the remaining population identifying with a wide range of ethnicities. The health visiting service deliberately engages with the whole population in a culturally sensitive way, including ensuring staff speak key community languages and using translators as required. We included specific tests of representativeness as part of the study design and found that participants in the study were representative of the wider community in terms of ethnicity and English language comprehension.
-
-</details>
 
 #### [Specialist or generalist? It depends. Context-dependent habitat relationships provide insight into forest disturbance effects for a boreal bird species](https://doi.org/10.1016/j.foreco.2021.119720)
 **Elly C. Knight, R. Brigham, E. Bayne** · 2021-12-01
@@ -10367,16 +8802,6 @@ As one of the indispensable biological groups in the earth's ecosystem, the dete
 <summary>Abstract</summary>
 
 Abstract The Gene Balance Hypothesis (GBH) proposes that selection acts on the dosage (i.e. copy number) of genes within dosage-sensitive portions of networks, pathways, and protein complexes to maintain balanced stoichiometry of interacting proteins, because perturbations to stoichiometric balance can result in reduced fitness. This selection has been called dosage balance selection. Dosage balance selection is also hypothesized to constrain expression responses to dosage changes, making dosage-sensitive genes (those encoding members of interacting proteins) experience more similar expression changes. In allopolyploids, where whole-genome duplication involves hybridization of diverged lineages, organisms often experience homoeologous exchanges (HEs) that recombine, duplicate, and delete homoeologous regions of the genome and alter the expression of homoeologous gene pairs. Although the GBH makes predictions about the expression response to HEs, they have not been empirically tested. We used genomic and transcriptomic data from six resynthesized, isogenic Brassica napus lines over ten generations to identify HEs, analyzed expression responses, and tested for patterns of genomic imbalance. Groups of dosage-sensitive genes had less variable expression responses to HEs than dosage-insensitive genes, a sign that their relative dosage is constrained. This difference was absent for homoeologous pairs whose expression was biased toward the BnA subgenome. Finally, the expression response to HEs was more variable than the response to WGD, suggesting HEs create genomic imbalance. These findings expand our knowledge of the impact of dosage balance selection on genome evolution and potentially connect patterns in polyploid genomes over time; from homoeolog expression bias to duplicate gene retention.
-
-</details>
-
-#### [Atypical relationships between neurofunctional features of print-sound integration and reading abilities in Chinese children with dyslexia](https://doi.org/10.1101/2021.11.11.468218)
-**Zhichao Xia, Ting Yang, Xin Cui, Fumiko Hoeft et al.** · 2021-11-16
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Conquering print-sound mappings (e.g., grapheme-phoneme correspondence rules) is vital for developing fluent reading skills. In neuroimaging research, this ability can be indexed by activation differences between audiovisual congruent against incongruent conditions in brain areas such as the left superior temporal cortex. In line with it, individuals with dyslexia have difficulty in tasks requiring print-sound processing, accompanied by a reduced neural integration. However, existing evidence is almost restricted to alphabetic languages. Whether and how multisensory processing of print and sound is impaired in Chinese dyslexia remains underexplored. In this study, we applied a passive audiovisual integration paradigm with functional magnetic resonance imaging to investigate the possible dysfunctions in processing character-sound (opaque; semantics can be automatically accessed) and pinyin-sound associations (transparent; no particular meaning can be confirmed) in Chinese dyslexic children. Unexpectedly, the dyslexic group did not show reduced neural integration compared with typically developing readers in either character or pinyin experiment. However, the results revealed atypical correlations between neural integration and different reading abilities in dyslexia. Specifically, while the neural integration in the left inferior frontal cortex in processing character-sound pairs correlated with silent reading comprehension in both children with and without dyslexia, it was associated with morphological awareness (semantic-related) in controls but with rapid naming (phonological-related) in dyslexics. This result indicates Chinese dyslexic children may not use the same grapho-semantic processing strategy as their typical peers do. As for pinyin-sound processing, while a stronger neural integration in the direction of “congruent &gt; incongruent” in the left occipito-temporal cortex and bilateral superior temporal cortices was associated with better oral reading fluency in the control group, an opposite pattern was found in dyslexia. This finding may reflect dyslexia’s dysfunctional recruitment of the regions in grapho-phonological processing, which further impedes character learning. Highlights Neurofunctional correlates of print-sound integration in Chinese children with and without dyslexia are investigated. Dyslexic children show atypical relationships between neural audiovisual integration and reading abilities. Chinese children with dyslexia are likely to use inefficient strategies to process characters and pinyin.
 
 </details>
 
@@ -10520,26 +8945,6 @@ Abstract Mice display a wide repertoire of vocalizations that varies with sex, s
 **Marcos Quiroz-Oliva, J. R. Sosa-López** · 2021-10-20
 
 
-#### [Survival of hatchery grown native oysters is associated with specific gut-associated bacteria at various locations within the Puget Sound](https://doi.org/10.1101/2021.10.19.465031)
-**Emily Kunselman, Jeremiah J Minich, Micah Horwith, Jack A Gilbert et al.** · 2021-10-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The Olympia oyster ( Ostrea lurida ) of the Puget Sound suffered a dramatic population crash, but restoration efforts hope to revive this native species. One overlooked variable in the process of assessing ecosystem health is association of bacteria with marine organisms and the environments they occupy. Oyster microbiomes are known to differ significantly between species, tissue type, and the habitat in which they are found. The goals of this study were to determine the impact of field site and habitat on the oyster microbiome and to identify core oyster-associated bacteria in the Puget Sound. Olympia oysters from one parental family were deployed at four sites in the Puget Sound both inside and outside of eelgrass ( Zostera marina ) beds. Using 16S rRNA gene amplicon sequencing of the oyster gut, shell, surrounding seawater and sediment, we demonstrate that gut-associated bacteria are distinct from the surrounding environment and vary by field site. Furthermore, regional differences in the gut microbiota are associated with the survival rates of oysters at each site after two months of field exposure. However, habitat type had no influence on microbiome diversity. Further work is needed to identify the specific bacterial dynamics that are associated with oyster physiology and survival rates. Importance The outcomes of this study demonstrate the need to monitor microbial ecology at potential oyster restoration sites, specifically for the native Olympia oyster in the Puget Sound. Some areas of Puget Sound may be less amenable to Olympia oyster restoration than others due to microbiome colonization trends. Furthermore, this study puts the oyster microbiome in the context of its surroundings, providing a holistic perspective on the factors that may influence oyster performance and microbial ecology.
-
-</details>
-
-#### [Predicting the Influence of Axon Myelination on Sound Localization Precision Using a Spiking Neural Network Model of Auditory Brainstem](https://doi.org/10.1101/2021.10.15.464581)
-**Ben-Zheng Li, Sio Hang Pun, Mang I Vai, Tim C. Lei et al.** · 2021-10-15
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Spatial hearing allows animals to rapidly detect and localize auditory events in the surrounding environment. The auditory brainstem plays a central role in processing and extracting binaural spatial cues through microsecond-precise binaural integration, especially for detecting interaural time differences (ITDs) of low-frequency sounds at the medial superior olive (MSO). A series of mechanisms exist in the underlying neural circuits for preserving accurate action potential timing across multiple fibers, synapses and nuclei along this pathway. One of these is the myelination of afferent fibers that ensures reliable and temporally precise action potential propagation in the axon. There are several reports of fine-tuned myelination patterns in the MSO circuit, but how specifically myelination influences the precision of sound localization remains incompletely understood. Here we present a spiking neural network model of the auditory brainstem with myelinated axons to investigate whether different axon myelination thicknesses alter the sound localization process. Our model demonstrates that axon myelin thickness along the contralateral pathways can substantially modulate ITD detection. Furthermore, optimal ITD sensitivity is reached when the MSO receives contralateral inhibition via thicker myelinated axons compared to contralateral excitation, a result that is consistent with previously reported experimental observations. Our results suggest specific roles of axon myelination for extracting temporal dynamics in ITD perception, especially in the pathway of the contralateral inhibition.
-
-</details>
-
 #### [Combined effects of bird extinctions and introductions in oceanic islands: decreased functional diversity despite increased species richness](https://doi.org/10.1101/2021.10.11.463897)
 **Filipa C. Soares, Ricardo F. de Lima, Jorge M. Palmeirim, Pedro Cardoso et al.** · 2021-10-12
 
@@ -10560,16 +8965,6 @@ Abstract Fallow land provides habitat for threatened and declining farmland biod
 
 </details>
 
-#### [Speech sound categorization: The contribution of non-auditory and auditory cortical regions](https://doi.org/10.1101/2021.10.08.463391)
-**Basil Preisig, Lars Riecke, Alexis Hervais-Adelman** · 2021-10-09
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Which processes in the human brain lead to the categorical perception of speech sounds? Investigation of this question is hampered by the fact that categorical speech perception is normally confounded by acoustic differences in the stimulus. By using ambiguous sounds, however, it is possible to dissociate acoustic from perceptual stimulus representations. Twenty-seven normally hearing individuals took part in an fMRI study in which they were presented with an ambiguous syllable (intermediate between /da/ and /ga/) in one ear and with disambiguating acoustic feature (third formant, F3) in the other ear. Multi-voxel pattern searchlight analysis was used to identify brain areas that consistently differentiated between response patterns associated with different syllable reports. By comparing responses to different stimuli with identical syllable reports and identical stimuli with different syllable reports, we disambiguated whether these regions primarily differentiated the acoustics of the stimuli or the syllable report. We found that BOLD activity patterns in left perisylvian regions (STG, SMG), left inferior frontal regions (vMC, IFG, AI), left supplementary motor cortex (SMA/pre-SMA), and right motor and somatosensory regions (M1/S1) represent listeners’ syllable report irrespective of stimulus acoustics. Most of these regions are outside of what is traditionally regarded as auditory or phonological processing areas. Our results indicate that the process of speech sound categorization implicates decision-making mechanisms and auditory-motor transformations. Highlights Ambiguous dichotic syllables elicit distinct percepts of identical stimuli Multivariate searchlight analysis reveals syllabic-category sensitive brain areas Categorical responses arise in non-auditory cortical areas including motor areas SMA is a possible locus for transforming sensory signals into perceptual decisions
-
-</details>
-
 #### [Improving Bird Classification with Unsupervised Sound Separation](https://arxiv.org/abs/2110.03209)
 **Tom Denton, Scott Wisdom, John R. Hershey** · 2021-10-07
 
@@ -10577,16 +8972,6 @@ Abstract Which processes in the human brain lead to the categorical perception o
 <summary>Abstract</summary>
 
 This paper addresses the problem of species classification in bird song recordings. The massive amount of available field recordings of birds presents an opportunity to use machine learning to automatically track bird populations. However, it also poses a problem: such field recordings typically contain significant environmental noise and overlapping vocalizations that interfere with classification. The widely available training datasets for species identification also typically leave background species unlabeled. This leads classifiers to ignore vocalizations with a low signal-to-noise ratio. However, recent advances in unsupervised sound separation, such as mixture invariant training (MixIT), enable high quality separation of bird songs to be learned from such noisy recordings. In this paper, we demonstrate improved separation quality when training a MixIT model specifically for birdsong data, outperforming a general audio separation model by over 5 dB in SI-SNR improvement of reconstructed mixtures. We also demonstrate precision improvements with a downstream multi-species bird classifier across three independent datasets. The best classifier performance is achieved by taking the maximum model activations over the separated channels and original audio. Finally, we document additional classifier improvements, including taxonomic classification, augmentation by random low-pass filters, and additional channel normalization.
-
-</details>
-
-#### [In vivo reprogramming of murine host immune response genes following Leishmania major infection](https://doi.org/10.1101/2021.10.05.463063)
-**Gopinath Venugopal, Jordan T. Bird, Charity L. Washam, Hayden Roys et al.** · 2021-10-06
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Leishmania parasites cause cutaneous leishmaniasis (CL), a pathologic disease characterized by disfiguring, ulcerative skin lesions. Both parasite and host gene expression following infection with various Leishmania species has been investigated in vitro, but global transcriptional analysis following L. major infection in vivo is lacking. Thus, we conducted a comprehensive transcriptomic profiling study combining bulk RNA sequencing (RNA-Seq) and single-cell RNA sequencing (scRNA-Seq) to identify global changes in gene expression in vivo following L. major infection. Bulk RNA-Seq analysis revealed that host immune response pathways like the antigen processing and presentation pathway were significantly enriched amongst differentially expressed genes (DEGs) upon infection, while ribosomal pathways were significantly downregulated in infected mice compared to naive controls. scRNA-Seq analyses revealed cellular heterogeneity including distinct resident and recruited cell types in the skin following murine L. major infection. Within the individual immune cell types, several DEGs indicative of many interferon induced GTPases and antigen presentation molecules were significantly enhanced in the infected ears including macrophages ( Gbp2, H2-K1, H2-Aa, H2-Ab1 ), resident macrophages ( H2-K1, H2-D1, Gbp4, Gbp8, Gbp2 ), and inflammatory monocytes ( Gbp2, Gbp5, Gbp7, Gbp3 ). Ingenuity Pathway Analysis of scRNA-Seq data indicated the antigen presentation pathway was increased with infection, while EIF2 signaling is the top downregulated pathway followed by eIF4/p70S6k and mTOR signaling in multiple cell types including macrophages, BECs, and LECs. Altogether, this transcriptomic profile highlights known recruitment of myeloid cells to lesions and recognizes a previously undefined role for EIF2 signaling in murine L. major infection in vivo. Author summary Leishmania major cause cutaneous leishmaniasis, which is characterized by disfiguring, ulcerative skin lesions. Here, we show murine L. major -directed reprogramming of the host transcriptome in vivo. Our bulk RNA-Seq analyses revealed upregulation of antigen processing and presentation pathway, while the host ribosomal pathway was downregulated following L. major infection. Similarly, scRNA-Seq analyses revealed the upregulation of transcripts responsible for antigen presentation and host defense proteins like guanylate binding proteins (GBPs) alongside the downregulation of EIF2 signalling at the site of L. major infection. Overall, our transcriptomic dataset not only provides the comprehensive list of gene expression at the single-cell resolution, and highlights a previously undefined role for EIF2 signalling during murine L. major infection in vivo.
 
 </details>
 
@@ -10726,16 +9111,6 @@ ABSTRACT The occurrence, density and survival of a species often depend on vario
 
 </details>
 
-#### [Sound localization of world and head-centered space in ferrets](https://doi.org/10.1101/2021.09.15.460425)
-**Stephen M. Town, Jennifer K. Bizley** · 2021-09-17
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The location of sounds can be described in multiple coordinate systems that are defined relative to ourselves, or the world around us. Evidence from neural recordings in animals point towards the existence of both head-centered and world-centered representations of sound location in the brain; however, it is unclear whether such neural representations have perceptual correlates in the sound localization abilities of non-human listeners. Here, we establish novel behavioral tests to determine the coordinate systems in which ferrets can localize sounds. We found that ferrets could learn to discriminate between sound locations that were fixed in either world-centered or head-centered space, across wide variations in sound location in the alternative coordinate system. Using probe sounds to assess broader generalization of spatial hearing, we demonstrated that in both head and world-centered tasks, animals used continuous maps of auditory space to guide behavior. Single trial responses of individual animals were sufficiently informative that we could then model sound localization using speaker position in specific coordinate systems and accurately predict ferrets’ actions in held-out data. Our results indicate that an animal model in which neurons are known to be tuned to sound location in egocentric and allocentric reference frames can also localize sounds in multiple head and world-centered spaces. Significance Statement Humans can describe the location of sounds either relative to themselves, or in the world, independent of their momentary position. These different spaces are also represented in the activity of neurons in animals, but it’s not clear whether non-human listeners also perceive both head and world-centered sound location. Here, we designed two behavioral tasks in which ferrets had to discriminate between two sounds using their position in the world, or relative to the head. Subjects learnt to solve both problems and showed the ability to generalize sound location in each space when presented with infrequent probe sounds. These findings reveal a perceptual correlate of neural sensitivity previously observed in the ferret brain and establish that, like humans, ferrets can access an auditory map of their local environment.
-
-</details>
-
 #### [Automatic segmentation and classification of the Thamnophilidae's family of the western andean region of Colombia](https://doi.org/10.1109/STSIVA53688.2021.9592006)
 **S. Martínez-Ortega, M. Sarria-Paja** · 2021-09-15
 
@@ -10753,16 +9128,6 @@ Colombia has the greatest diversity of birds in the world, approximately 1900 sp
 <summary>Abstract</summary>
 
 Abstract Aim Mounting global pressure on bird populations from invasive predators and habitat loss has driven a rapid growth in restorative and protective conservation action around the world, yet the efficacy of such actions is still not well understood. We investigated the relative effects of invasive predator control and habitat fragmentation on the abundance of native birds and invasive mammalian predators in native forest fragments. Location Waikato region, New Zealand Methods We sampled invasive mammalian predator and native bird abundances using camera traps and bird counts at 26 sites in 15 forest fragments across New Zealand’s Waikato region. Fragment area, shape complexity, and surrounding land cover of exotic and native forest were determined in ArcMap. We further created two composite gradients reflecting predator control intensity and temporal distribution of control based on seven quantitative variables recorded in each of the five years preceding native bird data collection. Finally, we estimated the relative influence of these drivers on invasive mammals and functional groups of native birds using model averaging. Results Of the two invasive predator control variables, only control intensity significantly affected invasive predator abundance and was also a more important driver than landscape or fragment structure, but responses varied among invasive mammal species. In contrast, both invasive predator control intensity and fragment structure were similarly important drivers of native bird abundance, though bird community responses varied markedly between functional groups. Main conclusions Our findings suggest that spatial extent of invasive mammal control is important for controlling mammal numbers and enhancing bird abundance, especially for small insectivorous species, and that habitat fragmentation is less important for invasive mammals but at least as important for native bird communities. Consequently, both drivers should be given strong consideration when undertaking landscape-scale conservation and restoration of bird communities in human-altered landscapes threatened by invasive predators.
-
-</details>
-
-#### [BCL11A intellectual developmental disorder: defining the clinical spectrum and genotype-phenotype correlations](https://doi.org/10.1101/2021.09.06.21262776)
-**Angela Peron, Felice D’Arco, Kimberly A. Aldinger, Constance Smith-Hicks et al.** · 2021-09-15
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Purpose Heterozygous variants in BCL11A underlie an intellectual developmental disorder with persistence of fetal hemoglobin (BCL11A-IDD, a.k.a. Dias-Logan syndrome). We sought to delineate the genotypic and phenotypic spectrum of BCL11A-IDD. Methods We performed an in-depth analysis of 42 patients with BCL11A-IDD ascertained through a collaborative network of clinical and research colleagues. We also reviewed 33 additional affected individuals previously reported in the literature or available through public repositories with clinical information. Results Molecular and clinical data analysis of 75 patients with BCL11A-IDD identified 60 unique variants (30 frameshift, 7 missense, 6 splice-site, 17 stop-gain) and 8 unique CNVs (microdeletions involving BCL11A only). We redefined the most frequent manifestations of the condition: intellectual disability, hypotonia, behavioral abnormalities, postnatal microcephaly and autism spectrum disorder. Two thirds of patients have brain MRI abnormalities, and we identified a recurrent posterior fossa phenotype of vermian hypoplasia and/or small brainstem. Truncating BCL11A variants, particularly those affecting the long (BCL11A-L) and extra-long (-XL) isoforms, sparing the short (-S) isoform, were associated with increased severity. Conclusions We expand the clinical delineation of BCL11A-IDD and identify a potential isoform-specific genotype-phenotype correlation. We show that BCL11A-IDD is associated with posterior fossa anomalies and highlight the differences between BCL11A-IDD and 2p16.1p15 microdeletion syndrome.
 
 </details>
 
@@ -10860,16 +9225,6 @@ Abstract Estimation of bird and bat fatalities due to collision with anthropogen
 
 </details>
 
-#### [Hippocampal and medial prefrontal cortices encode structural task representations following progressive and interleaved training schedules](https://doi.org/10.1101/2021.08.11.455977)
-**Sam C. Berens, Chris M. Bird** · 2021-08-11
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Memory generalisations may be underpinned by either encoding- or retrieval-based generalisation mechanisms and different training schedules may bias some learners to favour one of these mechanisms over the other. We used a transitive inference task to investigate whether generalisation is influenced by progressive vs randomly interleaved training, and overnight consolidation. On consecutive days, participants learnt pairwise discriminations from two transitive hierarchies before being tested during fMRI. Inference performance was consistently better following progressive training, and for pairs further apart in the transitive hierarchy. BOLD pattern similarity correlated with hierarchical distances in the left hippocampus (HIP) and medial prefrontal cortex (MPFC) following both training schedules. These results are consistent with the use of structural representations that directly encode hierarchical relationships between task features. However, such effects were only observed in the MPFC for recently learnt relationships. Furthermore, the MPFC appeared to maintain structural representations in participants who performed at chance on the inference task. We conclude that humans preferentially employ encoding-based mechanisms to store map-like relational codes that can be used for memory generalisation. These codes are expressed in the HIP and MPFC following both progressive and interleaved training but are not sufficient for accurate inference. Author summary Integrating information across distinct situations allows both humans and non-human animals to solve novel problems. For instance, by observing that topaz is hard enough to scratch quartz, and that quartz is hard enough to scratch gypsum, one can infer that topaz must be harder than gypsum - even if these materials have never been seen together. This type of generalisation (transitive inference) can be achieved by combing different pieces of information either, 1) when an inference is actually needed (retrieval-based generalisation), or 2) when new information is first encountered (encoding-based generalisation). We predicted that the use of these generalisation mechanisms depends on the order in which information is presented and whether that information was learnt before an overnight rest. Contrary to our predictions, behavioural and neuroimaging analyses of a transitive inference task in humans showed convergent evidence for encoding-based generalisations in all conditions. While these conditions had a large impact on inferential ability, we found that brain regions involved in memory invariably learnt inferred relationships between items that had not been seen together. Strikingly, this appeared to be the case even when participants where unbale to make accurate inferences.
-
-</details>
-
 #### [Advancing bird survey efforts through novel recorder technology and automated species identification](https://doi.org/10.51492/cfwj.107.5)
 **Matthew Toenies, L. Rich** · 2021-08-09
 
@@ -10901,16 +9256,6 @@ Abstract Effective conservation planning often requires difficult decisions when
 <summary>Abstract</summary>
 
 Abstract Advances in artificial intelligence for computer vision hold great promise for increasing the scales at which ecological systems can be studied. The distribution and behavior of individuals is central to ecology, and computer vision using deep neural networks can learn to detect individual objects in imagery. However, developing supervised models for ecological monitoring is challenging because it needs large amounts of human-labeled training data, requires advanced technical expertise and computational infrastructure, and is prone to overfitting. This limits application across space and time. One solution is developing generalized models that can be applied across species and ecosystems. Using over 250,000 annotations from 13 projects from around the world, we develop a general bird detection model that achieves over 65% recall and 50% precision on novel aerial data without any local training despite differences in species, habitat, and imaging methodology. Fine-tuning this model with only 1000 local annotations increase these values to an average of 84% recall and 69% precision by building on the general features learned from other data sources. Retraining from the general model improves local predictions even when moderately large annotation sets are available and makes model training faster and more stable. Our results demonstrate that general models for detecting broad classes of organisms using airborne imagery are achievable. These models can reduce the effort, expertise, and computational resources necessary for automating the detection of individual organisms across large scales, helping to transform the scale of data collection in ecology and the questions that can be addressed.
-
-</details>
-
-#### [Increased brain atrophy over 3 years in stroke survivors is linked to early post-stroke cognitive impairment](https://doi.org/10.1101/2021.08.03.21261461)
-**Amy Brodtmann, Emilio Werden, Mohamed Salah Khlif, Laura J. Bird et al.** · 2021-08-05
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Background Stroke survivors are at high risk of dementia, associated with increasing age and vascular burden and with pre-existing cognitive impairment, older age. Brain atrophy patterns are recognised as signatures of neurodegenerative conditions, but the natural history of brain atrophy after stroke remains poorly described. We sought to determine whether stroke survivors who were cognitively normal at time of stroke had greater total brain (TBV) and hippocampal volume (HV) loss over 3 years than controls. We examined whether stroke survivors who were cognitively impaired (CI) at 3 months following their stroke had greater brain volume loss than cognitively normal (CN) stroke participants. Methods Cognition And Neocortical Volume After Stroke (CANVAS) study is a multi-centre cohort study of first-ever or recurrent adult ischaemic stroke participants compared to age- and sex-matched community controls. Participants were followed with MRI and cognitive assessments over 3 years and were free of a history of cognitive impairment or decline at inclusion. Our primary outcome measure was TBV change between 3 months and 3 years; secondary outcomes were TBV and HV change comparing CI and CN participants. We investigated associations between group status and brain volume change using a baseline-volume adjusted linear regression model with robust standard error. Results Ninety-three stroke (26 women, 66.7±12 years) and 39 control participants (15 women, 68.7±7 years) were available at 3 years. TBV loss in stroke patients was greater than controls: stroke mean (M)=20.3cm 3 ±SD14.8cm 3 ; controls M=14.2cm 3 ±SD13.2cm 3 ; (adjusted mean difference 7.88 95%CI [2.84,12.91] p-value=0.002). TBV decline was greater in those stroke participants who were cognitively impaired (M=30.7cm 3 ; SD=14.2cm 3 ) at 3 months (M=19.6cm 3 ; SD=13.8cm 3 ); (adjusted mean difference 10.42; 95%CI [3.04,17.80], p-value=0.006). No statistically significant differences in HV change were observed. Conclusions Ischaemic stroke survivors exhibit greater neurodegeneration compared to stroke-free controls. Brain atrophy is greater in stroke participants who were cognitively impaired people early after their stroke. Early cognitive impairment may predict greater subsequent atrophy, reflecting the combined impacts of stroke and vascular brain burden. Atrophy rates could serve as a useful biomarker for trials testing interventions to reduce post-stroke cognitive impairment.
 
 </details>
 
@@ -11018,16 +9363,6 @@ Estimation of avian biodiversity is a cornerstone measure of ecosystem condition
 
 </details>
 
-#### [Maturation, developmental site, and pathology dictate murine neutrophil function](https://doi.org/10.1101/2021.07.21.453108)
-**John B. G. Mackey, Amanda J. McFarlane, Thomas Jamieson, Rene Jackstadt et al.** · 2021-07-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Neutrophils have been implicated in poor outcomes in cancer and severe inflammation. We found that neutrophils expressing intermediate levels of Ly6G (Ly6G Int ) were present in mouse cancer models and more abundant in those with high rates of spontaneous metastasis. Maturation, age, tissue localization and functional capacity all drive neutrophil heterogeneity. Recent studies have proposed various markers to distinguish between these heterogeneous sub-populations; however, these markers are limited to specific models of inflammation and cancer. Here, we identify and define Ly6G expression level as a robust and reliable marker to distinguish neutrophils at different stages of maturation. Ly6G Int neutrophils were bona fide ‘immature neutrophils’ with reduced immune regulatory and adhesion capacity. Whereas the bone marrow is a more recognised site of granulopoiesis, the spleen also produces neutrophils in homeostasis and cancer. Strikingly, neutrophils matured faster in the spleen than in the bone marrow with unique transcriptional profiles. We propose that developmental origin is critical in neutrophil identity and postulate that neutrophils that develop in the spleen supplement the bone marrow by providing an intermediate more mature reserve before emergency haematopoiesis.
-
-</details>
-
 #### [Recognizing bird species in diverse soundscapes under weak supervision](https://arxiv.org/abs/2107.07728)
 **Christof Henkel, Pascal Pfeiffer, Philipp Singer** · 2021-07-16
 
@@ -11080,26 +9415,6 @@ It is easier to hear birds than see them, however, they still play an essential 
 
 </details>
 
-#### [Structural basis for tunable control of actin dynamics by myosin-15 in mechanosensory stereocilia](https://doi.org/10.1101/2021.07.09.451843)
-**Rui Gong, Fangfang Jiang, Zane G. Moreland, Matthew J. Reynolds et al.** · 2021-07-10
-
-<details>
-<summary>Abstract</summary>
-
-Summary The motor protein myosin-15 is necessary for the development and maintenance of mechanosensory stereocilia, and myosin-15 mutations cause profound deafness. In a companion study, we report that myosin-15 nucleates actin filament (“F-actin”) assembly and identify a progressive hearing loss mutation (p.D1647G, “ jordan ”) which disrupts stereocilia elongation by inhibiting actin polymerization. Here, we present cryo-EM structures of myosin-15 bound to F-actin, providing a framework for interpreting deafness mutations and their impacts on myosin-stimulated actin assembly. Rigor myosin-15 evokes conformational changes in F-actin yet maintains flexibility in actin’s D-loop, which mediates inter-subunit contacts, while the jordan mutant locks the D-loop in a single conformation. ADP-bound myosin-15 also locks the D-loop, which correspondingly blunts actin-polymerization stimulation. We propose myosin-15 enhances polymerization by bridging actin protomers, regulating nucleation efficiency by modulating actin’s structural plasticity in a myosin nucleotide-state dependent manner. This tunable regulation of actin polymerization could be harnessed to precisely control stereocilium height.
-
-</details>
-
-#### [Myosin-driven Nucleation of Actin Filaments Drives Stereocilia Development Critical for Hearing](https://doi.org/10.1101/2021.07.09.451618)
-**Zane G. Moreland, Fangfang Jiang, Carlos Aguilar, Melanie Barzik et al.** · 2021-07-10
-
-<details>
-<summary>Abstract</summary>
-
-SUMMARY The assembly and maintenance of actin-based mechanosensitive stereocilia in the cochlea is critical for lifelong hearing. Myosin-15 (MYO15) is hypothesized to modulate stereocilia height by trafficking actin regulatory proteins to their tip compartments, where actin polymerization must be precisely controlled during development. We identified a mutation (p.D1647G) in the MYO15 motor-domain that initially maintained trafficking, but caused progressive hearing loss by stunting stereocilia growth, revealing an additional function for MYO15. Consistent with its maintenance of tip trafficking in vivo , purified p.D1647G MYO15 modestly reduced actin-stimulated ATPase activity in vitro . Using ensemble and single-filament fluorescence in vitro assays, we demonstrated that wild-type MYO15 directly accelerated actin filament polymerization by driving nucleation, whilst p.D1647G MYO15 blocked this activity. Collectively, our studies suggest direct actin nucleation by MYO15 at the stereocilia tip is necessary for elongation in vivo , and that this is a primary mechanism disrupted in DFNB3 hereditary human hearing loss.
-
-</details>
-
 #### [Scaled-Time-Attention Robust Edge Network](https://arxiv.org/abs/2107.04688)
 **Richard Lau, Lihan Yao, Todd P. Huster, William Johnson et al.** · 2021-07-09
 
@@ -11130,16 +9445,6 @@ ABSTRACT Autonomous recording units now facilitate the large collection of audio
 
 </details>
 
-#### [Automated lung sound analysis using the LungPass platform: A sensitive and specific tool for identifying lower respiratory tract involvement in COVID-19](https://doi.org/10.1101/2021.07.08.21260125)
-**Elena A. Lapteva, Olga N. Kharevich, Victoria V. Khatsko, Natalia A. Voronova et al.** · 2021-07-08
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background Lower respiratory tract (LRT) involvement, observed in about 20% of patients suffering from coronavirus disease 2019 (COVID-19) is associated with a more severe clinical course, adverse outcomes and long-term sequelae. Early identification of LRT involvement could facilitated targeted and timely interventions that could alter the short- and long-term disease outcomes. The LungPass is an automated lung sound analysis platform developed using neural network technology and previously trained. We hypothesised that the LungPass could be used as a screening tool for LRT involvement in patients with COVID-19. Methods In a prospective observational study involving 282 individuals with presenting in the emergency department with a strong clinical suspicion of COVID-19 and imaging findings consistent with COVID-19 LRT involvement (25.5% had concomitant hypoxia), and 32 healthy controls, we assessed the sensitivity and specificity of the LungPass in identifying LRT involvement in COVID-19. We also compared the auscultatory findings of the LungPass compared to a chest physician using a traditional, high-quality stethoscope. Results Among individuals with COVID-19 LRT involvement, the LungPass identified crackles in at least one auscultation site in 93.6% and in two or more points in 84%. Moreover, the LungPass identified any abnormal lung sound (crackles or wheeze) in at least one auscultation site in 98.6% and in at least two points in 94% of the participants. The respective percentages for the respiratory physicians were lower. Considering the presence of any added abnormal sound (crackles or wheeze) in at least two auscultation points as evidence of LRT involvement, LungPass demonstrated a sensitivity of 98.6% (95% confidence intervals [CI]: 96.4%-99.6%) and a specificity of 96.9% (95% CI: 83.8%-99.9%) in identifying COVID-19 LRT involvement. Conclusion This exploratory study suggests the LungPass is a sensitive and specific platform for identifying LRT involvement due to COVID-19, even before the development of hypoxia.
-
-</details>
-
 #### [Microchromosomes are building blocks of bird, reptile and mammal chromosomes](https://doi.org/10.1101/2021.07.06.451394)
 **Paul D. Waters, Hardip R. Patel, Aurora Ruiz-Herrera, Lucía Álvarez-González et al.** · 2021-07-07
 
@@ -11147,16 +9452,6 @@ Abstract Background Lower respiratory tract (LRT) involvement, observed in about
 <summary>Abstract</summary>
 
 Abstract Microchromosomes, once considered unimportant shreds of the chicken genome, are gene rich elements with a high GC content and few transposable elements. Their origin has been debated for decades. We used cytological and whole genome sequence comparisons, and chromosome conformation capture, to trace their origin and fate in genomes of reptiles, birds and mammals. We find that microchromosomes as well as macrochromosomes are highly conserved across birds, and share synteny with single small chromosomes of the chordate amphioxus, attesting to their origin as elements of an ancient animal genome. Turtles and squamates (snakes and lizards) share different subsets of ancestral microchromosomes, having independently lost microchromosomes by fusion with other microchromosomes or macrochromosomes. Patterns of fusions were quite different in different lineages. Cytological observations show that microchromosomes in all lineages are spatially separated into a central compartment at interphase and during mitosis and meiosis. This reflects higher interaction between microchromosomes than with macrochromosomes, as observed by chromosome conformation capture, and suggests some functional coherence. In highly rearranged genomes fused microchromosomes retain most ancestral characteristics, but these may erode over evolutionary time; surprisingly de novo microchromosomes have rapidly adopted high interaction. Some chromosomes of early branching monotreme mammals align to several bird microchromosomes, suggesting multiple microchromosome fusions in a mammalian ancestor. Subsequently multiple rearrangements fueled the extraordinary karyotypic diversity of therian mammals. Thus microchromosomes, far from being aberrant genetic elements, represent fundamental building blocks of amniote chromosomes, and it is mammals, rather than reptiles, that are atypical. Significance Statement Genomes of birds and reptiles, but not mammals, consist of a few large chromosomes and many tiny microchromosomes. Once considered unimportant shreds of the genome, microchromosomes are gene rich and highly conserved among bird and reptiles, and share homology with one or more of the tiny chromosomes of an invertebrate that diverged from the vertebrate lineage 684 million years ago. Microchromosomes interact strongly and crowd together at the centre of cells, suggesting functional coherence. Many microchromosomes have been lost independently in turtles, snakes and lizards as they have fused with each other, or with larger chromosomes. In mammals they have completely disappeared, yet some chromosomes of the basal platypus line up with several microchromosomes, suggesting that they are the building blocks of the atypically variable chromosomes of mammals.
-
-</details>
-
-#### [Behavioral origin of sound-evoked activity in mouse visual cortex](https://doi.org/10.1101/2021.07.01.450721)
-**Célian Bimbard, Timothy PH Sit, Anna Lebedeva, Charu B Reddy et al.** · 2021-07-02
-
-<details>
-<summary>Abstract</summary>
-
-Sensory cortices can be affected by stimuli of multiple modalities and are thus increasingly thought to be multisensory. For instance, primary visual cortex (V1) is influenced not only by images but also by sounds. Here we show that the activity evoked by sounds in V1 is highly stereotyped across neurons and even across mice. It resembles activity measured elsewhere in the brain and is independent of projections from auditory cortex. Its low-dimensional nature starkly contrasts the high dimensional code that V1 uses to represent images. Furthermore, this sound-evoked activity can be precisely predicted by small body movements that are elicited by each sound and are highly stereotyped across trials and across mice. Thus, neural activity that is apparently multisensory may simply arise from low-dimensional signals associated with changes in internal state and behavior.
 
 </details>
 
@@ -11396,10 +9691,6 @@ Abstract The use of passive acoustic monitoring in wildlife ecology has increase
 
 </details>
 
-#### [Acoustic Pattern Recognition Based Digging Detection using Bayesian Network Classifier](https://doi.org/10.17762/TURCOMAT.V12I10.4392)
-**Preetam Suman** · 2021-04-28
-
-
 #### [Rediscovery of Rajah Scops-Owl (Otus brookii brookii) on the island of Borneo](https://doi.org/10.1676/20-50)
 **Emily Card, Courtney E. Check, Andy J. Boyce** · 2021-04-28
 
@@ -11427,26 +9718,6 @@ In what follows I reflect on the foundational place of listening with others in 
 <summary>Abstract</summary>
 
 Identiﬁcation of bird species from audio recordings has been a major area of interest within the ﬁeld of ecological surveillance and biodiversity conservation. Previous studies have successfully identiﬁed bird species from given recordings. However, most of these studies are only adaptive to low-noise acoustic environments and the cases where each recording contains only one bird’s sound simultaneously. In reality, bird audios recorded in the wild often contain overlapping signals, such as bird dawn chorus, which makes audio feature extraction and accurate classiﬁcation extremely difﬁcult. This study is the ﬁrst to focus on ap- plying a blind source separation method to identify all foreground bird species contained in overlapping vocalization recordings. The proposed IVA-Xception model is based on independent vector analysis and convolutional neural network. Experiments on 2020 Bird Sound Recogni- tion in Complex Acoustic Environments competition (BirdCLEF2020) dataset show that this model could achieve a higher macro F1-score and average accuracy compared with state-of-the-art methods.
-
-</details>
-
-#### [Visually-biased perception in cochlear implant users: a study of the McGurk and sound-induced flash illusions](https://doi.org/10.1101/2021.04.09.21254577)
-**Iliza M. Butera, Ryan A. Stevenson, René H. Gifford, Mark T. Wallace** · 2021-04-15
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT The reduction in spectral resolution by cochlear implants oftentimes requires complementary visual speech cues to aid in understanding. Despite substantial clinical characterization of auditory-only speech outcome measures, relatively little is known about the audiovisual integrative abilities that most cochlear implant (CI) users rely on for daily speech comprehension. In this study, we tested audiovisual integration in 63 CI users and 69 normal-hearing (NH) controls using the McGurk and sound-induced flash illusions. This study is the largest to-date measuring the McGurk effect in this population and the first to test the sound-induced flash illusion. When presented with conflicting audiovisual speech stimuli (i.e., the phoneme “ba” dubbed onto the viseme “ga”), we found that 55 CI users (87%) reported a fused percept of “da” or “tha” on at least one trial. However, overall, we found that CI users experienced the McGurk effect less often than controls—a result that was concordant with results with the sound-induced flash illusion where the pairing of a single circle flashing on the screen with multiple beeps resulted in fewer illusory flashes for CI users. While illusion perception in these two tasks appears to be uncorrelated among CI users, we identified a negative correlation in the NH group. Because neither illusion appears to provide further explanation of variability in CI outcome measures, further research is needed to determine how these findings relate to CI users’ speech understanding, particularly in ecological listening conditions that are naturally multisensory.
-
-</details>
-
-#### [Pore dynamics and asymmetric cargo loading in an encapsulin nanocompartment](https://doi.org/10.1101/2021.04.15.439977)
-**Jennifer Ross, Zak McIver, Thomas Lambert, Cecilia Piergentili et al.** · 2021-04-15
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Encapsulins are protein nanocompartments that house various cargo enzymes, including a family of decameric ferritin-like proteins. Here, we study a recombinant Haliangium ochraceum encapsulin:encapsulated ferritin complex using electron cryo-microscopy and hydrogen/deuterium exchange mass spectrometry to gain insight into the structural relationship between the encapsulin shell and its protein cargo. An asymmetric single particle reconstruction reveals four encapsulated ferritin decamers in a tetrahedral arrangement within the encapsulin nanocompartment. This leads to a symmetry mismatch between the protein cargo and the icosahedral encapsulin shell. The encapsulated ferritin decamers are offset from the interior face of the encapsulin shell. Using HDX-MS, we observed dynamic behavior of the major five-fold pore in the encapsulin shell and show the pore opening via the movement of the encapsulin A-domain. These data will accelerate efforts to engineer the encapsulation of heterologous cargo proteins and to alter the permeability of the encapsulin shell via pore modifications. Teaser Cryo-EM and HDX-MS analysis of an encapsulin nanocompartment shows that the pores at the five-fold icosahedral vertex of the shell are flexible.
 
 </details>
 
@@ -11520,18 +9791,6 @@ ABSTRACT Life history theory provides a framework for understanding how trade-of
 
 </details>
 
-#### [Immunosuppression broadens evolutionary pathways to treatment failure during
-                  <i>Acinetobacter baumannii</i>
-                  pneumonia](https://doi.org/10.1101/2021.04.07.438861)
-**Wenwen Huo, Lindsay M. Busch, Juan Hernandez-Bird, Efrat Hamami et al.** · 2021-04-09
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Acinetobacter baumannii is increasingly refractory to antibiotic treatment in healthcare settings. As is true of most human pathogens, the genetic path to antimicrobial resistance (AMR) and the role that the immune system plays in modulating AMR during disease are poorly understood. Here we reproduced several routes to fluoroquinolone resistance, performing evolution experiments using sequential lung infections in mice that are replete or depleted of neutrophils, providing two key insights into the evolution of drug resistance. First, neutropenic hosts acted as reservoirs for the accumulation of drug resistance during drug treatment. Selection for variants with altered drug sensitivity profiles arose readily in the absence of neutrophils, while immunocompetent animals restricted the appearance of these variants. Secondly, antibiotic treatment failure in the immunocompromised host was shown to occur without clinically defined resistance, an unexpected result that provides a model for how antibiotic failure occurs clinically in the absence of AMR. The genetic mechanism underlying both these results is initiated by mutations activating the drug egress pump regulator AdeL, which drives persistence in the presence of antibiotic. Therefore, antibiotic persistence mutations present a two-pronged risk during disease, causing drug treatment failure in the immunocompromised host while simultaneously increasing the emergence of high-level AMR.
-
-</details>
-
 #### [Assessment of cue counting for estimating bird density using passive acoustic monitoring: recommendations for estimating a reliable cue rate](http://www.ace-eco.org/vol16/iss1/art11/ACE-ECO-2021-1801.pdf)
 **C. Pérez‐Granados, A. Barrero, J. Traba, D. B. L. Rosa et al.** · 2021-04-06
 
@@ -11550,28 +9809,6 @@ Cue counting is a method developed for estimating vocally active wildlife densit
 <summary>Abstract</summary>
 
 Abstract The study of domestication contributes to our knowledge of evolution and crop genetic resources. Human selection has shaped wild Brassica rapa into diverse turnip, leafy, and oilseed crops. Despite its worldwide economic importance and potential as a model for understanding diversification under domestication, insights into the number of domestication events and initial crop(s) domesticated in B. rapa have been limited due to a lack of clarity about the wild or feral status of conspecific non-crop relatives. To address this gap and reconstruct the domestication history of B. rapa , we analyzed 68,468 genotyping-by-sequencing-derived SNPs for 416 samples in the largest diversity panel of domesticated and weedy B. rapa to date. To further understand the center of origin, we modeled the potential range of wild B. rapa during the mid-Holocene. Our analyses of genetic diversity across B. rapa morphotypes suggest that non-crop samples from the Caucasus, Siberia, and Italy may be truly wild, while those occurring in the Americas and much of Europe are feral. Clustering, tree-based analyses, and parameterized demographic inference further indicate that turnips were likely the first crop type domesticated, from which leafy types in East Asia and Europe were selected from distinct lineages. These findings clarify the domestication history and nature of wild crop genetic resources for B. rapa , which provides the first step toward investigating cases of possible parallel selection, the domestication and feralization syndrome, and novel germplasm for Brassica crop improvement.
-
-</details>
-
-#### [Egocentric Biases are Determined by the Precision of Self-related Predictions](https://doi.org/10.1101/2021.04.02.437869)
-**Leora Sevi, Mirta Stantic, Jennifer Murphy, Michel-Pierre Coll et al.** · 2021-04-04
-
-<details>
-<summary>Abstract</summary>
-
-Abstract According to predictive processing theories, emotional inference involves simultaneously minimising discrepancies between predictions and sensory data relating to both one’s own and others’ states, achievable by altering either one’s own state (empathy) or perception of another’s state (egocentric bias) so they are more congruent. We tested a key hypothesis of these accounts, that predictions are weighted in inference according to their precision (inverse variance). If correct, more precise self-related predictions should bias perception of another’s emotional expression to a greater extent than less precise predictions. We manipulated predictions about upcoming own-pain (low or high magnitude) using cues that afforded either precise (a narrow range of possible magnitudes) or imprecise (a wide range) predictions. Participants judged pained facial expressions presented concurrently with own-pain to be more intense when own-pain was greater, and precise cues increased this biasing effect. Implications of conceptualising interpersonal influence in terms of predictive processing are discussed.
-
-</details>
-
-#### [Technical advances in the development of zonation liver
-                  <i>in vitro</i>
-                  systems that incorporate localized Wnt activating signals](https://doi.org/10.1101/2021.04.01.438073)
-**Eider Valle-Encinas, Michael Dawes, Carmen Velasco Martinez, Kate McSweeney et al.** · 2021-04-03
-
-<details>
-<summary>Abstract</summary>
-
-Abstract A Wnt microenvironment sustained by the hepatic central vein is essential for the segregation of liver functions into zones. Current liver culture systems lack localized Wnt cues and as a consequence fail to maintain the hepatocyte functional heterogeneity that is observed in the intact organ. In this study, organoid models and 2D-culture systems were used to identify cellular sources and Wnt presentation methods that could support the future development of zonated liver in vitro systems. Using soluble ligands, we show that primary hepatocyte (PH)-derived organoids but not bile duct (BD)-derived organoids may be used to recapitulate the resting liver. We provide evidence that differentiation of PH-organoids in the presence of Wnt9b and Rspo3 induce pericentral maturation. Finally, we show that immobilization of Rspo3 onto beads in combination with soluble Wnt9b may be a valid strategy to recreate the central vein Wnt microenvironment in vitro .
 
 </details>
 
@@ -11627,16 +9864,6 @@ Summary Birdsong is an important signal in mate attraction and territorial defen
 
 </details>
 
-#### [Memory specific to temporal features of sound is formed by cue-selective enhancements in temporal coding enabled by inhibition of an epigenetic regulator](https://doi.org/10.1101/2021.03.31.437889)
-**Elena K. Rotondo, Kasia M. Bieszczad** · 2021-03-31
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Recent investigation of memory-related functions in the auditory system have capitalized on the use of memory-modulating molecules to probe the relationship between memory and its substrates in auditory system coding. For example, epigenetic mechanisms, which regulate gene expression necessary for memory consolidation, are powerful modulators of learning-induced neuroplasticity and long-term memory formation (LTM). Inhibition of the epigenetic regulator histone deacetylase 3 (HDAC3) promotes LTM that is highly specific for spectral features of sound. The present work demonstrates for the first time that HDAC3 inhibition also enables memory for temporal features of sound. Rats trained in an amplitude modulation (AM) rate discrimination task and treated with a selective inhibitor of HDAC3 formed memory that was unusually specific to the AM rate paired with reward. Unusually sound-specific memory revealed behaviorally was associated with a signal-specific enhancement in temporal coding in the auditory system: stronger phase-locking that was specific to the rewarded AM rate was revealed in both the surface-recorded frequency following response (FFR) and auditory cortical multiunit activity in rats treated with the HDAC3-inhibitor. Furthermore, HDAC3inhibition increased trial-to-trial cortical response consistency (relative to naïve and trained vehicle-treated rats) that generalized across different AM rates. Stronger signal-specific phase-locking correlated with individual behavioral differences in memory specificity for the AM signal. Together, these findings support that epigenetic mechanisms regulate activity-dependent processes that enhance discriminability of sensory cues encoded into LTM in both spectral and temporal domains, which may be important for remembering spectrotemporal features of sounds, e.g., as in human voices and speech. SIGNIFICANCE STATEMENT Epigenetic mechanisms have recently been implicated in memory and information processing. Here, we use a pharmacological inhibitor of histone deacetylase 3 (HDAC3) in a sensory model of learning to reveal, for the first time, its ability to enable unusually precise memory for amplitude modulated sound cues. In so doing, we uncover neural substrates for memory’s “specificity” for temporal sound cues. Memory specificity was supported by auditory cortical changes in temporal coding, including greater response consistency and stronger phase-locking. HDAC3 appears to regulate effects across domains that determine specific cue saliency for behavior. Thus, epigenetic players may gate how sensory information is stored in long-term memory and can be leveraged to reveal the neural substrates of sensory details stored in memory.
-
-</details>
-
 #### [Mismatch between bird species sensitivity and the protection of intact habitats across the Americas](https://doi.org/10.1101/2021.03.28.437197)
 **Victor Cazalis, Megan D. Barnes, Alison Johnston, James E.M. Watson et al.** · 2021-03-29
 
@@ -11684,36 +9911,6 @@ Detecting presence and inferring absence are both critical in species monitoring
 <summary>Abstract</summary>
 
 Abstract Vocal communication is an essential behavior in mammals and is relevant to human neurodevelopmental conditions. Mice produce communicative vocalizations, known as ultrasonic vocalizations (USVs), that can be recorded with various programs. The Mouse Song Analyzer is an automated analysis system, while DeepSqueak is a semi-automated system. We used data from C57BL/6J, FVB.129, and FVB mice to compare whether the DeepSqueak and Mouse Song Analyzer systems measure a similar total number, duration, and fundamental frequency of USVs. We found that the two systems detected a similar quantity of USVs for FVB.129 mice ( r = .90, p &lt; .001), but displayed lower correlations for C57BL/6J ( r = .76, p &lt; .001) and FVB mice ( r = .60, p &lt; .001). We also found that DeepSqueak detected significantly more USVs for C57BL/6J mice than the Mouse Song Analyzer. The two systems detected a similar duration of USVs for C57BL/6J ( r = .82, p &lt; .001), but lower correlations for FVB.129 ( r = .13, p &lt; .001) and FVB mice ( r = .51, p &lt; .01) were found, with DeepSqueak detecting significantly more USVs per each strain. We found lower than acceptable correlations for fundamental frequency in C57BL/6J ( r = .54, p &lt; .01), FVB.129 ( r = .76, p &lt; .001), and FVB mice ( r = .07, p = .76), with the Mouse Song Analyzer detecting a significantly higher fundamental frequency for FVB.129 mice. These findings demonstrate that the strain of mouse used significantly affects the number, duration, and fundamental frequency of USVs that are detected between programs. Overall, we found that DeepSqueak is more accurate than the Mouse Song Analyzer.
-
-</details>
-
-#### [Post-stroke fatigue is linked to resting state posterior hypoactivity and prefrontal hyperactivity](https://doi.org/10.1101/2021.03.17.21253777)
-**Georgia Cotter, Mohamed Salah Khlif, Laura Bird, Mark E Howard et al.** · 2021-03-17
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background and Purpose Fatigue is associated with poor functional outcomes and increased mortality following stroke. Survivors identify fatigue as one of their key unmet needs. Despite the growing body of research into post-stroke fatigue, the specific neural mechanisms remain largely unknown. Methods This observational study included 63 stroke survivors (22 women; age 30-89 years; mean 67.5±13.4 years) from the Cognition And Neocortical Volume After Stroke (CANVAS) study, a cohort study examining cognition, mood, and brain volume in stroke survivors following ischaemic stroke. Participants underwent brain imaging 3 months post-stroke, including a 7-minute resting state fMRI echoplanar sequence. We calculated the fractional amplitude of low-frequency fluctuations, a measure of resting state brain activity at the whole-brain level. Results Forty-five participants reported experiencing post-stroke fatigue as measured by an item on the Patient Health Questionnaire-9. A generalised linear regression model analysis with age, sex, and stroke severity covariates was conducted to compare resting state brain activity in the 0.01-0.08 Hz range, as well as its subcomponents - slow-5 (0.01-0.027 Hz), and slow-4 (0.027-0.073 Hz) frequency bands between fatigued and non-fatigued participants. We found no significant associations between post-stroke fatigue and ischaemic stroke lesion location or stroke volume. However, in the overall 0.01-0.08 Hz band, participants with post-stroke fatigue demonstrated significantly lower resting-state activity in the calcarine cortex (p&lt;0.001, cluster-corrected p FDR =0.009, k=63) and lingual gyrus (p&lt;0.001, cluster-corrected p FDR =0.025, k=42) and significantly higher activity in the medial prefrontal cortex (p&lt;0.001, cluster-corrected p FDR =0.03, k=45), attributed to slow-4 and slow-5 oscillations, respectively. Conclusions Post-stroke fatigue is associated with posterior hypoactivity and prefrontal hyperactivity, reflecting dysfunction within large-scale brain systems such as fronto-striatal-thalamic and frontal-occipital networks. These systems in turn might reflect a relationship between post-stroke fatigue and abnormalities in executive and visual functioning. This first whole-brain resting-state study provides new targets for further investigation of post-stroke fatigue beyond the lesion approach.
-
-</details>
-
-#### [An inconvenient association between granzyme A and Nicotinamide Nucleotide Transhydrogenase](https://doi.org/10.1101/2021.03.16.435730)
-**Daniel J. Rawle, Thuy T. Le, Troy Dumenil, Cameron Bishop et al.** · 2021-03-17
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Granzyme A (GzmA) is a serine protease secreted by cytotoxic lymphocytes, with GzmA -/- mouse studies informing our understanding of GzmA’s physiological function. We show herein that GzmA -/- mice have a mixed C57BL/6J and C57BL/6N background and retain the full length Nicotinamide Nucleotide Transhydrogenase ( Nnt ) gene, whereas Nnt is truncated in C57BL/6J mice. Chikungunya viral arthritis was substantially ameliorated in GzmA -/- mice; however, the presence of Nnt , rather than loss of GzmA, was responsible for this phenotype by constraining lymphocyte infiltration. A new CRISPR active site mutant C57BL/6J GzmA S211A mouse provided the first insights into GzmA’s bioactivity free of background issues, with circulating proteolytically active GzmA promoting immune-stimulating and pro-inflammatory signatures. Remarkably, k-mer mining of the Sequence Read Archive illustrated that ≈27% of Run Accessions and ≈38% of Bioprojects listing C57BL/6J as the mouse strain, had Nnt sequencing reads inconsistent with a C57BL/6J background. The Nnt issue has clearly complicated our understanding of GzmA and may similarly have influenced studies across a broad range of fields.
-
-</details>
-
-#### [Sound-location specific alpha power modulation in the visual cortex in absence of visual input](https://doi.org/10.1101/2021.03.15.435371)
-**Tzvetan Popov, Nicolas Langer, Bart Gips, Nathan Weisz et al.** · 2021-03-15
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The existence of a cortical “attentional filter” in the form of spatially selective modulation of alpha power (8-14 Hz) is a dominating hypothesis in electrophysiological studies. During auditory spatial attention hemipsheric lateralized posterior alpha modulations have been reported leading to the generalization of this hypothesis. Typically, this pattern is interpreted as reflecting a top-down endogenous mechanism for suppressing distracting input from unattended directions of sound origin. The present study on auditory spatial attention rejects this interpretation by demonstrating that alpha power modulation is closely linked to oculomotor action. Towards this end, we designed an auditory paradigm in which participants were required to attend to upcoming sounds from one of 24 loudspeakers arranged in a horizontal circular array around the head. Maintaining the location of an auditory cue was associated with a topographically modulated distribution of posterior alpha power resembling the findings known from visual attention. Multivariate analyses allowed the prediction of the sound location in the horizontal plane. Importantly, this prediction was also possible, when derived from signals capturing saccadic activity. Using eye tracking, two control experiments on visual (N=122) and auditory (N=10) spatial working memory confirmed that, in absence of any visual/auditory input, lateralization of alpha power is linked to lateralized gaze direction (± 3° visual angle). Attending to an auditory stimulus engages oculomotor and visual circuits in a topographic manner akin to the retinotopic organization in vision. We conclude that allocation of spatial attention is not sufficient to account for alpha lateralization without consideration of gaze control.
 
 </details>
 
@@ -11853,16 +10050,6 @@ Abstract Mice are a widely used pre-clinical model system in large part due to t
 
 </details>
 
-#### [A Neural Signature of Regularity in Sound is Reduced in Older Adults](https://doi.org/10.1101/2021.02.18.431898)
-**Björn Herrmann, Burkhard Maess, Ingrid S. Johnsrude** · 2021-02-18
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sensitivity to repetitions in sound amplitude and frequency is crucial for sound perception. As with other aspects of sound processing, sensitivity to such patterns may change with age, and may help explain some age-related changes in hearing such as segregating speech from background sound. We recorded magnetoencephalography to characterize differences in the processing of sound patterns between younger and older adults. We presented tone sequences that either contained a pattern (made of a repeated set of tones) or did not contain a pattern. We show that auditory cortex in older, compared to younger, adults is hyperresponsive to sound onsets, but that sustained neural activity in auditory cortex, indexing the processing of a sound pattern, is reduced. Hence, the sensitivity of neural populations in auditory cortex fundamentally differs between younger and older individuals, overresponding to sound onsets, while underresponding to patterns in sounds. This may help to explain some age-related changes in hearing such as increased sensitivity to distracting sounds and difficulties tracking speech in the presence of other sound.
-
-</details>
-
 #### [Hot days are associated with short-term adrenocortical responses in a Southern African arid-zone passerine bird](https://doi.org/10.1101/2021.02.17.431578)
 **Lesedi L. Moagi, Amanda R. Bourne, Susan J. Cunningham, Ray Jansen et al.** · 2021-02-18
 
@@ -11883,16 +10070,6 @@ This paper focuses on a core task in computational sustainability and statistica
 
 </details>
 
-#### [The Serine Protease HtrA2 mediates radiation-induced senescence in cancer cells](https://doi.org/10.1101/2021.02.17.431668)
-**Liat Hammer, Vered Levin-Salomon, Naama Yaeli-Slonim, Moria Weiss et al.** · 2021-02-17
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Radiation therapy can induce cellular senescence in cancer cells leading to short-term tumor growth arrest, yet increased long-term recurrence. To better understand the molecular mechanisms involved, we developed a model of radiation-induced senescence in cultured cancer cells, which exhibited a typical senescent phenotype, including upregulation of p53 and its target p21, followed by sustained reduction in cellular proliferation, changes in cell size and cytoskeleton organization, and senescence-associated beta-galactosidase activity. A functional siRNA screen using a cell death-related library identified the mitochondrial Ser protease HtrA2 as necessary for senescence development. Mass spectrometry-based proteomic profiling of the senescent cells indicated downregulation of proteins involved in cell cycle progression and DNA repair, and upregulation of proteins associated with malignancy, while irradiation with HtrA2 inhibition upregulated cell proliferation components. In search of direct HtrA2 substrates following radiation, we determined that HtrA2 cleaves the intermediate filament protein vimentin, affecting its cytoplasmic organization. Ectopic expression of active cytosolic HtrA2 resulted in similar changes to vimentin filament assembly. Thus HtrA2, contributes to several hallmarks of senescence and is involved in the cytoskeletal reorganization that accompanies radiation-induced senescence. Summary Here the authors identify the Ser protease HtrA2 as a novel mediator of radiation-induced senescence, necessary for sustained proliferation arrest and reorganization of the vimentin filament network.
-
-</details>
-
 #### [Automated detection of frog calls and choruses by pulse repetition rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8518090)
 **Sam Lapp, Tianhao Wu, C. Richards‐Zawacki, J. Voyles et al.** · 2021-02-14
 
@@ -11903,26 +10080,6 @@ Anurans (frogs and toads) are among the most globally threatened taxonomic group
 
 </details>
 
-#### [Separate functional subnetworks of excitatory neurons show preference to periodic and random sound structures](https://doi.org/10.1101/2021.02.13.431077)
-**Muneshwar Mehra, Adarsh Mukesh, Sharba Bandyopadhyay** · 2021-02-14
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Auditory cortex (ACX) neurons are sensitive to spectro-temporal sound patterns and violations in patterns induced by rare stimuli embedded within streams of sounds. We investigate the auditory cortical representation of repeated presentations of sequences of sounds with standard stimuli (common) with an embedded deviant (rare) stimulus in two conditions – Periodic (Fixed deviant position) or Random (Random deviant position), using extracellular single-unit and 2-photon Ca +2 imaging recordings in Layer 2/3 neurons of the mouse ACX. In the population average, responses increased over repetitions in the Random-condition and were suppressed or did not change in the Periodic-condition, showing irregularity preference. A subset of neurons also showed the opposite behavior, indicating regularity preference. Pairwise noise correlations were higher in Random-condition over Periodic-condition, suggesting the role of recurrent connections. 2-photon Ca +2 imaging of excitatory (EX) and parvalbumin-positive (PV) and somatostatin-positive (SOM) inhibitory neurons, showed different categories of adaptation or change in response over repetitions (categorized by the sign of the slope of change) as observed with single units. However, the examination of functional connectivity between pairs of neurons of different categories showed that EX-PV connections behaved opposite to the EX-EX and EX-SOM pairs that show more functional connections outside category in Random-condition than Periodic-condition. Finally considering Regularity preference, Irregularity preference and no preference categories, showed that EX-EX and EX-SOM connections to be in largely separate functional subnetworks with the different preferences, while EX-PV connections were more spread. Thus separate subnetworks could underly the coding of periodic and random sound sequences. Significance Statement Studying how the ACX neurons respond to streams of sound sequences help us understand the importance of changes in dynamic acoustic noisy scenes around us. Humans and animals are sensitive to regularity and its violations in sound sequences. Psychophysical tasks in humans show that auditory brain differentially responds to periodic and random structures, independent of the listener’s attentional states. Here we show that mouse ACX L2/3 neurons detect a change and respond differentially to changing patterns over long-time scales. The differential functional connectivity profile obtained in response to two different sound contexts, suggest the stronger role of recurrent connections in the auditory cortical network. Furthermore, the excitatory-inhibitory neuronal interactions can contribute to detecting the changing sound patterns.
-
-</details>
-
-#### [Evaluating Sleep Disturbances in Children with Rare Genetic Neurodevelopmental Syndromes](https://doi.org/10.1101/2021.02.12.430633)
-**Olivia J. Veatch, Beth A. Malow, Hye-Seung Lee, Aryn Knight et al.** · 2021-02-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background Adequate sleep is important for proper neurodevelopment and positive health outcomes. Sleep disturbances are more prevalent in children with genetically determined neurodevelopmental syndromes compared to typically developing counterparts. We characterize sleep behavior in Rett (RTT), Angelman (AS) and Prader-Willi (PWS) syndromes in order to identify effective approaches for treating sleep problems in these populations. We compared sleep-related symptoms across individuals with these different syndromes to each other, and to typically developing controls. Methods Children were recruited from the Rare Diseases Clinical Research Network (RDCRN) consortium registries; unaffected siblings were enrolled as related controls. For each participant, a parent completed multiple sleep questionnaires including: Pediatric Sleep Questionnaire (Sleep-Disordered Breathing [SDB]); Children’s Sleep Habits Questionnaire; Pediatric Daytime Sleepiness Scale. Results Sleep data were analyzed from 714 participants, ages 2-18 years. Young children with AS had more reported sleep problems than children with RTT or PWS. Older children with RTT had more reported daytime sleepiness than those with AS or PWS. Finally, all individuals with RTT had more evidence of sleep-disordered breathing when compared to individuals with PWS. Notably, typically developing siblings were also reported to have sleep problems, except for sleep-related breathing disturbances which were associated with each of the genetic syndromes. Conclusions Individuals with RTT, AS and PWS frequently experience sleep problems, including sleep-disordered breathing. Screening for sleep problems in individuals with these and other neurogenetic disorders should be included in clinical assessment and managements. These data may also be useful in developing treatment strategies and in clinical trials.
-
-</details>
-
 #### [Testing for parallel genomic and epigenomic footprints of adaptation to urban life in a passerine bird](https://doi.org/10.1101/2021.02.10.430452)
 **Aude E. Caizergues, Jeremy Le Luyer, Arnaud Grégoire, Marta Szulkin et al.** · 2021-02-10
 
@@ -11930,16 +10087,6 @@ Abstract Background Adequate sleep is important for proper neurodevelopment and 
 <summary>Abstract</summary>
 
 Abstract Identifying the molecular mechanisms involved in rapid adaptation to novel environments and determining their predictability are central questions in Evolutionary Biology and pressing issues due to rapid global changes. Complementary to genetic responses to selection, faster epigenetic variations such as modifications of DNA methylation may play a substantial role in rapid adaptation. In the context of rampant urbanization, joint examinations of genomic and epigenomic mechanisms are still lacking. Here, we investigated genomic (SNP) and epigenomic (CpG methylation) responses to urban life in a passerine bird, the Great tit ( Parus major ). To test whether urban evolution is predictable ( i.e parallel) or involves mostly non-parallel molecular processes among cities, we analysed three distinct pairs of city and forest Great tit populations across Europe. Results reveal a polygenic response to urban life, with both many genes putatively under weak divergent selection and multiple differentially methylated regions (DMRs) between forest and city great tits. DMRs mainly overlapped transcription start sites and promotor regions, suggesting their importance in the modulation gene expression. Both genomic and epigenomic outliers were found in genomic regions enriched for genes with biological functions related to nervous system, immunity, behaviour, hormonal and stress responses. Interestingly, comparisons across the three pairs of city-forest populations suggested little parallelism in both genetic and epigenetic responses. Our results confirm, at both the genetic and epigenetic levels, hypotheses of polygenic and largely non-parallel mechanisms of rapid adaptation in new environments such as urbanized areas.
-
-</details>
-
-#### [CCG•CGG interruptions in high penetrance SCA8 families increase RAN translation and protein toxicity](https://doi.org/10.1101/2021.02.08.430311)
-**Barbara A. Perez, Hannah K. Shorrock, Monica Banez-Coronel, Lauren A. Laboissonniere et al.** · 2021-02-10
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Spinocerebellar ataxia type 8 (SCA8), a dominantly inherited neurodegenerative disorder caused by a CTG•CAG expansion, is unusual because most individuals that carry the mutation do not develop ataxia. To understand the variable penetrance of SCA8 we studied the molecular differences between highly penetrant families and more common sporadic cases (82%) using a large cohort of SCA8 families (N=77). We show that repeat expansion mutations from individuals with two or more affected family members have CCG•CGG interruptions at a higher frequency than sporadic SCA8 cases and that the number of CCG•CGG interruptions correlates with age at onset. At the molecular level, CCG•CGG interruptions increase RNA hairpin stability and steady state levels of SCA8 RAN polyAla and polySer proteins. Additionally, the CCG•CGG interruptions, which encode arginine interruptions in the polyGln frame increase the toxicity of the resulting proteins. In summary, CCG•CGG interruptions increase polyAla and polySer RAN protein levels, polyGln protein toxicity and disease penetrance and provide novel insight into the molecular differences between SCA8 families with high vs. low disease penetrance.
 
 </details>
 
@@ -12037,37 +10184,6 @@ Bird communities in lowland Neotropical forests exhibit temporal and spatial var
 **Guilherme Sementili-Cardoso, R. J. Donatelli** · 2021-01-11
 
 
-#### [Vulnerabilities in child wellbeing among primary school children: a cross-sectional study in Bradford, UK](https://doi.org/10.1101/2021.01.10.21249538)
-**Kate E Pickett, Mildred Ajebon, Bo Hou, Brian Kelly et al.** · 2021-01-11
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Objective To describe the prevalence of factors related to wellbeing among primary school children in a deprived multi-ethnic community. Design and participants Cross-sectional survey of 15,641 children aged 7-10 years in Born in Bradford’s Primary School Years study: whole-classroom samples in 89 Bradford primary schools between 2016 and 2019. Main outcome measures Prevalence estimates by ethnicity (%, 95% CI) of single and multiple vulnerabilities in child wellbeing within and across four domains (home, family, relationships; material resources; friends and school; subjective wellbeing). Results Only 10% of children have no vulnerabilities in any domain of wellbeing; 10% have one or more vulnerabilities in all four domains. The highest prevalence estimates were for being bullied some or all of the time (52.7%, 51.9 to 53.4%), keeping worries to oneself (31.2%, 30.5 to 31.9%), having no park near home (30.8%, 30.1 to 31.5%) and worrying all the time about how much money their family has (26.3%, 25.6 to 27%). Boys were consistently significantly more likely than girls to report all of the vulnerabilities in the Home, Family and Family Relationships domain, and the majority of indicators in the other domains, and in all domains except Friends and School, boys were significantly more likely to have at least one vulnerability. Girls were significantly more likely to report not having many friends (16.7%, 95% CI: 15.9 to 17.6% vs. 12.5%, 95% CI: 11.8 to 13.2%), being bullied some or all of the time (55.8%, 95% CI: 54.7 to 56.9% vs. 49.7%, 95% CI: 48.6 to 50.8%) and feeling left out all the time (12.1%, 95% CI: 11.4 to 12.8%) vs. 10.3%, 95% CI: 9.7 to 11.0%). Variations in vulnerabilities by ethnicity were complex, with children in Black, Asian and Minority Ethnic groups sometimes reporting more vulnerabilities and sometimes fewer than White British children. For example, compared to children of Pakistani heritage, White British children were more likely to say that their family never gets along well (6.3%,5.6 to 7.1% vs. 4.1%,3.6 to 4.6%) and to have no access to the internet at home (22.3%,21 to 23.6% vs. 18%,17 to 18.9%). Children with Pakistani heritage were more likely than White British children to say they had no park near their home where they can play with friends (32.7%,31.6 to 33.9% vs. 29.9%,28.6 to 31.3%), to report not having three meals a day (17.9%,16.9 to 18.8% vs. 11.9%,10.9 to 12.9%) and to worry all the time about how much money their families have (29.3%,28.2 to 30.3%) vs. 21.6%,20.4 to 22.9%). Gypsy/Irish Traveller children were less likely than White British children to say they were bullied some or all of the time (42.2%,35.4 to 49.4% vs. 53.8%,52.3 to 55.3%), but more likely to say they were mean to others all the time (9.9%,6.3 to 15.2% vs. 4%,3.5 to 4.7%) and can never work out what to do when things are hard (15.2%,10.6 to 21.2% vs. 9%, 8.2 to 9.9%). We considered six vulnerabilities to be of particular concern during the current Covid-19 pandemic and associated national and local lockdowns: family never gets along well together; no garden where child can play; no nearby park where they can play; not having 3 meals a day; no internet at home; worried about money all the time. Pre-pandemic, 37.4% (36.6 to 38.3%) of Bradford children had one of these vulnerabilities and a further 29.6% (28.9 to 30.4%) had more than one. Conclusions Although most primary school children aged 7-10 in our study have good levels of wellbeing on most indicators across multiple domains, fewer than 10% have no vulnerabilities at all, a worrying 10% have at least one vulnerability in all the four domains we studied and two thirds have vulnerabilities of concern during the Covid-19 lockdowns.
-
-</details>
-
-#### [Determining the pathogenicity of variants of uncertain significance and identification of a founder variant in the epilepsy-associated gene,
-                  <i>SZT2</i>](https://doi.org/10.1101/2021.01.06.425612)
-**Jeffrey D Calhoun, Miriam C Aziz, Hannah C Happ, Jonathan Gunti et al.** · 2021-01-07
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Biallelic pathogenic variants in SZT2 result in a neurodevelopmental disorder with shared features, including early-onset epilepsy, developmental delay, macrocephaly, and corpus callosum abnormalities. SZT2 is as a critical scaffolding protein in the amino acid sensing arm of the mTOR signaling pathway. Due to its large size (3432 amino acids), lack of crystal structure, and absence of functional domains, it is difficult to determine the pathogenicity of SZT2 missense and in-frame deletions. We report a cohort of twelve individuals with biallelic SZT2 variants and phenotypes consistent with SZT2 -related neurodevelopmental disorder. The majority of this cohort contained one or more SZT2 variants of uncertain significance (VUS). We developed a novel individualized platform to functionally characterize SZT2 VUSs. We identified a recurrent in-frame deletion (SZT2 p.Val1984del) which was determined to be a loss-of-function variant and therefore likely pathogenic. Haplotype analysis determined this single in-frame deletion is a founder variant in those of Ashkenazi Jewish ancestry. Overall, we present a FACS-based rapid assay to distinguish pathogenic variants from VUSs in SZT2 , using an approach that is widely applicable to other mTORopathies including the most common causes of the focal genetic epilepsies, DEPDC5, TSC1/2, MTOR and NPRL2 /3.
-
-</details>
-
-#### [A New Sensory Skill Shows Automaticity and Integration Features in Multisensory Interactions](https://doi.org/10.1101/2021.01.05.425430)
-**James Negen, Laura-Ashleigh Bird, Heather Slater, Lore Thaler et al.** · 2021-01-06
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT People can learn new sensory skills that augment their perception, such as human echolocation. However, it is not clear to what extent these can become an integral part of the perceptual repertoire. Can they show automatic use, integrated with the other senses, or do they remain cognitively-demanding, cumbersome, and separate? Here, participants learned to judge distance using an echo-like auditory cue. We show that use of this new skill met three key criteria for automaticity and sensory integration: (1) enhancing the speed of perceptual decisions; (2) processing through a non-verbal route and (3) integration with vision in an efficient, Bayes-like manner. We also show some limits following short training: integration was less-than-optimal, and there was no mandatory fusion of signals. These results demonstrate key ways in which new sensory skills can become automatic and integrated, and suggest that sensory augmentation systems may have benefits beyond current applications for sensory loss.
-
-</details>
-
 #### [Overview of BirdCLEF 2021: Bird call identification in soundscape recordings](https://www.semanticscholar.org/paper/7dd73464e3d3dd1f791b4ba3f90c608c051a5699)
 **Stefan Kahl, Tom Denton, H. Klinck, H. Glotin et al.** · 2021-01-01
 
@@ -12097,10 +10213,6 @@ ABSTRACT People can learn new sensory skills that augment their perception, such
 In this study, the improved Dynamic Time Warping (DTW) algorithm is used in MATLAB to perform simulation classification and recognition simulation on the sounds of Nycticorax nycticorax and other 10 birds in the Wuzhishan Islands Reserve in Zhoushan, Zhejiang. By setting the slope of the path, the path is restricted in a fixed parallelogram. The algorithm combines with global restrictions can effectively speed up the path search, reduce the amount of calculation, reduce the memory requirements, reduce the recognition time, and thus improve the recognition efficiency. Experimental results show that compared with the traditional DTW algorithm, the improved DTW algorithm increases the recognition speed by 36.49%, the accuracy rate by 4.08%, and the recognition efficiency is greatly improved.
 
 </details>
-
-#### [Oral session for the prize of young researchers](https://www.semanticscholar.org/paper/cd429a9f0cefd93c0d16a4b283952acf19c57680)
-**Azumi Someya, Hyangsun Chin, H. Takayama, Midori Ohkita et al.** · 2021-01-01
-
 
 #### [BirdNET: A deep learning solution for avian diversity monitoring](https://doi.org/10.1016/j.ecoinf.2021.101236)
 **Stefan Kahl, Connor M. Wood, Maximilian Eibl, H. Klinck** · 2021-01-01
@@ -12213,16 +10325,6 @@ In this paper, a comprehensive review of poultry health monitoring using Interne
 
 </details>
 
-#### [Sparse Coding in Temporal Association Cortex Improves Complex Sound Discriminability](https://doi.org/10.1101/2020.12.09.417303)
-**L Feigin, G Tasaka, I Maor, A Mizrahi** · 2020-12-10
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The mouse auditory cortex is comprised of several auditory fields spanning the dorso-ventral axis of the temporal lobe. The ventral most auditory field is the temporal association cortex (TeA), which remains largely unstudied. Using Neuropixels probes, we simultaneously recorded from primary auditory cortex (AUDp), secondary auditory cortex (AUDv) and TeA, characterizing neuronal responses to pure tones and frequency modulated (FM) sweeps in awake head-restrained mice. As compared to primary and secondary auditory cortices, single unit responses to pure tones in TeA were sparser, delayed and prolonged. Responses to FMs were also sparser. Population analysis showed that the sparser responses in TeA render it less sensitive to pure tones, yet more sensitive to FMs. When characterizing responses to pure tones under anesthesia, the distinct signature of TeA was changed considerably as compared to that in awake mice, implying that responses in TeA are strongly modulated by non-feedforward connections. Together with the known connectivity profile of TeA, these findings suggest that sparse representation of sounds in TeA supports selectivity to higher-order features of sounds and more complex auditory computations.
-
-</details>
-
 #### [Duck, duck, goose: Benchmark bird surveys help quantify counting errors and bias in a citizen-science database](https://doi.org/10.1101/2020.12.09.418145)
 **W. Douglas Robinson, Tyler A. Hallman, Rebecca A. Hutchinson** · 2020-12-10
 
@@ -12240,16 +10342,6 @@ Abstract The growth of biodiversity data sets generated by citizen scientists co
 <summary>Abstract</summary>
 
 Abstract Pollutants, such as toxic metals, negatively influence organismal health and performance, even leading to population collapses. Studies in model organisms have shown that epigenetic marks, such as DNA methylation, can be modulated by various environmental factors, including pollutants, influencing gene expression and various organismal traits. Yet experimental data on the effects of pollution on DNA methylation from wild animal populations is largely lacking. We here experimentally investigated for the first time the effects of early-life exposure to environmentally relevant levels of a key pollutant, arsenic (As), on genome-wide DNA methylation in a wild bird population. We experimentally exposed nestlings of great tits ( Parus major ) to arsenic during their post-natal developmental period (3 to 14 days post-hatching) and compared their erythrocyte DNA methylation levels to those of respective controls. In contrast to predictions, we found no overall hypomethylation in the arsenic group. We found evidence for loci to be differentially methylated between the treatment groups, but for five CpG sites only. Three of the sites were located in gene bodies of zinc finger and BTB domain containing 47 ( ZBTB47 ), HIVEP zinc finger 3 ( HIVEP3 ) and insulin like growth factor 2 mRNA binding protein 1 ( IGF2BP1 ). Further studies are needed to evaluate whether epigenetic dysregulation is a commonly observed phenomena in polluted populations, and what the consequences are for organism functioning and for population dynamics.
-
-</details>
-
-#### [Absent expansion of pericentral hepatocytes and altered physiology in Axin2CreERT2 mice](https://doi.org/10.1101/2020.12.09.405936)
-**Stephanie May, Miryam Müller, Callum R Livingstone, George Skalka et al.** · 2020-12-09
-
-<details>
-<summary>Abstract</summary>
-
-Abstract/Introduction Understanding how the liver regenerates is a key biological question. Hepatocytes are the principle regenerative population in the liver. Recently, numerous lineage tracing studies (which apply genetic tagging to a restricted population and track its descendants over time) have reported conflicting results using a variety of hepatocyte based reporting systems in mice 1,2 . The first significant lineage tracing from a distinct subpopulation of hepatocytes in homeostasis reported hyper-proliferation of self-renewing pericentral hepatocytes with their subsequent expansion across the liver lobule 3 . This study used a CreERT2 construct knocked into the endogenous Axin2 locus; here termed Axin2CreERT2. Subsequent studies, using either a different pericentral marker (Lgr5 4 ) or a different AxinCreERT2 transgene 5 , did not show lineage tracing. Here we aim to reconcile these discrepancies by re-evaluating lineage tracing in the Axin2CreERT2 knock-in model and explore the physiological consequences of this mutant allele. We were unable to find evidence of expansion of an Axin2CreERT2 labelled population and show that this population, whilst zonated, is spread throughout the lobule rather than being zonally restricted. Finally, we report that this allele results in profound perturbation of the Wnt pathway and physiology in the mouse.
 
 </details>
 
@@ -12347,16 +10439,6 @@ Abstract Aim The impact of global change on biodiversity is commonly assessed in
 
 </details>
 
-#### [A functional pre-screening platform for identifying points of vulnerability in the cell death map of human melanoma tumors](https://doi.org/10.1101/2020.11.11.377671)
-**Naama Pnina Dekel-Bird, Shani Bialik, Orit Itzhaki, Tomer Meir Salame et al.** · 2020-11-11
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Targeted drug therapy in melanoma patients carrying the BRAF V600E mutation provides temporary remission, often followed by relapse due to acquired drug resistance. Here we propose a functional approach to circumvent drug resistance by applying a personalized prescreening platform that maps points of vulnerability in each tumor, prior to drug treatment. This platform applies siRNAs targeting 81 apoptosis, autophagy and programmed necrosis genes in patient tumor cell cultures, identifying genes whose targeting maximizes cell killing by short-term BRAF inhibition. Melanoma tumors displayed large heterogeneity in the number and identities of soft-spots, providing different tumor-specific functional death signatures. The soft-spots were targeted by replacing functional siRNAs with small compound inhibitors for long-term treatment in combination with vemurafenib. This strategy reduced the number of drug-tolerant persister cells surviving treatment, and most importantly, the number of drug-resistant foci. Thus, prescreening melanoma tumors for soft-spots within the cell death network may enhance targeted drug therapy before resistance emerges, thereby reducing the odds of developing drug-resistant mutations, and preventing tumor relapse.
-
-</details>
-
 #### [Canonical Wnt signalling is activated during BEC-to-hepatocyte conversion
                   <i>in vivo</i>
                   and modulates liver epithelial cell plasticity in hepatic organoids](https://doi.org/10.1101/2020.11.09.374462)
@@ -12389,16 +10471,6 @@ Abstract Listening in an acoustically cluttered scene remains a difficult task f
 
 </details>
 
-#### [Music for cells? A systematic review of studies investigating the effects of audible sound played through speaker-based systems to cell cultures](https://doi.org/10.1101/2020.11.02.364653)
-**Dongho Kwak, Thomas Combriat, Chencheng Wang, Hanne Scholz et al.** · 2020-11-02
-
-<details>
-<summary>Abstract</summary>
-
-Abstract There have been several studies investigating whether musical sound can be used as cell stimuli in recent years. We systematically searched publications to get an overview of studies that have used audible sound played through speaker-based systems to induce mechanical perturbation in cell cultures. A total of 12 studies were identified. We focused on the experimental setups, the sound materials used as stimuli, and the outcomes. The stimuli were categorized into simple and complex sounds. The effects were reported as enhanced cell migration, proliferation, colony formation, and differentiation ability. However, there are significant differences in methodologies and cell type-specific outcomes, which made it difficult to find a systematic pattern in the results. We suggest that future experiments should consider using: 1) a more controlled acoustic environment), 2) standardized sound and noise measurement methods, and 3) a more comprehensive range of controlled sound stimuli.
-
-</details>
-
 #### [Behaviour of two species of psittacine birds at wild bird feeding sites in Australia](https://doi.org/10.1101/2020.10.27.356865)
 **Michelle R. Plant, Dianne Vankan, Gregory Baxter, Evelyn Hall et al.** · 2020-10-28
 
@@ -12406,16 +10478,6 @@ Abstract There have been several studies investigating whether musical sound can
 <summary>Abstract</summary>
 
 Abstract This study investigated how Crimson Rosellas Platycercus elegans (CR) and Australian King-Parrots Alisterus scapularis (AKP) used provisioned seed at two public bird feeding sites in Australia. A total of 197 CR and 72 AKP were trapped and colour-banded. Observational data was collected every 10mins between 08:00-16:00 for three consecutive days during autumn and spring. Foraging effort was described using five metrics that quantified the birds’ visiting frequency and foraging duration over each day and observation period. Seed selection (over 5mins) and intake (over 10mins) were determined, and the energy intake was calculated. Total counts and population estimates were calculated for each species. Individual, species, seasonal and geographic variation in the use of provisioned seed was demonstrated by the metric summaries and Restricted Maximum Likelihood Modelling. Both species fed as part of large mixed species flocks that would not naturally congregate together to forage. Overall, CR were found to have higher foraging effort and feed in greater numbers than AKP, but a spectrum of use was observed for both species. Individuals were observed using the provisioned seed between 0-3 days/observation period. When birds used the provisioned seed, they were found to make between 1-8 visits/day, with most lasting 10-30mins. Few daily durations lasted longer than 50mins. Within a 10-minute interval, it was possible for a CR and AKP to obtain between 1.73-62.91% and 6.84-88.54% of their daily energy requirements, respectively. In a visit, either species could fill their crop and meet most, if not all, of their daily energy requirements. A small percentage of birds (6.5%) were found to use the feeding sites daily and for long durations (up to 160mins). It is likely that a proportion of the birds using the provisioned seed at both sites were dependent on the food source and would be at risk if the seed supply were suddenly reduced. The study also provided evidence that wild bird feeding provided an advantage to one or more species, as well as evidence that the food source did not affect the study species’ seasonal dispersal patterns or juveniles’ ability to forage on natural food sources.
-
-</details>
-
-#### [Glycinergic axonal inhibition subserves acute spatial sensitivity to sudden increases in sound intensity](https://doi.org/10.1101/2020.10.27.358085)
-**Tom P. Franken, Brian J. Bondy, David B. Haimes, Nace L. Golding et al.** · 2020-10-28
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Locomotion generates adventitious sounds which enable detection and localization of predators and prey. Such sounds contain brisk changes or transients in amplitude. We investigated the hypothesis that ill-understood temporal specializations in binaural circuits subserve lateralization of such sound transients, based on different time of arrival at the ears (interaural time differences, ITDs). We find that Lateral Superior Olive (LSO) neurons show exquisite ITD-sensitivity, reflecting extreme precision and reliability of excitatory and inhibitory postsynaptic potentials, in contrast to Medial Superior Olive neurons, traditionally viewed as the ultimate ITD-detectors. In vivo , inhibition blocks LSO excitation over an extremely short window, which, in vitro , required synaptically-evoked inhibition. Light and electron microscopy revealed inhibitory synapses on the axon initial segment as the structural basis of this observation. These results reveal a neural vetoing mechanism with extreme temporal and spatial precision and establish the LSO as the primary nucleus for binaural processing of sound transients.
 
 </details>
 
@@ -12593,16 +10655,6 @@ Abstract Habitat and reproduction surveys of raptors are common components of en
 **A. Joly, H. Goëau, Stefan Kahl, Benjamin Deneu et al.** · 2020-09-22
 
 
-#### [THE REMOTE ANALYSIS OF BREATH SOUND IN COVID-19 PATIENTS: A SERIES OF CLINICAL CASES](https://doi.org/10.1101/2020.09.16.20195289)
-**E. Furman, A. Charushin, E. Eirikh, G. Furman et al.** · 2020-09-18
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background Respiratory sounds have been recognized as a possible indicator of behavior and health. Computer analysis of these sounds can indicate of characteristic sound changes caused by COVID-19 and can be used for diagnosis of this illness. Purpose The communication aim is development of fast remote computer-assistance diagnosis of COVID-19, based on analysis of respiratory sounds. Materials and Methods Fast Fourier transform (FFT) was applied for analyses of respiratory sounds recorded near the mouth of 9 COVID-19 patients and 4 healthy volunteers. Sampling rate was 48 kHz. Results Comparing of FFT spectrums of the respiratory sounds of the patients and volunteers we proposed numerical healthy-ill criterions. Conclusions The proposed computer method, based on analysis of the FFT spectrums of respiratory sounds of the patients and volunteers, allows one to automatically diagnose COVID-19 with sufficiently high diagnostic values. This method can be applied at development of noninvasive self-testing kits for COVID-19.
-
-</details>
-
 #### [Vocalisations of the Greater Rhea (Rhea americana): an allegedly silent ratite](https://figshare.com/articles/journal_contribution/Vocalisations_of_the_Greater_Rhea_i_Rhea_americana_i_an_allegedly_silent_ratite/12967181/1/files/24702092.pdf)
 **C. Pérez‐Granados, K. Schuchmann** · 2020-09-17
 
@@ -12610,26 +10662,6 @@ Abstract Background Respiratory sounds have been recognized as a possible indica
 <summary>Abstract</summary>
 
 ABSTRACT Our current knowledge of the vocal behaviour of Palaeognathae is limited, although it may increase our understanding of the evolution of avian vocal behaviour. The Greater Rhea (Rhea americana) has a complex syrinx, and males produce guttural sounds during the courtship display, which makes this species an interesting model to study vocal behaviour in ratites. We recorded a group of Greater Rheas living in semi-captive conditions at the zoo of the UFMT for eight days. A total of 749 booming calls were detected. The vocal activity of the Greater Rhea was maximum during the first four hours after sunrise, with a second peak before sunset. The species showed nocturnal vocal activity, as also found in a recent study on a diurnal tinamou. The number of vocalising birds during the recording period was unknown, and our data were collected during a restricted time window. Our results suggest that acoustic communication and nocturnal activity of the species might be more relevant than previously described. Passive acoustic monitoring may have further implications for the continued study of vocal activity in ratites. Further research should examine whether the vocal behaviour and nocturnal vocal activity of the Greater Rhea are also important in wild individuals.
-
-</details>
-
-#### [Two Are Better Than One: Solving the Problem of Vertical Sound Source Localization via Binaural Integration of HRTFs](https://doi.org/10.1101/2020.09.10.291468)
-**Timo Oess, Heiko Neumann, Marc O. Ernst** · 2020-09-11
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Early studies have shown that the localization of a sound source in the vertical plane can be accomplished with only a single ear, thus assumed the localization mechanism to be based on monaural cues. Such cues are induced by the pinna and consist of notches and peaks in the perceived spectrum which vary systematically with the elevation of sound sources. These processes pose several problems to the auditory system like identifying and extracting spectral cues on a neural level, as well as, distinguishing pinna induced peaks and notches from features already present in the source spectrum. Interestingly, at the stage of elevation estimate binaural information from both ears is already available and it seems plausible that the auditory system takes advantage of this information. Especially, since such a binaural integration can improve the localization performance dramatically as we demonstrate in the current study. For that, we first introduce a computational model architecture that takes advantage of binaural signal integration to localize sound sources in the median plane. Model performance is tested under different conditions which reveal that localization of monaural, as well as binaural inputs is best when the model is trained with binaural inputs. Furthermore, modeling results lead to the hypothesis that sound type specific prior information is taken into account to further improve localization quality. This deduced hypothesis about vertical sound source localization is confirmed in a behavioral experiment. Based on these results, we propose that elevation estimation of sound sources is facilitated by an early binaural signal integration and can incorporate sound type specific prior information for higher accuracy.
-
-</details>
-
-#### [KuLGaP: A Selective Measure for Assessing Therapy Response in Patient-Derived Xenografts](https://doi.org/10.1101/2020.09.08.287573)
-**Janosch Ortmann, Ladislav Rampášek, Elijah Tai, Arvind Singh Mer et al.** · 2020-09-09
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Quantifying response to drug treatment in mouse models of human cancer is important for treatment development and assignment, and yet remains a challenging task. A preferred measure to quantify this response should take into account as much of the experimental data as possible, i.e. both tumor size over time and the variation among replicates. We propose a theoretically grounded measure, KuLGaP, to compute the difference between the treatment and control arms. KuLGaP is more selective than currently existing measures, reduces the risk of false positive calls and improves translation of the lab results to clinical practice.
 
 </details>
 
@@ -12795,16 +10827,6 @@ Simple Summary Recognizing the different species can help us better understand t
 
 </details>
 
-#### [Visuospatial attention revamps cortical processing of sound: restrict stimulus uncertainty](https://doi.org/10.1101/2020.07.30.229948)
-**F. Cervantes Constantino, T. Sánchez-Costa, G. A. Cipriani, A. Carboni** · 2020-08-01
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Selective attentional biases arising from one sensory modality may manifest in another. The effects of visuospatial attention, often considered a foundation for visual object perception, are unclear in the auditory domain during audiovisual (AV) scene processing. This study investigates temporal and spatial factors that facilitate such cross-modal bias transfer at the neural level. Auditory encoding of random tone pips in AV scenes was investigated via a temporal response function model (TRF) of the participants’ electroencephalogram ( N =30). The spatially uninformative pips were associated with spatially distributed visual contrast reversals (‘flips’) through asynchronous, probabilistic AV temporal onset distributions. Participants deployed visuospatial selection on these AV stimuli to perform a task. A late (~300 ms) cross-modal transfer of the unimodal attentional bias was found on the neural representation of pips. Transfer depended on the selected visual input being ( i ) presented during or shortly after a related sound in a relatively limited temporal window (&lt;165 ms); and ( ii ) positioned across limited (1:4) visual foreground to background ratios. In addition, the magnitude of attentional enhancement was proportional to the proximity of flips to the foreground area. The results indicate that ongoing neural representations of sounds can incorporate relevant visuospatial attributes for auditory stream segregation.
-
-</details>
-
 #### [Defending as a unit: sex- and context-specific territorial defence in a duetting bird](https://doi.org/10.1101/2020.07.29.226167)
 **Lucia Mentesana, Maria Moiron, Ernesto Guedes, Enzo Cavalli et al.** · 2020-07-29
 
@@ -12833,16 +10855,6 @@ ABSTRACT DLX5 and DLX6 are two closely related transcription factors involved in
 <summary>Abstract</summary>
 
 Abstract While seasonal trends in the testosterone-driven hormonal regulation of resource allocation are known from cohort population samples, data on the inter-annual individual stability of blood plasma testosterone levels in wild birds are lacking, and our understanding of age-dependent changes is limited. We assessed plasma testosterone levels in 105 samples originating from 49 repeatedly captured free-living great tits ( Parus major ) to investigate their relative long-term stability and lifetime changes. Furthermore, we examined the inter-annual stability of selected condition-related traits (carotenoid- and melanin-based plumage ornamentation, ptilochronological feather growth rate, body mass, and haematological heterophil/lymphocyte ratio) and their relationships to testosterone levels. We show that testosterone levels in both sexes are inter-annually repeatable, both in their absolute values and individual ranks (indicating the maintenance of relative status in a population), yet with higher stability in females. Despite this stability, in males we found a quadratic dependence of testosterone levels on age, with a peak in midlife. In contrast, female testosterone levels showed no lifetime trend. The inter-annual stability of condition-related traits was mostly moderate and unrelated to plasma testosterone concentrations. However, males with elevated testosterone had significantly higher carotenoid-pigmented yellow plumage brightness, presumably serving as a sexually selected trait. Showing inter-annual stability in testosterone levels, this research opens the way to further understanding of the causes of variation in fitness-related traits. Based on a unique longitudinal dataset, this study demonstrates that male plasma testosterone undergoes age-related changes that may regulate resource allocation. Our results thus demonstrate that male birds undergo hormonal senescence similar to mammals.
-
-</details>
-
-#### [What are we missing by using hydrophilic enrichment? Improving bacterial glycoproteome coverage using total proteome and FAIMS analysis](https://doi.org/10.1101/2020.07.22.216903)
-**Ameera Raudah Ahmad Izaham, Ching-Seng Ang, Shuai Nie, Lauren E. Bird et al.** · 2020-07-23
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Hydrophilic Interaction Liquid Chromatography (HILIC) glycopeptide enrichment is an indispensable tool for the high-throughput characterisation of glycoproteomes. Despite its utility, HILIC enrichment is associated with a number of short comings including requiring large amounts of starting material, potentially introducing chemical artefacts such as formylation, and biasing/under-sampling specific classes of glycopeptides. Here we investigate HILIC enrichment independent approaches for the study of bacterial glycoproteomes. Using three Burkholderia species ( B. cenocepacia, B. dolosa and B. ubonensis ) we demonstrate that short aliphatic O -linked glycopeptides are typically absent from HILIC enrichments yet are readily identified in whole proteome samples. Using Field Asymmetric Waveform IMS (FAIMS) fractionation we show that at low compensation voltages (CVs) short aliphatic glycopeptides can be enriched from complex samples providing an alternative means to identify glycopeptides recalcitrant to hydrophilic based enrichment. Combining whole proteome and FAIMS analysis we show that the observable glycoproteome of these Burkholderia species is at least 30% larger than initially thought. Excitingly, the ability to enrich glycopeptides using FAIMS appears generally applicable, with the N -linked glycopeptides of Campylobacter fetus subsp. fetus also enrichable at low FAIMS CVs. Taken together, these results demonstrate that FAIMS provides an alternative means to access glycopeptides and is a valuable tool for glycoproteomic analysis.
 
 </details>
 
@@ -12910,16 +10922,6 @@ Scientists studying music and evolution often discuss similarities and differenc
 
 </details>
 
-#### [Causal inference in environmental sound recognition](https://doi.org/10.1101/2020.07.13.200949)
-**James Traer, Sam V. Norman-Haignere, Josh H. McDermott** · 2020-07-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sound is caused by physical events in the world. Do humans infer these causes when recognizing sound sources? We tested whether the recognition of common environmental sounds depends on the inference of a basic physical variable – the source intensity (i.e., the power that produces a sound). A source’s intensity can be inferred from the intensity it produces at the ear and its distance, which is normally conveyed by reverberation. Listeners could thus use intensity at the ear and reverberation to constrain recognition by inferring the underlying source intensity. Alternatively, listeners might separate these acoustic cues from their representation of a sound’s identity in the interest of invariant recognition. We compared these two hypotheses by measuring recognition accuracy for sounds with typically low or high source intensity (e.g., pepper grinders vs. trucks) that were presented across a range of intensities at the ear or with reverberation cues to distance. The recognition of low-intensity sources (e.g., pepper grinders) was impaired by high presentation intensities or reverberation that conveyed distance, either of which imply high source intensity. Neither effect occurred for high-intensity sources. The results suggest that listeners implicitly use the intensity at the ear along with distance cues to infer a source’s power and constrain its identity. The recognition of real-world sounds thus appears to depend upon the inference of their physical generative parameters, even generative parameters whose cues might otherwise be separated from the representation of a sound’s identity.
-
-</details>
-
 #### [Making an impact](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.164)
 **N. Pettorelli** · 2020-07-02
 
@@ -12937,16 +10939,6 @@ Twenty twenty will be remembered for a number of reasons, but mostly not for the
 <summary>Abstract</summary>
 
 Abstract Ecologically relevant traits of organisms inhabiting an ecosystem determine its functional fingerprint. Quantifying changes in the shape, volume and shifts in the position of functional fingerprints can provide information about the effects of diversity loss or gain through time, and is a promising means to monitor ecological integrity. This, however, is seldom possible owing to limitations in historical surveys and lack of data on organismal traits, particularly in diverse tropical regions. Using detailed bird surveys from four time periods across more than one century and morphological traits of 233 species, we quantified changes in the avian functional fingerprint of a tropical montane forest site in the Andes of Colombia. We found that 79% of the variation in functional space, regardless of time period, was described by three major axes summarizing body size, dispersal ability, and habitat breadth. Changes in species composition caused significant alterations of the functional fingerprint of the assemblage, with 35 – 60% reductions in functional richness and dispersion. Owing to species extirpations and to novel additions to the assemblage, functional space is currently smaller and at least 11% different to what it was a century ago, with fewer large-sized species, more good dispersers, and fewer habitat specialists. Extirpated species had high values of functional uniqueness and distinctiveness, resulting in large reductions of functional richness and dispersion after their loss, implying potentially important consequences for ecosystem functioning. Conservation efforts aimed at maintaining ecosystem function must move beyond maintaining species numbers to designing strategies for the maintenance of ecological function by identifying and conserving species with traits conferring high vulnerability.
-
-</details>
-
-#### [Neuronal non-CG methylation is an essential target for MeCP2 function](https://doi.org/10.1101/2020.07.02.184614)
-**Rebekah Tillotson, Justyna Cholewa-Waclaw, Kashyap Chhatbar, John Connelly et al.** · 2020-07-02
-
-<details>
-<summary>Abstract</summary>
-
-SUMMARY DNA methylation is implicated in neuronal biology via the protein MeCP2, mutation of which causes Rett syndrome. MeCP2 recruits the NCOR1/2 corepressor complexes to methylated cytosine in the CG dinucleotide, but also to non-CG methylation, which is abundant specifically in neuronal genomes. To test the biological significance of its dual binding specificity, we replaced the MeCP2 DNA binding domain with an orthologous domain whose specificity is restricted to mCG motifs. Knock-in mice expressing the domain-swap protein displayed severe Rett syndrome-like phenotypes, demonstrating that interaction with sites of non-CG methylation, specifically the mCAC trinucleotide, is critical for normal brain function. The results support the notion that the delayed onset of Rett syndrome is due to the late accumulation of both mCAC and its reader MeCP2. Intriguingly, genes dysregulated in both Mecp2 -null and domain-swap mice are implicated in other neurological disorders, potentially highlighting targets of particular relevance to the Rett syndrome phenotype.
 
 </details>
 
@@ -13088,16 +11080,6 @@ Abstract Increasingly harsh and unpredictable climate regimes are affecting anim
 
 </details>
 
-#### [Sound generation in zebrafish with Bio-Opto-Acoustics (BOA)](https://doi.org/10.1101/2020.06.09.143362)
-**Itia A. Favre-Bulle, Michael A. Taylor, Emmanuel Marquez-Legorreta, Gilles Vanwalleghem et al.** · 2020-06-11
-
-<details>
-<summary>Abstract</summary>
-
-Hearing is a crucial sense in underwater environments for communication, hunting, attracting mates, and detecting predators. However, the tools currently used to study hearing are limited, as they cannot controllably stimulate specific parts of the auditory system. To date, the contributions of hearing organs have been identified through lesion experiments that inactivate an organ, but this makes it difficult to gauge the specific stimuli to which each organ is sensitive, or the ways in which inputs from multiple organs are combined during perception. Here, we introduce Bio-Opto-Acoustic (BOA) stimulation, using optical forces to generate localized sound in vivo, and demonstrate stimulation of the auditory system of zebrafish larvae with unprecedented control. We use a rapidly oscillated optical trap to generate vibrations in individual otolith organs that are perceived as sound, while adjacent otoliths are either left unstimulated or similarly stimulated with a second optical laser trap. The resulting brain-wide neural activity is characterized using fluorescent calcium indicators, thus linking each otolith organ to its individual neuronal network in a way that would be impossible using traditional sound delivery methods. The results reveal integration and cooperation of the utricular and saccular otoliths, which were previously described as having separate biological functions, during hearing.
-
-</details>
-
 #### [Signalome-wide assessment of erythrocyte response to
                   <i>Plasmodium</i>
                   reveals novel targets for host-directed antimalarial intervention](https://doi.org/10.1101/2020.06.09.143206)
@@ -13120,18 +11102,6 @@ Abstract Aerodynamic function of the avian tail has previously been studied usin
 
 </details>
 
-#### [Relationship between Anti-Spike Protein Antibody Titers and SARS-CoV-2
-                  <i>In Vitro</i>
-                  Virus Neutralization in Convalescent Plasma](https://doi.org/10.1101/2020.06.08.138990)
-**Eric Salazar, Suresh V. Kuchipudi, Paul A. Christensen, Todd N. Eagar et al.** · 2020-06-09
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Newly emerged pathogens such as SARS-CoV-2 highlight the urgent need for assays that detect levels of neutralizing antibodies that may be protective. We studied the relationship between anti-spike ectodomain (ECD) and anti-receptor binding domain (RBD) IgG titers, and SARS-CoV-2 virus neutralization (VN) titers generated by two different in vitro assays using convalescent plasma samples obtained from 68 COVID-19 patients, including 13 who donated plasma multiple times. Only 23% (16/68) of donors had been hospitalized. We also studied 16 samples from subjects found to have anti-spike protein IgG during surveillance screening of asymptomatic individuals. We report a strong positive correlation between both plasma anti-RBD and anti-ECD IgG titers, and in vitro VN titer. Anti-RBD plasma IgG correlated slightly better than anti-ECD IgG titer with VN titer. The probability of a VN titer ≥160 was 80% or greater with anti-RBD or anti-ECD titers of ≥1:1350. Thirty-seven percent (25/68) of convalescent plasma donors lacked VN titers ≥160, the FDA-recommended level for convalescent plasma used for COVID-19 treatment. Dyspnea, hospitalization, and disease severity were significantly associated with higher VN titer. Frequent donation of convalescent plasma did not significantly decrease either VN or IgG titers. Analysis of 2,814 asymptomatic adults found 27 individuals with anti-RBD or anti-ECD IgG titers of ≥1:1350, and evidence of VN ≥1:160. Taken together, we conclude that anti-RBD or anti-ECD IgG titers can serve as a surrogate for VN titers to identify suitable plasma donors. Plasma anti-RBD or anti-ECD titer of ≥1:1350 may provide critical information about protection against COVID-19 disease.
-
-</details>
-
 #### [Granzyme A inhibition reduces inflammation and increases survival during abdominal sepsis](https://doi.org/10.1101/2020.06.05.135814)
 **Marcela Garzón-Tituaña, José L Sierra-Monzón, Laura Comas, Llipsy Santiago et al.** · 2020-06-07
 
@@ -13139,16 +11109,6 @@ Abstract Newly emerged pathogens such as SARS-CoV-2 highlight the urgent need fo
 <summary>Abstract</summary>
 
 ABSTRACT Sepsis is a serious syndrome characterised by a dysregulated systemic inflammatory response. Here we have analysed the role and the therapeutic potential of Granzyme A (GzmA) in the pathogenesis of peritoneal sepsis using the Cecal Ligation and Puncture (CLP) polymicrobial sepsis model and samples from humans undergoing abdominal sepsis. Elevated GzmA was observed in serum from patients with abdominal sepsis suggesting that GzmA plays an important role in this pathology. In the CLP model GzmA deficient mice, or WT mice treated with an extracellular GzmA inhibitor, showed increased survival, which correlated with a reduction in proinflammatory markers in both serum and peritoneal lavage fluid. GzmA deficiency did not influence bacterial load in blood and spleen indicating that GzmA has no role in bacterial control. Mechanistically, we found that extracellular active GzmA acts as a proinflammatory mediator in macrophages by inducing the TLR4-dependent expression of IL-6 and TNFα. Our findings implicate GzmA as a key regulator of the inflammatory response during abdominal sepsis, and suggest that it could be targeted for treatment of this severe pathology.
-
-</details>
-
-#### [Group II metabotropic glutamate receptors modulate sound evoked and spontaneous activity in the mouse inferior colliculus](https://doi.org/10.1101/2020.06.03.130724)
-**Inga Kristaponyte, Nichole L. Beebe, Jesse W. Young, Sharad J. Shanbhag et al.** · 2020-06-04
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Little is known about the functions of group II metabotropic glutamate receptors (mGluRs2/3) in the inferior colliculus (IC)—a midbrain structure that is a major integration region of the central auditory system. We investigated how these receptors modulate sound-evoked and spontaneous firing in the mouse IC in vivo . We first performed immunostaining and tested hearing thresholds to validate VGAT-ChR2 transgenic mice on a mixed CBA/CaJ x C57BL/6J genetic background. Transgenic animals allowed for optogenetic cell type identification. Extracellular single neuron recordings were obtained before and after pharmacological mGluR2/3 activation. We observed increased sound-evoked firing—as assessed by the rate-level functions—in a subset of both GABAergic and non-GABAergic IC neurons following mGluR2/3 pharmacological activation. These neurons also displayed elevated spontaneous excitability and were distributed throughout the IC area tested, suggesting a widespread mGluR2/3 distribution in the mouse IC.
 
 </details>
 
@@ -13169,16 +11129,6 @@ Biodiversity is the most complex feature of our planet and it is the most vital.
 <summary>Abstract</summary>
 
 Abstract An improved understanding of life history responses to current environmental variability is required to predict species-specific responses to anthopogenic climate change. Previous research has suggested that cooperation in social groups may buffer individuals against some of the negative effects of unpredictable climates. We use a 15-year dataset on a cooperative-breeding arid-zone bird, the southern pied babbler Turdoides bicolor , to test i) whether environmental conditions and group size correlate with survival of young during three development stages (egg, nestling, fledgling), and ii) whether group size mitigates the impacts of adverse environmental conditions on reproductive success. Exposure to high mean daily maximum temperatures (mean T max ) during early development was associated with reduced survival probabilities of young in all three development stages. No young survived when mean T max &gt; 38°C across all group sizes. Low reproductive success at high temperatures has broad implications for recruitment and population persistence in avian communities given the rapid pace of advancing climate change. That impacts of high temperatures were not moderated by group size, a somewhat unexpected result given prevailing theories around the influence of environmental uncertainty on the evolution of cooperation, suggests that cooperative breeding strategies are unlikely to be advantageous in the face of rapid anthropogenic climate change.
-
-</details>
-
-#### [Neurofunctional basis underlying audiovisual integration of print and speech sound in Chinese children](https://doi.org/10.1101/2020.05.31.126128)
-**Zhichao Xia, Ting Yang, Xin Cui, Fumiko Hoeft et al.** · 2020-06-01
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Effortless print-sound integration is essential to reading development, and the superior temporal cortex (STC) is the most critical brain region. However, to date, the conclusion is almost restricted to alphabetic orthographies. To examine the neural basis in non-alphabetic languages and its relationship with reading abilities, we conducted a functional magnetic resonance imaging study in typically developing Chinese children. Two neuroimaging-based indicators of audiovisual processing—additive enhancement (higher activation in the congruent than the average activation of unimodal conditions) and neural integration (different activations between the congruent versus incongruent conditions)—were used to investigate character-sounds (opaque) and pinyin-sounds (transparent) processing. We found additive enhancement in bilateral STCs processing both character and pinyin stimulations. Moreover, the neural integrations in the left STC for the two scripts were strongly correlated. In terms of differentiation, first, areas beyond the STCs showed additive enhancement in processing pinyin-sounds. Second, while the bilateral STCs, left inferior/middle frontal and parietal regions manifested a striking neural integration (incongruent &gt; congruent) for character-sounds, no significant clusters were revealed for pinyin-sounds. Finally, the neural integration in the left middle frontal gyrus for characters was specifically associated with silent reading comprehension proficiency, indicating automatic semantic processing during implicit character-sound integration. In contrast, the neural integration in the left STC for pinyin was specifically associated with oral reading fluency that relies on grapho-phonological mapping. To summarize, this study revealed both script-universal and script-specific neurofunctional substrates of print-sound integration as well as their processing- and region-dependent associations with reading abilities in typical Chinese children. Highlights The bilateral superior temporal cortices display additive enhancement in processing print-sound information regardless of orthographies. The location, direction, and strength of the neural audiovisual integration are modulated by orthographic transparency. The neural integration in the left middle frontal gyrus in processing character-sounds is correlated to reading comprehension. The neural integration in the left superior temporal gyrus for pinyin is correlated with oral reading fluency. The neural integrations of character-sounds and pinyin-sounds show spatial overlap and inter-subject correlation in the left superior temporal cortex.
 
 </details>
 
@@ -13212,16 +11162,6 @@ Abstract Bovine respiratory disease (BRD) is the costliest disease affecting the
 
 </details>
 
-#### [Quantitative analysis questions the role of MeCP2 as a global regulator of alternative splicing](https://doi.org/10.1101/2020.05.25.115154)
-**Kashyap Chhatbar, Justyna Cholewa-Waclaw, Ruth Shah, Adrian Bird et al.** · 2020-05-26
-
-<details>
-<summary>Abstract</summary>
-
-Abstract MeCP2 is an abundant protein in mature nerve cells, where it binds to DNA sequences containing methylated cytosine. Mutations in the MECP2 gene cause the severe neurological disorder Rett syndrome (RTT), provoking intensive study of the underlying molecular mechanisms. Multiple functions have been proposed, one of which involves a regulatory role in splicing. Here we leverage the recent availability of high-quality transcriptomic data sets to probe quantitatively the potential influence of MeCP2 on alternative splicing. Using a variety of machine learning approaches that can capture both linear and non-linear associations, we show that widely different levels of MeCP2 have a minimal effect on alternative splicing in three different systems. Alternative splicing was also apparently indifferent to developmental changes in DNA methylation levels. Our results suggest that regulation of splicing is not a major function of MeCP2. They also highlight the importance of multi-variate quantitative analyses in the formulation of biological hypotheses.
-
-</details>
-
 #### [Cdk1-dependent destabilization of long astral microtubules is required for spindle orientation](https://doi.org/10.1101/2020.05.23.111989)
 **Divya Singh, Nadine Schmidt, Franziska Müller, Tanja Bange et al.** · 2020-05-23
 
@@ -13229,16 +11169,6 @@ Abstract MeCP2 is an abundant protein in mature nerve cells, where it binds to D
 <summary>Abstract</summary>
 
 Abstract The precise execution of mitotic spindle orientation in response to cell shape cues is important for tissue organization and development. The presence of astral microtubules extending from the centrosome towards the cell cortex is essential for this process, but little is understood about the contribution of astral microtubule dynamics to spindle positioning, or how astral microtubule dynamics are regulated spatiotemporally. The mitotic regulator Cdk1-CyclinB promotes destabilization of centrosomal microtubules and increased microtubule dynamics as cells transition from interphase to mitosis, but how Cdk1 activity specifically modulates astral microtubule stability, and whether it impacts spindle positioning, is unknown. Here we uncover a mechanism revealing that Cdk1 destabilizes astral microtubules to ensure spindle reorientation in response to cell shape. Phosphorylation of the EB1-dependent microtubule plus-end tracking protein GTSE1 by Cdk1 in early mitosis abolishes its interaction with EB1 and recruitment to microtubule plus-ends. Loss of Cdk1 activity, or mutation of phosphorylation sites in GTSE1, induces recruitment of GTSE1 to growing microtubule plus-ends in mitosis. This decreases the catastrophe frequency of astral microtubules, and causes an increase in the number of long astral microtubules reaching the cell cortex, which restrains the ability of cells to reorient spindles along the long cellular axis in early mitosis. Astral microtubules must thus not only be present, but also dynamic to allow the spindle to reorient in response to cell shape, a state achieved by selective destabilization of long astral microtubules via Cdk1.
-
-</details>
-
-#### [A sound strategy for homology modeling-based affinity maturation of a HIF-1α single-domain intrabody](https://doi.org/10.1101/2020.05.14.096149)
-**Min Hu, Guangbo Kang, Xin Cheng, Jiewen Wang et al.** · 2020-05-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract A sound strategy for computer-aided binding affinity prediction was developed for in silico nanobody affinity maturation. Venn-intersection of multi-algorithm screening (VIMAS), an iterative computer-assisted nanobody affinity maturation virtual screening procedure, was designed. Homology modeling and protein docking methods were used to substitute the need for solution of a complex crystal structure, which is expanding the application of this platform. As a test case, an anti-HIF-1α nanobody, VHH212, was screened via a native ribosome display library with a 26.6 nM of K D value was used as the parent. A mutant with a 17.5-fold enhancement in binding affinity (1.52 nM) was obtained by using the VIMAS strategy. Furthermore, the protein-protein interaction of interface residues, which is important for binding affinity, was analyzed in-depth. Targeting HIF-1α can sensitize PDAC tumors to gemcitabine, which is a potential co-treatment method for pancreatic cancer patients. Under combined treatment, the cytotoxicity of gemcitabine on pancreatic cancer cell lines increased with the enhanced-affinity of an intrabody. Thus, this study provides a platform for universal, efficient and convenient in silico affinity maturation of nanobodies.
 
 </details>
 
@@ -13352,16 +11282,6 @@ Abstract Chronic single-sided deaf (CSSD) listeners lack the availability of bin
 
 </details>
 
-#### [Auditory features modelling reveals sound envelope representation in striate cortex](https://doi.org/10.1101/2020.04.15.043174)
-**Alice Martinelli, Giacomo Handjaras, Monica Betta, Andrea Leo et al.** · 2020-04-17
-
-<details>
-<summary>Abstract</summary>
-
-Summary The striate cortex is no longer considered exclusively visual in its function. Proofs that its activity is modulated by acoustic inputs have accrued. By employing category-based and feature modeling approaches, here we characterized V1 activity (in absence of retinal input) during the processing of natural and synthetically derived sounds. First, we showed that distinct sound categories could be dissociated by the analysis of V1 multivoxel response patterns. Hence, we assessed whether a hallmark of sound neural representations is mapped in V1. In each sound category, we modeled sound envelopes and assessed whether these were represented at the single-voxel level in the striate cortex and, as a control, in the temporal cortex. The hierarchical organization of sound categories allowed to exert control over dimensions that could spuriously lead to sound envelope V1 mapping. Variations of sound amplitude over time were successfully decoded in V1 regardless of the category class. Results confirm that the human striate cortex receives acoustic category-based input and demonstrate that V1 is a genuine locus of sound envelope representation.
-
-</details>
-
 #### [Genetic variation reveals individual-level climate tracking across the annual cycle of a migratory bird](https://doi.org/10.1101/2020.04.15.043331)
 **Rachael A. Bay, Daniel S. Karp, James F. Saracco, William R.L. Anderegg et al.** · 2020-04-16
 
@@ -13369,16 +11289,6 @@ Summary The striate cortex is no longer considered exclusively visual in its fun
 <summary>Abstract</summary>
 
 Abstract For migratory species, seasonal movements complicate local climate adaptation, as it is unclear whether individuals track climate niches across the annual cycle. In the migratory songbird yellow warbler ( Setophaga petechia ), we find a correlation between individual-level wintering and breeding precipitation but not temperature. Birds wintering in the driest regions of the Neotropics breed in the driest regions of North America. Individuals from drier regions also possess distinct morphologies and population responses to varying rainfall. We find a positive association between bill size and breeding season precipitation which, given documented climate-associated genomic variation, might reflect adaptation to local precipitation regimes. Relative abundance in the breeding range is linked to interannual fluctuations in precipitation, but the directionality of this response varies across geography. Together, our results suggest that variation in climate optima may exist across the breeding range of yellow warblers and provide a mechanism for selection across the annual cycle.
-
-</details>
-
-#### [The respiratory sound features of COVID-19 patients fill gaps between clinical data and screening methods](https://doi.org/10.1101/2020.04.07.20051060)
-**Yinghui Huang, Sijun Meng, Yi Zhang, Shuisheng Wu et al.** · 2020-04-10
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Background The 2019 novel coronavirus (COVID-19) has continuous outbreaks around the world. Lung is the main organ that be involved. There is a lack of clinical data on the respiratory sounds of COVID-19 infected pneumonia, which includes invaluable information concerning physiology and pathology. The medical resources are insufficient, which are now mainly supplied for the severe patients. The development of a convenient and effective screening method for mild or asymptomatic suspicious patients is highly demanded. Methods This is a retrospective case series study. 10 patients with positive results of nucleic acid were enrolled in this study. Lung auscultation was performed by the same physician on admission using a hand-held portable electronic stethoscope delivered in real time via Bluetooth. The recorded audio was exported, and was analyzed by six physicians. Each physician individually described the abnormal breathing sounds that he heard. The results were analyzed in combination with clinical data. Signal analysis was used to quantitatively describe the most common abnormal respiratory sounds. Results All patients were found abnormal breath sounds at least by 3 physicians, and one patient by all physicians. Cackles, asymmetrical vocal resonance and indistinguishable murmurs are the most common abnormal breath sounds. One asymptomatic patient was found vocal resonance, and the result was correspondence with radiographic computed tomography. Signal analysis verified the credibility of the above abnormal breath sounds. Conclusions This study describes respiratory sounds of patients with COVID-19, which fills up for the lack of clinical data and provides a simple screening method for suspected patients.
 
 </details>
 
@@ -13432,18 +11342,6 @@ Abstract Global marine sediments harbor a large and highly diverse microbial bio
 
 </details>
 
-#### [The bacterial community structure dynamics in
-                  <i>Meloidogyne incognita</i>
-                  infected roots and its role in worm-microbiome interactions](https://doi.org/10.1101/2020.03.25.007294)
-**Timur Yergaliyev, Rivka Alexander-Shani, Hanna Dimeretz, Shimon Pivonia et al.** · 2020-03-25
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background Plant parasitic nematodes such as Meloidogyne incognita have a complex life cycle, occurring sequentially in various niches of the root and rhizosphere. They are known to form a range of interactions with bacteria and other microorganisms, that can affect their densities and virulence. High throughput sequencing can reveal these interactions in high temporal, and geographic resolutions, although thus far we have only scratched the surface. We have carried out a longitudinal sampling scheme, repeatedly collecting rhizosphere soil, roots, galls and second stage juveniles from 20 plants to provide a high resolution view of bacterial succession in these niches, using 16S rRNA metabarcoding. Results We find that a structured community develops in the root, in which gall communities diverge from root segments lacking a gall, and that this structure is maintained throughout the crop season. We detail the successional process leading toward this structure, which is driven by interactions with the nematode and later by an increase in bacteria often found in hypoxic and anaerobic environments. We show evidence that this structure may play a role in the nematode’s chemotaxis towards uninfected root segments. Finally, we describe the J2 epibiotic microenvironment as ecologically deterministic, in part, due to active bacterial attraction of second stage juveniles. Conclusions High density sampling, both temporally and across adjacent microniches, coupled with the power and relative low cost of metabarcoding, has provided us with a high resolution description of our study system. Such an approach can advance our understanding of holobiont ecology. Meloidogyne spp., with their relatively low genetic diversity, large geographic range and the simplified agricultural ecosystems they occupy, can serve as a model organism. Additionally, the perspective this approach provides could promote the efforts toward biological control efficacy.
-
-</details>
-
 #### [LifeCLEF 2020 Teaser: Biodiversity Identification and Prediction Challenges](https://doi.org/10.1007/978-3-030-45442-5_70)
 **A. Joly, H. Goëau, Stefan Kahl, Christophe Botella et al.** · 2020-03-24
 
@@ -13451,16 +11349,6 @@ Abstract Background Plant parasitic nematodes such as Meloidogyne incognita have
 <summary>Abstract</summary>
 
 Building accurate knowledge of the identity, the geographic distribution and the evolution of species is essential for the sustainable development of humanity, as well as for biodiversity conservation. However, the difficulty of identifying plants and animals in the field is hindering the aggregation of new data and knowledge. Identifying and naming living plants or animals is almost impossible for the general public and is often difficult even for professionals and naturalists. Bridging this gap is a key step towards enabling effective biodiversity monitoring systems. The LifeCLEF campaign, presented in this paper, has been promoting and evaluating advances in this domain since 2011. The 2020 edition proposes four data-oriented challenges related to the identification and prediction of biodiversity: (i) PlantCLEF: cross-domain plant identification based on herbarium sheets, (ii) BirdCLEF: bird species recognition in audio soundscapes, (iii) GeoLifeCLEF: location-based prediction of species based on environmental and occurrence data, and (iv) SnakeCLEF: image-based snake identification.
-
-</details>
-
-#### [SPHERE: A novel approach to 3D and active sound localization](https://doi.org/10.1101/2020.03.19.998906)
-**V. Gaveau, A. Coudert, R. Salemme, E. Koun et al.** · 2020-03-20
-
-<details>
-<summary>Abstract</summary>
-
-Abstract In everyday life, localizing a sound source in free-field entails more than the sole extraction of monaural and binaural auditory cues to define its location in the three-dimensions (azimuth, elevation and distance). In spatial hearing, we also take into account all the available visual information (e.g., cues to sound position, cues to the structure of the environment), and we resolve perceptual ambiguities through active listening behavior, exploring the auditory environment with head or/and body movements. Here we introduce a novel approach to sound localization in 3D named SPHERE (European patent n° WO2017203028A1), which exploits a commercially available Virtual Reality Head-mounted display system with real-time kinematic tracking to combine all of these elements (controlled positioning of a real sound source and recording of participants’ responses in 3D, controlled visual stimulations and active listening behavior). We prove that SPHERE allows accurate sampling of the 3D spatial hearing abilities of normal hearing adults, and it allowed detecting and quantifying the contribution of active listening. Specifically, comparing static vs. free head-motion during sound emission we found an improvement of sound localization accuracy and precisions. By combining visual virtual reality, real-time kinematic tracking and real-sound delivery we have achieved a novel approach to the study of spatial hearing, with the potentials to capture real-life behaviors in laboratory conditions. Furthermore, our new approach also paves the way for clinical and industrial applications that will leverage the full potentials of active listening and multisensory stimulation intrinsic to the SPHERE approach for the purpose rehabilitation and product assessment.
 
 </details>
 
@@ -13567,16 +11455,6 @@ Background: Improving the accuracy of bird population estimation is crucial for 
 
 </details>
 
-#### [Causal modeling refutes Hockett’s hypothesis that bite configuration affects human sound evolution](https://doi.org/10.1101/2020.02.20.957407)
-**Sergei Tarasov, Josef C. Uyeda** · 2020-02-21
-
-<details>
-<summary>Abstract</summary>
-
-Blasi et al. (Research article, 15 March 2019) argue in support of Hockett’s hypothesis – that languages of hunter-gatherers are less likely to develop labiodental sounds than those of agricultural societies due to the former’s heavy-wear diet that favors edge-to-edge bite, thereby decreasing likelihood of labiodental articulation. We reanalyze the data in Blasi et al. and find little to no support in favor of the Hockett’s hypothesis. The negative association between labiodentals and hunter-gatherers instead appears to be an artifact of labiodental decline with increasing distance from Africa, which is a general trend of language phonemes.
-
-</details>
-
 #### [Mapping human laryngeal motor cortex during vocalization](https://doi.org/10.1101/2020.02.20.958314)
 **Nicole Eichert, Daniel Papp, Rogier B. Mars, Kate E. Watkins** · 2020-02-21
 
@@ -13604,16 +11482,6 @@ Birds have often been recognised as the first informants of climatic change in o
 <summary>Abstract</summary>
 
 Abstract In animal communication, receivers benefit from signals providing reliable information on signallers’ traits of interest. Individuals involved in conflicts, such as competition between rivals, should pay particular attention to cues that are ‘unfakeable’ by the senders due to the intrinsic properties of the production process. In bioacoustics, the best-known example of such ‘index signals’ is the relationship between a sender’s body size and the dominant frequency of their vocalizations. Dominant frequency may however not only depend on an animal’s morphology but also on the interaction between the sound production system and its immediate environment. Here, we experimentally altered the environment surrounding calling frogs and assessed its impact on the signal produced. More specifically, we altered water level, which forced frogs to float on the surface and tested how this manipulation affected the shuttling of air between the lungs and the vocal sac, and how this in turn impacted the calls’ dominant frequency. Our results show that frogs that are floating are able to fully inflate their lungs and vocal sacs, and that the associated change in airflow or air pressure is correlated with a decrease of call dominant frequency.
-
-</details>
-
-#### [A Front-Back Confusion Metric in Horizontal Sound Localization: The FBC Score](https://doi.org/10.1101/2020.02.12.945303)
-**Tim Fischer, Marco Caversaccio, Wilhelm Wimmer** · 2020-02-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract In sound localization experiments, currently used metrics for front-back confusion (FBC) analysis weight the occurring FBCs equally, regardless of their deviation from the cone of confusion. To overcome this limitation, we introduce the FBC Score. A sound localization experiment in the horizontal plane with 12 bilaterally implanted cochlear implants (CI) users and 12 normal hearing subjects was performed to validate the method with real clinical data. The overall FBC Rate of the CI users was twice as high as the FBC Score. For the control group, the FBC Rate was 4 times higher than the FBC Score. The results indicate that the FBC Rate is inflated by FBCs that show a considerable deviation from the corresponding value on the cone of confusion.
 
 </details>
 
@@ -13707,16 +11575,6 @@ ABSTRACT The perception of sound textures, a class of natural sounds defined by 
 
 </details>
 
-#### [A Prokaryotic Membrane Sculpting BAR Domain Protein](https://doi.org/10.1101/2020.01.30.926147)
-**Daniel A. Phillips, Lori A. Zacharoff, Cheri M. Hampton, Grace W. Chong et al.** · 2020-01-31
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Bin/Amphiphysin/RVS (BAR) domain proteins belong to a superfamily of coiled-coil proteins influencing membrane curvature in eukaryotes and are associated with vesicle biogenesis, vesicle-mediated protein trafficking, and intracellular signaling. Here we report the first prokaryotic BAR domain protein, BdpA, from Shewanella oneidensis MR-1, known to produce redox-active membrane vesicles and micrometer-scale outer membrane extensions (OMEs). BdpA is required for uniform size distribution of membrane vesicles and scaffolding OMEs into a consistent diameter and curvature. Cryogenic transmission electron microscopy reveals a strain lacking BdpA produces lobed, disordered OMEs rather than membrane tubes produced by the wild type strain. Overexpression of BdpA promotes OME formation during conditions where they are less common. Heterologous expression results in OME production in Marinobacter atlanticus and Escherichia coli . Based on the ability of BdpA to alter membrane curvature in vivo , we propose that BdpA and its homologs comprise a newly identified class of prokaryotic BAR (P-BAR) domains.
-
-</details>
-
 #### [Vocal tract anatomy of king penguins: morphological traits of two-voiced sound production](https://frontiersinzoology.biomedcentral.com/track/pdf/10.1186/s12983-020-0351-8.pdf)
 **H. Kriesell, C. Le Bohec, A. Cerwenka, M. Hertel et al.** · 2020-01-30
 
@@ -13734,16 +11592,6 @@ The astonishing variety of sounds that birds can produce has been the subject of
 <summary>Abstract</summary>
 
 Automated acoustic recognition of birds is considered an important technology in support of biodiversity monitoring and biodiversity conservation activities. These activities require processing large amounts of soundscape recordings. Typically, recordings are transformed to a number of acoustic features, and a machine learning method is used to build models and recognize the sound events of interest. The main problem is the scalability of data processing, either for developing models or for processing recordings made over long time periods. In those cases, the processing time and resources required might become prohibitive for the average user. To address this problem, we evaluated the applicability of three data reduction methods. These methods were applied to a series of acoustic feature vectors as an additional postprocessing step, which aims to reduce the computational demand during training. The experimental results obtained using Mel-frequency cepstral coefficients (MFCCs) and hidden Markov models (HMMs) support the finding that a reduction in training data by a factor of 10 does not significantly affect the recognition performance.
-
-</details>
-
-#### [Dendritic normalisation improves learning in sparsely connected artificial neural networks](https://doi.org/10.1101/2020.01.14.906537)
-**Alex D Bird, Hermann Cuntz** · 2020-01-15
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Inspired by the physiology of neuronal systems in the brain, artificial neural networks have become an invaluable tool for machine learning applications. However, their biological realism and theoretical tractability are limited, resulting in poorly understood parameters. We have recently shown that biological neuronal firing rates in response to distributed inputs are largely independent of size, meaning that neurons are typically responsive to the proportion, not the absolute number, of their inputs that are active. Here we introduce such a normalisation, where the strength of a neuron’s afferents is divided by their number, to various sparsely-connected artificial networks. The learning performance is dramatically increased, providing an improvement over other widely-used normalisations in sparse networks. The resulting machine learning tools are universally applicable and biologically inspired, rendering them better understood and more stable in our tests.
 
 </details>
 
@@ -13793,10 +11641,6 @@ In this paper, an automatic bird species recognition system has been developed a
 
 </details>
 
-#### [Automatic crop protection system with IoT configured irrigation](https://www.semanticscholar.org/paper/87c71cd3cd47ffa1eafccb61f172bcc15a55c699)
-**D. Kalra** · 2020-01-01
-
-
 #### [Automatic Classification of Bird Traits](https://www.semanticscholar.org/paper/86ed9dfd41073ea168436bfdb13c20d006c801b7)
 **B. Fathima, Nihala Sulthan, Chaitra, Harsha Shridhar Moger et al.** · 2020-01-01
 
@@ -13820,10 +11664,6 @@ Studies on invertebrate minds suggest that the neural machinery for basic cognit
 Biodiversity monitoring has become a critical task for governments and ecological research agencies for reducing significant loss of animal species. Existing monitoring methods are time-intensive and techniques such as tagging are also invasive and may adversely affect animals. Bioacoustics based monitoring is becoming an increasingly prominent non-invasive method, involving the passive recording of animal sounds. Bioacoustics analysis can provide deep insights into key environmental integrity issues such as biodiversity, density of individuals and present or absence of species. However, analysing environmental recordings is not a trivial task. In last decade several researchers have tried to apply machine learning methods to automatically extract insights from these recordings. To help current researchers and identify research gaps, this paper aims to summarise and classify these works in the form of a taxonomy of the various bioacoustics applications and analysis approaches. We also present a comprehensive survey of bioacoustics data analysis approaches with an emphasis on bird species identification. The survey first identifies common processing steps to analyse bioacoustics data. As bioacoustics monitoring has grown, so does the volume of raw acoustic data that must be processed. Accordingly, this survey examines how bioacoustics analysis techniques can be scaled to work with big data. We conclude with a review of open challenges in the bioacoustics domain, such as multiple species recognition, call interference and automatic selection of detectors.
 
 </details>
-
-#### [Individual Human Recognition of Wild Animals: A Review and a Case Study in the Arctic Environment](https://doi.org/10.22920/PNIE.2020.1.1.1)
-**W. Lee, J. Choe** · 2020-01-01
-
 
 #### [Identifying Birds by Sound: Large-scale Acoustic Event Recognition for Avian Activity Monitoring](https://www.semanticscholar.org/paper/306c9591424589ce64f15a32a4e8eb9cbf935461)
 **Stefan Kahl** · 2020-01-01
@@ -13890,16 +11730,6 @@ Avian survey is a time-consuming and challenging task, often being conducted in 
 
 </details>
 
-#### [Earliest experience of a relatively rare sound but not a frequent sound causes long term changes in the adult auditory cortex](https://doi.org/10.1101/2019.12.24.887836)
-**Muneshwar Mehra, Adarsh Mukesh, Sharba Bandyopadhyay** · 2019-12-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sensory experience during a critical period alters sensory cortical responses and organization. We find that the earliest sound driven activity in the mouse auditory cortex (ACX) starts before ear-canal opening (ECO). Effects of auditory experience before ECO on ACX development are unknown. We find that mouse ACX subplate neurons (SPNs), crucial in thalamocortical maturation, respond to sounds before ECO showing oddball selectivity. Before ECO, SPNs are more selective to oddball sounds in auditory streams than thalamo-recipient layer 4 (L4) neurons and not after ECO. We hypothesize that SPNs’ oddball selectivity can direct development of L4 responses before ECO. Exposing mice before ECO with a rarely occurring tone in a stream of another tone occurring frequently leads to the strengthening of the adult cortical representation of the rare tone, but not that of the frequent tone. Results of control exposure experiments at multiple developmental windows and also with only a single tone corroborate the observations. A computational network model of known thalamic inputs to SPNs and L4 explains the observed developmental plasticity. Information-theoretic analysis with sparse coding assumptions also predicts the observations. Thus, salient low probability sounds in the earliest auditory environment cause long term changes in the ACX.
-
-</details>
-
 #### [Parental effects via glyphosate-based herbicides in a bird model?](https://doi.org/10.1101/2019.12.21.885855)
 **Suvi Ruuskanen, Miia Rainio, Maiju Uusitalo, Kari Saikkonen et al.** · 2019-12-23
 
@@ -13956,16 +11786,6 @@ Abstract Aphids reduce wheat yield through feeding on phloem sap, inflicting dir
 
 </details>
 
-#### [Noninvasive optical detection of Granzyme B from natural killer cells using enzyme-activated fluorogenic probes](https://doi.org/10.1101/2019.12.16.875070)
-**Tomasz Janiszewski, Sonia Kołt, Dion Kaiserman, Scott Snipas et al.** · 2019-12-17
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Despite many studies on the cytotoxic protease granzyme B, key aspects of its function remain unexplored due to the lack of selective probes for its activity. In this study, we fully mapped the substrate preferences of GrB using a set of unnatural amino acids, demonstrating previously unknown GrB substrate preferences that we then used to design novel substrate-based inhibitors and a GrB-activatable activity-based probe. We showed that our GrB probes react poorly with caspases, making them ideal for the in-depth analysis of GrB localization and function in cells. With our quenched fluorescence substrate, we determined GrB within the cytotoxic granules of human YT cells. When used as cytotoxic effectors, YT cells loaded with the GrB attack MDA-MB-231 target cells, and active GrB influences its target cell killing efficiency.
-
-</details>
-
 #### [Data augmentation approaches for improving animal audio classification](https://arxiv.org/abs/1912.07756)
 **L. Nanni, Gianluca Maguolo, M. Paci** · 2019-12-16
 
@@ -13983,26 +11803,6 @@ In this paper we present ensembles of classifiers for automated animal audio cla
 <summary>Abstract</summary>
 
 Abstract Animals vocalize only in certain behavioral contexts, but the circuits and synapses through which forebrain neurons trigger or suppress vocalization remain unknown. Here we used transsynaptic tracing to identify two populations of inhibitory neurons that lie upstream of neurons in the periaqueductal gray that gate the production of ultrasonic vocalizations in mice (i.e., PAG-USV neurons). Activating PAG-projecting neurons in the preoptic hypothalamus (POA PAG neurons) elicited USV production in the absence of social cues. In contrast, activating PAG-projecting neurons in the central-medial boundary zone of the amygdala (Amg C/M-PAG neurons) transiently suppressed USV production without disrupting non-vocal social behavior. Optogenetics-assisted circuit mapping in brain slices revealed that POA PAG neurons directly inhibit PAG interneurons, which in turn inhibit PAG-USV neurons, whereas Amg C/M-PAG neurons directly inhibit PAG-USV neurons. These experiments identify two major forebrain inputs to the PAG that trigger and suppress vocalization, respectively, while also establishing the synaptic mechanisms through which these neurons exert opposing behavioral effects.
-
-</details>
-
-#### [Distinct temporal trends in breast cancer incidence from 1997 to 2016 by molecular subtypes: A population-based study of Scottish cancer registry data](https://doi.org/10.1101/19011411)
-**Ines Mesa-Eguiagaray, Sarah H Wild, Philip S. Rosenberg, Sheila M Bird et al.** · 2019-12-11
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background Strategies for breast cancer prevention are informed by assessing whether incidence differs by tumour biology. We describe temporal trends of breast cancer incidence by molecular subtypes in Scotland. Methods Population-based cancer registry data on 72,217 women diagnosed with incident primary breast cancer from 1997 to 2016 were analysed. Age-standardised rates (ASR) and age-specific incidence were estimated by tumour subtype after imputing the 8% of missing oestrogen receptor (ER) status. Joinpoint regression and age- period- cohort models were used to assess whether significant differences were observed in incidence trends by ER status. Results ER positive tumour incidence steadily increased particularly for women of screening age 50 to 69 years from 1997 till around 2011 (1.6%/year, 95%CI: 1.2 to 2.1). ER negative incidence decreased among all ages at a consistent rate of −0.7%/year (95%CI: −1.5, 0) from around 2000-2016. Compared to the 1941-1959 central birth cohort, women born 1912-1940 had lower incidence rate ratios (IRR) for ER+ tumours and women born 1960- 1986 had higher IRR for ER- tumours. Conclusions We show evidence of aetiologic heterogeneity of breast cancer. Future incidence and survival reporting should be monitored by molecular subtypes.
-
-</details>
-
-#### [Detection of active Granzyme A in NK92 cells with fluorescent activity-based probe](https://doi.org/10.1101/869149)
-**Sonia Kołt, Tomasz Janiszewski, Dion Kaiserman, Sylwia Modrzycka et al.** · 2019-12-10
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Cytotoxic T-lymphocytes (CTLs) and natural killer cells (NKs) kill compromised cells to defend against tumor and viral infections. Both effector cell types use multiple strategies to induce target cell death including Fas/CD95 activation; and the release of perforin and a group of lymphocyte granule serine proteases called granzymes. Granzymes have relatively broad and overlapping substrate specificities and may hydrolyze a wide range of peptidic epitopes; it is therefore challenging to identify their natural and synthetic substrates and to distinguish their localization and functions. Here, we present a specific and potent substrate, an inhibitor, and an activity-based probe of Granzyme A (GrA) that can be used to follow functional GrA in cells.
 
 </details>
 
@@ -14056,10 +11856,6 @@ Abstract Indices based on singing activity have often been used in wildlife surv
 
 </details>
 
-#### [The power of machine learning](https://www.nature.com/articles/s41567-019-0737-8.pdf)
-**M. Buchanan** · 2019-12-01
-
-
 #### [Parametric Analysis on Enhanced Facial Emotion Recognition with Weight Optimized Neural Network](https://doi.org/10.1109/I-SMAC47947.2019.9032457)
 **B. Devi, M. Synthuja, Jain Preetha** · 2019-12-01
 
@@ -14074,16 +11870,6 @@ This paper intends to design a novel FER model that includes four phases such as
 **R. Kulkarni** · 2019-11-30
 
 
-#### [An Adaptive Cue Selection Model of Allocentric Spatial Reorientation](https://doi.org/10.1101/860031)
-**James Negen, Laura Bird, Marko Nardini** · 2019-11-30
-
-<details>
-<summary>Abstract</summary>
-
-Abstract After becoming disoriented, an organism must use the local environment to reorient and recover vectors to important locations. Debates over how this happens have been extensive. A new theory, Adaptive Combination, suggests that the information from different spatial cues are combined with Bayesian efficiency. To test this further, we modified the standard reorientation paradigm to be more amenable to Bayesian cue combination analyses while still requiring reorientation, still requiring participants to recall goal locations from memory, and focusing on situations that require the use of the allocentric (world-based; not egocentric) frame. 12 adults and 20 children at 5-7 years old were asked to recall locations in a virtual environment after a disorientation. They could use either a pair of landmarks at the North and South, a pair at the East and West, or both. Results were not consistent with Adaptive Combination. Instead, they are consistent with the use of the most useful (nearest) single landmark in isolation. We term this Adaptive Selection. Experiment 2 suggests that adults also use the Adaptive Selection method when they are not disoriented but still required to use a local allocentric frame. This suggests that the process of recalling a location in the allocentric frame is typically guided by the single most useful landmark, rather than a Bayesian combination of landmarks – regardless of whether the use of the allocentric frame is forced by disorientation or another method. These failures to benefit from a Bayesian strategy accord with the broad idea that there are important limits to Bayesian theories of the cognition, particularly for complex tasks such as allocentric recall.
-
-</details>
-
 #### [The effect of experimental lead pollution on DNA methylation in a wild bird population](https://doi.org/10.1101/851998)
 **Hannu Mäkinen, Kees van Oers, Tapio Eeva, Veronika N. Laine et al.** · 2019-11-26
 
@@ -14094,46 +11880,6 @@ Abstract Anthropogenic pollution is known to negatively influence an organism’
 
 </details>
 
-#### [Selective attention to sound features mediates cross-modal activation of visual cortices](https://doi.org/10.1101/855882)
-**Chrysa Retsa, Pawel J. Matusz, Jan W.H. Schnupp, Micah M. Murray** · 2019-11-26
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Contemporary schemas of brain organization now include multisensory processes both in low-level cortices as well as at early stages of stimulus processing. Evidence has also accumulated showing that unisensory stimulus processing can result in cross-modal effects. For example, task-irrelevant and lateralized sounds can activate visual cortices; a phenomenon referred to as the auditory-evoked contralateral occipital positivity (ACOP). Some claim this is an example of automatic attentional capture in visual cortices. Other results, however, indicate that context may play a determinant role. Here, we investigated whether selective attention to spatial features of sounds is a determining factor in eliciting the ACOP. We recorded high-density auditory evoked potentials (AEPs) while participants selectively attended and discriminated sounds according to four possible stimulus attributes: location, pitch, speaker identity or syllable. Sound acoustics were held constant, and their location was always equiprobable (50% left, 50% right). The only manipulation was to which sound dimension participants attended. We analysed the AEP data from healthy participants within an electrical neuroimaging framework. The presence of sound-elicited activations of visual cortices depended on the to-be-discriminated, goal-based dimension. The ACOP was elicited only when participants were required to discriminate sound location, but not when they attended to any of the non-spatial features. These results provide a further indication that the ACOP is not automatic. Moreover, our findings showcase the interplay between task-relevance and spatial (un)predictability in determining the presence of the cross-modal activation of visual cortices.
-
-</details>
-
-#### [Neural Responses and Perceptual Sensitivity to Sound Depend on Sound-Level Statistics](https://doi.org/10.1101/850339)
-**Björn Herrmann, Thomas Augereau, Ingrid S. Johnsrude** · 2019-11-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sensitivity to sound-level statistics is crucial for optimal perception, but research has focused mostly on neurophysiological recordings, whereas behavioral evidence is sparse. We use electroencephalography (EEG) and behavioral methods to investigate how sound-level statistics affect neural activity and the detection of near-threshold changes in sound amplitude. We presented noise bursts with sound levels drawn from distributions with either a low or a high modal sound level. One participant group listened to the stimulation while EEG was recorded (Experiment I). A second group performed a behavioral amplitude-modulation detection task (Experiment II). Neural activity depended on sound-level statistical context in two different ways. Consistent with an account positing that the sensitivity of neurons to sound intensity adapts to ambient sound level, responses for higher-intensity bursts were larger in low-mode than high-mode contexts, whereas responses for lower-intensity bursts did not differ between contexts. In contrast, a concurrent slow neural response indicated prediction-error processing: The response was larger for bursts at intensities that deviated from the predicted statistical context compared to those not deviating. Behavioral responses were consistent with prediction-error processing, but not with neural adaptation. Hence, neural activity adapts to sound-level statistics, but fine-tuning of perceptual sensitivity appears to involve neural prediction-error responses.
-
-</details>
-
-#### [Dynamic sound field audiometry: static and dynamic spatial hearing tests in the full horizontal plane](https://doi.org/10.1101/849836)
-**T. Fischer, M. Kompis, G. Mantokoudis, M. Caversaccio et al.** · 2019-11-21
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Although spatial hearing is of great importance in everyday life, today’s routine audiological test batteries and static test setups assess sound localization, discrimination and tracking abilities rudimentarily and thus provide only a limited interpretation of treatment outcomes regarding spatial hearing performance. To address this limitation, we designed a dynamic sound field test setup and evaluated the sound localization, discrimination and tracking performance of 12 normal-hearing subjects. During testing, participants provided feedback either through a touchpad or through eye tracking. In addition, the influence of head movement on sound-tracking performance was investigated. Our results show that tracking and discrimination performance was significantly better in the frontal azimuth than in the dorsal azimuth. Particularly good performance was observed in the backward direction across localization, discrimination and tracking tests. As expected, free head movement improved sound-tracking abilities. Furthermore, feedback via gaze detection led to larger tracking errors than feedback via the touchpad. We found statistically significant correlations between the static and dynamic tests, which favor the snapshot theory for auditory motion perception.
-
-</details>
-
-#### [Mechanisms of high-intensity sound exposure on inhibiting hippocampal long-term potentiation: role of brain-derived neurotrophic factor](https://doi.org/10.1101/850214)
-**Júnia L. de Deus, Mateus R. Amorim, Aline B. Ribeiro, Procópio C. G. Barcellos-Filho et al.** · 2019-11-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Exposure to humans and experimental animals to loud noises produce cognitive and emotional disorders and recent studies have shown that hippocampal neuronal function is affected by auditory stimulation or deprivation. We have found previously that in the hippocampus of rats exposed to high-intensity sound (110 dB) for one-minute the Schaffer-CA1 long-term potentiation (LTP) is strongly inhibited. Here we investigated possible mechanisms involved in this effect. We found, using c-fos expression, that exposure to 110 dB sound-activated neurons in the CA1 and CA3 hippocampal region. Using electrophysiological recordings in hippocampal slices, we found that both GABAergic and glutamatergic neurotransmission were unaffected by high-intensity sound stimulation. However, hippocampal brain-derived neurotrophic factor (BDNF), which is involved in promoting hippocampal synaptic plasticity, presented decreased levels in sound-stimulated animals. Perfusion of slices with BDNF revert the inhibition of LTP after a single sound stimulus in comparison to sham-stimulated rats. Furthermore, the perfusion with LM 22A4, a TrkB receptor agonist also rescued LTP from sound-stimulated animals. Our results strongly suggest that the exposure to high-intensity sound inhibits the BDNF production in the hippocampus, which could be a possible mechanism of the inhibition of LTP by high-intensity sound exposure.
-
-</details>
-
 #### [Enhanced representation of natural sound sequences in the ventral auditory midbrain](https://doi.org/10.1101/846485)
 **Eugenia González-Palomares, Luciana López-Jury, Francisco García-Rosales, Julio C. Hechavarria** · 2019-11-18
 
@@ -14141,16 +11887,6 @@ Abstract Exposure to humans and experimental animals to loud noises produce cogn
 <summary>Abstract</summary>
 
 Summary The auditory midbrain (inferior colliculus, IC) plays an important role in sound processing, acting as hub for acoustic information extraction and for the implementation of fast audio-motor behaviors. IC neurons are topographically organized according to their sound frequency preference: dorsal IC regions encode low frequencies while ventral areas respond best to high frequencies, a type of sensory map defined as tonotopy. Tonotopic maps have been studied extensively using artificial stimuli (pure tones) but our knowledge of how these maps represent information about sequences of natural, spectro-temporally rich sounds is sparse. We studied this question by conducting simultaneous extracellular recordings across IC depths in awake bats ( Carollia perspicillata ) that listened to sequences of natural communication and echolocation sounds. The hypothesis was that information about these two types of sound streams is represented at different IC depths since they exhibit large differences in spectral composition, i.e. echolocation covers the high frequency portion of the bat soundscape (&gt; 45 kHz), while communication sounds are broadband and carry most power at low frequencies (20-25 kHz). Our results showed that mutual information between neuronal responses and acoustic stimuli, as well as response redundancy in pairs of neurons recorded simultaneously, increase exponentially with IC depth. The latter occurs regardless of the sound type presented to the bats (echolocation or communication). Taken together, our results indicate the existence of mutual information and redundancy maps at the midbrain level whose response cannot be predicted based on the frequency composition of natural sounds and classic neuronal tuning curves.
-
-</details>
-
-#### [ESI mutagenesis: A one-step method for introducing point mutations into bacterial artificial chromosome transgenes](https://doi.org/10.1101/844282)
-**Arnaud Rondelet, Andrei Pozniakovsky, Marit Leuschner, Ina Poser et al.** · 2019-11-16
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Bacterial artificial chromosome (BAC)-based transgenes have emerged as a powerful tool for controlled and conditional interrogation of protein function in higher eukaryotes. While homologous recombination-based recombineering methods have streamlined the efficient integration of protein tags onto BAC transgenes, generating precise point mutations has remained less efficient and time-consuming. Here we present a simplified method for inserting point mutations into BAC transgenes requiring a single recombineering step followed by antibiotic selection. This technique, which we call ESI ( E xogenous/ S ynthetic I ntronization) mutagenesis, relies on co-integration of a mutation of interest along with a selectable marker gene, the latter of which is harboured in an artificial intron adjacent to the mutation site. Cell lines generated from ESI-mutated BACs express the transgenes equivalently to the endogenous gene, and all cells efficiently splice out the synthetic intron. Thus, ESI-mutagenesis provides a robust and effective single-step method with high precision and high efficiency for mutating BAC transgenes.
 
 </details>
 
@@ -14326,46 +12062,6 @@ Abstract Song learning is generally assumed to be beneficial for a young songbir
 
 </details>
 
-#### [How the dual PDZ domain from Postsynaptic density protein 95 clusters ion channels and receptors](https://doi.org/10.1101/775726)
-**Nazahiyah Ahmad Rodzli, Michael Lockhart-Cairns, Colin W. Levy, John Chipperfield et al.** · 2019-09-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract PSD-95 is a member of Membrane Associated Guanylate Kinase class of proteins which form scaffolding interactions with partner proteins including ion and receptor channels. PSD-95 is directly implicated in modulating the electrical responses of excitable cells. The first two PSD-95/Disks Large/Zona Occludens domains of PSD-95 have been shown to be the key component in the formation of channel clusters. We report crystal structures of the dual domain in both in apo and ligand-bound form; thermodynamic analysis of ligand association and Small Angle X-ray Scattering of the dual domain in the absence and presence of ligands. These experiments reveal that the ligated double domain forms a scaffold in the complete sense of the word. The concentration of the components in this study is comparable to those found in compartments of excitable cells such as the postsynaptic density and juxta-paranodes of Ranvier. The properties of the dual domain explain the basis of the scaffolding function of PSD-95, and provide a more detailed understanding of the integration of key components of neuronal specializations involved in nervous signal transmission.
-
-</details>
-
-#### [Disentangling sound from syntax: electrophysiological analysis of linguistics expressions](https://doi.org/10.1101/774257)
-**Fiorenzo Artoni, Piergiorgio d’Orio, Eleonora Catricalà, Francesca Conca et al.** · 2019-09-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Syntax is a species-specific component of human language combining a finite set of words in a potentially infinite number of sentences. Since words are by definition expressed by sound, factoring out syntactic information is normally impossible. Here, we circumvented this problem in a novel way by designing phrases with exactly the same acoustic content but different syntactic structures depending on the other words they occur with. By performing stereo- electroencephalographic (SEEG) recordings in epileptic patients we measured a different electrophysiological correlate of verb phrases vs. noun phrases by analyzing the high gamma band activity (150-300Hz frequency), in multiple cortical areas in both hemispheres, including language areas and their homologous in the non-dominant hemisphere. Our findings contribute to the ultimate goal of a complete neural decoding of linguistic structures from the brain.
-
-</details>
-
-#### [Enhanced nutrient uptake is sufficient to drive emergent cross-feeding between bacteria in a synthetic community](https://doi.org/10.1101/770727)
-**Ryan K Fritts, Jordan T Bird, Megan G Behringer, Anna Lipzen et al.** · 2019-09-16
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Interactive microbial communities are ubiquitous, influencing biogeochemical cycles and host health. One widespread interaction is nutrient exchange, or cross-feeding, wherein metabolites are transferred between microbes. Some cross-fed metabolites, such as vitamins, amino acids, and ammonium (NH 4 + ), are communally valuable and impose a cost on the producer. The mechanisms that enforce cross-feeding of communally valuable metabolites are not fully understood. Previously we engineered mutualistic cross-feeding between N 2 -fixing Rhodopseudomonas palustris and fermentative Escherichia coli . Engineered R. palustris excreted essential nitrogen as NH 4 + to E. coli while E. coli excreted essential carbon as fermentation products to R. palustris . Here, we enriched for nascent cross-feeding in cocultures with wild-type R. palustris , not known to excrete NH 4 + . Emergent NH 4 + cross-feeding was driven by adaptation of E. coli alone. A missense mutation in E. coli NtrC, a regulator of nitrogen scavenging, resulted in constitutive activation of an NH 4 + transporter. This activity likely allowed E. coli to subsist on the small amount of leaked NH 4 + and better reciprocate through elevated excretion of organic acids from a larger E. coli population. Our results indicate that enhanced nutrient uptake by recipients, rather than increased excretion by producers, is an underappreciated yet possibly prevalent mechanism by which cross-feeding can emerge.
-
-</details>
-
-#### [Range of motion and between-measurement variation of spinal kinematics in sound horses at trot on the straight line and on the lunge](https://doi.org/10.1101/764720)
-**A. Hardeman, A. Byström, L. Roepstorff, J.H. Swagemakers et al.** · 2019-09-10
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Clinical assessment of spinal motion in horses is part of many routine clinical exams but remains highly subjective. A prerequisite for the quantification is the assessment of the expected normal range of motion and variability of back kinematics. The aim of this study was to objectively quantify spinal kinematics and between-measurement, -surface and -day variation in owner-sound horses. In an observational study, twelve owner-sound horses were trotted 12 times on four different paths (hard/soft straight line, soft lunge left and right). Measurements were divided over three days, with five repetitions on day one and two, and two repetitions on day three (recheck) which occurred 28-55 days later. Optical motion capture was used to collect kinematic data. Elements of the outcome were: 1) Ranges of Motion (ROM) with confidence intervals per path and surface, 2) a variability model to calculate between-measurement variation and test the effect of time, surface and path, 3) intraclass correlation coefficients (ICC) to determine repeatability. ROM was lowest on the hard straight line. Cervical lateral bending was doubled on the left compared to the right lunge. Mean variation for the flexion-extension and lateral bending of the whole back were 0.8 and 1 degrees. Pelvic motion showed a variation of 1.0 (pitch), 0.7 (yaw) and 1.3 (roll) degrees. For these five parameters, a tendency for more variation on the hard surface and reduced variation with increased repetitions was observed. More variation was seen on the recheck (p&lt;0.001). ICC values for the pelvis were between 0.76 and 0.93, for the whole back flexion-extension and lateral bending between 0.51 and 0.91. Between-horse variation was substantially higher than within-horse variation. Concluding, ROM and variation in spinal biomechanics are horse-specific and small, necessitating individual analysis and making subjective clinical assessment of spinal kinematics challenging.
-
-</details>
-
 #### [Overview of BirdCLEF 2019: Large-Scale Bird Recognition in Soundscapes](https://www.semanticscholar.org/paper/c90b8fe46eb289b31e0f8d9d84e5f800ea4bd2d8)
 **Stefan Kahl, Fabian-Robert Stöter, H. Goëau, H. Glotin et al.** · 2019-09-09
 
@@ -14377,16 +12073,6 @@ Abstract Clinical assessment of spinal motion in horses is part of many routine 
 <summary>Abstract</summary>
 
 Building accurate knowledge of the identity, the geographic distribution and the evolution of living species is essential for a sustainable development of humanity, as well as for biodiversity conservation. Unfortunately, such basic information is often only partially available for professional stakeholders, teachers, scientists and citizens, and often incomplete for ecosystems that possess the highest diversity. In this context, an ultimate ambition is to set up innovative information systems relying on the automated identification and understanding of living organisms as a means to engage massive crowds of observers and boost the production of biodiversity and agro-biodiversity data. The LifeCLEF 2019 initiative proposes three data-oriented challenges related to this vision, in the continuity of the previous editions but with several consistent novelties intended to push the boundaries of the state-of-the-art in several research directions. This paper describes the methodology of the conducted evaluations as well as the synthesis of the main results and lessons learned.
-
-</details>
-
-#### [Capturing the dynamics of peripersonal space by integrating sound propagation properties and expectancy effects](https://doi.org/10.1101/756783)
-**Lise Hobeika, Marine Taffou, Thibaut Carpentier, Olivier Warusfel et al.** · 2019-09-06
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Highlights Logarithmically distributed auditory distances provides an apt granularity of PPS Measuring expectation helps to interpret behavioral impact of audiotactile integration Tactile RTs follows a logarithmic decrease due to audiotactile integration Peripersonal space is better characterized and quantified with this refinement Background Humans perceive near space and far space differently. Peripersonal space, i.e. the space directly surrounding the body, is often studied using paradigms based on auditory-tactile integration. In these paradigms, reaction time to a tactile stimulus is measured in the presence of a concurrent auditory looming stimulus. New Method We propose here to refine the experimental procedure considering sound propagation properties in order to improve granularity and relevance of auditory-tactile integration measures. We used a logarithmic distribution of distances for this purpose. We also want to disentangle behavioral contributions of the targeted audiotactile integration mechanisms from expectancy effects. To this aim, we added to the protocol a baseline with a fixed sound distance. Results Expectation contributed significantly to overall behavioral responses. Subtracting it isolated the audiotactile effect due to the stimulus proximity. This revealed that audiotactile integration effects have to be tested on a logarithmic scale of distances, and that they follow a linear variation on this scale. Comparison with Existing Method(s) The granularity of the current method is more relevant, providing higher spatial resolution in the vicinity of the body. Furthermore, most of the existing methods propose a sigmoid fitting, which rests on the intuitive framework that PPS is an in-or-out zone. Our results suggest that behavioral effects follow a logarithmic decrease, thus a response graduated in space. Conclusions The proposed protocol design and method of analysis contribute to refine the experimental investigation of the factors influencing and modifying multisensory integration phenomena in the space surrounding the body.
 
 </details>
 
@@ -14417,16 +12103,6 @@ Passive acoustic monitoring is an emerging approach to wildlife monitoring that 
 <summary>Abstract</summary>
 
 Killer whales (Orcinus orca) can produce 3 types of signals: clicks, whistles and vocalizations. This study focuses on Orca vocalizations from northern Vancouver Island (Hanson Island) where the NGO Orcalab developed a multi-hydrophone recording station to study Orcas. The acoustic station is composed of 5 hydrophones and extends over 50 km 2 of ocean. Since 2015 we are continuously streaming the hydrophone signals to our laboratory in Toulon, France, yielding nearly 50 TB of synchronous multichannel recordings. In previous work, we trained a Convolutional Neural Network (CNN) to detect Orca vocalizations, using transfer learning from a bird activity dataset. Here, for each detected vocalization, we estimate the pitch contour (fundamental frequency). Finally, we cluster vocalizations by features describing the pitch contour. While preliminary, our results demonstrate a possible route towards automatic Orca call type classification. Furthermore, they can be linked to the presence of particular Orca pods in the area according to the classification of their call types. A large-scale call type classification would allow new insights on phonotactics and ethoacoustics of endangered Orca populations in the face of increasing anthropic pressure.
-
-</details>
-
-#### [Clathrin’s adaptor interaction sites are repurposed to stabilize microtubules during mitosis](https://doi.org/10.1101/750034)
-**Arnaud Rondelet, Yu-Chih Lin, Divya Singh, Arthur T. Porfetye et al.** · 2019-08-29
-
-<details>
-<summary>Abstract</summary>
-
-SUMMARY Clathrin plays an important role to ensure mitotic spindle stability and efficient chromosome alignment, independently of its well-characterized functions in vesicle trafficking. While clathrin clearly localizes to the mitotic spindle and kinetochore-fiber microtubule bundles, the mechanisms by which clathrin stabilizes microtubules have remained elusive. Here we show that clathrin adaptor interaction sites on clathrin heavy chain (CHC) are repurposed during mitosis to directly recruit the microtubule-stabilizing protein GTSE1 to the mitotic spindle. Structural analyses reveal that multiple clathrin-box motifs on GTSE1 interact directly with different clathrin adaptor interaction sites on CHC, in a manner structurally analogous to that which occurs between adaptor proteins and CHC near membranes. Specific disruption of this interaction in cells releases GTSE1 from spindles and causes defects in chromosome alignment. Surprisingly, this disruption causes destabilization of astral microtubules, but not kinetochore-microtubule attachments, and the resulting chromosome alignment defect is due to a failure of chromosome congression independent of kinetochore-microtubule attachment stability. Finally, we show that GTSE1 recruited to the spindle by clathrin stabilizes microtubules and promotes chromosome congression by inhibiting the activity of the microtubule depolymerase MCAK. This work thus uncovers a novel role of clathrin to stabilize non-kinetochore-fiber microtubules to support chromosome congression. This role is carried out via clathrin adaptor-type interactions of CHC with GTSE1, defining for the first time an important repurposing of this endocytic interaction mechanism during mitosis.
 
 </details>
 
@@ -14462,16 +12138,6 @@ Summary Infant crying is an innate communicative behavior that is frequently imp
 
 </details>
 
-#### [Unexpected sound omissions are signaled in human posterior superior temporal gyrus: an intracranial study](https://doi.org/10.1101/733212)
-**Yvonne M. Fonken, Arjun Mukerji, Richard Jimenez, Jack Lin et al.** · 2019-08-14
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Context modulates sensory neural activations enhancing perceptual and behavioral performance and reducing prediction errors. However, the mechanism of when and where these high-level expectations act on sensory processing is unclear. Here, we isolate the effect of expectation absent any auditory evoked activity by assessing the response to omitted expected sounds. Electrophysiological signals were recorded directly from the superior temporal gyrus (STG) and superior temporal sulcus (STS) in patients with medically refractory epilepsy. Subjects listened to a predictable sequence of syllables, with some infrequently omitted. We found a high frequency band (HFB, 70-150Hz) response to omissions, which overlap with a posterior subset of auditory active electrodes. This response is distinct from omission activations observed in non-auditory selective sites in STG. Heard syllables could be classified reliably from STG, but not the identity of the omitted stimulus. Both omission- and target detection activations were also observed in prefrontal cortex. We propose that the posterior STG and STS are central for implementing predictions in the auditory environment. HFB omission activations in this region appear to index mismatch-signaling or salience detection processes.
-
-</details>
-
 #### [Analysis of duet vocalizations in Myiothlypis leucoblephara (Aves, Parulidae)](https://neotropical.pensoft.net/article/37655/download/pdf/)
 **Marciela Batistela, Eliara Solange Müller** · 2019-08-13
 
@@ -14489,16 +12155,6 @@ Bird vocalizations might be used for specific recognition, territorial defense, 
 <summary>Abstract</summary>
 
 Abstract Urbanization and associated environmental changes are causing global declines in vertebrate populations. In general, population declines of the magnitudes now detected should lead to reduced effective population sizes for animals living in proximity to humans and disturbed lands. This is cause for concern because effective population sizes set the rate of genetic diversity loss due to genetic drift, the rate of increase in inbreeding, and the efficiency with which selection can act on beneficial alleles. We predicted that the effects of urbanization should decrease effective population size and genetic diversity, and increase population-level genetic differentiation. To test for such patterns, we repurposed and reanalyzed publicly archived genetic data sets for North American birds and mammals. After filtering, we had usable raw genotype data from 85 studies and 41,023 individuals, sampled from 1,008 locations spanning 41 mammal and 25 bird species. We used census-based urban-rural designations, human population density, and the Human Footprint Index as measures of urbanization and habitat disturbance. As predicted, mammals sampled in more disturbed environments had lower effective population sizes and genetic diversity, and were more genetically differentiated from those in more natural environments. There were no consistent relationships detectable for birds. This suggests that, in general, mammal populations living near humans may have less capacity to respond adaptively to further environmental changes, and be more likely to suffer from effects of inbreeding.
-
-</details>
-
-#### [Mechanotransduction-dependent control of stereocilia dimensions and row identity in inner hair cells](https://doi.org/10.1101/731455)
-**Jocelyn F. Krey, Paroma Chatterjee, Rachel A. Dumont, Dongseok Choi et al.** · 2019-08-13
-
-<details>
-<summary>Abstract</summary>
-
-Summary Actin-rich structures like stereocilia and microvilli are assembled with precise control of length, diameter, and relative spacing. We found that developmental widening of the second-tallest stereocilia rank (row 2) of mouse inner hair cells correlated with the appearance of mechanotransduction. Correspondingly, Tmc1 KO/KO ; Tmc2 KO/KO or Tmie KO/KO hair cells, which lack transduction, have significantly altered stereocilia lengths and diameters. EPS8 and the short splice isoform of MYO15A, identity markers for row 1 (tallest), lost their row exclusivity in transduction mutants, a result that was mimicked by block of transduction channels. Likewise, the heterodimeric capping protein subunit CAPZB and its partner TWF2 lost their row 2 tip localization in mutants, and GNAI3 failed to accumulate at row 1 tips. Redistribution of marker proteins was accompanied by increased variability in stereocilia height. Transduction channels thus specify and maintain row identity and control addition of new actin filaments to increase stereocilia diameter.
 
 </details>
 
@@ -14522,16 +12178,6 @@ Abstract Passive acoustic monitoring is becoming an extensively used tool to eva
 
 </details>
 
-#### [Acoustic contamination of electrophysiological brain signals during speech production and sound perception](https://doi.org/10.1101/722207)
-**Philémon Roussel, Gaël Le Godais, Florent Bocquelet, Marie Palma et al.** · 2019-08-01
-
-<details>
-<summary>Abstract</summary>
-
-Abstract A current challenge of neurotechnologies is the development of speech brain-computer interfaces to restore communication in people unable to speak. To achieve a proof of concept of such system, neural activity of patients implanted for clinical reasons can be recorded while they speak. Using such simultaneously recorded audio and neural data, decoders can be built to predict speech features using features extracted from brain signals. A typical neural feature is the spectral power of field potentials in the high-gamma frequency band (between 70 and 200 Hz), a range that happens to overlap the fundamental frequency of speech. Here, we analyzed human electrocorticographic (ECoG) and intracortical recordings during speech production and perception as well as rat microelectrocorticographic (µ-ECoG) recordings during sound perception. We observed that electrophysiological signals, recorded with different recording setups, often contain spectrotemporal features highly correlated with those of the sound, especially within the high-gamma band. The characteristics of these correlated spectrotemporal features support a contamination of electrophysiological recordings by sound. In a recording showing high contamination, using neural features within the high-gamma frequency band dramatically increased the performance of linear decoding of acoustic speech features, while such improvement was very limited for another recording showing weak contamination. Further analysis and in vitro replication suggest that the contamination is caused by a mechanical action of the sound waves onto the cables and connectors along the recording chain, transforming sound vibrations into an undesired electrical noise that contaminates the biopotential measurements. This study does not question the existence of relevant physiological neural information underlying speech production or sound perception in the high-gamma frequency band, but alerts on the fact that care should be taken to evaluate and eliminate any possible acoustic contamination of neural signals in order to investigate the cortical dynamics of these processes.
-
-</details>
-
 #### [Pattern Recognition Bird Sounds Based on Their Type Using Discreate Cosine Transform (DCT) and Gaussian Methods](https://kinetik.umm.ac.id/index.php/kinetik/article/download/791/pdf)
 **Hendro Nugroho, W. Widodo, Andy Rachman** · 2019-07-30
 
@@ -14539,16 +12185,6 @@ Abstract A current challenge of neurotechnologies is the development of speech b
 <summary>Abstract</summary>
 
 To know the type of bird, most people know from the shape of bird species and the sound of birds. In this study, it identified the pattern of bird sounds. The bird sounds studied were Canary Trills, Vulture and Crow birds. In the introduction of the type of bird sound pattern in this study using the Discrete Cosine Transform (DCT) method and Gaussian value. The researcher conducted several steps to get the sound model of birds, among others, namely (1) bird sound input in the form of WAV file, (2) Hamming Windowing, (3) DFT / FFT, (4) Mel Bank Filter, (5) DCT, and (6) Value Gaussian. The output obtained is in the form of vector values and represented in graphical form. The results obtained in the study of pattern recognition of bird sound types get the results of observations in the same bird sound duration and frequency of the same, then the same pattern is obtained in the same bird as evidenced by calculating the closest distance value with Bray Curtis method. For the same duration of time and the length of the frequency that is not the same; it found that the pattern of bird sounds is not the same.
-
-</details>
-
-#### [Categorical representation from sound and sight in the ventral occipito-temporal cortex of sighted and blind](https://doi.org/10.1101/719690)
-**Stefania Mattioni, Mohamed Rezk, Ceren Battal, Roberto Bottini et al.** · 2019-07-30
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Is vision necessary for the development of the categorical organization of the Ventral Occipito-Temporal Cortex (VOTC)? We used fMRI to characterize VOTC responses to eight categories presented acoustically in sighted and early blind individuals, and visually in a separate sighted group. We observed that VOTC reliably encodes sound categories in sighted and blind people using a representational structure and connectivity partially similar to the one found in vision. Sound categories were, however, more reliably encoded in the blind than the sighted group, using a representational format closer to the one found in vision. Crucially, VOTC in blind represents the categorical membership of sounds rather than their acoustic features. Our results suggest that sounds trigger categorical responses in the VOTC of congenitally blind and sighted people that partially match the topography and functional profile of the visual response, despite qualitative nuances in the categorical organization of VOTC between modalities and groups.
 
 </details>
 
@@ -14589,16 +12225,6 @@ Abstract Most of the energy fluxes supporting animal performance flow through mi
 <summary>Abstract</summary>
 
 Abstract Understanding the mechanisms underlying biological extinctions is a critical challenge for conservation biologists. Both deterministic (e.g. habitat loss, fragmentation) and stochastic (i.e. demographic stochasticity, Allee effect) demographic processes are involved in population decline. Simultaneously, a decrease of population size has far-reaching consequences for genetics of populations by increasing the risk of inbreeding and the effects of genetic drift, which together inevitably results in a loss of genetic diversity and a reduced effective population size ( N e ). These genetic factors may retroactively affect vital rates (a phenomenon coined ‘inbreeding depression’), and therefore reduce population growth and accelerate the extinction process of small populations. To date, few studies have simultaneously examined the demographic and genetic mechanisms driving the extinction of wild populations, and have most of the time neglected the spatial structure of populations. In this study, we examined demographic and genetic factors involved in the extinction process of a spatially structured population of a lekking bird, the western capercaillie ( Tetrao urogallus ). To address this issue, we collected capture-recapture and genetic data over a 6-years period in Vosges mountains, France. Our study showed that the population of T . urogallus experienced a severe decline between 2010 and 2015. We did not detect any Allee effect on survival and recruitment. By contrast, individuals of both sexes dispersed to avoid small leks, suggesting a behavioral response to a mate finding Allee effect. In parallel to this demographic decline, the population showed a low genetic diversity and high inbreeding. In addition, the effective population sizes at both lek and population levels was low. Despite this, we did not detected evidence of inbreeding depression: neither survival nor recruitment were affected by individual inbreeding level. Our study underlines the benefit from combining demographic and genetic approaches to investigate processes that are involved in biological extinctions.
-
-</details>
-
-#### [Emergence of consciousness and complexity amidst diffuse delta rhythms: the paradox of Angelman syndrome](https://doi.org/10.1101/697862)
-**Joel Frohlich, Lynne M. Bird, John Dell’Italia, Micah A. Johnson et al.** · 2019-07-10
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Numerous theories link consciousness to informationally rich, complex neural dynamics. This idea is challenged by the observation that children with Angelman syndrome (AS), while fully conscious, display a hypersynchronous electroencephalogram (EEG) phenotype typical of information-poor dynamics associated with unconsciousness. If informational complexity theories are correct, then sufficiently complex dynamics must still exist during wakefulness and exceed that observed in sleep despite pathological delta (1 – 4 Hz) rhythms in children with AS. As characterized by multiscale metrics, EEGs from 35 children with AS feature significantly greater complexity during wakefulness compared with sleep, even when comparing the most pathological segments of wakeful EEG to the segments of sleep EEG least likely to contain conscious experiences, and when factoring out delta power differences across states. These findings support theories linking consciousness with complexity and warn against reverse inferring an absence of consciousness solely on the basis of clinical readings of EEG.
 
 </details>
 
@@ -14653,16 +12279,6 @@ Abstract Quantifying nocturnal bird migration at high resolution is essential fo
 <summary>Abstract</summary>
 
 ABSTRACT The hormone corticosterone (CORT)) has been hypothesized to be linked with fitness, but the directionality of the relationship is unclear. The “CORT-fitness hypothesis” proposes that high levels of CORT arise from challenging environmental conditions, resulting in lower reproductive success (a negative relationship). In contrast, the “CORT-adaptation hypothesis” suggests that, during energetically demanding periods, CORT will mediate physiological or behavioural changes that result in increased reproductive investment and success (a positive relationship). During two breeding seasons, we experimentally manipulated circulating CORT levels in female tree swallows ( Tachycineta bicolor ) prior to egg laying, and measured subsequent reproductive effort, breeding success, and maternal survival. When females were recaptured during egg incubation and again during the nestling stage, the CORT levels were similar among individuals in each treatment group, and maternal treatment had no effect on indices of fitness. By considering variation among females, we found support for the “CORT-adaptation hypothesis”; there was a significant positive relationship between CORT levels during incubation and hatching and fledging success. During the nestling stage CORT levels were unrelated to any measure of investment or success. Within the environmental context of our study, relationships between maternal glucocorticoid levels and indices fitness vary across reproductive stages. SUMMARY STATEMENT Maternal corticosterone levels predict breeding success of female tree swallows.
-
-</details>
-
-#### [Illusory sound texture reveals multi-second statistical completion in auditory scene analysis](https://doi.org/10.1101/681965)
-**Richard McWalter, Josh H. McDermott** · 2019-06-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sound sources in the world are experienced as stable even when intermittently obscured, implying perceptual completion mechanisms that “fill in” missing sensory information. We demonstrate a filling-in phenomenon in which the brain extrapolates the statistics of background sounds (textures) over periods of several seconds when they are interrupted by another sound, producing vivid percepts of illusory texture. The effect differs from previously described completion effects in that 1) the extrapolated sound must be defined statistically given the stochastic nature of texture, and 2) in lasting much longer, enabling introspection and facilitating assessment of the underlying representation. Illusory texture appeared to be integrated into texture statistic estimates indistinguishably from actual texture, suggesting that it is represented similarly to actual texture. The illusion appears to represent an inference about whether the background is likely to continue during concurrent sounds, providing a stable representation of the environment despite unstable sensory evidence.
 
 </details>
 
@@ -14733,16 +12349,6 @@ Abstract Frogs must have sharp hearing abilities during the warm summer months t
 <summary>Abstract</summary>
 
 ABSTRACT As of 1990, there are 27 bird species that have been assigned as meadow birds by the Dutch equivalent of the Farmland Bird Indicator (FBI). These birds have one common characteristic that classifies them as meadow birds: they prefer to breed in meadows. Since 1960, the overall number of meadow birds has been declining rapidly and recently only five species have shown increases. However, not only meadow birds have been declining, this same rate of decline is also seen in many vertebrate, insect, and plant species throughout Europe. Increasing agriculture and urbanisation are considered to be the main causes of these alarming declines and agri-environment schemes show insufficient effect. Not only decreased reproduction rate of meadow birds, but also decreased survival rate of meadow bird chicks may play an important role in the dropping meadow bird numbers. Most of the meadow birds eat insects and it is therefore hypothesized that their food supply is too low. The Louis Bolk Insitute and ANV Water, Land &amp; Dijken have been setting sticky traps in several meadows and counting the number of trapped insects on each sticky trap to assess if the food supply of meadow birds is sufficient. However, counting the insects is very time consuming, unappealing, and error prone. Therefore, a system that uses image analysis to automatically count the insects was improved and deployed as a web application and command line application. This system analyses photographs of sticky traps and counts the insects found on the sticky traps that were set in May 2018. These results were compared to the number of counted insects on the sticky traps that were set in May 2017, tested if the difference was significant and if there was a correlation between the usage of certain management packages. The accuracy of the automated system was also tested by determining if automatically counted results were not significantly different from hand counted results. The results showed that the accuracy of the system was improved but was still unable to provide very reliable results, most likely due to the usage of low-quality photographs from 2017. The number of counted insects from the sticky traps that were set in 2017 was significantly lower as compared to 2018 and no actual correlation could be found between the number of insects and management packages. It is possible for insect populations to have grown this much, however, the difference in insect numbers could have been caused by the difference in temperature when placing the sticky traps, or the sticky traps being less sticky. It is also very likely that the number of insects on the traps in 2017 is lower due to the poor quality of the photographs, so fewer insects could be detected. If the insect populations have grown as significantly as is indicated from the results then it can be stated that the food supply of meadow birds is more sufficient as compared to 2017 and it would be probable that an increase in meadow birds has occurred or will occur in the near future. Further research should be conducted using high quality standardized photographs and carried out for multiple years to gain plentiful reliable data.
-
-</details>
-
-#### [Cellular and widefield imaging of sound frequency organization in primary and higher-order fields of the mouse auditory cortex](https://doi.org/10.1101/663021)
-**Sandra Romero, Ariel E. Hight, Kameron K. Clayton, Jennifer Resnik et al.** · 2019-06-06
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The mouse auditory cortex (ACtx) contains two core fields – A1 and AAF – arranged in a mirror reversal tonotopic gradient. The best frequency (BF) organization and naming scheme for additional higher-order fields remain a matter of debate, as does the correspondence between smoothly varying global tonotopy and heterogeneity in local cellular tuning. Here, we performed chronic widefield and 2-photon calcium imaging from the ACtx of awake Thy1 -GCaMP6s reporter mice. Data-driven parcellation of widefield maps identified five fields, including a previously unidentified area at the ventral posterior extreme of the ACtx (VPAF) and a tonotopically organized suprarhinal auditory field (SRAF) that extended laterally as far as ectorhinal cortex. Widefield maps were stable over time, where single pixel BFs fluctuated by less than 0.5 octaves during a one-month imaging period. After accounting for neuropil signal and frequency tuning strength, BF organization in neighboring layer 2/3 neurons was intermediate to the heterogeneous salt and pepper organization and the highly precise local organization that have each been described in prior studies. Multiscale imaging data suggest there is no ultrasonic field or secondary auditory cortex in the mouse. Instead, VPAF and a dorsoposterior field (DP) emerged as the strongest candidates for higher-order auditory areas.
 
 </details>
 
@@ -14830,26 +12436,6 @@ Seabirds are integral components of marine ecosystems and, with many populations
 
 </details>
 
-#### [Unraveling the relation between EEG-correlates of attentional orienting and sound localization performance: a diffusion model approach](https://doi.org/10.1101/616573)
-**Laura-Isabelle Klatt, Daniel Schneider, Anna-Lena Schubert, Christina Hanenberg et al.** · 2019-04-26
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Understanding the contribution of cognitive processes and their underlying neurophysiological signals to behavioral phenomena has been a key objective in recent neuroscience research. Using a diffusion-model framework, we investigated to what extent well-established correlates of spatial attention in the electro-encephalogram contribute to behavioral performance in an auditory free-field sound-localization task. Younger and older participants were instructed to indicate the horizontal position of a pre-defined target among three simultaneously presented distractors. The central question of interest was whether posterior alpha lateralization and amplitudes of the anterior contralateral N2 subcomponent (N2ac) predict sound localization performance (accuracy, mean reaction time) and/or diffusion model parameters (drift rate, boundary separation, non-decision time). Two age groups were compared to explore whether in older adults, who struggle with multi-speaker environments, the brain-behavior relationship would differ from younger adults. Regression analyses revealed that N2ac amplitudes predicted drift rate and accuracy, whereas alpha lateralization was not related to behavioral or diffusion modeling parameters. This was true irrespective of age. The results indicate that a more efficient attentional filtering and selection of information within an auditory scene, reflected by increased N2ac amplitudes, was associated with a higher speed of information uptake (drift rate) and better localization performance (accuracy), while the underlying response criteria (threshold separation), mean reaction times, and non-decisional processes remained unaffected. The lack of a behavioral correlate of post-stimulus alpha power lateralization constrast the well-established notion that pre-stimulus alpha power reflects a functionally relevant attentional mechanism. This highlights the importance of distinguishing anticipatory from post-stimulus alpha power modulations.
-
-</details>
-
-#### [Re-weighting of Sound Localization Cues by Audiovisual Training](https://doi.org/10.1101/616490)
-**Daniel P. Kumpik, Connor Campbell, Jan W.H. Schnupp, Andrew J King** · 2019-04-23
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sound localization requires the integration in the brain of auditory spatial cues generated by interactions with the external ears, head and body. Perceptual learning studies have shown that the relative weighting of these cues can change in a context-dependent fashion if their relative reliability is altered. One factor that may influence this process is vision, which tends to dominate localization judgments when both modalities are present and induces a recalibration of auditory space if they become misaligned. It is not known, however, whether vision can alter the weighting of individual auditory localization cues. Using non-individualized head-related transfer functions, we measured changes in subjects’ sound localization biases and binaural localization cue weights after ~55 minutes of training on an audiovisual spatial oddball task. Four different configurations of spatial congruence between visual and auditory cues (interaural time differences (ITDs) and frequency-dependent interaural level differences (interaural level spectra, ILS) were used. When visual cues were spatially congruent with both auditory spatial cues, we observed an improvement in sound localization, as shown by a reduction in the variance of subjects’ localization biases, which was accompanied by an up-weighting of the more salient ILS cue. However, if the position of either one of the auditory cues was randomized during training, no overall improvement in sound localization occurred. Nevertheless, the spatial gain of whichever cue was matched with vision increased, with different effects observed on the gain for the randomized cue depending on whether ITDs or ILS were matched with vision. As a result, we observed a similar up-weighting in ILS when this cue alone was matched with vision, but no overall change in binaural cue weighting when ITDs corresponded to the visual cues and ILS were randomized. Consistently misaligning both cues with vision produced the ventriloquism aftereffect, i.e., a corresponding shift in auditory localization bias, without affecting the variability of the subjects’ sound localization judgments, and no overall change in binaural cue weighting. These data show that visual contextual information can invoke a reweighting of auditory localization cues, although concomitant improvements in sound localization are only likely to accompany training with fully congruent audiovisual information.
-
-</details>
-
 #### [LifeCLEF 2019: Biodiversity Identification and Prediction Challenges](http://agritrop.cirad.fr/598382/1/LifeCLEF_ECIR2019.pdf)
 **A. Joly, H. Goëau, Christophe Botella, Stefan Kahl et al.** · 2019-04-14
 
@@ -14857,16 +12443,6 @@ Abstract Sound localization requires the integration in the brain of auditory sp
 <summary>Abstract</summary>
 
 Building accurate knowledge of the identity, the geographic distribution and the evolution of living species is essential for a sustainable development of humanity, as well as for biodiversity conservation. However, the burden of the routine identification of plants and animals in the field is strongly penalizing the aggregation of new data and knowledge. Identifying and naming living plants or animals is actually almost impossible for the general public and often a difficult task for professionals and naturalists. Bridging this gap is a key challenge towards enabling effective biodiversity information retrieval systems. The LifeCLEF evaluation campaign, presented in this paper, aims at boosting and evaluating the advances in this domain since 2011. In particular, the 2019 edition proposes three data-oriented challenges related to the identification and prediction of biodiversity: (i) an image-based plant identification challenge, (ii) a bird sounds identification challenge and (iii) a location-based species prediction challenge based on spatial occurrence data and environmental tensors.
-
-</details>
-
-#### [Sound comparison of seven TMS coils at matched stimulation strength](https://doi.org/10.1101/606418)
-**Lari M. Koponen, Stefan M. Goetz, Debara L. Tucci, Angel V. Peterchev** · 2019-04-12
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Background Accurate data on the sound emitted by transcranial magnetic stimulation (TMS) coils is lacking. Methods We recorded the sound waveforms of seven coils with high bandwidth. We estimated the neural stimulation strength by measuring the induced electric field and applying a strength–duration model to account for different waveforms. Results Across coils, at maximum stimulator output and 25 cm distance, the sound pressure level (SPL) was 98–125 dB(Z) per pulse and 75–97 dB(A) for a 15 Hz pulse train. At 5 cm distance, these values were estimated to increase to 112–139 dB(Z) and 89–111 dB(A), respectively. Conclusions The coils’ sound was below, but near, relevant exposure limits for operators and may exceed some limits for the subject. Exposure standards may inadequately capture some risks to hearing. For persons near operating TMS coils we recommend hearing protection, and we consider it essential for the TMS subject. Highlights Coil click varies by over 20 dB(Z) between TMS coils at matched stimulation strength. Close to TMS coil, sound pressure level may reach nearly 140 dB(Z). For rTMS, the continuous sound level can exceed 110 dB(A). Hearing protection is recommended during TMS, especially for the subject.
 
 </details>
 
@@ -14908,16 +12484,6 @@ Abstract Witness trees from GLO surveys covering 6,300 square miles around Puget
 
 </details>
 
-#### [A sound-sensitive source of alpha oscillations in human non-primary auditory cortex](https://doi.org/10.1101/590323)
-**Alexander J. Billig, Björn Herrmann, Ariane E. Rhone, Phillip E. Gander et al.** · 2019-03-28
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The functional organization of human auditory cortex can be probed by characterizing responses to various classes of sound at different anatomical locations. Along with histological studies this approach has revealed a primary field in posteromedial Heschl’s gyrus (HG) with pronounced induced high-frequency (70-150 Hz) activity and short-latency responses that phase-lock to rapid transient sounds. Low-frequency neural oscillations are also relevant to stimulus processing and information flow, however their distribution within auditory cortex has not been established. Alpha activity (7-14 Hz) in particular has been associated with processes that may differentially engage earlier versus later levels of the cortical hierarchy, including functional inhibition and the communication of sensory predictions. These theories derive largely from the study of occipitoparietal sources readily detectable in scalp electroencephalography. To characterize the anatomical basis and functional significance of less accessible temporal-lobe alpha activity we analyzed responses to sentences in seven human adults (four female) with epilepsy who had been implanted with electrodes in superior temporal cortex. In contrast to primary cortex in posteromedial HG, a non-primary field in anterolateral HG was characterized by high spontaneous alpha activity that was strongly suppressed during auditory stimulation. Alpha-power suppression decreased with distance from anterolateral HG throughout superior temporal cortex, and was more pronounced for clear compared to degraded speech. This suppression could not be accounted for solely by a change in the slope of the power spectrum. The differential manifestation and stimulus-sensitivity of alpha oscillations across auditory fields should be accounted for in theories of their generation and function. Significance Statement To understand how auditory cortex is organized in support of perception, we recorded from patients implanted with electrodes for clinical reasons. This allowed measurement of activity in brain regions at different levels of sensory processing. Oscillations in the alpha range (7-14 Hz) have been associated with functions including sensory prediction and inhibition of regions handling irrelevant information, but their distribution within auditory cortex is not known. A key finding was that these oscillations dominated in one particular non-primary field, anterolateral Heschl’s gyrus, and were suppressed when subjects listened to sentences. These results build on our knowledge of the functional organization of auditory cortex and provide anatomical constraints on theories of the generation and function of alpha oscillations.
-
-</details>
-
 #### [Molecular dissection of the structural and nonstructural proteins of spanish-1918 Influenza, pandemic-2009, and bird flu viruses](https://doi.org/10.1101/585778)
 **Gusti Ngurah Mahardika, Nyoman Suartha, Gusti Ayu Yuniati Kencana, Ida Bagus Kade Suardana et al.** · 2019-03-24
 
@@ -14935,16 +12501,6 @@ Abstract The potential emergence of deadly pandemic influenza viruses is unpredi
 <summary>Abstract</summary>
 
 Abstract Current scientific consensus holds that sound is transmitted, solely mechanically, from the tympanum to the cochlea via ossicles. But this theory does not explain the hearing extreme quality regarding high frequencies in mammals. So, we propose a bioelectronic pathway (the covert path) that is complementary to the overt path. We demonstrate experimentally that the tympanum produces piezoelectric potentials isochronous to acoustic vibrations thanks to its collagen fibers and that their amplitude increases along with the frequency and level of the vibrations. This finding supports the existence of an electrical pathway, specialized in transmitting high-frequency sounds, that works in unison with the mechanical pathway. A bio-organic triode, similar to a field effect transistor, is the key mechanism of our hypothesized pathway. We present evidence that any deficiency along this pathway produces hearing impairment. By augmenting the classical theory of sound transmission, our discovery offers new perspectives for research into both normal and pathological audition and may contribute to an understanding of genetic and physiological problems of hearing.
-
-</details>
-
-#### [The structure of Macrophage Expressed Gene-1, a phagolysosome immune effector that is activated upon acidification](https://doi.org/10.1101/580712)
-**Siew Siew Pang, Charles Bayly-Jones, Mazdak Radjainia, Bradley A. Spicer et al.** · 2019-03-17
-
-<details>
-<summary>Abstract</summary>
-
-Macrophage Expressed Gene-1 (MPEG-1; also termed Perforin-2) is an endosomal / phagolysosomal perforin-like protein that is conserved across the metazoan kingdom and that functions within the phagolysosome to damage engulfed microbes. Like the Membrane Attack Complex and perforin, MPEG-1 has been postulated to form pores in target membranes, however, its mode of action remains to be established. We used single particle cryo-Electron Microscopy to determine the 2.4 Å structure of a hexadecameric assembly of MPEG-1 that displays the expected features of a soluble pre-pore complex. We further discovered that the MPEG-1 pre-pore-like assemblies can be induced to perforate membranes through mild acidification, such as would occur within maturing phagolysosomes. We next solved the 3.6 Å cryo-EM structure of MPEG-1 in complex with liposomes. Remarkably these data revealed that a C-terminal Multi-vesicular body of 12 kDa (MVB12)-associated β -prism (MABP) domain interacts with target membranes in a mode that positions the pore forming machinery of MPEG-1 to point away from the bound membrane. This unexpected mechanism of membrane interaction raises the intriguing possibility that MPEG-1 may be able to remain bound to the phagolysosome membrane while simultaneously forming pores in engulfed bacterial targets.
 
 </details>
 
@@ -14988,16 +12544,6 @@ Abstract A simple mechanical model of sound propagation in the human ear from th
 
 </details>
 
-#### [Heterozygous variants in KMT2E cause a spectrum of neurodevelopmental disorders and epilepsy](https://doi.org/10.1101/566091)
-**Anne H O'Donnell-Luria, Lynn S Pais, Victor Faundes, Jordan C Wood et al.** · 2019-03-05
-
-<details>
-<summary>Abstract</summary>
-
-We delineate a KMT2E gene-related neurodevelopmental disorder based on 38 individuals in 36 families. This includes 31 distinct heterozygous variants in the KMT2E gene (28 ascertained from Matchmaker Exchange and 3 previously reported), and 4 individuals with chromosome 7q22.2-22.23 microdeletions encompassing the KMT2E gene (1 previously reported). Almost all variants occurred de novo, and most were truncating. Most affected individuals with protein-truncating variants presented with mild intellectual disability. One-quarter of individuals met criteria for autism. Additional common features include macrocephaly, hypotonia, functional gastrointestinal abnormalities, and a subtle facial gestalt. Epilepsy was present in about one-fifth of individuals with truncating variants, and was responsive to treatment with anti-epileptic medications in almost all. Over 70% of the individuals were male and expressivity was variable by sex, with epilepsy more common in females and autism more common in males. The four individuals with microdeletions encompassing KMT2E generally presented similarly to those with truncating variants, but the degree of developmental delay was greater. The group of four individuals with missense variants in KMT2E presented with the most severe developmental delays. Epilepsy was present in all individuals with missense variants, often manifesting as treatment-resistant infantile epileptic encephalopathy. Microcephaly was also common in this group. Haploinsufficiency versus gain-of-function or dominant negative effects specific to these missense variants in KMT2E may explain this divergence in phenotype, but requires independent validation. Disruptive variants in KMT2E are an under-recognized cause of neurodevelopmental abnormalities.
-
-</details>
-
 #### [Directional Embedding Based Semi-supervised Framework For Bird Vocalization Segmentation](https://arxiv.org/abs/1902.09765)
 **Anshul Thakur, Padmanabhan Rajan** · 2019-02-26
 
@@ -15035,16 +12581,6 @@ Abstract Theory predicts that individuals behave altruistically towards their re
 <summary>Abstract</summary>
 
 Abstract Multispecies wildlife monitoring across large geographical regions is important for effective conservation planning in response to expected impacts from climate change and land use. Unlike many species of birds, mammals, and amphibians which can be efficiently sampled using automated sensors including cameras and sound recorders, reptiles are often much more challenging to detect, in part because of their typically cryptic behavior and generally small body sizes. Although many lizard species are more active during the day which makes them easier to detect using visual encounter surveys, they may be unavailable for sampling during certain periods of the day or year due to their sensitivity to temperature. In recognition of these sampling challenges, we demonstrate application of a recent innovation in distance sampling that adjusts for temporary emigration between repeat survey visits. We used transect surveys to survey lizards at 229 sites throughout the Mojave Desert in California, USA, 2016. We estimated a total population size of 82 million (90% CI: 65–99 million) for the three most common species of lizards across this 66,830 km2 ecoregion. We mapped how density at the 1‐km2 scale was predicted to vary with vegetation cover and human development. We validated these results against independent surveys from the southern portion of our study area. Our methods and results demonstrate how multispecies monitoring programs spanning arid ecoregions can better incorporate information about reptiles.
-
-</details>
-
-#### [Notch signalling mediates secondary senescence](https://doi.org/10.1101/554741)
-**Yee Voan Teo, Nattaphong Rattanavirotkul, Angela Salzano, Andrea Quintanilla et al.** · 2019-02-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Oncogene induced senescence (OIS) is a tumour suppressive response to oncogene activation that can be transmitted to neighbouring cells through secreted factors of the senescence associated secretory phenotype (SASP). Using single-cell transcriptomics we observed two distinct endpoints, a primary marked by Ras and a secondary by Notch. We find that secondary senescence in vitro and in vivo requires Notch, rather than SASP alone as previously thought. Currently, primary and secondary senescent cells are not thought of as functionally distinct endpoints. A blunted SASP response and the induction of fibrillar collagens in secondary senescence compared to OIS point towards a functional diversification. One Sentence Summary Notch signalling is an essential driver of secondary senescence with primary and secondary senescence being distinct molecular endpoints.
 
 </details>
 
@@ -15088,16 +12624,6 @@ Abstract Our sensory environment changes constantly. Accordingly, neural systems
 
 </details>
 
-#### [Excess neuronal branching allows for innervation of specific dendritic compartments in cortex](https://doi.org/10.1101/529875)
-**A D Bird, L H Deters, H Cuntz** · 2019-01-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The connectivity of cortical microcircuits is a major determinant of brain function; defining how activity propagates between different cell types is key to scaling our understanding of individual neuronal behaviour to encompass functional networks. Furthermore, the integration of synaptic currents within a dendrite depends on the spatial organisation of inputs, both excitatory and inhibitory. We identify a simple equation to estimate the number of potential anatomical contacts between neurons; finding a linear increase in potential connectivity with cable length and maximum spine length, and a decrease with overlapping volume. This enables us to predict the mean number of candidate synapses for reconstructed cells, including those realistically arranged. We identify an excess of putative connections in cortical data, with densities of neurite higher than is necessary to reliably ensure the possible implementation of any given connection. We show that potential contacts allow the particular implementation of connectivity at a subcellular level.
-
-</details>
-
 #### [Behavior influences range limits and patterns of coexistence across an elevational gradient in tropical bird diversity](https://doi.org/10.1101/528950)
 **Benjamin G Freeman, Joseph A Tobias, Dolph Schluter** · 2019-01-23
 
@@ -15138,16 +12664,6 @@ Abstract As most species live in seasonal environments, considering varying cond
 
 </details>
 
-#### [Cortical and Cardiovascular Regulation Support Adaptation to Ambient Sound Environment](https://doi.org/10.1101/513937)
-**Yu Hao, Disha Gupta, Qiuyan Sun, Lin Yao** · 2019-01-08
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Adaptation in complex biological systems is a consequence of sensitivity to environmental changes. We investigate how responses to unattended background sound changes are influenced by the interaction of external (pitch sequence context) and internal factors (biological regulation). Cortical responses (electroencephalograph Mismatch Negativity) demonstrated increased intensity and prolonged latency in unattended pitch changes in the context of the ascending pitch sequence compared with the descending pitch sequence. Moreover, ascending pitch context is associated with more activation of anterior cingula cortex and insula, suggesting arousal effect and internal regulation. However, the intensified and prolonged responses were supported by cortical and cardiovascular biomarkers for regulation respectively. These findings suggest that biological regulation may be associated with environmental context and play different roles in response sensitivity in terms of intensity and speed.
-
-</details>
-
 #### [Inception-v3 Based Method of LifeCLEF 2019 Bird Recognition](https://www.semanticscholar.org/paper/d72c231a903cbb9e5f42a29dc21071fc0a717f21)
 **Jisheng Bai, Bolun Wang, Chen Chen, Jianfeng Chen et al.** · 2019-01-01
 
@@ -15162,10 +12678,6 @@ Abstract Adaptation in complex biological systems is a consequence of sensitivit
 
 #### [University of Birmingham Bird species recognition using unsupervised modeling of individual vocalization elements](https://www.semanticscholar.org/paper/b61ae48d98bca77495319d98f2c7f0b074a486c2)
 **P. Jančovič, Munevver Kokuer Jancovic** · 2019-01-01
-
-
-#### [Prosiding Seminar Nasional Teknologi Informasi dan Kedirgantaraan : Peran Teknologi untuk](https://www.semanticscholar.org/paper/9265c9e309c93c328078def357ce72b6d3da7608)
-**Hari Prapcoyo, Bertha Pratama Adhita Putra, Rifki Indra Perwira** · 2019-01-01
 
 
 #### [Can Computers Hear Birds ? Identification of bird song and human voice through their spectral composition over time](https://www.semanticscholar.org/paper/2433af348a2938840e2e0332a24de57cdc55f0bb)
@@ -15190,24 +12702,12 @@ Human expertise for recognizing unfamiliar faces has recently been called into q
 
 </details>
 
-#### [Deep Neural Networks for Sound Event Detection](https://www.semanticscholar.org/paper/8a1de43e9170fd147f9a2e89561086c906121753)
-**Emre Çakir** · 2019-01-01
-
-
-#### [Un modelo para la extracción de conocimiento en base de datos, mediante cómputo evolutivo, automátas finitos deterministas y reglas difusas](https://www.semanticscholar.org/paper/74b9078993f6bb641274144b417e3ad27c87b997)
-**Aidys Arcón Pineda** · 2019-01-01
-
-
 #### [Bird Sound Classification Using Convolutional Neural Networks](https://www.semanticscholar.org/paper/c532302a04bbb92ff5ffa7253defe30177763169)
 **Chih-Yuan Koh, Jaw-Yuan Chang, Chiang-Lin Tai, Da Huang et al.** · 2019-01-01
 
 
 #### [Estimating Waterbird Abundance on Catfish Aquaculture Ponds Using an Unmanned Aerial System](https://doi.org/10.26076/2490-3w55)
 **P. C. Burr, Sathishkumar Samiappan, L. Hathcock, R. Moorhead et al.** · 2019-01-01
-
-
-#### [Collaborative Learning of Fine-grained Visual Data](https://www.semanticscholar.org/paper/874ac19bd50d5152a4251e665250a0915c8ea3dd)
-**Tapabrata Chakraborty** · 2019-01-01
 
 
 #### [Automated Methods to Identify Snake Species in Sri Lanka: A Review](https://www.semanticscholar.org/paper/60372f6f25ecadddc4d106d39df7f25e1c113dc3)
@@ -15249,36 +12749,6 @@ Can plants hear? That is, can they sense airborne sounds and respond to them? He
 
 </details>
 
-#### [Increased hippocampal GABAergic inhibition after long-term high-intensity sound exposure](https://doi.org/10.1101/507004)
-**Alexandra Siqueira Cunha, Junia lara de Deus, Cesar Celis Ceballos, Ricardo Mauricio Leao** · 2018-12-27
-
-<details>
-<summary>Abstract</summary>
-
-Exposure to loud sounds has been related to deleterious mental and systemic effects in addition to auditory maladies. Hippocampal function has been shown to be affected to either high intensity sound exposure or long-term sound deprivation. Hippocampal long-term potentiation (LTP) is inhibited after 10 days of daily exposure to 2 minutes of high-intensity noise (110 dB), in the hippocampi of Wistar rats. He we investigate how the glutamatergic and GABAergic neurotransmission mediated by ionotropic receptors is affected by the same protocol of high intensity sound exposure. We found that while the glutamatergic transmission both by AMPA/kainite and NMDA receptors in the Schaffer-CA1 synapses is largely unaffected by long-term exposure to high intensity sound, the amplitude of the inhibitory GABAergic currents is potentiated, but not the frequency of the both spontaneous and miniature currents. We conclude that GABAergic transmission is potentiated at the post-synaptic level in the hippocampal CA1 pyramidal neurons after a prolonged exposure to short periods of high-intensity sound. This effect could be an important factor for the reduced LTP in the hippocampi of these animals after high intensity sound exposure, and demonstrated that prolonged exposure to high- intensity sound can affect hippocampal inhibitory transmission and consequently its function.
-
-</details>
-
-#### [Sensory Cue Combination in Children Under 10 Years of Age](https://doi.org/10.1101/501585)
-**James Negen, Brittney Chere, Laura Bird, Ellen Taylor et al.** · 2018-12-20
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Cue combination occurs when two independent noisy perceptual estimates are merged together as a weighted average, creating a unified estimate that is more precise than either single estimate alone. Surprisingly, this effect has not been demonstrated compellingly in children under the age of 10 years, in contrast with the array of other multisensory skills that children show even in infancy. Instead, across a wide variety of studies, precision with both cues is no better than the best single cue – and sometimes worse. Here we provide the first consistent evidence of cue combination in children from 7–10 years old. Across three experiments, participants showed evidence of a bimodal precision advantage (Experiments 1a and 1b) and the majority were best-fit by a combining model (Experiment 2). The task was to localize a target horizontally with a binaural audio cue and a noisy visual cue in immersive virtual reality. Feedback was given as well, which could both (a) help participants judge how reliable each cue is and (b) help correct between-cue biases that might prevent cue combination. A feedback effect was found in Experiment 2, with children who were given single-cue feedback showing the highest rate of cue combination. Given this, we suggest that children at 7–10 years old are capable of cue combination in principle, but must have sufficient representations of reliabilities and biases in their own perceptual estimates as relevant to the task, which can be facilitated through task-specific feedback.
-
-</details>
-
-#### [TREM2 R47H exacerbates immune response in Alzheimer’s disease brain](https://doi.org/10.1101/499319)
-**Olena Korvatska, Kostantin Kiianitsa, Alexander Ratushny, Mark Matsushita et al.** · 2018-12-19
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The R47H variant in the microglial TREM2 receptor is a strong risk factor for Alzheimer’s disease (AD). To characterize processes affected by R47H we performed integrative network analysis of genes expressed in brains of AD patients with R47H, sporadic AD without the variant and patients with polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy (PLOSL), a systemic disease with early onset dementia caused by loss-of function mutations in TREM2 or its adaptor TYROBP. While sporadic AD had few perturbed microglial and immune genes, TREM2 R47H AD demonstrated upregulation of interferon type I response and pro-inflammatory cytokines accompanied by induction of NKG2D stress ligands. In contrast, PLOSL had distinct sets of highly perturbed immune and microglial genes that included inflammatory mediators, immune signaling, cell adhesion and phagocytosis. TREM2 knock-out in THP1, a human myeloid cell line that constitutively expresses the TREM2-TYROBP receptor, inhibited response to the viral RNA mimetic poly(I:C), and overexpression of ectopic TREM2 restored the response. Compared to wild type protein, R47H TREM2 had higher stimulatory effect on the interferon type I response signature. Our findings point to a role of the TREM2 receptor in the control of the interferon type I response in myeloid cells and provide insight regarding the contribution of R47H TREM2 to AD pathology.
-
-</details>
-
 #### [Reconciling Ecogeographical Rules: Rainfall and Temperature Predict Global Colour Variation in the Largest Bird Radiation](https://doi.org/10.1101/496463)
 **Kaspar Delhey, James Dale, Mihai Valcu, Bart Kempenaers** · 2018-12-17
 
@@ -15296,16 +12766,6 @@ Abstract Ecogeographical rules that associate climate with organismal form and f
 <summary>Abstract</summary>
 
 Although information theoretic approaches have been used extensively in the analysis of the neural code, they have yet to be used to describe how information is accumulated in time while sensory systems are categorizing dynamic sensory stimuli such as speech sounds or visual objects. Here, we present a novel method to estimate the cumulative information for stimuli or categories. We further define a time-varying categorical information index that, by comparing the information obtained for stimuli versus categories of these same stimuli, quantifies invariant neural representations. We use these methods to investigate the dynamic properties of avian cortical auditory neurons recorded in zebra finches that were listening to a large set of call stimuli sampled from the complete vocal repertoire of this species. We found that the time-varying rates carry 5 times more information than the mean firing rates even in the first 100 ms. We also found that cumulative information has slow time constants (100-600 ms) relative to the typical integration time of single neurons, reflecting the fact that the behaviorally informative features of auditory objects are time-varying sound patterns. When we correlated firing rates and information values, we found that average information correlates with average firing rate but that higher-rates found at the onset response yielded similar information values as the lower-rates found in the sustained response: the onset and sustained response of avian cortical auditory neurons provide similar levels of independent information about call identity and call type. Finally, our information measures allowed us to rigorously define categorical neurons; these categorical neurons show a high degree of invariance for vocalizations within a call-type. Surprisingly, call-type invariant neurons were found in both primary and secondary avian auditory areas. Author Summary Just as the recognition of faces requires neural representations that are invariant to scale and rotation, the recognition of behaviorally relevant auditory objects, such as spoken words, requires neural representations that are invariant to the speaker uttering the word and to his or her location. Here, we used information theory to investigate the time course of the neural representation of bird communication calls and of behaviorally relevant categories of these same calls: the call-types of the bird’s repertoire. We found that neurons in both the primary and secondary avian auditory cortex exhibit invariant responses to call renditions within a call-type, suggestive of a potential role for extracting the meaning of these communication calls. We also found that time plays an important role: first, neural responses carry significant more information when represented by temporal patterns calculated at the small time scale of 10 ms than when measured as average rates and, second, this information accumulates in a non-redundant fashion up to long integration times of 600 ms. This rich temporal neural representation is matched to the temporal richness found in the communication calls of this species.
-
-</details>
-
-#### [Sound source localization with varying amount of visual information in virtual reality](https://doi.org/10.1101/489484)
-**Axel Ahrens, Kasper Duemose Lund, Marton Marschall, Torsten Dau** · 2018-12-07
-
-<details>
-<summary>Abstract</summary>
-
-Abstract To achieve accurate spatial auditory perception, subjects typically require personal head-related transfer functions (HRTFs) and the freedom for head movements. Loudspeaker-based virtual sound environments allow for realism without individualized measurements. To study audio-visual perception in realistic environments, the combination of spatially tracked head mounted displays (HMDs), also known as virtual reality glasses, and virtual sound environments may be valuable. However, HMDs were recently shown to affect the subjects’ HRTFs and thus might influence sound localization performance. Furthermore, due to limitations of the reproduction of visual information on the HMD, audio-visual perception might be influenced. Here, a sound localization experiment was conducted both with and without an HMD and with a varying amount of visual information provided to the subjects. Furthermore, interaural time and level difference errors (ITDs and ILDs) as well as spectral perturbations induced by the HMD were analyzed and compared to the perceptual localization data. The results showed a reduction of the localization accuracy when the subjects were wearing an HMD and when they were blindfolded. The HMD-induced error in azimuth localization was found to be larger in the left than in the right hemisphere. Thus, the errors in ITD and ILD can only partly account for the perceptual differences. When visual information of the limited set of source locations was provided, the localization error induced by the HMD was found to be negligible. Presenting visual information of hand-location, room dimensions, source locations and pointing feedback on the HMD revealed similar effects as previously shown in real environments.
 
 </details>
 
@@ -15359,16 +12819,6 @@ Due to their high performance, deep learning based approaches have attracted muc
 
 </details>
 
-#### [Integrating prediction errors at two time scales permits rapid recalibration of speech sound categories](https://doi.org/10.1101/479089)
-**Itsaso Olasagasti, Anne-Lise Giraud** · 2018-11-29
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Speech perception is assumed to arise from internal models of specific sensory features associated speech sounds. When these features change, the listener should recalibrate its internal model by appropriately weighing new versus old evidence in a volatility dependent manner. Models of speech recalibration have classically ignored volatility. Those that explicitly consider volatility have been designed to describe human behavior in tasks where sensory cues are associated with arbitrary experimenter-defined categories or rewards. In such settings, a model that maintains a single representation of the category but continuously adapts the learning rate works well. Using neurocomputational modelling we show that recalibration of existing “natural” categories is better described when sound categories are represented at different time scales. We illustrate our proposal by modeling the rapid recalibration of speech categories (Lüttke et al. 2016).
-
-</details>
-
 #### [Neural Basis of the Sound-Symbolic Crossmodal Correspondence Between Auditory Pseudowords and Visual Shapes](https://doi.org/10.1101/478347)
 **Kelly McCormick, Simon Lacey, Randall Stilla, Lynne C. Nygaard et al.** · 2018-11-28
 
@@ -15376,16 +12826,6 @@ Abstract Speech perception is assumed to arise from internal models of specific 
 <summary>Abstract</summary>
 
 ABSTRACT Sound symbolism refers to the association between the sounds of words and their meanings, often studied using the crossmodal correspondence between auditory pseudowords, e.g. ‘takete’ or ‘maluma’, and pointed or rounded visual shapes, respectively. In a functional magnetic resonance imaging study, participants were presented with pseudoword-shape pairs that were sound-symbolically congruent or incongruent. We found no significant congruency effects in the blood oxygenation level-dependent (BOLD) signal when participants were attending to visual shapes. During attention to auditory pseudowords, however, we observed greater BOLD activity for incongruent compared to congruent audiovisual pairs bilaterally in the intraparietal sulcus and supramarginal gyrus, and in the left middle frontal gyrus. We compared this activity to independent functional contrasts designed to test competing explanations of sound symbolism, but found no evidence for mediation via language, and only limited evidence for accounts based on multisensory integration and a general magnitude system. Instead, we suggest that the observed incongruency effects are likely to reflect phonological processing and/or multisensory attention. These findings advance our understanding of sound-to-meaning mapping in the brain.
-
-</details>
-
-#### [Integrative Pharmacogenomics Analysis of Patient Derived Xenografts](https://doi.org/10.1101/471227)
-**Arvind Singh Mer, Wail Ba-alawi, Petr Smirnov, Yi Xiao Wang et al.** · 2018-11-16
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT One of the key challenges in cancer precision medicine is finding robust biomarkers of drug response. Patient-derived tumor xenografts (PDXs) have emerged as reliable preclinical models since they better recapitulate tumor response to chemo- and targeted therapies. However, the lack of standard tools poses a challenge in the analysis of PDXs with molecular and pharmacological profiles. Efficient storage, access and analysis is key to the realization of the full potential of PDX pharmacogenomic data. We have developed Xeva (XEnograft Visualization &amp; Analysis), an open-source software package for processing, visualization and integrative analysis of a compendium of in vivo pharmacogenomic datasets. The Xeva package follows the PDX minimum information (PDX-MI) standards and can handle both replicate-based and 1×1×1 experimental designs. We used Xeva to characterize the variability of gene expression and pathway activity across passages. We found that only a few genes and pathways have passage specific alterations (median intraclass correlation of 0.53 for genes and positive enrichment score for 92.5% pathways). For example, activity of the mRNA 3’-end processing and elongation arrest and recovery pathways were strongly affected by model passaging (gene set enrichment analysis false discovery rate [FDR] &lt;5%). We then leveraged our platform to link the drug response and the pathways whose activity is consistent across passages by mining the Novartis PDX Encyclopedia (PDXE) data containing 1,075 PDXs spanning 5 tissue types and 62 anticancer drugs. We identified 87 pathways significantly associated with response to 51 drugs (FDR &lt; 5%), including associations such as erlotinib response and signaling by EGFR in cancer pathways and MAP kinase activation in TLR cascade and binimetinib response. Among the significant pathway-drug associations, we found novel biomarkers based on gene expressions, Copy Number Aberrations (CNAs) and mutations predictive of drug response (concordance index &gt; 0.60; FDR &lt; 0.05). Xeva provides a flexible platform for integrative analysis of preclinical in vivo pharmacogenomics data to identify biomarkers predictive of drug response, a major step toward precision oncology.
 
 </details>
 
@@ -15464,16 +12904,6 @@ Young birds communicate their need to parents through complex begging displays t
 
 </details>
 
-#### [Real-Time Selective Sequencing with RUBRIC: Read Until with Basecall and Reference-Informed Criteria](https://doi.org/10.1101/460014)
-**Harrison S. Edwards, Raga Krishnakumar, Anupama Sinha, Sara W. Bird et al.** · 2018-11-02
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The Oxford MinION, the first commercial nanopore sequencer, is also the first to implement molecule-by-molecule real-time selective sequencing or “Read Until”. As DNA transits a MinION nanopore, real-time pore current data can be accessed and analyzed to provide active feedback to that pore. Fragments of interest are sequenced by default, while DNA deemed non-informative is rejected by reversing the pore bias to eject the strand, providing a novel means of background depletion and/or target enrichment. In contrast to the previously published pattern-matching Read Until approach, our RUBRIC method is the first example of real-time selective sequencing where on-line basecalling enables alignment against conventional nucleic acid references to provide the basis for sequence/reject decisions. We evaluate RUBRIC performance across a range of optimizable parameters, apply it to mixed human/bacteria and CRISPR/Cas9-cut samples, and present a generalized model for estimating real-time selection performance as a function of sample composition and computing configuration.
-
-</details>
-
 #### [Bird species identification using spectrogram and dissimilarity approach](https://doi.org/10.1016/J.ECOINF.2018.08.007)
 **Rafael H. D. Zottesso, Yandre M. G. Costa, Diego Bertolini, Luiz Oliveira** · 2018-11-01
 
@@ -15501,16 +12931,6 @@ Abstract Living in groups comes with many potential benefits, especially for juv
 <summary>Abstract</summary>
 
 As the technology is advancing, audio recognition in machine learning is improved as well. Research in audio recognition has traditionally focused on speech. Living creatures (especially the small ones) are part of the whole ecosystem, monitoring as well as maintaining them are important tasks. Species such as animals and birds are tending to change their activities as well as their habitats due to the adverse effects on the environment or due to other natural or man-made calamities. For those in far deserted areas, we will not have any idea about their existence until we can continuously monitor them. Continuous monitoring will take a lot of hard work and labor. If there is no continuous monitoring, then there might be instances where endangered species may encounter dangerous situations. The best way to monitor those species are through audio recognition. Classifying sound can be a difficult task even for humans. Powerful audio signals and their processing techniques make it possible to detect audio of various species. There might be many ways wherein audio recognition can be done. We can train machines either by pre-recorded audio files or by recording them live and detecting them. The audio of species can be detected by removing all the background noise and echoes. Smallest sound is considered as a syllable. Extracting various syllables is the process we are focusing on which is known as audio recognition in terms of Machine Learning (ML).
-
-</details>
-
-#### [Parallel systems for sound processing and functional connectivity among layer 5 and 6 auditory corticothalamic neurons](https://doi.org/10.1101/447276)
-**Ross S. Williamson, Daniel B. Polley** · 2018-10-18
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Cortical layers (L) 5 and 6 are populated by a spatially intermingled menagerie of neurons with distinct inputs and downstream targets. Here, we made optogenetically guided recordings from L5 and L6 corticothalamic (CT) neurons in the mouse auditory cortex to discern underlying patterns of functional connectivity and sensory processing in the largest sub-cerebral projection system. Whereas L5 CT neurons showed broad stimulus selectivity with sluggish response latencies and extended temporal non-linearities, L6 CTs exhibited sparse sound feature selectivity and rapid temporal processing. L5 CT spikes lagged behind neighboring units and imposed weak feedforward excitation within the local column. By contrast, L6 CT spikes drove robust and sustained activity in neighboring units. Our findings underscore a duality among CT projection neurons, where L5 CT units are canonical broadcast neurons that integrate sensory inputs for transmission to distributed downstream targets, while L6 CT neurons are positioned to regulate thalamocortical response gain and selectivity.
 
 </details>
 
@@ -15595,16 +13015,6 @@ Monitoring programmes are needed to assess the conservation status of species an
 <summary>Abstract</summary>
 
 Abstract The plant genus Ficus is a keystone resource in tropical ecoystems. One of the unique features of figs is the diversity of fruit traits, which in many cases match their various dispersers, the so-called fruit syndromes. The classic example of this is the strong phenotypic differences found between figs with bat and bird dispersers (color, size, and presentation). The ‘bird-fig’ Ficus colubrinae represents an exception to this trend since it attracts the small frugivorous bat species Ectophylla alba at night, but during the day attracts bird visitors. Here we investigate the mechanism by which this ‘bird-fig’ attracts bats despite its fruit traits, which should appeal solely to birds. We performed feeding experiments with Ectophylla alba to assess the role of fruit scent in the detection of ripe fruits. Ectophylla alba was capable of finding ripe figs by scent alone under exclusion of other sensory cues. This suggests that scent is the main foraging cue for Ectophylla alba. Analyses of odor bouquets from the bat- and bird-dispersal phases (i.e. day and night) differed significantly in their composition of volatiles. The combination of these two findings raises the question whether E. alba and F. colubrinae resemble a co-adaptation that enables a phenotypically classic ‘bird-fig’ to attract bat dispersers by an olfactory signal at night thus maximizing dispersal.
-
-</details>
-
-#### [Non-driver somatic alteration burden confers good prognosis in non-small cell lung cancer](https://doi.org/10.1101/419424)
-**Dennis Wang, Nhu-An Pham, Timothy M. Freeman, Vibha Raghavan et al.** · 2018-09-17
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Background Genomic profiling of patient tumors has linked somatic driver mutations to survival outcomes of non-small cell lung cancer (NSCLC) patients, especially for those receiving targeted therapies. However, it remains unclear whether specific non-driver mutations have any prognostic utility. Methods Whole exomes and transcriptomes were measured from NSCLC xenograft models of patients with diverse clinical outcomes. Penalised regression analysis was performed to identify a set of 865 genes associated with patient survival. The number of somatic copy number aberrations, point mutations and associated expression changes within the 865 genes were used to stratify independent NSCLC patient populations, filtered for chemotherapy naive and early-stage. In-depth genomic analysis and functional testing was conducted on the genomic alterations to understand their effect on improving survival. Results High burden of somatic alterations are associated with longer disease-free survival (HR=0.153, P=1.48×10-4) in NSCLC patients. When somatic alterations burden was integrated with gene expression, we were able to predict prognosis in three independent patient datasets. Patients with high alteration burden could be further stratified based on the presence of immunogenic mutations, revealing another subgroup of patients with even better prognosis (85% with &gt;5 years survival), and associated with cytotoxic T-cell expression. In addition, 95% of these 865 genes lack documented activity relevant to cancer, but are in pathways regulating cell proliferation, motility and immune response were implicated. Conclusion Our results demonstrate that non-driver somatic alterations may influence the outcome of cancer patients by increasing beneficial immune response and inhibiting processes associated to tumorigenesis.
 
 </details>
 
@@ -15696,26 +13106,6 @@ Abstract The diapsid lineage (birds) and synapsid lineage (mammals), share a sui
 
 </details>
 
-#### [Quantitative modelling predicts the impact of DNA methylation on RNA polymerase II traffic](https://doi.org/10.1101/391904)
-**Justyna Cholewa-Waclaw, Ruth Shah, Shaun Webb, Kashyap Chhatbar et al.** · 2018-08-14
-
-<details>
-<summary>Abstract</summary>
-
-Patterns of gene expression are primarily determined by proteins that locally enhance or repress transcription. While many transcription factors target a restricted number of genes, others appear to modulate transcription levels globally. An example is MeCP2, an abundant methylated-DNA binding protein that is mutated in the neurological disorder Rett Syndrome. Despite much research, the molecular mechanism by which MeCP2 regulates gene expression is not fully resolved. Here we integrate quantitative, multi-dimensional experimental analysis and mathematical modelling to show that MeCP2 is a novel type of global transcriptional regulator whose binding to DNA creates "slow sites" in gene bodies. Waves of slowed-down RNA polymerase II formed behind these sites travel backward and indirectly affect initiation, reminiscent of defect-induced shock waves in non-equilibrium physics transport models. This mechanism differs from conventional gene regulation mechanisms, which often involve direct modulation of transcription initiation. Our findings uncover a genome-wide function of DNA methylation that may account for the reversibility of Rett syndrome in mice. Moreover, our combined theoretical and experimental approach provides a general method for understanding how global gene expression patterns are choreographed.
-
-</details>
-
-#### [Effects of cochlear synaptopathy on spontaneous and sound-evoked activity in the mouse inferior colliculus](https://doi.org/10.1101/381087)
-**Luke A. Shaheen, M. Charles Liberman** · 2018-08-06
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Tinnitus and hyperacusis are life-disrupting perceptual abnormalities that are often preceded by acoustic overexposure. Animal models of overexposure have suggested a link between these phenomena and neural hyperactivity, i.e. elevated spontaneous rates (SRs) and sound-evoked responses. Prior work has focused on changes in central auditory responses, with less attention paid to the exact nature of the associated peripheral damage. The demonstration that acoustic overexposure can cause cochlear nerve damage without permanent threshold elevation suggests this type of peripheral damage may be a key elicitor of tinnitus and hyperacusis in humans with normal audiograms. We addressed this idea by recording responses in the mouse inferior colliculus (IC) following a bilateral, neuropathic noise exposure. Two wks post-exposure, mean SRs were unchanged in mice recorded while awake, or under anesthesia. SRs were also unaffected by more intense, or unilateral exposures. These results suggest that neither neuropathy nor hair cell loss are sufficient to raise SRs in the IC, at least in mice. However, it’s not clear whether our mice had tinnitus. Tone-evoked rate-level functions at the CF were steeper following exposure, specifically in the region of maximal neuropathy. Furthermore, suppression driven by off-CF tones and by ipsilateral noise were also reduced. Both changes were especially pronounced in neurons of awake mice. These findings align with prior reports of elevated acoustic startle in neuropathic mice, and indicate that neuropathy may initiate a compensatory response in the central auditory system leading to the genesis of hyperacusis.
-
-</details>
-
 #### [DCASE 2018 Challenge Surrey Cross-Task convolutional neural network baseline](https://arxiv.org/abs/1808.00773)
 **Qiuqiang Kong, Turab Iqbal, Yong Xu, Wenwu Wang et al.** · 2018-08-02
 
@@ -15737,28 +13127,6 @@ The Detection and Classification of Acoustic Scenes and Events (DCASE) consists 
 <summary>Abstract</summary>
 
 Animals in natural communities gain information from members of other species facing similar ecological challenges [1-5], including many vertebrates that recognize the alarm calls of heterospecifics vulnerable to the same predators [6]. Learning is critical in explaining this widespread recognition [7-13], but there has been no test of the role of social learning in alarm-call recognition, despite the fact that it is predicted to be important in this context [14, 15]. We show experimentally that wild superb fairy-wrens, Malurus cyaneus, learn socially to recognize new alarm calls and can do so through the previously undemonstrated mechanism of acoustic-acoustic association of unfamiliar with known alarm calls. Birds were trained in the absence of any predator by broadcasting unfamiliar sounds, to which they did not originally flee, in combination with a chorus of conspecific and heterospecific aerial alarm calls (typically given to hawks in flight). The fairy-wrens responded to the new sounds after training, usually by fleeing to cover, and responded equally as strongly in repeated tests over a week. Control playbacks showed that the response was not due simply to greater wariness. Fairy-wrens therefore learnt to associate new calls with known alarm calls, without having to see the callers or a predator. This acoustic-acoustic association mechanism of social learning could result in the rapid spread of alarm-call recognition in natural communities, even when callers or predators are difficult to observe. Moreover, this mechanism offers potential for use in conservation by enhancing training of captive-bred individuals before release into the wild.
-
-</details>
-
-#### [Mitochondrial RNA capping: highly efficient 5’-RNA capping with NAD
-                  <sup>+</sup>
-                  and NADH by yeast and human mitochondrial RNA polymerase](https://doi.org/10.1101/381160)
-**Jeremy G. Bird, Urmimala Basu, David Kuster, Aparna Ramachandran et al.** · 2018-07-31
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Bacterial and eukaryotic nuclear RNA polymerases (RNAPs) cap RNA with the oxidized and reduced forms of the metabolic effector nicotinamide adenine dinucleotide, NAD + and NADH, using NAD + and NADH as non-canonical initiating nucleotides for transcription initiation. Here, we show that mitochondrial RNAPs (mtRNAPs) cap RNA with NAD + and NADH, and do so more efficiently than nuclear RNAPs. Direct quantitation of NAD + - and NADH-capped RNA demonstrates remarkably high levels of capping in vivo : up to ~60% NAD + and NADH capping of yeast mitochondrial transcripts, and up to ~10% NAD + capping of human mitochondrial transcripts. The capping efficiency is determined by promoter sequence at, and upstream of, the transcription start site and, in yeast and human cells, by intracellular NAD + and NADH levels. Our findings indicate mtRNAPs serve as both sensors and actuators in coupling cellular metabolism to mitochondrial gene expression, sensing NAD + and NADH levels and adjusting transcriptional outputs accordingly.
-
-</details>
-
-#### [Human Sound Localization Depends on Sound Intensity: Implications for Sensory Coding](https://doi.org/10.1101/378505)
-**Antje Ihlefeld, Nima Alamatsaz, Robert M Shapley** · 2018-07-30
-
-<details>
-<summary>Abstract</summary>
-
-A fundamental question of human perception is how we perceive target locations in space. Through our eyes and skin, the activation patterns of sensory organs provide rich spatial cues. However, for other sensory dimensions, including sound localization and visual depth perception, spatial locations must be computed by the brain. For instance, interaural time differences (ITDs) of the sounds reaching the ears allow listeners to localize sound in the horizontal plane. Our experiments tested two prevalent theories on how ITDs affect human sound localization: 1) the labelled-line model, encoding space through tuned representations of spatial location; versus 2) the hemispheric-difference model, representing space through spike-rate distances relative to a perceptual anchor. Unlike the labelled-line model, the hemispheric-difference model predicts that with decreasing intensity, sound localization should collapse toward midline reference, and this is what we observed behaviorally. These findings cast doubt on models of human sound localization that rely on a spatially tuned map. Moreover, analogous experimental results in vision indicate that perceived depth depends upon the contrast of the target. Based on our findings, we propose that the brain uses a canonical computation of location across sensory modalities: perceived location is encoded through population spike rate relative to baseline.
 
 </details>
 
@@ -15829,16 +13197,6 @@ Abstract The viability and dynamics of spatially structured populations depend c
 
 </details>
 
-#### [Genetic data and cognitively-defined late-onset Alzheimer’s disease subgroups](https://doi.org/10.1101/367615)
-**Shubhabrata Mukherjee, Jesse Mez, Emily Trittschuh, Andrew J. Saykin et al.** · 2018-07-11
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Categorizing people with late-onset Alzheimer’s disease into biologically coherent subgroups is important for personalized medicine. We evaluated data from five studies (total n=4 050, of whom 2 431 had genome-wide single nucleotide polymorphism (SNP) data). We assigned people to cognitively-defined subgroups on the basis of relative performance in memory, executive functioning, visuospatial functioning, and language at the time of Alzheimer’s disease diagnosis. We compared genotype frequencies for each subgroup to those from cognitively normal elderly controls. We focused on APOE and on SNPs with p&lt;10 -5 and odds ratios more extreme than those previously reported for Alzheimer’s disease (&lt;0.77 or &gt;1.30). There was substantial variation across studies in the proportions of people in each subgroup. In each study, higher proportions of people with isolated substantial relative memory impairment had ≥1 APOE e4 allele than any other subgroup (overall p= 1.5 × 10 -27 ). Across subgroups, there were 33 novel suggestive loci across the genome with p&lt;10 -5 and an extreme OR compared to controls, of which none had statistical evidence of heterogeneity and 30 had ORs in the same direction across all datasets. These data support the biological coherence of cognitively-defined subgroups and nominate novel genetic loci.
-
-</details>
-
 #### [Densely Connected CNNs for Bird Audio Detection](https://arxiv.org/abs/1807.02776)
 **Thomas Pellegrini** · 2018-07-08
 
@@ -15846,16 +13204,6 @@ Abstract Categorizing people with late-onset Alzheimer’s disease into biologic
 <summary>Abstract</summary>
 
 Detecting bird sounds in audio recordings automatically, if accurate enough, is expected to be of great help to the research community working in bio- and ecoacoustics, interested in monitoring biodiversity based on audio field recordings. To estimate how accurate the state-of-the-art machine learning approaches are, the Bird Audio Detection challenge involving large audio datasets was recently organized. In this paper, experiments using several types of convolutional neural networks (i.e. standard CNNs, residual nets and densely connected nets) are reported in the framework of this challenge. DenseNets were the preferred solution since they were the best performing and most compact models, leading to a 88.22% area under the receiver operator curve score on the test set of the challenge. Performance gains were obtained thank to data augmentation through time and frequency shifting, model parameter averaging during training and ensemble methods using the geometric mean. On the contrary, the attempts to enlarge the training dataset with samples of the test set with automatic predictions used as pseudo-groundtruth labels consistently degraded performance.
-
-</details>
-
-#### [The processing of color preference in the brain](https://doi.org/10.1101/361006)
-**Chris Racey, Anna Franklin, Chris M. Bird** · 2018-07-03
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Decades of research has established that humans have preferences for some colors (e.g., blue) and a dislike of others (e.g., dark chartreuse), with preference varying systematically with variation in hue (e.g., Hurlbert &amp; Owen, 2015). Here, we used functional MRI to investigate why humans have likes and dislikes for simple patches of color, and to understand the neural basis of preference, aesthetics and value judgements more generally. We looked for correlations of a behavioural measure of color preference with the blood oxygen level-dependent (BOLD) response when participants performed an irrelevant orientation judgement task on colored squares. A whole brain analysis found a significant correlation between BOLD activity and color preference in the posterior midline cortex (PMC), centred on the precuneus but extending into the adjacent posterior cingulate and cuneus. These results demonstrate that brain activity is modulated by color preference, even when such preferences are irrelevant to the ongoing task the participants are engaged. They also suggest that color preferences automatically influence our processing of the visual world. Interestingly, the effect in the PMC overlaps with regions identified in neuroimaging studies of preference and value judgements of other types of stimuli. Therefore, our findings extends this literature to show that the PMC is related to automatic encoding of subjective value even for basic visual features such as color.
 
 </details>
 
@@ -15876,26 +13224,6 @@ Automated audio recording offers a powerful tool for acoustic monitoring schemes
 <summary>Abstract</summary>
 
 Abstract The ecological impacts of roads and railways extend into the surrounding landscape, leading to habitat degradation and reduced animal densities within an area that is considerably larger than the actual road or railway corridor. For birds, an extensive meta-analysis has pointed at an average of 20% density reduction within 1 km from the infrastructure. I investigated to what extent this density reduction could potentially compromise the habitat quality and conservation value of Swedish Natura 2000 areas designated for the protection of birds (Special Protection Areas; SPAs). A majority (63%) of Swedish SPAs are at least to some extent found within this 1 km potential effect zone. The total overlap between SPA and effect zone is 126,000 ha, or 4.2% of the country’s SPA area. There are however large differences among biogeographical regions. In the southern (continental) and coastal regions combined, 25.8% of the total SPA area fall within the effect zone, representing an estimated 4-7% reduction in bird abundance within SPAs. The probability of overlap with effect zone is higher for larger SPAs. However, the proportion of overlap is higher for smaller SPAs, and accordingly smaller sites can be assumed to experience a greater impact from transport infrastructure and traffic. The impacts on Natura 2000 sites are particularly concerning as this network of protected areas is a cornerstone to maintain and restore biodiversity within EU. I recommend putting a stronger emphasis in the management of Natura 2000 sites on the potential threats to wildlife conservation caused by transport infrastructure and traffic. Special attention should be paid in sites with a large overlap with the effect zone, and in sites hosting particularly vulnerable taxa or habitats. Infrastructure owners and managers should do their best to minimize and compensate for the negative impacts of roads and railways and related traffic in SPAs and other protected areas.
-
-</details>
-
-#### [Primary auditory cortex represents the location of sound sources in a cue- invariant manner](https://doi.org/10.1101/348672)
-**Katherine C Wood, Stephen M Town, Jennifer K Bizley** · 2018-06-16
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Auditory cortex is required for sound localisation, but how neural firing in auditory cortex underlies our perception of sources in space remains unknown. We measured spatial receptive fields in animals actively attending to spatial location while they performed a relative localisation task using stimuli that varied in the spatial cues that they provided. Manipulating the availability of binaural and spectral localisation cues had mild effects on the ferret’s performance and little impact on the spatial tuning of neurons in primary auditory cortex (A1). Consistent with a representation of space, a subpopulation of neurons encoded spatial position across localisation cue types. Spatial receptive fields measured in the presence of a competing sound source were sharper than those measured in a single-source configuration. Together these observations suggest that A1 encodes the location of auditory objects as opposed to spatial cue values. We compared our data to predictions generated from two theories about how space is represented in auditory cortex: The two-channel model, where location is encoded by the relative activity in each hemisphere, and the labelled-line model where location is represented by the activity pattern of individual cells. The representation of sound location in A1 was mainly contralateral but peak firing rates were distributed across the hemifield consistent with a labelled line model in each hemisphere representing contralateral space. Comparing reconstructions of sound location from neural activity, we found that a labelled line architecture far outperformed two channel systems. Reconstruction ability increased with increasing channel number, saturating at around 20 channels. Significance statement Our perception of a sound scene is one of distinct sound sources each of which can be localised, yet auditory space must be computed from sound location cues that arise principally by comparing the sound at the two ears. Here we ask: (1) do individual neurons in auditory cortex represent space, or sound localisation cues? (2) How is neural activity ‘read out’ for spatial perception? We recorded from auditory cortex in ferrets performing a localisation task and describe a subpopulation of neurons that represent space across localisation cues. Our data are consistent with auditory space being read out using the pattern of activity across neurons (a labelled line) rather than by averaging activity within each hemisphere (a two-channel model).
-
-</details>
-
-#### [Coevolution of structural variation and optimization in sound systems of human language](https://doi.org/10.1101/346965)
-**Meng-Han Zhang, Tao Gong** · 2018-06-14
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Evolution of sound systems of human language is an optimization process to improve communicative effectiveness: The intrinsic structures of sound systems are constantly organized with respect to constraints in speech production and perception. However, there lack sufficient quantitative descriptions of this process, large-scale investigations on universal tendencies in sound systems, and explicit evidence on whether demographic and/or geographic factors can influence linguistic typology of sound systems. Here, we proposed two composite parameters, namely structural variation and optimization, to capture linguistic typology of sound systems, vowel systems in particular. Synchronic comparisons based on a large-scale vowel corpus of world languages revealed a universal negative correlation between the two parameters. Phylogenetic comparative analyses identified a correlated evolution of the two, but with distinct evolutionary modes: a gradual evolution of the structural variation and a punctuated equilibrium of the optimization. Mixed-effect models also reported significant effects of speaker population size and longitude on shaping vowel systems of world languages. All these findings elaborate the intrinsic evolutionary mechanism of sound systems, clarify the extrinsic, non-linguistic effects on shaping human sound systems, and quantitatively describe and interpret the evolution and typology of sound systems.
 
 </details>
 
@@ -15946,16 +13274,6 @@ In this paper, we showed how to solve exemplary image classification problem. Th
 <summary>Abstract</summary>
 
 This paper proposes a multi-layer alternating sparse-dense framework for bird species identification. The framework takes audio recordings of bird vocalizations and produces compressed convex spectral embeddings (CCSE). Temporal and frequency modulations in bird vocalizations are ensnared by concatenating frames of the spectrogram, resulting in a high dimensional and highly sparse super-frame-based representation. Random projections are then used to compress these super-frames. Class-specific archetypal analysis is employed on the compressed super-frames for acoustic modeling, obtaining the convex-sparse CCSE representation. This representation efficiently captures species-specific discriminative information. However, many bird species exhibit high intra-species variations in their vocalizations, making it hard to appropriately model the whole repertoire of vocalizations using only one dictionary of archetypes. To overcome this, each class is clustered using Gaussian mixture models (GMM), and for each cluster, one dictionary of archetypes is learned. To calculate CCSE for any compressed super-frame, one dictionary from each class is chosen using the responsibilities of individual GMM components. The CCSE obtained using this GMM-archetypal analysis framework is referred to as local CCSE. Experimental results corroborate that local CCSE either outperforms or exhibits comparable performances to existing methods including support vector machine powered by dynamic kernels and deep neural networks.
-
-</details>
-
-#### [Auditory evoked potentials to changes in speech sound duration in anesthetized mice](https://doi.org/10.1101/329433)
-**A. Lipponen, J.L.O. Kurkela, Kyläheiko I., Hölttä S. et al.** · 2018-05-24
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Electrophysiological response termed mismatch negativity (MMN) indexes auditory change detection in humans. An analogous response, called the mismatch response (MMR), is also elicited in animals. Mismatch response has been widely utilized in investigations of change detection in human speech sounds in rats and guinea pigs, but not in mice. Since e.g. transgenic mouse models provide important advantages for further studies, we studied processing of speech sounds in anesthetized mice. Auditory evoked potentials were recorded from the dura above the auditory cortex to changes in duration of a human speech sound /a/. In oddball stimulus condition, the MMR was elicited at 53-259 ms latency in response to the changes. The MMR was found to the large (from 200 ms to 110 ms) but not to smaller (from 200 ms to 120-180 ms) changes in duration. The results suggest that mice can represent human speech sounds in order to detect changes in their duration. The findings can be utilized in future investigations applying mouse models for speech perception.
 
 </details>
 
@@ -16091,18 +13409,6 @@ Reliable identification of bird species in recorded audio files would be a trans
 **Vincent Lostanlen, J. Salamon, Andrew Farnsworth, S. Kelling et al.** · 2018-04-15
 
 
-#### [The molecular structure of
-                  <i>Schistosoma mansoni</i>
-                  PNP isoform 2 provides insights into the nucleotide selectivity of PNPs](https://doi.org/10.1101/300533)
-**Juliana Roberta Torini, Larissa Romanello, Fernanda Aparecida Heleno Batista, Vitor Hugo Balasco Serrão et al.** · 2018-04-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Purine nucleoside phosphorylases (PNPs) play an important role in the blood fluke parasite Schistosoma mansoni as a key enzyme of the purine salvage pathway. Here we present the structural and kinetic characterization of a new PNP isoform from S. mansoni , named as Sm PNP2. Screening of different ligands using a thermofluorescence approach indicated cytidine and cytosine as potential ligands. The binding of cytosine was confirmed by isothermal titration calorimetry, with a K D of 27 μM, and kinetic parameters for cytidine catalysis were obtained by ITC resulting in a K M of 76.3 μM. Sm PNP2 also displays catalytic activity against inosine and adenosine, making it the first described PNP with robust catalytic activity towards both pyrimidines and purines. Crystallographic structures of Sm PNP2 with different ligands were obtained and comparison of these structures with the previously described S. mansoni PNP ( Sm PNP1) provided clues for the unique capability of Sm PNP2 to bind pyrimidines. When compared with the structure of Sm PNP1, substitutions in the vicinity of Sm PNP2 active site alter the architecture of the nucleoside base binding site allowing an alternative binding mode for nucleosides, with a 180° rotation from the canonical binding mode. The remarkable plasticity of this binding site deepens the understanding of the correlation between structure and nucleotide selectivity, offering new ways to analyses PNP activity. Author Summary Schistosoma mansoni is a human parasite dependent on purine salvage for purine bases supply. Purine nucleoside phosphorylase (PNP) is a key enzyme in this pathway. It carries two PNP isoforms, one previously characterized ( Sm PNP1) and one unknown ( Sm PNP2). Here we present the crystallographic structure of Sm PNP2 and its complex with cytosine, cytidine, ribose-l-phosphate, adenine, hypoxanthine, and tubercidin. Cytidine and cytosine were identified as ligands of Sm PNP2 using a thermofluorescence approach. Binding of cytosine was proven by Isothermal Titration Calorimetry (ITC) and cytidine, inosine, and adenosine kinetic parameters were also obtained. Purine bases showed different binding in the active site, rotated 180° from the canonical binding mode. It’s the first report showing a Low Molecular Mass PNP capable of catalyzing both types of nucleotide bases. The Sm PNP2 odd behavior sheds a new light on the Schistosoma mansoni ’s life cycle metabolic adaptation.
-
-</details>
-
 #### [Automatic Bird Vocalization Identification Based on Fusion of Spectral Pattern and Texture Features](https://doi.org/10.1109/ICASSP.2018.8462156)
 **Sai-hua Zhang, Zhao Zhao, Zhi-yong Xu, Kristen M. Bellisario et al.** · 2018-04-12
 
@@ -16114,16 +13420,6 @@ Abstract Purine nucleoside phosphorylases (PNPs) play an important role in the b
 <summary>Abstract</summary>
 
 Abstract Multinomial-Poisson mixture models reveal unexpected higher density estimates of an Andean threatened bird .Distance sampling and repeated counts are important tools to estimate population density of birds with low detectability. Here we use model based approach to assess the population density of a threatened bird, the Multicolored Tanager ( Chlorochrysa nitidissima ). We conducted 144 fixed point counts samplings to record all the individuals of the Multicolored Tanager detected by visual and aural observations from different habitats (forest edge, mature, secondary, and riparian forest), during four months in an Important Bird Area of Central Andes of Colombia. We used spatially replicated counts, distance sampling, and multinomial- Poisson mixture models to estimate the population density of the Multicolored Tanager. Accumulated sampling effort was of 576 repetitions in 144 point counts with 96 h of observation. The Multinomial-Poisson mixture model showed the best fit due low variance of density estimations in comparison to the conventional distance sampling and the spatially replicated counts. Results of this model evidenced a remarkable higher density estimates (1.3 – 2.05 individuals/ha) of the Multicolored Tanager, particularly in mature and secondary forest, as a result of detection correction, instead of sampling effort, by our model based analysis in contrast to index density used in previous studies. We discuss the advantages of model based methods over density indexes in designs monitoring programs of endangered species as the Multicolored Tanager, in order to obtain better and comparable assessment of density estimations along multiple localities. Resumen La combinación de modelos multi-nominales y Poisson revelan estimaciones de densidad altas inesperadas en un ave amenazada Andina . Los muestreos por distancias y los conteos repetidos son herramientas importantes para estimar la densidad de población de aves con baja detección. Aquí utilizamos un enfoque basado en modelos para evaluar la densidad de población de un ave amenazada, la tangara multicolor ( Chlorochrysa nitidissima ). Realizamos 144 muestreos de conteos de puntos fijos para registrar todos los individuos de la tangara multicolor detectados por observaciones visuales y auditivas en diferentes hábitats (borde del bosque, bosque maduro, bosque secundario y bosque ribereño), durante cuatro meses en un Área Importante para la Conservación de las Aves en los Andes centrales de Colombia. Utilizamos conteos replicados espacialmente, muestreos de distancia y la combinación de modelos multi-nominales y Poisson para estimar la densidad de población de la tangara multicolor. El esfuerzo de muestreo acumulado fue de 576 repeticiones en 144 puntos de conteo con 96 h de observación. La combinación de modelos multi-nominales y Poisson mostró el mejor ajuste debido a la baja varianza de las estimaciones de densidad en comparación con el muestreo de distancias y los conteos replicados espacialmente. Los resultados de este modelo evidenciaron una notable estimación de mayor densidad (1.3 – 2.05 individuos / ha) de la tangara multicolor, principalmente en bosques maduros y secundarios, como resultado de la corrección de la detección por nuestro análisis basado en modelos, en lugar del esfuerzo de muestreo, en contraste con los índices de densidad utilizados en estudios previos. Discutimos las ventajas de los métodos basados en modelos sobre los índices de densidad en los diseños de programas de monitoreo de especies en peligro como la tangara multicolor, con el fin de obtener una evaluación mejor y comparable de las estimaciones de densidad a lo largo de múltiples localidades.
-
-</details>
-
-#### [Meta-analysis of genetic association with diagnosed Alzheimer’s disease identifies novel risk loci and implicates Abeta, Tau, immunity and lipid processing](https://doi.org/10.1101/294629)
-**BW Kunkle, B Grenier-Boley, R Sims, JC Bis et al.** · 2018-04-04
-
-<details>
-<summary>Abstract</summary>
-
-Introduction Late-onset Alzheimer’s disease (LOAD, onset age &gt; 60 years) is the most prevalent dementia in the elderly 1 , and risk is partially driven by genetics 2 . Many of the loci responsible for this genetic risk were identified by genome-wide association studies (GWAS) 3–8 . To identify additional LOAD risk loci, the we performed the largest GWAS to date (89,769 individuals), analyzing both common and rare variants. We confirm 20 previous LOAD risk loci and identify four new genome-wide loci ( IQCK , ACE , ADAM10 , and ADAMTS1 ). Pathway analysis of these data implicates the immune system and lipid metabolism, and for the first time tau binding proteins and APP metabolism. These findings show that genetic variants affecting APP and Aβ processing are not only associated with early-onset autosomal dominant AD but also with LOAD. Analysis of AD risk genes and pathways show enrichment for rare variants ( P = 1.32 × 10 −7 ) indicating that additional rare variants remain to be identified.
 
 </details>
 
@@ -16159,20 +13455,6 @@ Abstract Most missense mutations causing Rett syndrome affect domains of MeCP2 t
 
 </details>
 
-#### [Ensemble of deep learning, visual and acoustic features for music genre classification](https://doi.org/10.1080/09298215.2018.1438476)
-**L. Nanni, Yandre M. G. Costa, R. L. Aguiar, C. Silla et al.** · 2018-03-21
-
-
-#### [Would an RRS by any other name sound as RAD?](https://doi.org/10.1101/283085)
-**Erin O Campbell, Bryan M T Brunet, Julian R Dupuis, Felix A H Sperling** · 2018-03-15
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Sampling markers throughout a genome with restriction enzymes emerged in the 2000s as reduced representation shotgun sequencing (RRS). Rapid advances in sequencing technology have since spurred modifications of RRS, giving rise to many derivatives with unique names, such as RADseq. But naming conventions have often been more creative than consistent, with unclear criteria for recognition as a unique method resulting in a proliferation of names characterized by ambiguity. We conducted a literature review to assess methodological and etymological relationships among 36 restriction enzyme-based methods, as well as rates of correct referencing of commonly-used methods. We identify several instances of methodological convergence or misattribution in the literature, and note that many published derivatives have modified only minor elements of parent protocols. We urge greater restraint in naming derivative methods, to strike a better balance between clarity, recognition of scientific innovation, and correct attribution.
-
-</details>
-
 #### [The importance of semantic network brain regions in integrating prior knowledge with an ongoing dialogue](https://doi.org/10.1101/276683)
 **Petar P. Raykov, James L. Keidel, Jane Oakhill, Chris M. Bird** · 2018-03-07
 
@@ -16193,10 +13475,6 @@ Based on the transfer learning, we design a bird species identification model th
 
 </details>
 
-#### [Guest Editorial: Computer Vision for Animal Biometrics](https://doi.org/10.1049/iet-cvi.2018.0019)
-**T. Burghardt, Robert B. Fisher, S. Ravela** · 2018-03-01
-
-
 #### [Bird and whale species identification using sound images](https://doi.org/10.1049/IET-CVI.2017.0075)
 **L. Nanni, R. L. Aguiar, Yandre M. G. Costa, S. Brahnam et al.** · 2018-03-01
 
@@ -16210,26 +13488,6 @@ Based on the transfer learning, we design a bird species identification model th
 <summary>Abstract</summary>
 
 ABSTRACT Plant growth, development, and nutritional quality depends upon amino acid homeostasis, especially in seeds. However, our understanding of the underlying genetics influencing amino acid content and composition remains limited, with only a few candidate genes and quantitative trait loci identified to date. Improved knowledge of the genetics and biological processes that determine amino acid levels will enable researchers to use this information for plant breeding and biological discovery. Towards this goal, we used genomic prediction to identify biological processes that are associated with, and therefore potentially influence, free amino acid (FAA) composition in seeds of the model plant Arabidopsis thaliana . Markers were split into categories based on metabolic pathway annotations and fit using a genomic partitioning model to evaluate the influence of each pathway on heritability explained, model fit, and predictive ability. Selected pathways included processes known to influence FAA composition, albeit to an unknown degree, and spanned four categories: amino acid, core, specialized, and protein metabolism. Using this approach, we identified associations for pathways containing known variants for FAA traits, in addition to finding new trait-pathway associations. Markers related to amino acid metabolism, which are directly involved in the FAA regulation, improved predictive ability for branched chain amino acids and histidine. The use of genomic partitioning also revealed patterns across biochemical families, in which serine-derived FAAs were associated with protein related annotations and aromatic FAAs were associated with specialized metabolic pathways. Taken together, these findings provide evidence that genomic partitioning is a viable strategy to uncover the relative contributions of biological processes to FAA traits in seeds, offering a promising framework to guide hypothesis testing and narrow the search space for candidate genes.
-
-</details>
-
-#### [Sound induces change in orientation preference of V1 neurons: Audio-visual cross-influence](https://doi.org/10.1101/269589)
-**Nayan Chanauria, Vishal Bharmauria, Lyes Bachatene, Sarah Cattan et al.** · 2018-02-22
-
-<details>
-<summary>Abstract</summary>
-
-Abstract In the cortex, demarcated unimodal sensory regions often respond to unforeseen sensory stimuli and exhibit plasticity. The goal of the current investigation was to test evoked responses of primary visual cortex (V1) neurons when an adapting auditory stimulus is applied in isolation. Using extracellular recordings in anesthetized cats, we demonstrate that, unlike the prevailing observation of only slight modulations in the firing rates of the neurons, sound imposition in isolation entirely shifted the peaks of orientation tuning curves of neurons in both supra- and infragranular layers of V1. Our results suggest that neurons specific to either layer dynamically integrate features of sound and modify the organization of the orientation map of V1. Intriguingly, these experiments present novel findings that the mere presentation of a prolonged auditory stimulus may drastically recalibrate the tuning properties of the visual neurons and highlight the phenomenal neuroplasticity of V1 neurons. Highlights Prolonged application of sound shifts preferred orientation of neurons in area 17 of cats. Orientation tuning shifts in the individual neurons in supra- and infragranular layers of V1. Supra- and infragranular layers of V1 operate together but also as distinct compartments following sound adaptation. Visual cortex is specifically and dynamically impacted by non-visual stimuli. Sound adaptation certainly modifies the organization of orientation maps in V1.
-
-</details>
-
-#### [Neural signatures of the processing of temporal patterns in sound](https://doi.org/10.1101/261271)
-**Björn Herrmann, Ingrid S. Johnsrude** · 2018-02-07
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The ability to detect regularities in sound (i.e., recurring structure) is critical for effective perception, enabling, for example, change detection and prediction. Two seemingly unconnected lines of research concern the neural operations involved in processing regularities: one investigates how neural activity synchronizes with temporal regularities (e.g., frequency modulation; FM) in sounds, whereas the other focuses on increases in sustained activity during stimulation with repeating tone-frequency patterns. In three electroencephalography studies with male and female human participants, we investigated whether neural synchronization and sustained neural activity are dissociable, or whether they are functionally interdependent. Experiment I demonstrated that neural activity synchronizes with temporal regularity (FM) in sounds, and that sustained activity increases concomitantly. In Experiment II, phase coherence of FM in sounds was parametrically varied. Although neural synchronization was more sensitive to changes in FM coherence, such changes led to a systematic modulation of both neural synchronization and sustained activity, with magnitude increasing as coherence increased. In Experiment III, participants either performed a duration categorization task on the sounds, or a visual object tracking task to distract attention. Neural synchronization was observed irrespective of task, whereas the sustained response was observed only when attention was on the auditory task, not under (visual) distraction. The results suggest that neural synchronization and sustained activity levels are functionally linked: both are sensitive to regularities in sounds. However, neural synchronization might reflect a more sensory-driven response to regularity, compared with sustained activity which may be influenced by attentional, contextual, or other experiential factors. Significance statement Optimal perception requires that the auditory system detects regularities in sounds. Synchronized neural activity and increases in sustained neural activity both appear to index the detection of a regularity, but the functional interrelation of these two neural signatures is unknown. In three electroencephalography experiments, we measured both signatures concomitantly while listeners were presented with sounds containing frequency modulations that differed in their regularity. We observed that both neural signatures are sensitive to temporal regularity in sounds, although they functionally decouple when a listener is distracted by a demanding visual task. Our data suggest that neural synchronization reflects a more automatic response to regularity, compared with sustained activity which may be influenced by attentional, contextual, or other experiential factors.
 
 </details>
 
@@ -16317,24 +13575,8 @@ Abstract Acoustic sampling methods are becoming increasingly important in biolog
 **S. Hamao** · 2018-01-01
 
 
-#### [Automatic General Audio Signal Classification](https://www.semanticscholar.org/paper/7acf6d57ea4d50333d1f576ef47817867c5f090b)
-**Kun Qian** · 2018-01-01
-
-
 #### [Communication Masking by Man-Made Noise](https://doi.org/10.1007/978-1-4939-8574-6_2)
 **R. Dooling, M. Leek** · 2018-01-01
-
-
-#### [Advances in Signal Processing and Intelligent Recognition Systems](https://doi.org/10.1007/978-981-13-5758-9)
-**Sabu M. Thampi, O. Marques, S. Krishnan, Kuan Ching Li et al.** · 2018-01-01
-
-
-#### [P 2h 21 Phonological and lexico-semantic processing during kanji word reading : An MEG study](https://www.semanticscholar.org/paper/1749be357c457a576d434e4726e4a7f954273c42)
-**Yuki Nagata, Qiang Wei, Aya Ihara, T. Hayakawa et al.** · 2018-01-01
-
-
-#### [Sound Production Learning and the Contiguum Hypothesis](https://doi.org/10.12775/3991-1.069)
-**Pedro Tiago Martins, C. Boeckx** · 2018-01-01
 
 
 #### [MORPHOLOGICAL STUDY OF LARYNX AND SYRINX OF BLACK FRANCOLIN ( Francolinus francolinus ) IN IRAQ](https://www.semanticscholar.org/paper/23944dfa25a838499414e34529a0a19fcc1503b1)
@@ -16384,31 +13626,9 @@ Abstract Acoustic sampling methods are becoming increasingly important in biolog
 
 ### 2017
 
-#### [“CapZyme-Seq” comprehensively defines promoter-sequence determinants for RNA 5’ capping with NAD
-                  <sup>+</sup>](https://doi.org/10.1101/239426)
-**Irina O. Vvedenskaya, Jeremy G. Bird, Yuanchao Zhang, Yu Zhang et al.** · 2017-12-24
-
-<details>
-<summary>Abstract</summary>
-
-SUMMARY Nucleoside-containing metabolites such as NAD + can be incorporated as “5′ caps” on RNA by serving as non-canonical initiating nucleotides (NCINs) for transcription initiation by RNA polymerase (RNAP). Here, we report “CapZyme-Seq,” a high-throughput-sequencing method that employs NCIN-decapping enzymes NudC and Rai1 to detect and quantify NCIN-capped RNA. By combining CapZyme-Seq with multiplexed transcriptomics, we determine efficiencies of NAD + capping by Escherichia coli RNAP for ~16,000 promoter sequences. The results define preferred transcription start-site (TSS) positions for NAD + capping and define a consensus promoter sequence for NAD + capping: HRRASWW (TSS underlined). By applying CapZyme-Seq to E. coli total cellular RNA, we establish that sequence determinants for NCIN capping in vivo match the NAD + -capping consensus defined in vitro , and we identify and quantify NCIN-capped small RNAs. Our findings define the promoter-sequence determinants for NCIN capping with NAD + and provide a general method for analysis of NCIN capping in vitro and in vivo .
-
-</details>
-
 #### [Production and perception of acoustic signals in captive bottlenose dolphins (Tursiops truncatus) : contextual use of social signals and recognition of artificial labels](https://www.semanticscholar.org/paper/71be5411c9495f25de4bb2d1b8c2d263d472c30d)
 **Alice Lima** · 2017-12-15
 
-
-#### [Long-range infra-sound acoustic signaling in human
-                  <i>in vivo</i>](https://doi.org/10.1101/233353)
-**Xiaoyue Chang, Li Zhang, Xiguang Wei, Zengfu Peng et al.** · 2017-12-14
-
-<details>
-<summary>Abstract</summary>
-
-Acupuncture is widely deployed today, but its basic physiology with Qi and meridian is not understood. This letter postulates that Qi is an infrasound wave packet and meridian is the muscle waveguide. Using video cameras and signal processing in an IRB approved clinical experiment we performed a comparison between control and electro-activated statistical tests on the long range (50-80cm) unidirectional transmission of Qi (p = 0.025). In the reverse direction, there is no transmission even in a distance of less than 10 cm (p = 0.545). The rectification is a surprise but in full agreement with Huang Di Nei Jing.
-
-</details>
 
 #### [Changes in the acoustic structure and composition along a tropical elevational gradient](https://doi.org/10.22261/jea.pnco7i)
 **Marconi Campos‐Cerqueira, T. Aide** · 2017-12-06
@@ -16430,23 +13650,8 @@ Summary In crown group tetrapods, individual digits are homologized in relation 
 
 </details>
 
-#### [Fast Intensity Adaptation Enhances the Encoding of Sound in
-                  <i>Drosophila</i>](https://doi.org/10.1101/228213)
-**Jan Clemens, Nofar Ozeri-Engelhard, Mala Murthy** · 2017-12-03
-
-<details>
-<summary>Abstract</summary>
-
-Abstract To faithfully encode complex stimuli, sensory neurons should correct, via adaptation, for stimulus properties that corrupt pattern recognition. Here, we investigate sound intensity adaptation in the Drosophila auditory system, which is largely devoted to processing courtship song. Mechanosensory neurons (JONs) in the antenna are sensitive not only to sound-induced antennal vibrations, but also to wind or gravity, which affect the antenna’s mean position. Song pattern recognition therefore requires adaptation to antennal position (stimulus mean) in addition to sound intensity (stimulus variance). We discover fast variance adaptation in Drosophila JONs, which corrects for background noise over the behaviorally relevant intensity range. We determine where mean and variance adaptation arises and how they interact. A computational model explains our results using a sequence of subtractive and divisive adaptation modules, interleaved by rectification. These results lay the foundation for identifying the molecular and biophysical implementation of adaptation to the statistics of natural sensory stimuli.
-
-</details>
-
 #### [Evaluation of various feature sets and feature selection towards automatic recognition of bird species](https://doi.org/10.1504/IJCAT.2017.10008704)
 **Arti V. Bang, P. Rege** · 2017-12-01
-
-
-#### [Benchmarking sensor fusion capabilities of an integrated instrumentation package](https://www.sciencedirect.com/science/article/am/pii/S2214166917300760)
-**Emma Cotter, P. Murphy, B. Polagye** · 2017-12-01
 
 
 #### [Recognition of Bird Species from their Sounds using Data Reduction Techniques](https://doi.org/10.1145/3154979.3155002)
@@ -16460,26 +13665,6 @@ Abstract To faithfully encode complex stimuli, sensory neurons should correct, v
 #### [Emergent acoustic order in arrays of mosquitoes.](http://www.cell.com/article/S0960982217312538/pdf)
 **Andrew Aldersley, A. Champneys, M. Homer, N. Bode et al.** · 2017-11-20
 
-
-#### [A new sequencing-based women’s health assay combining self-sampling, HPV detection and genotyping, STI detection, and vaginal microbiome analysis](https://doi.org/10.1101/217216)
-**Elisabeth M. Bik, Sara W. Bird, Juan P. Bustamante, Luis E. Leon et al.** · 2017-11-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The composition of the vaginal microbiome, including both the presence of pathogens involved in sexually transmitted infections (STI) as well as commensal microbiota, has been shown to have important associations for a woman’s reproductive and general health. Currently, healthcare providers cannot offer comprehensive vaginal microbiome screening, but are limited to the detection of individual pathogens, such as high-risk human papillomavirus (hrHPV), the predominant cause of cervical cancer. There is no single test on the market that combines HPV, STI, and microbiome screening. Here, we describe a novel inclusive women’s health assay that combines self-sampling with sequencing-based HPV detection and genotyping, vaginal microbiome analysis, and STI-associated pathogen detection. The assay includes genotyping and detection of 14 hrHPV types, 5 low-risk HPV types (lrHPV), as well as the relative abundance of 32 bacterial taxa of clinical importance, including Lactobacillus , Sneathia , Gardnerella , and 4 pathogens involved in STI, with high sensitivity, specificity, and reproducibility. For each of these taxa, healthy ranges were determined in a group of 50 self-reported healthy women. The hrHPV portion of the test was evaluated against the Digene High-Risk HPV HC2 DNA test with vaginal samples obtained from 185 women. Results were concordant for 181/185 of the samples (overall agreement of 97.83%, Cohen’s kappa = 0.93), with sensitivity and specificity values of 94.74% and 98.64%, respectively. Two discrepancies were caused by the Digene assay’s known cross-reactivity with low-risk HPV types, while two additional samples were found to contain hrHPV not detected by Digene. This novel assay could be used to complement conventional cervical cancer screening, because its self-sampling format can expand access among women who would otherwise not participate, and because of its additional information about the composition of the vaginal microbiome and the presence of pathogens.
-
-</details>
-
-#### [Enhanced deviant responses in patterned relative to random sound sequences](https://doi.org/10.1101/214031)
-**Rosy Southwell, Maria Chait** · 2017-11-04
-
-<details>
-<summary>Abstract</summary>
-
-Abstract How are brain responses to deviant events affected by the statistics of the preceding context? We recorded electroencephalography (EEG) brain responses to frequency deviants in matched, regularly-patterned (REG) versus random (RAND) tone-pip sequences. Listeners were naïve and distracted by an incidental visual task. Stimuli were very rapid so as to limit conscious reasoning about the sequence order and tap automatic processing of regularity. Deviants within REG sequences evoked a substantially larger response (by 71%) than matched deviants in RAND sequences from 80 ms after deviant onset. This effect was underpinned by distinct sources in right temporal pole and orbitofrontal cortex in addition to the standard bilateral temporal and right pre-frontal network for generic frequency deviance-detection. These findings demonstrate that the human brain rapidly acquires a detailed representation of regularities within the sensory input and evaluates incoming information according to the context established by the specific pattern.
-
-</details>
 
 #### [Using Biogeography to Assess Key Adaptation Strength in Two Bird Families](https://doi.org/10.1101/214148)
 **Abdel H. Halloway, Christopher J. Whelan, Çağan H. Şekercioğlu, Joel S. Brown** · 2017-11-04
@@ -16519,26 +13704,6 @@ In many bird species, male song functions both to defend a territory against oth
 **Kathrin Kugler** · 2017-10-25
 
 
-#### [Short-term effects of sound localization training in virtual reality](https://doi.org/10.1101/207753)
-**Mark A. Steadman, Chungeun Kim, Jean-Hugues Lestang, Dan F. M. Goodman et al.** · 2017-10-23
-
-<details>
-<summary>Abstract</summary>
-
-ABSTRACT Head-related transfer functions (HRTFs) capture the direction-dependant way that sound interacts with the head and torso. In virtual audio systems, which aim to emulate these effects, non-individualized, generic HRTFs are typically used leading to an inaccurate perception of virtual sound location. Training has the potential to exploit the brain’s ability to adapt to these unfamiliar cues. In this study, three virtual sound localization training paradigms were evaluated; one provided simple visual positional confirmation of sound source location, a second introduced game design elements (“gamification”) and a final version additionally utilized head-tracking to provide listeners with experience of relative sound source motion (“active listening”). The results demonstrate a significant effect of training after a small number of short (12-minute) training sessions, which is retained across multiple days. Gamification alone had no significant effect on the efficacy of the training, but active listening resulted in a significantly greater improvements in localization accuracy. In general, improvements in virtual sound localization following training generalized to a second set of non-individualized HRTFs, although some HRTF-specific changes were observed in polar angle judgement for the active listening group. The implications of this on the putative mechanisms of the adaptation process are discussed.
-
-</details>
-
-#### [Bipolar filaments of human nonmuscle myosin 2-A and 2-B have distinct motile and mechanical properties](https://doi.org/10.1101/207514)
-**Luca Melli, Neil Billington, Sara A. Sun, Jonathan E. Bird et al.** · 2017-10-23
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Nonmuscle myosin 2 (NM-2) powers cell motility and tissue morphogenesis by assembling into bipolar filaments that interact with actin. Although the enzymatic properties of purified NM-2 motor fragments have been determined, the emergent properties of filament ensembles are unknown. Using single myosin filament in vitro motility assays, we report fundamental differences in filaments formed of different NM-2 motors. Filaments consisting of NM2-B moved processively along actin, while under identical conditions, NM2-A filaments did not. By more closely mimicking the physiological milieu, either by increasing solution viscosity or by copolymerization with NM2-B, NM2-A containing filaments moved processively. Our data demonstrate that both the kinetic and mechanical properties of these two myosins, in addition to the stochiometry of NM-2 subunits, can tune filament mechanical output. We propose altering NM-2 filament composition is a general cellular strategy for tailoring force production of filaments to specific functions such as maintaining tension or remodeling actin.
-
-</details>
-
 #### [Roosting in exposed microsites by a nocturnal bird, the rufous-cheeked nightjar: implications for water balance under current and future climate conditions](https://doi.org/10.1101/206300)
 **Ryan S. O’Connor, R. Mark Brigham, Andrew E. McKechnie** · 2017-10-19
 
@@ -16577,10 +13742,6 @@ ABSTRACT One of the most ignored aspects of bioacoustic technology employed worl
 **Kun Qian, Zixing Zhang, Alice Baird, Björn Schuller** · 2017-10-04
 
 
-#### [What’s a Nice Girl Like Me Doing in a Place Like This?](https://doi.org/10.1353/WAL.1992.0099)
-**A. Zwinger** · 2017-10-04
-
-
 #### [Color-based bird image classification using Support Vector Machine](https://doi.org/10.1109/GCCE.2017.8229492)
 **Rosniza Roslan, Nur Amalina Nazery, N. Jamil, Raseeda Hamzah** · 2017-10-01
 
@@ -16588,16 +13749,6 @@ ABSTRACT One of the most ignored aspects of bioacoustic technology employed worl
 #### [Variation in the ecstatic display call of the Gentoo Penguin (Pygoscelis papua) across regional geographic scales](https://academic.oup.com/auk/article-pdf/134/4/894/27712614/auk0894.pdf)
 **Maureen A. Lynch, H. Lynch** · 2017-09-27
 
-
-#### [Cholecystokinin release triggered by presynaptic NMDA receptors produces LTP and sound-sound associative memory formation](https://doi.org/10.1101/188839)
-**Xiao Li, Xi Chen, Yin Ting Wong, Haitao Wang et al.** · 2017-09-14
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Memory is stored in neural networks via changes in synaptic strength mediated in part by NMDA-dependent long-term potentiation (LTP). There is evidence that entorhinal cortex enables neocortical neuroplasticity through cholecystokinin (CCK)-containing neocortical projections. Here we show that a CCK B antagonist blocks high-frequency stimulation (HFS)-induced LTP in the auditory cortex, whereas local infusion of CCK induces LTP. CCK -/- mice lacked neocortical LTP and showed deficits in a cue-cue associative learning paradigm; administration of CCK rescued associative learning. HFS of CCK-containing entorhino-neocortical projection neurons in anesthetized mice enabled cue-cue associative learning. Furthermore, when one cue was pre-conditioned to footshock, the mouse showed a freezing response to the other cue, indicating that the mice had formed an association. HFS-induced neocortical LTP was completely blocked by either NMDA antagonist or CCK-BR antagonist, while application of either NMDA or CCK induced LTP after low-frequency stimulation (LFS). Moreover, in the presence of CCK LTP was still induced, even after blockade of NMDA receptors. Local application of NMDA induced CCK release in the neocortex. To identify how NMDA receptor switches LTP, a stimulation protocol of 25 pulse-pairs was adopted to replace HFS; NMDA-dependent LTP was induced with the inter-pulse intervals between 10 and 100 ms, but not with those of 5 and 200 ms. LTP-mediated plasticity was linked to localization of the NMDA receptor subunit NR2a on cortical CCK terminals originating in the entorhinal cortex. These novel findings suggest that presynaptic NMDA receptors on CCK terminals control the release of CCK, which enables neocortical LTP and formation of cue-cue associative memory. One Sentence Summary Presynaptic NMDA receptors switches the release of CCK from entorhinal neurons, which enables neocortical LTP and formation of sound-sound associative memory.
-
-</details>
 
 #### [Gender Determination of Fowls by Using Bio-acoustical Data Mining Methods and Support Vector Machine](https://www.semanticscholar.org/paper/0fa52c60a99d8d15084fc524a8ee7854ffefca84)
 **M. Sadeghi, A. Banakar** · 2017-09-10
@@ -16615,10 +13766,6 @@ Epigenetic mechanisms that modify chromatin conformation have recently been unde
 
 #### [Automatic frequency feature extraction for bird species delimitation](http://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570346420.pdf)
 **Colm O’Reilly, M. Köküer, P. Jančovič, R. Drennan et al.** · 2017-09-03
-
-
-#### [Human fricatives](https://doi.org/10.1109/iciev.2017.8338531)
-**K. Nozaki** · 2017-09-01
 
 
 #### [Using non-negative matrix factorisation to facilitate efficient bird species richness surveys](https://doi.org/10.1016/J.ECOLIND.2017.05.017)
@@ -16697,10 +13844,6 @@ Bird audio detection (BAD) aims to detect whether there is a bird call in an aud
 
 </details>
 
-#### [A New Extreme Learning Machine Optimized by Particle Swarm Optimization](https://doi.org/10.25236/i3ca.2017.02)
-**Heng Zhang** · 2017-08-01
-
-
 #### [Double-digest RAD sequencing outperforms microsatellite loci at assigning paternity and estimating relatedness: a proof of concept in a highly promiscuous bird](https://doi.org/10.1101/169144)
 **Derrick J. Thrasher, Bronwyn G. Butcher, Leonardo Campagna, Michael S. Webster et al.** · 2017-07-27
 
@@ -16721,10 +13864,6 @@ Abstract Aim We test whether physiological constraints on maximum metabolic rate
 
 </details>
 
-#### [Fine-Grained Recognition as HSnet Search for Informative Image Parts](https://doi.org/10.1109/CVPR.2017.688)
-**Michael Lam, Behrooz Mahasseni, S. Todorovic** · 2017-07-21
-
-
 #### [Affiliative social relationships and coccidian oocyst excretion in a cooperatively breeding bird species](https://doi.org/10.1101/159129)
 **Claudia A.F. Wascher, Daniela Canestrari, Vittorio Baglione** · 2017-07-03
 
@@ -16741,10 +13880,6 @@ Abstract In group living animals, behavioural interactions with conspecifics str
 
 #### [Passive acoustic monitoring as a complementary strategy to assess biodiversity in the Brazilian Amazonia](https://doi.org/10.1007/s10531-017-1390-0)
 **José W. Ribeiro, L. S. M. Sugai, Marconi Campos‐Cerqueira** · 2017-06-15
-
-
-#### [Automatic recognition of accessible pedestrian signals](https://kerwa.ucr.ac.cr/bitstream/10669/79014/1/Automatic%20recognition%20of%20accessible%20pedestrian%20signals.pdf)
-**Arturo Camacho, Sebastián Ruiz Blais, J. M. F. Solís** · 2017-06-10
 
 
 #### [Clustering technology for the analysis and classification of bioacoustic vocalizations](https://doi.org/10.1121/1.4987422)
@@ -16791,16 +13926,6 @@ Animals communicate using signals perceived via multiple sensory modalities but 
 
 </details>
 
-#### [Spatial organization of the mouse auditory cortex to sound dynamics revealed using automated image segmentation](https://doi.org/10.1101/139659)
-**Ji Liu, Matthew R. Whiteway, Daniel A. Butts, Patrick O. Kanold** · 2017-05-23
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Sound stimuli are characterized by their rich spectral and temporal dynamic properties. Individual neurons in auditory cortex (ACX) encode both spectral and temporal aspects of sounds e.g. sound onset and/or offset. While the different fields of the ACX show gradients of frequency selectivity the large-scale organization of sound dynamics is unknown. We used widefield imaging of GCaMP6s in awake mouse ACX combined with a novel unsupervised image segmentation technique to investigate the spatiotemporal representation of sound onset and offset. Using this technique, we identified known auditory fields but also detected novel ACX areas. Furthermore, we found that ACX areas differed in their responses to tone onset and offset. Multiple areas were preferentially activated by tone offset, and on-response areas were more spatially localized than off-response areas. We also found tonotopy in off-responses. Together our results demonstrate a different spatial distribution of neurons across ACX for processing sound onsets versus offsets.
-
-</details>
-
 #### [Species recognition using audio processing algorithm](https://doi.org/10.1109/ICOEI.2017.8300715)
 **Rahulkumar P. Tivarekar, H. G. Virani** · 2017-05-11
 
@@ -16812,20 +13937,6 @@ Abstract Sound stimuli are characterized by their rich spectral and temporal dyn
 #### [Great cormorants (Phalacrocorax carbo) can detect auditory cues while diving](https://doi.org/10.1007/s00114-017-1467-3)
 **K. Hansen, A. Maxwell, U. Siebert, O. Larsen et al.** · 2017-05-05
 
-
-#### [Detection and localization of multiple wideband intermittent acoustic sources](https://doi.org/10.1117/12.2263667)
-**R. E. Hudson, K. Yao, R. Hedley, C. Taylor** · 2017-05-04
-
-
-#### [Focal versus distributed temporal cortex activity for speech sound category assignment](https://doi.org/10.1101/133272)
-**Sophie Bouton, Valérian Chambon, Rémi Tyrand, Adrian G. Guggisberg et al.** · 2017-05-02
-
-<details>
-<summary>Abstract</summary>
-
-Summary Percepts and words can be decoded from largely distributed neural activity measures. The existence of widespread representations might, however, conflict with the fundamental notions of hierarchical processing and efficient coding. Using fMRI and MEG during syllable identification, we first show that sensory and decisional activity co-localize to a restricted part of the posterior superior temporal cortex. Next, using intracortical recordings we demonstrate that early and focal neural activity in this region distinguishes correct from incorrect decisions and can be machine-decoded to classify syllables. Crucially, significant machine-decoding was possible from neuronal activity sampled across widespread regions, despite weak or absent sensory or decision-related responses. These findings show that a complex behavior like speech sound categorization relies on an efficient readout of focal neural activity, while distributed activity, although decodable by machine-learning, reflects collateral processes of sensory perception and decision.
-
-</details>
 
 #### [Active Learning for Bird Sounds Classification](https://doi.org/10.3813/aaa.919064)
 **Kun Qian, Zixing Zhang, Alice Baird, Björn Schuller** · 2017-05-01
@@ -16913,10 +14024,6 @@ Abstract Natural resource extraction is increasing rapidly in tropical forests, 
 
 </details>
 
-#### [A CAD System for Exploring Neuromorphic Computing with Emerging Technologies](https://www.semanticscholar.org/paper/7be47f4bbda60166b23d6026a1ba4dc548b8d6a5)
-**J. Plank, G. Rose, Mark E. Dean, Catherine D. Schuman** · 2017-03-01
-
-
 #### [Bird interactions with drones, from individuals to large colonies](https://doi.org/10.1101/109926)
 **Mitchell Lyons, Kate Brandis, Corey Callaghan, Justin McCann et al.** · 2017-02-20
 
@@ -16944,16 +14051,6 @@ Abstract Animals must navigate a complex mosaic of habitat types, both natural a
 <summary>Abstract</summary>
 
 The ideal animal stimulus is under total control of the experimenter, has visual traits, and behavior patterns that can be varied in any way, and it appears and behaves consistently between test trials that can be easily repeated many times and any time. Does this sound like wishful thinking of a biologist? Using and exploiting the potential of artificial stimuli in animal behavior research is actually not a new idea. Even in the time of Tinbergen, researchers used wood, clay, or other materials to build artificial dummy animals that would allow control over the presentation of the animal stimulus (Ter Pelkwijk and Tinbergen 1937). Since then, the idea of artificial model animals has evolved alongside technology. Even if still used today in its original form (Kim and Velando 2014), clay and wood models have inspired the use of robots, engineering objects that are specifically tuned for the standardized presentation of preprogrammed movement patterns (Martins et al. 2005; Landgraf et al. 2008; Landgraf et al. 2014). Meanwhile, researchers also started to film live animals and played back these videos to replace live animal stimuli. Rapidly these videos started to be edited, reaching a point where, today, the complete scene, including the stimulus animal is created. Continuous advances in the computer graphics sector and increasing access to high-quality free software solutions also eased these technological advances. Nowadays, computer animation (CA) and virtual reality (VR) systems, technologies that were once exclusively created for the entertainment and education of humans, were now used by animal scientists. “Virtual” which, in the area of computing, refers to “not physically existing as such but made by software to appear to do so” (Stevenson and Lindberg 2015) captures the nature of CA and VR stimuli, which are created using computer graphics software. They are used to simulate environments for the animals to “explore” (in VR), for example, to study spatial cognition (Stowers et al. 2014), or they are meant to replace real animals with virtual counterparts that are then presented as prey, predators, conspecifics, or mating partners which can more or less interact with live test animals in the context of visual communication. Artificial animals and environments all share the fact that they can be created and varied according to specific parameters of interest for specific research questions in focus. This gives researchers a high degree of control prior and during experiments, and creates standardized conditions that facilitate testing a given hypothesis. By this, the behavior of a stimulus animal, which naturally is affected by various factors during experiments (e.g. change of motivation), is under control of the experimenter which can lead to less variation in results and thus more robust results due to the lack of side effects. Similar to the already well-established procedures for investigating mechanisms of vocal communication, in which for example audio tracks of bird songs or alarm calls can be recorded, edited, created, and played back, experimental paradigms using CA can serve to study visual communication and with the expansion to VR also spatial cognition. CA and VR even allow creating biologically novel stimuli to investigate mechanism of prey detection, predator recognition, and recognition of conspecifics, mate preferences, and other aspects of visual recognition.
-
-</details>
-
-#### [Multiplexed and multivariate representations of sound identity during perceptual constancy](https://doi.org/10.1101/102889)
-**Stephen M. Town, Katherine C. Wood, Jennifer K. Bizley** · 2017-01-25
-
-<details>
-<summary>Abstract</summary>
-
-Summary Perceptual constancy requires neural representations that are selective for object identity, but also tolerant for identity-preserving transformations. How such representations arise in the brain and contribute to perception remains unclear. Here we studied tolerant representations of sound identity in the auditory system by recording multi-unit activity in tonotopic auditory cortex of ferrets discriminating the identity of vowels which co-varied across orthogonal stimulus dimensions (fundamental frequency, sound level, location and voicing). We found that neural decoding of vowel identity was most successful across the same orthogonal dimensions over which animals generalized their behavior. We also decoded orthogonal sound features and behavioral variables including choice and accuracy to show a behaviorally-relevant, multivariate and multiplexed representation of sound, with each variable represented over a distinct time-course. Finally, information content and timing of sound feature encoding was modulated by task-engagement and training, suggesting that tolerant representations during perceptual constancy are attentionally and experience-dependent.
 
 </details>
 
@@ -17025,10 +14122,6 @@ Milewska-waźbińska Barbara, what does the Long-lived Nestor’s Cup Hold in St
 
 </details>
 
-#### [Pattern Recognition In Language Model With Special Reference To Children Stories](https://www.semanticscholar.org/paper/462e3e528a625e951d2af5d85580e5f4033f452a)
-**M. Sikdar** · 2017-01-01
-
-
 #### [JSI Sound - a Machine-Learning Tool in Orange for Simple Biosound Classification](https://www.semanticscholar.org/paper/44647e6a7783b156d2cec131e2df4db914ad36d7)
 **Borut Budna, M. Gjoreski, A. Gradišek, M. Gams** · 2017-01-01
 
@@ -17041,24 +14134,12 @@ Milewska-waźbińska Barbara, what does the Long-lived Nestor’s Cup Hold in St
 **Kantapon Kaewtip** · 2017-01-01
 
 
-#### [Detection and localization of multiple wideband intermittent acoustic sources](https://www.semanticscholar.org/paper/dd9989391fbebe69cac7c57396a08fa43911ffaf)
-**R. E. Hudsona, K. Yao, R. Hedleyb, C. E. Taylorb** · 2017-01-01
-
-
 #### [Ornithological Literature](https://doi.org/10.1676/1559-4491-129.2.421)
 **John Faaborg** · 2017-01-01
 
 
 #### [Digital signal processing approaches to bird song analysis](https://www.semanticscholar.org/paper/40443258c1877812a469b00e6e18de64b6c2a1b2)
 **Colm O’Reilly** · 2017-01-01
-
-
-#### [EEP L EARNING OF A NIMAL C ALLS AND S PEECH](https://www.semanticscholar.org/paper/21d3241e70186a9bee08fb9da4e1fdd81649e1dd)
-**H. Glotin, Randall Balestriero** · 2017-01-01
-
-
-#### [Polycontexturality: Theory of Living Systems – Intelligent Control](https://www.semanticscholar.org/paper/a7491c296dbe04ef41e1837d0b4e9139188c84a4)
-**R. Kaehr, E. Goldammer** · 2017-01-01
 
 
 #### [Investigating bird call identification uncertainty using data from processed audio recordings](https://newzealandecology.org/nzje/3294.pdf)
@@ -17095,10 +14176,6 @@ Fish as well as birds, mammals, insects and other animals are capable of emittin
 We introduce a novel approach to studying animal behavior and the context in which it occurs, through the use of microphone backpacks carried on the backs of individual free-flying birds. These sensors are increasingly used by animal behavior researchers to study individual vocalizations of freely behaving animals, even in the field. However, such devices may record more than an animal's vocal behavior, and have the potential to be used for investigating specific activities (movement) and context (background) within which vocalizations occur. To facilitate this approach, we investigate the automatic annotation of such recordings through two different sound scene analysis paradigms: A scene-classification method using feature learning, and an event-detection method using probabilistic latent component analysis. We analyze recordings made with Eurasian jackdaws (Corvus monedula) in both captive and field settings. Results are comparable with the state of the art in sound scene analysis; we find that the current recognition quality level enables scalable automatic annotation of audio logger data, given partial annotation, but also find that individual differences between animals and/or their backpacks limit the generalization from one individual to another. we consider the interrelation of “scenes” and “events” in this particular task, and issues of temporal resolution.
 
 </details>
-
-#### [A comparative study and analysis of approaches towards agricultural supervision](https://doi.org/10.1109/ICGTSPICC.2016.7955354)
-**Ashwini Akula, Pratik Deshmane, S. Thorat, Aditya Bagbande et al.** · 2016-12-01
-
 
 #### [Bird Call Identification Using Dynamic Kernel Based Support Vector Machines and Deep Neural Networks](https://doi.org/10.1109/ICMLA.2016.0053)
 **Deep Chakraborty, Paawan Mukker, Padmanabhan Rajan, A. D. Dileep** · 2016-12-01
@@ -17142,24 +14219,6 @@ Automatic classification of animal vocalizations has great potential to enhance 
 **L. Vignolo, J. A. Sarquis, E. León, E. M. Albornoz** · 2016-11-22
 
 
-#### [Domains of methylated CAC and CG target MeCP2 to tune transcription in the brain](https://doi.org/10.1101/087577)
-**Sabine Lagger, John C Connelly, Gabriele Schweikert, Shaun Webb et al.** · 2016-11-14
-
-<details>
-<summary>Abstract</summary>
-
-Summary Mutations in the gene encoding the methyl-CG binding protein MeCP2 cause neurological disorders including Rett syndrome. The di-nucleotide methyl-CG (mCG) is the canonical MeCP2 DNA recognition sequence, but additional targets including non-methylated sequences have been reported. Here we use brain-specific depletion of DNA methyltransferase to show that DNA methylation is the primary determinant of MeCP2 binding in mouse brain. In vitro and in vivo analyses reveal that MeCP2 binding to non-CG methylated sites in brain is largely confined to the tri-nucleotide sequence mCAC. Structural modeling suggests that mCG and mCAC may be interchangeable as minimal structural perturbation of MeCP2 accompanies binding. MeCP2 binding to chromosomal DNA in mouse brain is proportional to mCG + mCAC density and defines domains within which transcription is sensitive to MeCP2 occupancy. The results suggest that MeCP2 interprets patterns of mCAC and mCG in the brain to negatively modulate transcription of genes critical for neuronal function.
-
-</details>
-
-#### [Spatially Consistent Nearest Neighbor Representations for Fine-Grained Classification. (Représentations d'images basées sur un principe de voisins partagés pour la classification fine)](https://www.semanticscholar.org/paper/99117c260e5a2ab84edb191fd9a081d3776be76f)
-**Valentin Leveau** · 2016-11-09
-
-
-#### [Southern Collectives screening programmes and discussion](https://www.semanticscholar.org/paper/1354c824de9e2ef19c46d4a81592c41f4b61ebc4)
-**M. A. Ingawanij** · 2016-11-06
-
-
 #### [Stable multi-level social structure is maintained by habitat geometry in a wild bird population](https://doi.org/10.1101/085944)
 **Damien R. Farine, Ben C. Sheldon** · 2016-11-05
 
@@ -17188,29 +14247,9 @@ Summary paragraph Organismal traits may evolve either gradually or in rapid puls
 
 </details>
 
-#### [Kinetics and identities of extracellular peptidases in subsurface sediments of the White Oak River Estuary, NC](https://doi.org/10.1101/080671)
-**Andrew D. Steen, Richard T. Kevorkian, Jordan T. Bird, Nina Dombrowski et al.** · 2016-10-13
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Anoxic subsurface sediments contain communities of heterotrophic microorganisms that metabolize organic carbon at extraordinarily slow rates. In order to assess the mechanisms by which subsurface microorganisms access detrital sedimentary organic matter, we measured kinetics of a range of extracellular peptidases in anoxic sediments of the White Oak River estuary, NC. Nine distinct peptidase substrates were enzymatically hydrolyzed at all depths. Potential peptidase activities ( V max ) decreased with increasing sediment depth, although V max expressed on a per cell basis was approximately the same at all depths. Half-saturation constants ( K m ) decreased with depth, indicating peptidases that functioned more efficiently at low substrate concentrations. Potential activities of extracellular peptidases acting on molecules that are enriched in degraded organic matter (D-phenylalanine and L-ornithine) increased relative to enzymes that act on L-phenylalanine, further suggesting microbial community adaptation to access degraded organic matter. Nineteen classes of predicted, exported peptidases were identified in genomic data from the same site, of which genes for class C25 (gingipain-like) peptidases represented more than 40% at each depth. Methionine aminopeptidases, zinc carboxypeptidases, and class S24-like peptidases, which are involved in single-stranded DNA repair, were also abundant. These results suggest a subsurface heterotrophic microbial community that primarily accesses low-quality detrital organic matter via a diverse suite of well-adapted extracellular enzymes. I mportance Burial of organic carbon in marine and estuarine sediments represents a long-term sink for atmospheric carbon dioxide. Globally, ∼40% of organic carbon burial occurs in anoxic estuaries and deltaic systems. However, the ultimate controls on the amount of organic matter that is buried in sediments, versus oxidized into CO 2 , are poorly constrained. Here we used a combination of enzyme assays and metagenomic analysis to identify how subsurface microbial communities catalyze the first step of proteinaceous organic carbon degradation. Our results show that microbial communities in deeper sediments are adapted to access molecules characteristic of degraded organic matter, suggesting that those heterotrophs are adapted to life in the subsurface.
-
-</details>
-
 #### [Automatic segmentation of audio signal in bird species identification](https://doi.org/10.1109/SCCC.2016.7836062)
 **Rafael H. D. Zottesso, Gustavo H. G. Matsushita, D. Lucio, Yandre M. G. Costa** · 2016-10-01
 
-
-#### [Neural correlates of early sound encoding and their relationship to speech in noise perception](https://doi.org/10.1101/076455)
-**Emily B.J. Coffey, Alexander M.P. Chepesiuk, Sibylle C. Herholz, Sylvain Baillet et al.** · 2016-09-21
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Speech-in-noise (SIN) perception is a complex cognitive skill that affects social, vocational, and educational activities. Poor SIN ability particularly affects young and elderly populations, yet varies considerably even among healthy young adults with normal hearing. Although SIN skills are known to be influenced by top-down processes that can selectively enhance lower-level sound representations, the complementary role and of feed-forward mechanisms and their relationship to musical training is poorly understood. Using a paradigm that eliminates the main top-down factors that have been implicated in SIN performance, we aimed to better understand how robust encoding of periodicity in the auditory system (as measured by the frequency-following response) contributes to SIN perception. Using magnetoencephalograpy, we found that the strength of encoding at the fundamental frequency in the brainstem, thalamus, and cortex is correlated with SIN accuracy, as was the amplitude of the slower cortical P2 wave, and these enhancements were related to the extent and timing of musicianship. These results are consistent with the hypothesis that basic feed-forward sound encoding affects SIN perception by providing better information to later processing stages, and that modifying this process may be one mechanism through which musical training might enhance the auditory networks that subserve both musical and language functions. Highlights – Enhancements in periodic sound encoding are correlated with speech-in-noise ability – This effect is observed in the absence of contextual cues and task demands – Better encoding is observed throughout the auditory system and is right-lateralized – Stronger encoding is related to stronger subsequent secondary auditory cortex activity – Musicianship is related to both speech-in-noise perception and enhanced MEG signals
-
-</details>
 
 #### [Phylogenetic classifications are informative, stable, and pragmatic: the case for monophyletic taxa](https://link.springer.com/content/pdf/10.1007%2Fs00040-016-0516-9.pdf)
 **P. S. Ward, Seán G. Brady, B. Fisher, T. Schultz** · 2016-09-19
@@ -17238,19 +14277,6 @@ In a recent commentary in this journal Seifert et al. (2016) propose returning t
 **J. Florentin, T. Dutoit, O. Verlinden** · 2016-09-01
 
 
-#### [Quorum sensing modulatory effect of sound stimulation on
-                  <i>Serratia marcescens</i>
-                  and
-                  <i>Pseudomonas aeruginosa</i>](https://doi.org/10.1101/072850)
-**Vijay Kothari, Pooja Patel, Chinmayi Joshi, Brijesh Mishra et al.** · 2016-09-01
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Effect of nine different mono-frequency sound stimuli on two gram-negative bacteria ( Pseudomonas aeruginosa and Serratia marcescens ) was investigated. Frequency of the test sound ranged from 100 Hz to 2,000 Hz. Both the test bacteria responded differently to sonic stimulation. Sound corresponding to 600 HZ caused a notable reduction in quorum sensing (QS) regulated production of the pigment pyoverdine by P. aeruginosa . 400 Hz sound affected prodigiosin production by S. marcescens the most. 500 Hz sound could enhance prodigiosin production without affecting growth of the producing bacterium, suggesting the effect purely to be QS modulatory. This study has demonstrated the capacity of the sound waves of affecting bacterial growth and quorum sensing regulated metabolite production.
-
-</details>
-
 #### [Cost Effective Acoustic Monitoring of Biodiversity and Bird Populations in Kenya](https://bdj.pensoft.net/article/9906/download/pdf/)
 **Ciira wa Maina, David K. Muchiri, P. Njoroge** · 2016-08-31
 
@@ -17271,16 +14297,6 @@ Abstract With the increasing need to effectively monitor a growing number of eco
 
 </details>
 
-#### [Influence of a mono-frequency sound on bacteria can be a function of the sound-level](https://doi.org/10.1101/071746)
-**Vijay Kothari, Chinmayi Joshi, Pooja Patel, Milan Mehta et al.** · 2016-08-26
-
-<details>
-<summary>Abstract</summary>
-
-Abstract Chromobacterium violaceum was subjected to sonic stimulation with 300 Hz sound, at five different levels of loudness in the range of 70 – 89.5 dB. Sonic stimulation was found to affect bacterial growth and quorum sensing regulated pigment (violacein) production significantly. Magnitude of this effect was found to be dependent on sound-level. The minimum critical difference required to cause any statistically significant change in bacterial response with respect to sound-level was found to be 13 dB. Growth of C. violaceum was affected more at lower sound intensity, whereas pigment production was affected more at higher sound intensity. Additional experiments with C. violaceum and Serratia marcescens indicated that even a silent speaker emitting no sound can alter bacterial growth and/or pigment production upto a minor extent. Size of the test tube in which bacteria are exposed to sonic stimulation, was not found to affect the results much.
-
-</details>
-
 #### [Distributed sensor swarms for monitoring bird behavior: an integrated system using wildlife acoustics recorders](https://doi.org/10.1007/s10015-016-0295-4)
 **Charles E. Taylor, Yiwei Huang, K. Yao** · 2016-08-12
 
@@ -17288,28 +14304,6 @@ Abstract Chromobacterium violaceum was subjected to sonic stimulation with 300 H
 #### [Individually distinctive vocalization in Common Cuckoos (Cuculus canorus)](http://real.mtak.hu/74039/1/Zsebok_et_al.pdf)
 **S. Zsebők, C. Moskát, Miklós Bán** · 2016-08-11
 
-
-#### [GTSE1 tunes microtubule stability for chromosome alignment and segregation through MCAK inhibition](https://doi.org/10.1101/067827)
-**Shweta Bendre, Arnaud Rondelet, Conrad Hall, Nadine Schmidt et al.** · 2016-08-04
-
-<details>
-<summary>Abstract</summary>
-
-Abstract The dynamic regulation of microtubules during mitosis is critical for accurate chromosome segregation and genome stability. Cancer cell lines with hyperstabilized kinetochore microtubules have increased segregation errors and elevated chromosomal instability (CIN), but the genetic defects responsible remain largely unknown. The microtubule depolymerase MCAK can influence CIN through its impact on microtubule stability, but how its potent activity is controlled in cells remains unclear. Here we show that GTSE1, a protein found overexpressed in aneuploid cancer cell lines and tumours, regulates microtubule stability during mitosis by inhibiting MCAK microtubule depolymerase activity. Cells lacking GTSE1 have defects in chromosome alignment and spindle positioning due to microtubule instability caused by excess MCAK activity. Reducing GTSE1 levels in CIN cancer cell lines reduces chromosome missegregation defects, while artificially inducing GTSE1 levels in chromosomally stable cells elevates chromosome missegregation and CIN. Thus GTSE1 inhibition of MCAK activity regulates the balance of microtubule stability that determines the fidelity of chromosome alignment, segregation, and chromosomal stability.
-
-</details>
-
-#### [Mutations in
-                  <i>EBF3</i>
-                  disturb transcriptional profiles and underlie a novel syndrome of intellectual disability, ataxia and facial dysmorphism](https://doi.org/10.1101/067454)
-**Frederike Leonie Harms, Katta Mohan Girisha, Andrew A. Hardigan, Fanny Kortüm et al.** · 2016-08-03
-
-<details>
-<summary>Abstract</summary>
-
-Abstract From a GeneMatcher-enabled international collaboration, we identified ten individuals with intellectual disability, speech delay, ataxia and facial dysmorphism and a mutation in EBF3 , encoding a transcription factor required for neuronal differentiation. Structural assessments, transactivation assays, in situ fractionation, RNA-seq and ChlP-seq experiments collectively show that the mutations are deleterious and impair EBF3 transcriptional regulation. These findings demonstrate that EBF3-mediated dysregulation of gene expression has profound effects on neuronal development in humans.
-
-</details>
 
 #### [An automatic classification of bird species using audio feature extraction and support vector machines](https://doi.org/10.1109/INVENTIVE.2016.7823241)
 **Pallavi Rai, Vikram Golchha, Aishwarya Srivastava, Garima Vyas et al.** · 2016-08-01
@@ -17339,23 +14333,9 @@ Abstract From a GeneMatcher-enabled international collaboration, we identified t
 **Martin S. Meyers** · 2016-06-10
 
 
-#### [Characterizing and predicting cyanobacterial blooms in an 8-year amplicon sequencing time-course](https://doi.org/10.1101/058289)
-**Nicolas Tromas, Nathalie Fortin, Larbi Bedrani, Yves Terrat et al.** · 2016-06-10
-
-
 #### [Testing Automated Call-Recognition Software for Winter Bird Vocalizations](https://doi.org/10.1656/045.023.0206)
 **Andrew Wolfgang, Aaron M. Haines** · 2016-06-07
 
-
-#### [Harnessing Molecular Motors for Nanoscale Pulldown in Live Cells](https://doi.org/10.1101/053744)
-**Jonathan E. Bird, Melanie Barzik, Meghan C. Drummond, Daniel C. Sutton et al.** · 2016-06-07
-
-<details>
-<summary>Abstract</summary>
-
-SUMMARY Protein-protein interactions (PPIs) regulate signal transduction and cellular behavior, yet studying PPIs within live cells remains fundamentally challenging. We have miniaturized the affinity pulldown, a gold-standard PPI interrogation technique, for use within live cells. Our assay hijacks endogenous myosin motors to forcibly traffic, or pulldown, macromolecular complexes within the native cytosolic environment. Macromolecules captured by nanoscale pulldown (NanoSPD) are optically interrogated in situ by tagging individual protein components. Critically, continuous motor trafficking concentrates query complexes into nanoscopic subcellular compartments, providing fluorescence enhancement and allowing nanoscale pulldowns to be visualized and quantified by standard microscopy. Nanoscale pulldown is compatible with nuclear, membrane-associated and cytoplasmic proteins and can investigate functional effects of protein truncations or amino acid substitutions. Moreover, binding hierarchies in larger complexes can be quickly examined within the natural cytosol, making nanoscale pulldown a powerful new optical platform for quantitative high-content screening of known and novel PPIs that act within macromolecular assemblies.
-
-</details>
 
 #### [Impacts of Small-Scale Gold Mining on Birds and Anurans Near the Tambopata Natural Reserve, Peru, Assessed Using Passive Acoustic Monitoring](https://journals.sagepub.com/doi/pdf/10.1177/194008291600900216)
 **Nora L. Álvarez-Berríos, Marconi Campos‐Cerqueira, Andres Hernández-Serna, C.J. Amanda Delgado et al.** · 2016-06-01
@@ -17425,10 +14405,6 @@ Sounds in our environment like voices, animal calls or musical instruments are e
 
 #### [Using multi-label classification for acoustic pattern detection and assisting bird species surveys](https://eprints.qut.edu.au/94575/1/Using%20multi-label%20classification%20for%20acoustic%20pattern%20detection%20and%20assisting%20bird%20species%20surveys.pdf)
 **Liang Zhang, M. Towsey, Jie Xie, Jinglan Zhang et al.** · 2016-03-01
-
-
-#### [Guest Editorial: Environmental Multimedia Retrieval](https://link.springer.com/content/pdf/10.1007%2Fs11042-016-3256-y.pdf)
-**S. Vrochidis, K. Karatzas, A. Karppinen, A. Joly** · 2016-02-01
 
 
 #### [Automated analysis of song structure in complex birdsongs](https://doi.org/10.1016/J.ANBEHAV.2015.11.013)
