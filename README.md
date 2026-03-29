@@ -52,6 +52,16 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Vegetation Structure Drives Seasonal and Diel Dynamics of Avian Soundscapes in an Urban Wetland](https://doi.org/10.3390/plants15071023)
+**Zhe Wen, Zhewen Ye, Yunfeng Yang, Yao Xiong** · 2026-03-26
+
+<details>
+<summary>Abstract</summary>
+
+Urban wetlands are acoustic hotspots where vegetation structure, hydrological dynamics, and anthropogenic noise interact, yet multi-season assessments of how vegetation influences avian soundscapes are limited. This study explored bird soundscape dynamics across forest, open forest grassland, and meadow habitats in Nanjing Xinjizhou National Wetland Park, eastern China, using passive acoustic monitoring during spring and autumn 2023. Twelve sampling points (four per vegetation type) were established, and six acoustic indices were calculated, including the Acoustic Complexity Index (ACI), Acoustic Diversity Index (ADI), Acoustic Evenness Index (AEI), Bioacoustic Index (BIO), Normalized Difference Soundscape Index (NDSI), and Acoustic Entropy Index (H). were calculated from 48-h recordings each season. Random forest models and redundancy analysis assessed the relationships between acoustic indices, fine-scale vegetation parameters (e.g., crown width, tree height, species richness), and anthropogenic factors (e.g., distance to roads/trails, surface hardness). Vegetation structure, particularly crown width, was the primary driver of avian acoustic diversity, with broad-crowned forests consistently exhibiting the highest acoustic complexity. In spring, anthropogenic factors such as trail and road proximity dominated soundscape variation, suppressing biological sounds. In autumn, with reduced human presence, vegetation structure emerged as the dominant factor, while bioacoustic activity remained elevated despite reduced peaks in acoustic complexity. Proximity to roads increased low-frequency (1–2 kHz) noise and suppressed mid-frequency (4–8 kHz) bird vocalizations, but trees with crown widths ≥4 m maintained higher acoustic diversity even near disturbance sources. This study demonstrates that vegetation structure mediates both resource availability and sound propagation, buffering the effects of anthropogenic disturbance in frequency-specific ways. Multi-season sampling is crucial for understanding the dynamic interplay between vegetation phenology and human activity that shapes urban wetland soundscapes.
+
+</details>
+
 #### [Warm temperatures and severe fire drive a range contraction of an avian old-forest specialist in the Sierra Nevada, USA](https://doi.org/10.3389/fbirs.2026.1737313)
 **Luca Bielski, Spencer R. Keyser, M. Z. Peery, Connor M. Wood** · 2026-03-25
 
