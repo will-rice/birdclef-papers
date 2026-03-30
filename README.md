@@ -52,6 +52,10 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Configurational heterogeneity drives songbird diversity at distinct spatial scales in managed boreal forests](https://doi.org/10.1007/s10980-026-02341-y)
+**Isabelle Lebeuf-Taylor, J. A. Martínez-Lanfranco, E. Bayne** · 2026-03-27
+
+
 #### [Vegetation Structure Drives Seasonal and Diel Dynamics of Avian Soundscapes in an Urban Wetland](https://doi.org/10.3390/plants15071023)
 **Zhe Wen, Zhewen Ye, Yunfeng Yang, Yao Xiong** · 2026-03-26
 
