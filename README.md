@@ -52,6 +52,17 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [TABMON
+ : Design and deployment of a transnational passive acoustic monitoring network for European birds](https://doi.org/10.1111/2041-210x.70308)
+**B. Cretois, Carolyn M. Rosten, J. Wiel, Cynthia Barile et al.** · 2026-04-23
+
+<details>
+<summary>Abstract</summary>
+
+Ecological surveys are often fragmented, costly and limited in scale, leading to large and long‐standing knowledge gaps which threaten our ability to properly safeguard biodiversity. Passive acoustic monitoring (PAM) has promised to deliver automated biodiversity monitoring, but networks are rarely deployed on scales that can offer truly novel insights due to scalability and standardization challenges around collecting, managing, analysing and sharing data. Here we present the Transnational Acoustic Biodiversity Monitoring Network (TABMON), a standardized deployment of 108 autonomous sensors across Norway, the Netherlands, France and Spain along a continental bird migration route. Audio is recorded continuously, uploaded in near real‐time and processed through an automated analysis pipeline designed to support expert validation and the generation of datasets for deriving Essential Biodiversity Variables (EBVs). TABMON provides a methodological blueprint for transnational, networked PAM deployments and highlights both the opportunities and current limitations of near real‐time acoustic biodiversity monitoring at continental scales.
+
+</details>
+
 #### [BAGEL: Benchmarking Animal Knowledge Expertise in Language Models](https://arxiv.org/abs/2604.16241)
 **Jiacheng Shen, Masato Hagiwara, Milad Alizadeh, Ellen Gilsenan-McMahon et al.** · 2026-04-17
 
