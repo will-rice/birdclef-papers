@@ -4,6 +4,8 @@ Sources:
 * **arXiv** – preprint server (cs, eess, q-bio categories).
 * **Semantic Scholar** – broad coverage of journals, conferences, and
   additional preprint servers not indexed by arXiv.
+* **bioRxiv via Crossref** – ML/AI-tagged bioacoustics preprints on bioRxiv
+  (restricted to the ``Bioinformatics`` and ``Systems Biology`` subject areas).
 * **Papers With Code** – community-curated ML papers, catches any gaps.
 
 It is designed to be run in two modes:
@@ -155,6 +157,40 @@ SS_SEARCH_QUERIES = [
     "soundscape ecology bird machine learning",
     "ecoacoustics bird deep learning",
     "automated bird species recognition",
+]
+
+# ---------------------------------------------------------------------------
+# bioRxiv via Crossref
+# ---------------------------------------------------------------------------
+
+CROSSREF_API_BASE = "https://api.crossref.org/works"
+CROSSREF_PAGE_SIZE = 100
+
+# Polite-pool identifier sent with every Crossref request.
+CROSSREF_MAILTO = "birdclef-papers@github.io"
+
+# Only keep preprints whose DOI starts with this prefix (bioRxiv / medRxiv
+# Cold Spring Harbor Laboratory DOIs; medRxiv uses the same 10.1101 prefix).
+_BIORXIV_DOI_PREFIX = "10.1101/"
+
+# Only keep bioRxiv papers whose ``group-title`` (the bioRxiv subject area
+# returned by the Crossref API) is in this set.  This restricts results to
+# papers that bioRxiv itself classifies as computational / ML work, preventing
+# pure ecology or field-biology preprints from creeping in.
+_BIORXIV_ML_CATEGORIES = {
+    "Bioinformatics",
+    "Systems Biology",
+}
+
+CROSSREF_SEARCH_QUERIES = [
+    "BirdCLEF bird sound",
+    "bird vocalization bioacoustics",
+    "passive acoustic monitoring birds",
+    "bird call classification",
+    "avian acoustic deep learning",
+    "bird species audio identification",
+    "soundscape ecology bird",
+    "ecoacoustics bird species",
 ]
 
 # ---------------------------------------------------------------------------
@@ -413,15 +449,15 @@ def fetch_papers(keywords: str, start_date: date, end_date: date) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 
-_ML_SOURCES = {"arxiv", "semanticscholar", "paperswithcode"}
+_ML_SOURCES = {"arxiv", "semanticscholar", "paperswithcode", "biorxiv"}
 
 
 def load_existing_papers() -> dict[str, dict]:
     """Load papers from CSV, keyed by arxiv_id.
 
-    Only entries from ML sources (arXiv, Semantic Scholar, Papers With Code)
-    are retained; rows from non-ML sources such as ``ceur-ws`` or ``biorxiv``
-    are silently dropped.
+    Only entries from ML sources (arXiv, Semantic Scholar, Papers With Code,
+    and ML/AI-tagged bioRxiv) are retained; rows from non-ML sources such as
+    ``ceur-ws`` are silently dropped.
     """
     if not PAPERS_CSV.exists():
         return {}
@@ -554,6 +590,128 @@ def fetch_ss_papers(keywords: str, start_date: date, end_date: date) -> list[dic
 
         token = data.get("token")
         if not token or not data.get("data"):
+            break
+
+        time.sleep(API_DELAY_SECONDS)
+
+    return papers
+
+
+# ---------------------------------------------------------------------------
+# bioRxiv helpers (via Crossref API)
+# ---------------------------------------------------------------------------
+
+
+def _crossref_fetch_page(keywords: str, date_filter: str, offset: int) -> dict:
+    """Fetch one page from the Crossref API."""
+    params = urllib.parse.urlencode(
+        {
+            "query": keywords,
+            "filter": date_filter,
+            "select": "DOI,title,author,abstract,posted,created,URL,group-title",
+            "rows": CROSSREF_PAGE_SIZE,
+            "offset": offset,
+            "mailto": CROSSREF_MAILTO,
+        }
+    )
+    url = f"{CROSSREF_API_BASE}?{params}"
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(url, timeout=30) as resp:
+                return json.loads(resp.read())
+        except Exception as exc:  # noqa: BLE001
+            wait = min(2 ** (attempt + 1) * API_DELAY_SECONDS, 30)
+            print(f"  [warn] Crossref request failed ({exc}); retrying in {wait}s …", file=sys.stderr)
+            time.sleep(wait)
+    raise RuntimeError(f"Failed to fetch Crossref page after 5 attempts: {url}")
+
+
+def _crossref_item_to_dict(item: dict) -> dict | None:
+    """Convert a Crossref work item to our paper dict (bioRxiv ML/AI only).
+
+    Only papers whose ``group-title`` (bioRxiv subject area) is listed in
+    ``_BIORXIV_ML_CATEGORIES`` are accepted; all other bioRxiv categories
+    (Ecology, Evolutionary Biology, etc.) are silently dropped.
+    """
+    doi = (item.get("DOI") or "").strip()
+    if not doi or not doi.startswith(_BIORXIV_DOI_PREFIX):
+        return None
+
+    titles = item.get("title") or []
+    title = titles[0].strip() if titles else ""
+    if not title:
+        return None
+
+    # Enforce ML/AI category restriction.
+    group_title = (item.get("group-title") or "").strip()
+    if group_title and group_title not in _BIORXIV_ML_CATEGORIES:
+        return None
+
+    uid = f"biorxiv:{doi.removeprefix(_BIORXIV_DOI_PREFIX)}"
+
+    authors_list = item.get("author") or []
+    authors = ", ".join(
+        f"{a.get('given', '')} {a.get('family', '')}".strip()
+        for a in authors_list
+    )
+
+    # Prefer 'posted' date (bioRxiv first-posted) over 'created'.
+    date_info = item.get("posted") or item.get("created") or {}
+    date_parts = (date_info.get("date-parts") or [[]])[0]
+    if len(date_parts) >= 3:
+        submitted = f"{date_parts[0]:04d}-{date_parts[1]:02d}-{date_parts[2]:02d}"
+    elif len(date_parts) == 2:
+        submitted = f"{date_parts[0]:04d}-{date_parts[1]:02d}-01"
+    elif len(date_parts) == 1:
+        submitted = f"{date_parts[0]:04d}-01-01"
+    else:
+        submitted = ""
+
+    url = item.get("URL") or f"https://doi.org/{doi}"
+
+    # Strip JATS XML tags that Crossref embeds in abstracts.
+    abstract_raw = item.get("abstract") or ""
+    abstract = re.sub(r"<[^>]+>", "", abstract_raw)
+    abstract = re.sub(r"\s+", " ", abstract).strip()
+
+    return {
+        "arxiv_id": uid,
+        "title": title,
+        "authors": authors,
+        "submitted": submitted,
+        "categories": group_title,
+        "url": url,
+        "abstract": abstract,
+        "source": "biorxiv",
+    }
+
+
+def fetch_crossref_papers(keywords: str, start_date: date, end_date: date) -> list[dict]:
+    """Return ML/AI-tagged bioRxiv preprints from Crossref matching *keywords* in date range."""
+    date_filter = (
+        "type:posted-content,"
+        f"from-posted-date:{start_date.strftime('%Y-%m-%d')},"
+        f"until-posted-date:{end_date.strftime('%Y-%m-%d')}"
+    )
+    papers: list[dict] = []
+    offset = 0
+
+    while True:
+        data = _crossref_fetch_page(keywords, date_filter, offset)
+        message = data.get("message") or {}
+        total = int(message.get("total-results") or 0)
+        items = message.get("items") or []
+
+        if not items:
+            break
+
+        for item in items:
+            paper = _crossref_item_to_dict(item)
+            if paper:
+                papers.append(paper)
+
+        offset += len(items)
+        if offset >= total or len(items) < CROSSREF_PAGE_SIZE:
             break
 
         time.sleep(API_DELAY_SECONDS)
@@ -764,7 +922,7 @@ def update_readme(papers_by_id: dict[str, dict]) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Fetch BirdCLEF papers from arXiv, Semantic Scholar, and Papers With Code."
+        description="Fetch BirdCLEF papers from arXiv, Semantic Scholar, bioRxiv, and Papers With Code."
     )
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument(
@@ -841,6 +999,20 @@ def main() -> None:
         print(f"\nQuerying Semantic Scholar for: {keywords!r} …")
         try:
             papers = fetch_ss_papers(keywords, start_date, end_date)
+        except RuntimeError as exc:
+            print(f"  [error] {exc}", file=sys.stderr)
+            continue
+        new_count += _ingest(papers, existing)
+        time.sleep(API_DELAY_SECONDS)
+
+    # ------------------------------------------------------------------
+    # bioRxiv via Crossref (ML/AI categories only)
+    # ------------------------------------------------------------------
+    print("\n\n=== bioRxiv (Crossref – ML/AI categories) ===")
+    for keywords in CROSSREF_SEARCH_QUERIES:
+        print(f"\nQuerying Crossref/bioRxiv for: {keywords!r} …")
+        try:
+            papers = fetch_crossref_papers(keywords, start_date, end_date)
         except RuntimeError as exc:
             print(f"  [error] {exc}", file=sys.stderr)
             continue
