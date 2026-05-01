@@ -52,6 +52,14 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Multi-grained detail-enhanced and patch-aware network based on bird sound recognition](https://doi.org/10.1016/j.engappai.2026.114274)
+**Lin Duan, Li-dong Yang, Dawei Niu, Yong Guo et al.** · 2026-05-01
+
+
+#### [Predicting the ecological condition of grazed Australian landscapes using satellite-derived indices, patch metrics, and passive acoustic monitoring of birds](https://doi.org/10.1016/j.ecolind.2026.114862)
+**David K. Tucker, M. D. Scarpelli, Callan Alexander, Susan Fuller et al.** · 2026-05-01
+
+
 #### [TABMON
  : Design and deployment of a transnational passive acoustic monitoring network for European birds](https://doi.org/10.1111/2041-210x.70308)
 **B. Cretois, Carolyn M. Rosten, J. Wiel, Cynthia Barile et al.** · 2026-04-23
