@@ -52,6 +52,16 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Identification of Erroneous Locations and Restoration of Tracks Distorted as a Result of the Spoofing of Signals from Global Navigation Satellite Systems](https://doi.org/10.19074/1814-8654-2026-52-36-70)
+**I. Karyakin** · 2026-05-03
+
+<details>
+<summary>Abstract</summary>
+
+Global Navigation Satellite Systems (GNSS) serve as a fundamental tool in modern movement ecology; however, the transnational use of electronic warfare (EW) systems poses a critical threat to telemetry research. Targeted jamming and spoofing of navigation signals result in massive spatiotemporal track distortions, rendering raw data unsuitable for population and spatial analyses. This article analyzes existing data-cleaning tools (in R and Python) and presents three author-developed cascading algorithms (in Python) for automated anomaly identification and true trajectory reconstruction. The proposed methodology integrates deterministic kinematic heuristics (iterative filters for speed and turning angle, and an adaptive spatial deviation) with unsupervised (Isolation Forest) and supervised (Random Forest) machine learning algorithms. The reconstruction of lost route segments is carried out using time-weighted linear interpolation. Testing the algorithms on telemetry data from 26 birds of prey across four species demonstrated the high efficacy of the hybrid approach during periods of active directional migration (the filtering efficiency of distorted locations averaged 98.7±2.2%). At the same time, the algorithms showed limitations when processing data from stationary areas (nesting, wintering, and prolonged stopovers), where anomaly recognition efficiency decreased significantly (to 69.6±45.2%).
+
+</details>
+
 #### [Multi-grained detail-enhanced and patch-aware network based on bird sound recognition](https://doi.org/10.1016/j.engappai.2026.114274)
 **Lin Duan, Li-dong Yang, Dawei Niu, Yong Guo et al.** · 2026-05-01
 
