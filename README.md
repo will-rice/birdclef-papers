@@ -62,6 +62,28 @@ Passive acoustic monitoring (PAM) enables large-scale biodiversity assessment, b
 
 </details>
 
+#### [An Adaptive Audiovisual Fusion Method Based on Prediction Confidence for Fine Granularity Bird Species Recognition](https://doi.org/10.3390/app16105113)
+**Xinliang Xu, Qiming Liu, Xin Wen, Hengye Zhao et al.** · 2026-05-20
+
+<details>
+<summary>Abstract</summary>
+
+To address the inherent limitations of single-modality approaches in fine-grained bird species recognition, this paper proposes an adaptive audiovisual fusion method based on prediction confidence. The proposed framework comprises three core components: an image classification branch, an audio classification branch, and a confidence–adaptive fusion module. The image branch employs EfficientNet-B3 to extract fine-grained visual features through compound scaling and squeeze-and-excitation (SE) attention. The audio branch utilizes ResNet-50 to classify Mel spectrograms converted from bird vocalizations, incorporating a dense sampling inference strategy to fully exploit complete audio information. For multimodal integration, a confidence–adaptive fusion strategy is introduced that jointly considers information entropy and probability gap to dynamically assess the reliability of each modality’s prediction, thereby assigning fusion weights at the sample level without any additional trainable parameters. Experiments on the SSW60 multimodal bird recognition dataset show that the image branch achieves a Top-1 accuracy of 91.55%, outperforming ResNet-50 (89.75%) and VGG-16 (83.81%); the audio branch reaches 68.20%, surpassing AST (63.29%) and VGG-16 (53.48%); and the fused model attains 95.30% Top-1 accuracy, a 3.75 percentage-point improvement over the image-only baseline and a 0.21 percentage-point gain over the learning-based TMC fusion baseline without introducing any trainable parameters, confirming the effectiveness of the proposed method.
+
+</details>
+
+#### [From video to behaviour: An
+ LSTM
+ ‐based approach for automated nest behaviour recognition in the wild](https://doi.org/10.1111/2041-210x.70325)
+**Liliana R. Silva, André C. Ferreira, Irene Martínez-Baquero, Arlette Fauteux et al.** · 2026-05-20
+
+<details>
+<summary>Abstract</summary>
+
+Studies of animal behaviour usually rely on direct observations or manual annotations of video recordings. However, such methods can be very time‐consuming and error‐prone, leading to sub‐optimal sample sizes. Recent advances in deep learning show great potential to overcome such limitations. Nevertheless, most currently available behavioural recognition solutions remain focused on captivity settings. Here, we present a deployment‐focused framework to guide researchers in building behavioural recognition systems from video data, using Long Short‐Term Memory (LSTM) networks to classify behavioural sequences across consecutive frames. LSTMs allowed us to: (1) monitor nest activity by detecting the birds' presence and simultaneously classifying the type of trajectory: i.e. nest‐chamber entrance or exit; and (2) identify the behaviour performed: building, aggression or sanitation. Our framework achieved comparable error rates to human annotators while greatly outperforming them in speed. Model performance improved with challenging training instances and remained robust even with modest sample sizes. LSTM also outperformed YOLO (‘You Only Look Once’), highlighting the critical role of temporal sequence information in behavioural analysis. We demonstrate that our approach is replicable across three bird species and applicable to deployment videos, highlighting its value as a generalisable and transferable tool for long‐term studies in the wild.
+
+</details>
+
 #### [Identification of Erroneous Locations and Restoration of Tracks Distorted as a Result of the Spoofing of Signals from Global Navigation Satellite Systems](https://doi.org/10.19074/1814-8654-2026-52-36-70)
 **I. Karyakin** · 2026-05-03
 
