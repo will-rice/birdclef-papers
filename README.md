@@ -52,6 +52,10 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Individual Bird Identification by Modeling Temporal Structure in Bioacoustic Embeddings](https://doi.org/10.64898/2026.05.21.727031)
+**J. Gallego, J. Martínez, J. D. López** · 2026-05-26
+
+
 #### [SEABAD: A Tropical Bird Activity Detection Dataset for Passive Acoustic Monitoring](https://arxiv.org/abs/2605.20853)
 **Muhammad Mun'im Ahmad Zabidi, Mohd Yamani Idna Idris, Norisma Idris** · 2026-05-20
 
