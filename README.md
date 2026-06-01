@@ -52,6 +52,10 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Forest type consistently shapes bird communities across seasons: Insights from passive acoustic monitoring](https://doi.org/10.1016/j.foreco.2026.123617)
+**E. S. Felgentreff, David Singer, Markus Bernhardt-Römermann** · 2026-06-01
+
+
 #### [BIRDNet: Mining and Encoding Boolean Implication Knowledge Graphs as Interpretable Deep Neural Networks](https://arxiv.org/abs/2605.28739)
 **Tirtharaj Dash** · 2026-05-27
 
