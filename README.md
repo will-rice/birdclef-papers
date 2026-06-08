@@ -52,6 +52,16 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [MyGardenBird: A Machine-Learning-Ready Bird Sound Dataset for Twelve Common Malaysian Birds](https://arxiv.org/abs/2606.06975)
+**Muhammad Mun'im Ahmad Zabidi, Mohd Yamani Idna Idris, Norisma Idris** · 2026-06-05
+
+<details>
+<summary>Abstract</summary>
+
+Bioacoustic datasets from tropical regions remain limited, in part due to the absence of reproducible workflows for aggregating recordings from public archives. We present \textbf{MyGardenBird}, a curated dataset of bird vocalisations representing twelve common species across Peninsular Malaysia and the Indo-Malayan region. Recordings were sourced from Xeno-canto and processed through species-level filtering, manual spectrogram segmentation, and quality control checks. The primary release comprises 7,200 manually validated audio clips (16 kHz, 16-bit PCM mono WAV), balanced at 600 three-second clips per species (6.0 hours total) derived from 1,381 distinct recordings. Metadata includes geospatial coordinates, vocalisation categories, and signal-to-noise ratio (SNR) values (range: 0.83--59.18 dB; mean: 15.80 dB). A supplementary 44.1 kHz version is also provided. To mitigate data leakage, dataset partitions are defined at the source-recording level. Baseline classification experiments using convolutional neural networks on Mel-spectrograms achieved test accuracies of 92--96\%, indicating strong interspecies separability. Limitations include reliance on single-annotator curation; however, validation with BirdNET confirmed label consistency. MyGardenBird is openly available at https://doi.org/10.5281/zenodo.20306877 under a CC BY-NC-SA 4.0 licence. Complete preprocessing code accompanies the release to support reproducibility and future expansion.
+
+</details>
+
 #### [Forest type consistently shapes bird communities across seasons: Insights from passive acoustic monitoring](https://doi.org/10.1016/j.foreco.2026.123617)
 **E. S. Felgentreff, David Singer, Markus Bernhardt-Römermann** · 2026-06-01
 
