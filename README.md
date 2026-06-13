@@ -52,6 +52,10 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Differential response variability of black-capped chickadees to wingbeat sounds and vocalizations.](https://doi.org/10.1242/bio.062598)
+**P. Sahu, K. Nottebrock, J. Ratch, Sarah M L Smeltz et al.** · 2026-06-11
+
+
 #### [Time-frequency localization of bird calls in dense soundscapes](https://arxiv.org/abs/2606.10407)
 **Simen Hexeberg, Fanghui Tong, H. Vishnu, M. Chitre** · 2026-06-09
 
