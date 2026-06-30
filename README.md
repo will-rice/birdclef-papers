@@ -52,6 +52,16 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Bird Species Detection from Audio Signals Using Transfer Learning](https://doi.org/10.22214/ijraset.2026.82931)
+**Trishika K, D. R** · 2026-06-30
+
+<details>
+<summary>Abstract</summary>
+
+Automatic identification of bird species from audio recordings is an important task in ecological research and biodiversity monitoring. This study proposes a deep learning-based framework that analyzes bird sounds using signal processing and transfer learning techniques. Audio signals are first transformed into frequency-based representations such as Fast Fourier Transform (FFT) and spectrograms. The use of pre-trained networks enhances learning efficiency and improves classification performance. A comparative evaluation between FFT features and spectrogram inputs reveals that spectrogram-based representations capture richer acoustic patterns, leading to better accuracy. The proposed system demonstrates reliable performance and can be effectively used in real-time environmental monitoring applications
+
+</details>
+
 #### [Differential response variability of black-capped chickadees to wingbeat sounds and vocalizations.](https://doi.org/10.1242/bio.062598)
 **P. Sahu, K. Nottebrock, J. Ratch, Sarah M L Smeltz et al.** · 2026-06-11
 
