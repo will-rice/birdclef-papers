@@ -52,6 +52,16 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Farmland bird diversity requires heterogeneity between and within habitats](https://doi.org/10.1007/s10980-026-02406-y)
+**M. K. Kasten, Thomas Hiller, Sara Tassoni, Rosalie Böhmer et al.** · 2026-07-01
+
+<details>
+<summary>Abstract</summary>
+
+Birds are declining worldwide, with farmland birds disproportionately affected. Most studies on farmland birds focus on single habitat types, yet agriculturally dominated landscapes are mosaics composed of multiple habitat types like arable land, grassland, forests, and orchards. We aimed to understand how these habitat types jointly shape farmland bird diversity, particularly regarding local and landscape drivers of alpha and beta diversity. We used passive acoustic monitoring to survey farmland bird communities in 14 mosaic agricultural landscapes (1 km2) in southern Germany that differ in habitat diversity. In total, 224 autonomous recording units were deployed in a grid-based design with sampling intensity proportional to habitat area. Using BirdNET and manual validation, we identified 54 bird species from 2016 h of recordings collected over 4.5 months. Local species richness (alpha diversity) increased with habitat heterogeneity at both local and landscape scales. Arable sites showed the lowest alpha diversity but comparatively high within-habitat beta diversity, whereas orchards supported high alpha but low within-habitat beta diversity. Beta diversity was highest between habitat types, especially between forests and arable land, reflecting strong contrasts in their structural complexity. Generalized dissimilarity modelling showed that local predictors were more important than landscape-level predictors in explaining bird beta diversity. Habitat associations of bird species were largely consistent with ecological expectations: bird species adapted to dense vegetation occurred mainly in forest-dominated sites, while open-habitat species were associated with arable land. Species with decreasing population trends occurred across all major habitat types. At the landscape scale, gamma diversity increased strongly with landscape diversity. Maintaining habitat heterogeneity at multiple spatial scales is critical to conserve farmland bird diversity.
+
+</details>
+
 #### [Bird Species Detection from Audio Signals Using Transfer Learning](https://doi.org/10.22214/ijraset.2026.82931)
 **Trishika K, D. R** · 2026-06-30
 
