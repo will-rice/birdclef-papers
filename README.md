@@ -52,6 +52,16 @@ Papers are discovered by querying each source with the keyword sets below.
 <!-- PAPERS_TABLE_START -->
 ### 2026
 
+#### [Two-stage fine-tuning of HuBERT for multi-label bird species recognition in overlapping acoustic environments](https://doi.org/10.1007/s11047-026-10080-x)
+**Hailemariam Abebe Endalamaw, Chuan-Kai Yang** · 2026-07-13
+
+<details>
+<summary>Abstract</summary>
+
+Automated recognition of bird species from audio is critical for biodiversity monitoring, yet it remains difficult in practice because field recordings often contain multiple birds vocalizing at the same time, strong environmental noise, and limited labeled data. Most existing systems either assume single-species recordings, require clean inputs, or depend on manually engineered preprocessing, such as source separation. This work introduces a novel two-stage fine-tuning framework that adapts a large self-supervised speech model (HuBERT) to the highly non-speech, polyphonic, multi-label setting of wild bird soundscapes. The proposed approach departs from conventional direct fine-tuning by using a two-stage curriculum. In Stage 1, HuBERT is fine-tuned on clean single-species recordings to learn discriminative, species-specific acoustic representations without interference. In Stage 2, the model is then transferred and further fine-tuned on synthetically constructed overlapping vocalizations, enabling it to generalize to real noisy soundscapes where multiple species co-occur. This two-stage adaptation strategy bridges the acoustic gap between human speech pretraining and avian bioacoustics, and allows robust multi-label prediction directly on overlapping audio without requiring explicit source separation. Extensive experiments on ten bird species show that the proposed two-stage HuBERT achieves an F1-score of 0.94 on overlapping recordings, outperforming (i) HuBERT variants trained only on clean or overlapping audio, and (ii) state-of-the-art CNN, RNN, graph-based, and transformer baselines reported in prior studies. These results demonstrate that two-stage self-supervised adaptation is an effective and scalable direction for real-time, multi-species bird monitoring in complex natural environments.
+
+</details>
+
 #### [Farmland bird diversity requires heterogeneity between and within habitats](https://doi.org/10.1007/s10980-026-02406-y)
 **M. K. Kasten, Thomas Hiller, Sara Tassoni, Rosalie Böhmer et al.** · 2026-07-01
 
