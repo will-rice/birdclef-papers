@@ -34,7 +34,6 @@ Usage::
 import argparse
 import csv
 import json
-import os
 import re
 import sys
 import time
@@ -140,10 +139,7 @@ NS = {
 # ---------------------------------------------------------------------------
 
 SS_BULK_API = "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
-SS_FIELDS = (
-    "paperId,title,authors,abstract,publicationDate,year,"
-    "externalIds,openAccessPdf"
-)
+SS_FIELDS = "paperId,title,authors,abstract,publicationDate,year,externalIds,openAccessPdf"
 
 SS_SEARCH_QUERIES = [
     "BirdCLEF",
@@ -269,45 +265,173 @@ NEGATIVE_KEYWORDS = [
 # the collection focused on bird, reptile, insect, and mammal acoustics.
 POSITIVE_KEYWORDS = [
     # ----- Birds -----
-    "bird", "avian", "ornitholog", "songbird", "raptor",
-    "owl", "warbler", "finch", "sparrow", "thrush", "wren", "robin",
-    "hawk", "eagle", "parrot", "pigeon", "dove", "hummingbird",
-    "woodpecker", "kingfisher", "penguin", "albatross", "seabird",
-    "shorebird", "waterfowl", "duck", "goose", "heron", "egret", "crane",
-    "stork", "ibis", "flamingo", "pelican", "cormorant", "gannet",
-    "swift", "swallow", "nightjar", "cuckoo", "hornbill", "toucan",
-    "macaw", "cockatoo", "lark", "bunting", "crossbill", "flycatcher",
-    "vireo", "tanager", "blackbird", "starling", "magpie", "crow",
-    "raven", "jay", "nuthatch", "treecreeper", "firecrest", "goldcrest",
-    "chiffchaff", "oystercatcher", "passerine", "avifauna", "syrinx",
-    "burung", "kicau",
+    "bird",
+    "avian",
+    "ornitholog",
+    "songbird",
+    "raptor",
+    "owl",
+    "warbler",
+    "finch",
+    "sparrow",
+    "thrush",
+    "wren",
+    "robin",
+    "hawk",
+    "eagle",
+    "parrot",
+    "pigeon",
+    "dove",
+    "hummingbird",
+    "woodpecker",
+    "kingfisher",
+    "penguin",
+    "albatross",
+    "seabird",
+    "shorebird",
+    "waterfowl",
+    "duck",
+    "goose",
+    "heron",
+    "egret",
+    "crane",
+    "stork",
+    "ibis",
+    "flamingo",
+    "pelican",
+    "cormorant",
+    "gannet",
+    "swift",
+    "swallow",
+    "nightjar",
+    "cuckoo",
+    "hornbill",
+    "toucan",
+    "macaw",
+    "cockatoo",
+    "lark",
+    "bunting",
+    "crossbill",
+    "flycatcher",
+    "vireo",
+    "tanager",
+    "blackbird",
+    "starling",
+    "magpie",
+    "crow",
+    "raven",
+    "jay",
+    "nuthatch",
+    "treecreeper",
+    "firecrest",
+    "goldcrest",
+    "chiffchaff",
+    "oystercatcher",
+    "passerine",
+    "avifauna",
+    "syrinx",
+    "burung",
+    "kicau",
     # ----- Mammals -----
-    "mammal", "bat ", "bats ", "cetacean", "dolphin", "whale", "porpoise",
-    "elephant", "primate", "monkey", "ape", "gibbon",
-    "wolf", "wolves", "coyote", "fox", "deer", "bear", "lion", "tiger",
-    "leopard", "cheetah", "seal", "sea lion", "otter", "rodent",
-    "squirrel", "rabbit", "hare", "hedgehog", "shrew",
-    "bovine", "cattle", "wildlife acoustic", "marine mammal",
+    "mammal",
+    "bat ",
+    "bats ",
+    "cetacean",
+    "dolphin",
+    "whale",
+    "porpoise",
+    "elephant",
+    "primate",
+    "monkey",
+    "ape",
+    "gibbon",
+    "wolf",
+    "wolves",
+    "coyote",
+    "fox",
+    "deer",
+    "bear",
+    "lion",
+    "tiger",
+    "leopard",
+    "cheetah",
+    "seal",
+    "sea lion",
+    "otter",
+    "rodent",
+    "squirrel",
+    "rabbit",
+    "hare",
+    "hedgehog",
+    "shrew",
+    "bovine",
+    "cattle",
+    "wildlife acoustic",
+    "marine mammal",
     # ----- Insects -----
-    "insect", "cricket", "cicada", "grasshopper", "katydid", "bee ",
-    "wasp ", "beetle", "moth ", "dragonfly",
-    "stridulat", "entomolog", "orthoptera", "mosquito", "beehive",
+    "insect",
+    "cricket",
+    "cicada",
+    "grasshopper",
+    "katydid",
+    "bee ",
+    "wasp ",
+    "beetle",
+    "moth ",
+    "dragonfly",
+    "stridulat",
+    "entomolog",
+    "orthoptera",
+    "mosquito",
+    "beehive",
     "sunn pest",
     # ----- Reptiles -----
-    "reptile", "lizard", "snake ", "turtle", "tortoise", "crocodil",
-    "gecko", "chameleon", "iguana",
+    "reptile",
+    "lizard",
+    "snake ",
+    "turtle",
+    "tortoise",
+    "crocodil",
+    "gecko",
+    "chameleon",
+    "iguana",
     # ----- Amphibians (commonly included in bioacoustics datasets) -----
-    "frog", "toad ", "amphibian", "anuran", "salamander",
+    "frog",
+    "toad ",
+    "amphibian",
+    "anuran",
+    "salamander",
     # ----- General animal acoustics / monitoring -----
-    "bioacoustic", "ecoacoustic", "soundscape", "animal sound",
-    "animal call", "animal vocal", "wildlife sound", "wildlife call",
-    "wildlife monitor", "passive acoustic monitor",
-    "species identif", "species classif", "species recogni",
-    "species detect", "species sound", "species acoustic",
-    "xeno-canto", "birdclef", "birdnet", "lifeclef",
-    "vocaliz", "acoustic index", "acoustic indices", "biosound",
-    "natural sound", "acoustic monitoring", "autonomous recording unit",
-    "vertebrate", "biodiversity", "communication mask",
+    "bioacoustic",
+    "ecoacoustic",
+    "soundscape",
+    "animal sound",
+    "animal call",
+    "animal vocal",
+    "wildlife sound",
+    "wildlife call",
+    "wildlife monitor",
+    "passive acoustic monitor",
+    "species identif",
+    "species classif",
+    "species recogni",
+    "species detect",
+    "species sound",
+    "species acoustic",
+    "xeno-canto",
+    "birdclef",
+    "birdnet",
+    "lifeclef",
+    "vocaliz",
+    "acoustic index",
+    "acoustic indices",
+    "biosound",
+    "natural sound",
+    "acoustic monitoring",
+    "autonomous recording unit",
+    "vertebrate",
+    "biodiversity",
+    "communication mask",
 ]
 
 # Delay between API requests to respect rate-limit guidance (3 s).
@@ -326,8 +450,7 @@ def _build_query(keywords: str, start_date: date, end_date: date) -> str:
     """Return a URL-encoded arXiv API query string."""
     # Date range filter: submittedDate:[YYYYMMDD TO YYYYMMDD]
     date_filter = (
-        f"submittedDate:[{start_date.strftime('%Y%m%d')}0000"
-        f" TO {end_date.strftime('%Y%m%d')}2359]"
+        f"submittedDate:[{start_date.strftime('%Y%m%d')}0000 TO {end_date.strftime('%Y%m%d')}2359]"
     )
     # Title + abstract search
     term = f'(ti:"{keywords}" OR abs:"{keywords}") AND {date_filter}'
@@ -377,8 +500,7 @@ def _parse_entry(entry: ET.Element) -> dict | None:
     submitted = published_raw[:10]  # YYYY-MM-DD
 
     categories = " ".join(
-        cat.get("term", "")
-        for cat in entry.findall("atom:category", namespaces=NS)
+        cat.get("term", "") for cat in entry.findall("atom:category", namespaces=NS)
     )
 
     url = f"https://arxiv.org/abs/{arxiv_id}"
@@ -431,7 +553,9 @@ def fetch_papers(keywords: str, start_date: date, end_date: date) -> list[dict]:
     while True:
         root = _fetch_page(query, start=start, max_results=PAGE_SIZE)
 
-        total_el = root.find("opensearch:totalResults", {"opensearch": "http://a9.com/-/spec/opensearch/1.1/"})
+        total_el = root.find(
+            "opensearch:totalResults", {"opensearch": "http://a9.com/-/spec/opensearch/1.1/"}
+        )
         total = int(total_el.text) if total_el is not None and total_el.text else 0
 
         entries = root.findall("atom:entry", namespaces=NS)
@@ -536,9 +660,7 @@ def _ss_item_to_dict(item: dict) -> dict | None:
             url = f"https://www.semanticscholar.org/paper/{paper_id}"
         source = "semanticscholar"
 
-    authors = ", ".join(
-        (a.get("name") or "").strip() for a in (item.get("authors") or [])
-    )
+    authors = ", ".join((a.get("name") or "").strip() for a in (item.get("authors") or []))
 
     pub_date = item.get("publicationDate") or ""
     if pub_date:
@@ -563,9 +685,7 @@ def _ss_item_to_dict(item: dict) -> dict | None:
 
 def fetch_ss_papers(keywords: str, start_date: date, end_date: date) -> list[dict]:
     """Return papers from Semantic Scholar matching *keywords* in date range."""
-    date_filter = (
-        f"{start_date.strftime('%Y-%m-%d')}:{end_date.strftime('%Y-%m-%d')}"
-    )
+    date_filter = f"{start_date.strftime('%Y-%m-%d')}:{end_date.strftime('%Y-%m-%d')}"
     papers: list[dict] = []
     token: str | None = None
 
@@ -723,7 +843,9 @@ def _crossref_fetch_page(keywords: str, date_filter: str, offset: int) -> dict:
                 return json.loads(resp.read())
         except Exception as exc:  # noqa: BLE001
             wait = min(2 ** (attempt + 1) * API_DELAY_SECONDS, 30)
-            print(f"  [warn] Crossref request failed ({exc}); retrying in {wait}s …", file=sys.stderr)
+            print(
+                f"  [warn] Crossref request failed ({exc}); retrying in {wait}s …", file=sys.stderr
+            )
             time.sleep(wait)
     raise RuntimeError(f"Failed to fetch Crossref page after 5 attempts: {url}")
 
@@ -742,10 +864,7 @@ def _crossref_item_to_dict(item: dict) -> dict | None:
     uid = f"biorxiv:{doi.removeprefix(_BIORXIV_DOI_PREFIX)}"
 
     authors_list = item.get("author") or []
-    authors = ", ".join(
-        f"{a.get('given', '')} {a.get('family', '')}".strip()
-        for a in authors_list
-    )
+    authors = ", ".join(f"{a.get('given', '')} {a.get('family', '')}".strip() for a in authors_list)
 
     # Prefer 'posted' date (bioRxiv first-posted) over 'created'.
     date_info = item.get("posted") or item.get("created") or {}
@@ -941,9 +1060,22 @@ def _ingest(
 _TABLE_START = "<!-- PAPERS_TABLE_START -->"
 _TABLE_END = "<!-- PAPERS_TABLE_END -->"
 
+# The README table shows only recent papers; the full list would blow past
+# GitHub's ~512 KB markdown render cap (each entry inlines its abstract).
+README_TABLE_WINDOW_DAYS = 30
+
 
 def _build_table(papers_by_id: dict[str, dict]) -> str:
     rows = sorted(papers_by_id.values(), key=lambda r: r.get("submitted", ""), reverse=True)
+
+    total = len(rows)
+    cutoff = datetime.now(tz=timezone.utc).date() - timedelta(days=README_TABLE_WINDOW_DAYS)
+    rows = [r for r in rows if r.get("submitted", "") >= cutoff.isoformat()]
+    header = (
+        f"_Showing the last {README_TABLE_WINDOW_DAYS} days ({len(rows)} of {total} papers). "
+        f"The full list lives in [papers.csv](papers.csv); browse everything by year at "
+        f"[papers/README.md](papers/README.md)._\n\n"
+    )
 
     # Group by year (newest first).
     by_year: dict[str, list] = defaultdict(list)
@@ -953,7 +1085,7 @@ def _build_table(papers_by_id: dict[str, dict]) -> str:
 
     sections: list[str] = []
     for year in sorted(by_year.keys(), reverse=True):
-        section_lines = [f"### {year}", ""]
+        section_lines = ["<details open>", f"<summary><h3>{year}</h3></summary>", ""]
         for row in by_year[year]:
             # Truncate long author lists for readability
             authors = row.get("authors", "")
@@ -963,8 +1095,15 @@ def _build_table(papers_by_id: dict[str, dict]) -> str:
             abstract = row.get("abstract", "").strip()
             title = row["title"]
             url = row["url"]
+            arxiv_id = row.get("arxiv_id", "")
 
-            section_lines.append(f"#### [{title}]({url})")
+            # DBLP / PwC ids can contain "/", flattened to "_" in the filename.
+            local_md = REPO_ROOT / "papers" / year / f"{arxiv_id.replace('/', '_')}.md"
+            local_link = ""
+            if local_md.exists():
+                local_link = f" · [📄 Read](papers/{year}/{arxiv_id.replace('/', '_')}.md)"
+
+            section_lines.append(f"#### [{title}]({url}){local_link}")
             section_lines.append(f"**{authors}** · {date_str}")
             section_lines.append("")
             if abstract:
@@ -978,9 +1117,10 @@ def _build_table(papers_by_id: dict[str, dict]) -> str:
             else:
                 section_lines.append("")
 
+        section_lines.append("</details>")
         sections.append("\n".join(section_lines))
 
-    return "\n\n".join(sections)
+    return header + "\n\n".join(sections)
 
 
 def update_readme(papers_by_id: dict[str, dict]) -> None:
@@ -1061,10 +1201,7 @@ def main() -> None:
     existing = {pid: p for pid, p in existing.items() if _is_relevant(p)}
     removed_irrelevant = before - len(existing)
     if removed_irrelevant:
-        print(
-            f"Removed {removed_irrelevant} existing paper(s) not related to "
-            "animal acoustics."
-        )
+        print(f"Removed {removed_irrelevant} existing paper(s) not related to animal acoustics.")
     removed += removed_irrelevant
 
     new_count = 0
@@ -1146,6 +1283,13 @@ def main() -> None:
         print(f"Saved to {PAPERS_CSV}.")
 
     update_readme(existing)
+
+    # Normalize the regenerated README with Prettier so the committed markdown
+    # matches the format CI (and the rest of the corpus).
+    sys.path.insert(0, str(REPO_ROOT))
+    from scripts._convert.formatting import format_markdown
+
+    format_markdown([str(README_MD)])
 
 
 if __name__ == "__main__":
