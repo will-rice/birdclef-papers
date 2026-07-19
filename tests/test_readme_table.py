@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from datetime import date, timedelta
 
-from scripts.fetch_papers import README_TABLE_WINDOW_DAYS, _build_table
+from scripts.fetch_papers import README_TABLE_LIMIT, _build_table
 
 
 def _paper(i: int, submitted: str) -> dict:
@@ -19,13 +19,15 @@ def _paper(i: int, submitted: str) -> dict:
     }
 
 
-def test_table_shows_only_papers_inside_window() -> None:
-    recent = (date.today() - timedelta(days=3)).isoformat()
-    old = (date.today() - timedelta(days=README_TABLE_WINDOW_DAYS + 5)).isoformat()
-    papers = {p["arxiv_id"]: p for p in [_paper(1, recent), _paper(2, old)]}
+def test_table_shows_only_last_n_papers() -> None:
+    papers = {
+        p["arxiv_id"]: p
+        for p in [
+            _paper(i, (date.today() - timedelta(days=i)).isoformat())
+            for i in range(1, README_TABLE_LIMIT + 5)
+        ]
+    }
     table = _build_table(papers)
-    assert table.count("#### [") == 1
-    assert "Paper 1" in table
-    assert "Paper 2" not in table
-    assert f"last {README_TABLE_WINDOW_DAYS} days (1 of 2 papers)" in table
+    assert table.count("#### [") == README_TABLE_LIMIT
+    assert f"last {README_TABLE_LIMIT} papers ({README_TABLE_LIMIT} of {README_TABLE_LIMIT + 4} total)" in table
     assert "papers/README.md" in table
