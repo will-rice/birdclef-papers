@@ -1060,19 +1060,18 @@ def _ingest(
 _TABLE_START = "<!-- PAPERS_TABLE_START -->"
 _TABLE_END = "<!-- PAPERS_TABLE_END -->"
 
-# The README table shows only recent papers; the full list would blow past
-# GitHub's ~512 KB markdown render cap (each entry inlines its abstract).
-README_TABLE_WINDOW_DAYS = 30
+# The README table shows only the most recent papers; the full list would blow
+# past GitHub's ~512 KB markdown render cap (each entry inlines its abstract).
+README_TABLE_LIMIT = 30
 
 
 def _build_table(papers_by_id: dict[str, dict]) -> str:
     rows = sorted(papers_by_id.values(), key=lambda r: r.get("submitted", ""), reverse=True)
 
     total = len(rows)
-    cutoff = datetime.now(tz=timezone.utc).date() - timedelta(days=README_TABLE_WINDOW_DAYS)
-    rows = [r for r in rows if r.get("submitted", "") >= cutoff.isoformat()]
+    rows = rows[:README_TABLE_LIMIT]
     header = (
-        f"_Showing the last {README_TABLE_WINDOW_DAYS} days ({len(rows)} of {total} papers). "
+        f"_Showing the last {README_TABLE_LIMIT} papers ({len(rows)} of {total} total). "
         f"The full list lives in [papers.csv](papers.csv); browse everything by year at "
         f"[papers/README.md](papers/README.md)._\n\n"
     )
