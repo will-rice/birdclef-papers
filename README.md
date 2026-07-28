@@ -82,10 +82,32 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 days (4 of 1623 papers). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1625 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
+
+#### [Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining](https://arxiv.org/abs/2607.22458)
+
+**Víctor Rincón Yepes** · 2026-07-24
+
+<details>
+<summary>Abstract</summary>
+
+Do learned audio embeddings encode structure that nobody told them to encode? We probe four large pretrained audio models (AST, CLAP, BEATs-bio and BirdNET) with a downstream task none of them saw during training: recovering phylogenetic distance from species vocalizations. If the geometry of the embedding space tracks the tree of life, the representation is picking up something deeper than the labels the model was optimized for. We run Mantel tests across two independent radiations. In 32 marine mammal species (1,754 recordings from the Watkins Marine Mammal Sound Database) the foundation models recover strong phylogenetic signal within the 26 cetaceans (CLAP r=0.82, BEATs-bio r=0.82, AST r=0.74; all p<0.001), among the highest acoustic-phylogenetic correlations reported for any taxon. Hand-crafted MFCC features (105d) find nothing (r=0.040, p=0.338). The gap survives after PCA-projecting every embedding down to 105 dimensions, so it is not an artefact of representation size. It also survives a partial Mantel test controlling for dominant frequency (partial Mantel r=0.404, keeping 97% of the variance explained), so it is not just pitch in disguise. We repeat the analysis on 20 bird species using the Jetz et al. (2012) phylogeny, and this time add BirdNET, a classifier trained end-to-end on around 6,000 bird species. The general-purpose foundation models recover the signal again (AST r=0.55, CLAP r=0.52). The unexpected result is that neither BirdNET nor the bioacoustic BEATs-bio beat them (r around 0.32 to 0.36). Matching the training domain to the target taxon does not, by itself, help. Pretrained audio embeddings carry evolutionary information across two independent radiations, and domain-specific pretraining is not required for it to emerge.
+
+</details>
+
+#### [Ultra-Compact CNN Architectures for Tropical Bird Audio Detection on Microcontrollers](https://arxiv.org/abs/2607.19721)
+
+**Muhammad Mun'im Ahmad Zabidi, Mohd Yamani Idna Idris, Norisma Idris** · 2026-07-22
+
+<details>
+<summary>Abstract</summary>
+
+Passive acoustic monitoring of tropical biodiversity is bottlenecked by the storage and battery cost of continuously recording soundscapes in which bird vocalisations typically occupy less than 10% of the audio. Autonomous recording units built on low-power microcontrollers (typically ARM Cortex-M with $\leq$256 kB of RAM) address this by triggering only on likely-positive segments, but the on-device options are unsatisfying: coarse frequency-energy triggers such as Goertzel filters flood SD cards with false positives at $\sim$71% precision, whereas neural detectors developed for temperate single-species tasks are either too large to deploy or transfer poorly to species-rich tropical settings. We present DrongoNet, a family of three INT8 CNN detectors sized for this envelope and validated on a 50,000-clip, 1,677-species Southeast Asian tropical dataset (SEABAD). The headline model, DrongoNet-Micro (919 parameters, 6.26 kB, 0.9810 AUC, 98.3\% mean recall at τ = 0.35), is a drop-in replacement for the Goertzel trigger used in commodity field recorders: at α = 0.10 tropical prevalence it captures 8 pp more bird vocalisations than Goertzel and extends a 32 GB card from $\sim$28 to $\sim$45 days of monitoring. DrongoNet-Nano (5.09 kB) bounds the ultra-low-flash extreme; DrongoNet-Edge (33.06 kB, 0.9991 AUC) targets Linux SBCs. On SEABAD, Micro matches a retrained TinyChirp CNN-Mel baseline within 0.1 pp AUC at 28$\times$ fewer parameters, confirming that the family is deployment-agnostic across mel-spectrogram bird corpora but requires per-environment retraining. Full INT8 quantisation costs $<$0.12% AUC across all three variants.
+
+</details>
 
 #### [MetaPerch: Learning from metadata for bioacoustics foundation models](https://arxiv.org/abs/2607.14072)
 
@@ -128,6 +150,217 @@ Birds are declining worldwide, with farmland birds disproportionately affected. 
 <summary>Abstract</summary>
 
 Automatic identification of bird species from audio recordings is an important task in ecological research and biodiversity monitoring. This study proposes a deep learning-based framework that analyzes bird sounds using signal processing and transfer learning techniques. Audio signals are first transformed into frequency-based representations such as Fast Fourier Transform (FFT) and spectrograms. The use of pre-trained networks enhances learning efficiency and improves classification performance. A comparative evaluation between FFT features and spectrogram inputs reveals that spectrogram-based representations capture richer acoustic patterns, leading to better accuracy. The proposed system demonstrates reliable performance and can be effectively used in real-time environmental monitoring applications
+
+</details>
+
+#### [Differential response variability of black-capped chickadees to wingbeat sounds and vocalizations.](https://doi.org/10.1242/bio.062598)
+
+**P. Sahu, K. Nottebrock, J. Ratch, Sarah M L Smeltz et al.** · 2026-06-11
+
+#### [Time-frequency localization of bird calls in dense soundscapes](https://arxiv.org/abs/2606.10407)
+
+**Simen Hexeberg, Fanghui Tong, H. Vishnu, M. Chitre** · 2026-06-09
+
+<details>
+<summary>Abstract</summary>
+
+Passive acoustic monitoring enables large-scale observation of wildlife, but most bioacoustic classifiers only predict species presence in a time window without localizing vocalizations precisely in time or frequency, limiting downstream analyses. We formulate bird vocalization detection as an object detection task on spectrograms and train YOLO11 models to localize bird calls in dense tropical soundscapes from Singapore. We additionally introduce an open-source browser-based annotation tool and propose Intersection over Minimum (IoMin), an evaluation metric that better handles ambiguous acoustic boundaries than standard IoU and is better suited to the problem at hand. The best YOLO model nearly doubles baseline performance on in-distribution soundscapes from Singapore (81.8% vs. 42.1% IoMin@50 F1-score) while still outperforming the baseline on unseen out-of-distribution recordings from Hawaii (58.6% vs. 48.6%). These results suggest that object detection frameworks are a promising approach to time-frequency localization of animal vocalizations in complex soundscapes.
+
+</details>
+
+#### [MyGardenBird: A Machine-Learning-Ready Bird Sound Dataset for Twelve Common Malaysian Birds](https://arxiv.org/abs/2606.06975)
+
+**Muhammad Mun'im Ahmad Zabidi, Mohd Yamani Idna Idris, Norisma Idris** · 2026-06-05
+
+<details>
+<summary>Abstract</summary>
+
+Bioacoustic datasets from tropical regions remain limited, in part due to the absence of reproducible workflows for aggregating recordings from public archives. We present \textbf{MyGardenBird}, a curated dataset of bird vocalisations representing twelve common species across Peninsular Malaysia and the Indo-Malayan region. Recordings were sourced from Xeno-canto and processed through species-level filtering, manual spectrogram segmentation, and quality control checks. The primary release comprises 7,200 manually validated audio clips (16 kHz, 16-bit PCM mono WAV), balanced at 600 three-second clips per species (6.0 hours total) derived from 1,381 distinct recordings. Metadata includes geospatial coordinates, vocalisation categories, and signal-to-noise ratio (SNR) values (range: 0.83--59.18 dB; mean: 15.80 dB). A supplementary 44.1 kHz version is also provided. To mitigate data leakage, dataset partitions are defined at the source-recording level. Baseline classification experiments using convolutional neural networks on Mel-spectrograms achieved test accuracies of 92--96\%, indicating strong interspecies separability. Limitations include reliance on single-annotator curation; however, validation with BirdNET confirmed label consistency. MyGardenBird is openly available at https://doi.org/10.5281/zenodo.20306877 under a CC BY-NC-SA 4.0 licence. Complete preprocessing code accompanies the release to support reproducibility and future expansion.
+
+</details>
+
+#### [Forest type consistently shapes bird communities across seasons: Insights from passive acoustic monitoring](https://doi.org/10.1016/j.foreco.2026.123617)
+
+**E. S. Felgentreff, David Singer, Markus Bernhardt-Römermann** · 2026-06-01
+
+#### [BIRDNet: Mining and Encoding Boolean Implication Knowledge Graphs as Interpretable Deep Neural Networks](https://arxiv.org/abs/2605.28739)
+
+**Tirtharaj Dash** · 2026-05-27
+
+<details>
+<summary>Abstract</summary>
+
+Tabular data in knowledge-rich domains often carries a latent prior in the form of Boolean implication relationships (BIRs) between pairs of features. We mine such relationships with a sparse-exception binomial test. The mined implications form a typed directed graph, equivalent to a propositional rule base of 2-literal clauses. We encode this graph as the connectivity of a layered neural network, called BIRDNet, in which each hidden unit corresponds to one mined rule and binds only to its two features. We show two consequences of this design: First, the architecture is sparse by construction: at most $2/d$ of the weights in each BIR layer are active, where $d$ is the input dimension. Second, the model is interpretable: every trained unit keeps a stable symbolic identity, so rules can be read off the network without surrogate models. Unlike most neurosymbolic models, BIRDNet does not consume an external rule base; its structural prior is mined from the data. We evaluate BIRDNet on six transcriptomic and proteomic benchmarks. Our results show that BIRDNet stays within 0.02 AUROC of the strongest dense baseline, at a small accuracy cost, while using up to $96\times$ fewer active parameters than an architecture-matched dense MLP. First-layer rules recover known biological signatures across multiple cancer subtypes and tissue types, including canonical amplicons, lineage-defining co-expression modules, and immune-infiltration markers. Data and code are available at: https://github.com/MAHI-Group/BIRDNet.
+
+</details>
+
+#### [Traditional bioacoustic analyses and machine-learning methods indicate weak vocal dimorphism in four Cerrado antbird species](https://doi.org/10.1007/s10336-026-02415-3)
+
+**Enrico L. Breviglieri, L. S. M. Sugai, Guilherme Sementili-Cardoso, R. J. Donatelli et al.** · 2026-05-27
+
+#### [Individual Bird Identification by Modeling Temporal Structure in Bioacoustic Embeddings](https://doi.org/10.64898/2026.05.21.727031)
+
+**J. Gallego, J. Martínez, J. D. López** · 2026-05-26
+
+#### [SEABAD: A Tropical Bird Activity Detection Dataset for Passive Acoustic Monitoring](https://arxiv.org/abs/2605.20853)
+
+**Muhammad Mun'im Ahmad Zabidi, Mohd Yamani Idna Idris, Norisma Idris** · 2026-05-20
+
+<details>
+<summary>Abstract</summary>
+
+Passive acoustic monitoring (PAM) enables large-scale biodiversity assessment, but continuous recording generates large amounts of non-informative audio, creating challenges for storage, power consumption, and long-term edge deployment. Bird audio detection (BAD), which identifies bird vocalizations, can reduce this burden by filtering irrelevant recordings before downstream analysis. However, most BAD systems are trained on temperate datasets despite tropical soundscapes being denser, more species-rich, and acoustically unpredictable. To address this gap, we introduce SEABAD (Southeast Asian Bird Activity Detection), a dataset of 50,000 curated three-second clips from Southeast Asian soundscapes, evenly balanced between bird-present and bird-absent samples. The dataset spans 1,677 bird species and is standardized to 16 kHz mono audio for embedded and low-power inference. We developed a dual-branch curation pipeline: a six-stage positive-label workflow applied to Xeno-Canto recordings, alongside six source-specific negative-label extractions from environmental datasets. These procedures reduced class imbalance by 13.7% (Gini coefficient: 0.601 to 0.519). A manual audit of 1,000 positive clips confirmed 97.8% +/- 0.9% labeling accuracy. Baseline experiments using MobileNetV3-Small achieved 99.57% +/- 0.25% accuracy and 0.9985 +/- 0.0002 AUC across three random seeds. SEABAD and the full curation pipeline are publicly released to support tropical BAD research and energy-efficient acoustic monitoring.
+
+</details>
+
+#### [An Adaptive Audiovisual Fusion Method Based on Prediction Confidence for Fine Granularity Bird Species Recognition](https://doi.org/10.3390/app16105113)
+
+**Xinliang Xu, Qiming Liu, Xin Wen, Hengye Zhao et al.** · 2026-05-20
+
+<details>
+<summary>Abstract</summary>
+
+To address the inherent limitations of single-modality approaches in fine-grained bird species recognition, this paper proposes an adaptive audiovisual fusion method based on prediction confidence. The proposed framework comprises three core components: an image classification branch, an audio classification branch, and a confidence–adaptive fusion module. The image branch employs EfficientNet-B3 to extract fine-grained visual features through compound scaling and squeeze-and-excitation (SE) attention. The audio branch utilizes ResNet-50 to classify Mel spectrograms converted from bird vocalizations, incorporating a dense sampling inference strategy to fully exploit complete audio information. For multimodal integration, a confidence–adaptive fusion strategy is introduced that jointly considers information entropy and probability gap to dynamically assess the reliability of each modality’s prediction, thereby assigning fusion weights at the sample level without any additional trainable parameters. Experiments on the SSW60 multimodal bird recognition dataset show that the image branch achieves a Top-1 accuracy of 91.55%, outperforming ResNet-50 (89.75%) and VGG-16 (83.81%); the audio branch reaches 68.20%, surpassing AST (63.29%) and VGG-16 (53.48%); and the fused model attains 95.30% Top-1 accuracy, a 3.75 percentage-point improvement over the image-only baseline and a 0.21 percentage-point gain over the learning-based TMC fusion baseline without introducing any trainable parameters, confirming the effectiveness of the proposed method.
+
+</details>
+
+#### [From video to behaviour: An
+
+LSTM
+‐based approach for automated nest behaviour recognition in the wild](https://doi.org/10.1111/2041-210x.70325)
+**Liliana R. Silva, André C. Ferreira, Irene Martínez-Baquero, Arlette Fauteux et al.** · 2026-05-20
+
+<details>
+<summary>Abstract</summary>
+
+Studies of animal behaviour usually rely on direct observations or manual annotations of video recordings. However, such methods can be very time‐consuming and error‐prone, leading to sub‐optimal sample sizes. Recent advances in deep learning show great potential to overcome such limitations. Nevertheless, most currently available behavioural recognition solutions remain focused on captivity settings. Here, we present a deployment‐focused framework to guide researchers in building behavioural recognition systems from video data, using Long Short‐Term Memory (LSTM) networks to classify behavioural sequences across consecutive frames. LSTMs allowed us to: (1) monitor nest activity by detecting the birds' presence and simultaneously classifying the type of trajectory: i.e. nest‐chamber entrance or exit; and (2) identify the behaviour performed: building, aggression or sanitation. Our framework achieved comparable error rates to human annotators while greatly outperforming them in speed. Model performance improved with challenging training instances and remained robust even with modest sample sizes. LSTM also outperformed YOLO (‘You Only Look Once’), highlighting the critical role of temporal sequence information in behavioural analysis. We demonstrate that our approach is replicable across three bird species and applicable to deployment videos, highlighting its value as a generalisable and transferable tool for long‐term studies in the wild.
+
+</details>
+
+#### [Identification of Erroneous Locations and Restoration of Tracks Distorted as a Result of the Spoofing of Signals from Global Navigation Satellite Systems](https://doi.org/10.19074/1814-8654-2026-52-36-70)
+
+**I. Karyakin** · 2026-05-03
+
+<details>
+<summary>Abstract</summary>
+
+Global Navigation Satellite Systems (GNSS) serve as a fundamental tool in modern movement ecology; however, the transnational use of electronic warfare (EW) systems poses a critical threat to telemetry research. Targeted jamming and spoofing of navigation signals result in massive spatiotemporal track distortions, rendering raw data unsuitable for population and spatial analyses. This article analyzes existing data-cleaning tools (in R and Python) and presents three author-developed cascading algorithms (in Python) for automated anomaly identification and true trajectory reconstruction. The proposed methodology integrates deterministic kinematic heuristics (iterative filters for speed and turning angle, and an adaptive spatial deviation) with unsupervised (Isolation Forest) and supervised (Random Forest) machine learning algorithms. The reconstruction of lost route segments is carried out using time-weighted linear interpolation. Testing the algorithms on telemetry data from 26 birds of prey across four species demonstrated the high efficacy of the hybrid approach during periods of active directional migration (the filtering efficiency of distorted locations averaged 98.7±2.2%). At the same time, the algorithms showed limitations when processing data from stationary areas (nesting, wintering, and prolonged stopovers), where anomaly recognition efficiency decreased significantly (to 69.6±45.2%).
+
+</details>
+
+#### [Multi-grained detail-enhanced and patch-aware network based on bird sound recognition](https://doi.org/10.1016/j.engappai.2026.114274)
+
+**Lin Duan, Li-dong Yang, Dawei Niu, Yong Guo et al.** · 2026-05-01
+
+#### [Predicting the ecological condition of grazed Australian landscapes using satellite-derived indices, patch metrics, and passive acoustic monitoring of birds](https://doi.org/10.1016/j.ecolind.2026.114862)
+
+**David K. Tucker, M. D. Scarpelli, Callan Alexander, Susan Fuller et al.** · 2026-05-01
+
+#### [TABMON
+
+: Design and deployment of a transnational passive acoustic monitoring network for European birds](https://doi.org/10.1111/2041-210x.70308)
+**B. Cretois, Carolyn M. Rosten, J. Wiel, Cynthia Barile et al.** · 2026-04-23
+
+<details>
+<summary>Abstract</summary>
+
+Ecological surveys are often fragmented, costly and limited in scale, leading to large and long‐standing knowledge gaps which threaten our ability to properly safeguard biodiversity. Passive acoustic monitoring (PAM) has promised to deliver automated biodiversity monitoring, but networks are rarely deployed on scales that can offer truly novel insights due to scalability and standardization challenges around collecting, managing, analysing and sharing data. Here we present the Transnational Acoustic Biodiversity Monitoring Network (TABMON), a standardized deployment of 108 autonomous sensors across Norway, the Netherlands, France and Spain along a continental bird migration route. Audio is recorded continuously, uploaded in near real‐time and processed through an automated analysis pipeline designed to support expert validation and the generation of datasets for deriving Essential Biodiversity Variables (EBVs). TABMON provides a methodological blueprint for transnational, networked PAM deployments and highlights both the opportunities and current limitations of near real‐time acoustic biodiversity monitoring at continental scales.
+
+</details>
+
+#### [BAGEL: Benchmarking Animal Knowledge Expertise in Language Models](https://arxiv.org/abs/2604.16241)
+
+**Jiacheng Shen, Masato Hagiwara, Milad Alizadeh, Ellen Gilsenan-McMahon et al.** · 2026-04-17
+
+<details>
+<summary>Abstract</summary>
+
+Large language models have shown strong performance on broad-domain knowledge and reasoning benchmarks, but it remains unclear how well language models handle specialized animal-related knowledge under a unified closed-book evaluation protocol. We introduce BAGEL, a benchmark for evaluating animal knowledge expertise in language models. BAGEL is constructed from diverse scientific and reference sources, including bioRxiv, Global Biotic Interactions, Xeno-canto, and Wikipedia, using a combination of curated examples and automatically generated closed-book question-answer pairs. The benchmark covers multiple aspects of animal knowledge, including taxonomy, morphology, habitat, behavior, vocalization, geographic distribution, and species interactions. By focusing on closed-book evaluation, BAGEL measures animal-related knowledge of models without external retrieval at inference time. BAGEL further supports fine-grained analysis across source domains, taxonomic groups, and knowledge categories, enabling a more precise characterization of model strengths and systematic failure modes. Our benchmark provides a new testbed for studying domain-specific knowledge generalization in language models and for improving their reliability in biodiversity-related applications.
+
+</details>
+
+#### [bacpipe: a Python package to make bioacoustic deep learning models accessible](https://arxiv.org/abs/2604.11560)
+
+**Vincent S. Kather, Sylvain Haupert, Burooj Ghani, Dan Stowell** · 2026-04-13
+
+<details>
+<summary>Abstract</summary>
+
+1. Natural sounds have been recorded for millions of hours over the previous decades using passive acoustic monitoring. Improvements in deep learning models have vastly accelerated the analysis of large portions of this data. While new models advance the state-of-the-art, accessing them using tools to harness their full potential is not always straightforward. Here we present bacpipe, a collection of bioacoustic deep learning models and evaluation pipelines accessible through a graphical and programming interface, designed for both ecologists and computer scientists. Bacpipe is a modular software package intended as a point of convergence for bioacoustic models. 2. Bacpipe streamlines the usage of state-of-the-art models on custom audio datasets, generating acoustic feature vectors (embeddings) and classifier predictions. A modular design allows evaluation and benchmarking of models through interactive visualizations, clustering and probing. 3. We believe that access to new deep learning models is important. By designing bacpipe to target a wide audience, researchers will be enabled to answer new ecological and evolutionary questions in bioacoustics. 4. In conclusion, we believe accessibility to developments in deep learning to a wider audience benefits the ecological questions we are trying to answer.
+
+</details>
+
+#### [DeepForestSound: a multi-species automatic detector for passive acoustic monitoring in African tropical forests, a case study in Kibale National Park](https://arxiv.org/abs/2604.08087)
+
+**G. Dubus, Th'eau d'Audiffret, Claire Auger, Raphaël Cornette et al.** · 2026-04-09
+
+<details>
+<summary>Abstract</summary>
+
+Passive Acoustic Monitoring (PAM) is widely used for biodiversity assessment. Its application in African tropical forests is limited by scarce annotated data, reducing the performance of general-purpose ecoacoustic models on underrepresented taxa. In this study, we introduce DeepForestSound (DFS), a multi-species automatic detection model designed for PAM in African tropical forests. DFS relies on a semi-supervised pipeline combining clustering of unannotated recordings with manual validation, followed by supervised fine-tuning of an Audio Spectrogram Transformer (AST) using low-rank adaptation, which is compared to a frozen-backbone linear baseline (DFS-Linear). The framework supports the detection of multiple taxonomic groups, including birds, primates, and elephants, from long-term acoustic recordings. DFS was trained on acoustic data collected in the Sebitoli area, in Kibale National Park, Uganda, and evaluated on an independent dataset recorded two years later at different locations within the same forest. This evaluation therefore assesses generalization across time and recording sites within a single tropical forest ecosystem. Across 8 out of 12 taxons, DFS outperforms existing automatic detection tools, particularly for non-avian taxa, achieving average AP values of 0.964 for primates and 0.961 for elephants. Results further show that LoRA-based fine-tuning substantially outperforms linear probing across taxa. Overall, these results demonstrate that task-oriented, region-specific training substantially improves detection performance in acoustically complex tropical environments, and highlight the potential of DFS as a practical tool for biodiversity monitoring and conservation in African rainforests.
+
+</details>
+
+#### [Configurational heterogeneity drives songbird diversity at distinct spatial scales in managed boreal forests](https://doi.org/10.1007/s10980-026-02341-y)
+
+**Isabelle Lebeuf-Taylor, J. A. Martínez-Lanfranco, E. Bayne** · 2026-03-27
+
+#### [Vegetation Structure Drives Seasonal and Diel Dynamics of Avian Soundscapes in an Urban Wetland](https://doi.org/10.3390/plants15071023)
+
+**Zhe Wen, Zhewen Ye, Yunfeng Yang, Yao Xiong** · 2026-03-26
+
+<details>
+<summary>Abstract</summary>
+
+Urban wetlands are acoustic hotspots where vegetation structure, hydrological dynamics, and anthropogenic noise interact, yet multi-season assessments of how vegetation influences avian soundscapes are limited. This study explored bird soundscape dynamics across forest, open forest grassland, and meadow habitats in Nanjing Xinjizhou National Wetland Park, eastern China, using passive acoustic monitoring during spring and autumn 2023. Twelve sampling points (four per vegetation type) were established, and six acoustic indices were calculated, including the Acoustic Complexity Index (ACI), Acoustic Diversity Index (ADI), Acoustic Evenness Index (AEI), Bioacoustic Index (BIO), Normalized Difference Soundscape Index (NDSI), and Acoustic Entropy Index (H). were calculated from 48-h recordings each season. Random forest models and redundancy analysis assessed the relationships between acoustic indices, fine-scale vegetation parameters (e.g., crown width, tree height, species richness), and anthropogenic factors (e.g., distance to roads/trails, surface hardness). Vegetation structure, particularly crown width, was the primary driver of avian acoustic diversity, with broad-crowned forests consistently exhibiting the highest acoustic complexity. In spring, anthropogenic factors such as trail and road proximity dominated soundscape variation, suppressing biological sounds. In autumn, with reduced human presence, vegetation structure emerged as the dominant factor, while bioacoustic activity remained elevated despite reduced peaks in acoustic complexity. Proximity to roads increased low-frequency (1–2 kHz) noise and suppressed mid-frequency (4–8 kHz) bird vocalizations, but trees with crown widths ≥4 m maintained higher acoustic diversity even near disturbance sources. This study demonstrates that vegetation structure mediates both resource availability and sound propagation, buffering the effects of anthropogenic disturbance in frequency-specific ways. Multi-season sampling is crucial for understanding the dynamic interplay between vegetation phenology and human activity that shapes urban wetland soundscapes.
+
+</details>
+
+#### [Warm temperatures and severe fire drive a range contraction of an avian old-forest specialist in the Sierra Nevada, USA](https://doi.org/10.3389/fbirs.2026.1737313)
+
+**Luca Bielski, Spencer R. Keyser, M. Z. Peery, Connor M. Wood** · 2026-03-25
+
+<details>
+<summary>Abstract</summary>
+
+In recent decades, climate change has exerted detrimental effects on forest ecosystems and the biodiversity they harbor, in part via the combined effects of rising temperatures and changing disturbance regimes. Old-forest species may be acutely sensitive to these changes, especially in ecosystems such as the Sierra Nevada, USA, where historical losses of old-forest habitat are now coupled with a rise in atypically large, severe fires. However, the combined effects of temperature and severe fire are relatively understudied at landscape scales. We used a four-year, landscape-scale passive acoustic monitoring program to study the Hermit Warbler ( Setophaga occidentalis ), a temperature- and fire-sensitive bird species that is closely associated with old-forest habitat. Using a dynamic occupancy model, we characterized the population dynamics in response to elevation, latitude, relative temperature, and high-severity fire. The Hermit Warbler population declined 8.3% during our study, shifting away from the warmer, lower-elevation, and southern sites and toward sites at higher latitudes. It displayed a strong extinction response to severe fire over a 1-10-year post-fire period and failed to colonize such areas over the same time span. Our results suggest that limiting the occurrence of large, severe fires will be necessary to preserve this old-forest indicator but not sufficient: rising temperatures will also lead to population declines even in the absence of habitat loss due to fire. As climate change accelerates, understanding species’ responses to shifting environmental conditions will be crucial for guiding adaptive management and ensuring the persistence of biodiversity in fire-prone landscapes.
+
+</details>
+
+#### [Reliability and Spatiotemporal Autocorrelation of Acoustic Indices: Implications for Biodiversity Monitoring](https://doi.org/10.64898/2026.03.18.712292)
+
+**Xinyi Jiang, Yixuan Zhang, Zufei Shu, Zhishu Xiao et al.** · 2026-03-20
+
+#### [Scalable Animal Sound Detection: Hybrid Machine Learning Approaches for Real-World Bioacoustic Applications](https://doi.org/10.51583/ijltemas.2026.15020000051)
+
+**Trapp Sunday Kayuni, Kelvin Amos Nicodemas** · 2026-03-11
+
+<details>
+<summary>Abstract</summary>
+
+Animal bioacoustics has emerged as an indispensable tool for biodiversity monitoring and ecosystem assessment, enabling non-invasive observation of wildlife populations across diverse habitats. Traditional acoustic classification systems employ handcrafted features such as Mel-Frequency Cepstral Coefficients (MFCCs) with classical machine learning classifiers, achieving reasonable performance in controlled environments but struggling with environmental noise, species vocalization variability, and cross-habitat generalization. This paper presents a hybrid classification framework that systematically compares classical and deep learning paradigms for animal sound recognition. A Random Forest classifier trained on 40-dimensional handcrafted acoustic features—encompassing spectral, temporal, and energy-based descriptors—establishes an interpretable baseline enabling feature importance analysis. A fine-tuned Wav2Vec2 transformer model serves as the deep learning counterpart, learning hierarchical representations directly from raw waveforms without manual preprocessing. Both approaches were evaluated on a diverse dataset spanning 15 animal species across birds, mammals, and amphibians using accuracy, precision, recall, F1-score, and confusion matrix analysis. Results demonstrate that Wav2Vec2 substantially outperforms the feature-based baseline, achieving 92.75% test accuracy compared to 78.62% for Random Forest—an improvement of 14.13 percentage points. Per-class analysis reveals dramatic gains for acoustically challenging species, with the transformer model achieving near-perfect classification (F1 > 96%) for multiple categories where Random Forest struggled. These findings affirm the enhanced representational capacity of self-supervised transformer architectures for bioacoustic classification and provide practical guidance for automated wildlife monitoring systems. The complete codebase, trained models, and evaluation protocols are publicly available to support reproducibility and future research.
+
+</details>
+
+#### [Assessing abundance and habitat preferences of Goldcrest Regulus regulus and Firecrest Regulus ignicapilla using passive acoustic monitoring and point-count surveys in temperate forest ecosystem in Poland](https://doi.org/10.51812/of.154841)
+
+**Karol Kustusch, Dawid Cząstkiewicz, A. Wuczyński** · 2026-03-11
+
+<details>
+<summary>Abstract</summary>
+
+Passive acoustic monitoring (PAM) provides new opportunities for assessing bird abundance and habitat preferences, yet its performance relative to traditional point-count surveys (PCO) remains insufficiently tested, especially for quiet and inconspicuous forest passerines. We compared the vocal activity and habitat associations of the Goldcrest Regulus regulus and Firecrest Regulus ignicapilla in a temperate forest ecosystem using PAM-derived and PCO-based indices. Across 30 monitoring points in the Romincka Forest (Poland), PAM yielded >33,000 recorded songs and revealed strong spatial variation in both species. Vocal activity measures obtained from PAM correlated positively with PCO detections and territories, confirming the reliability of PAM as a complementary abundance indicator. Goldcrest vocal activity showed a strong positive association with the proportion of coniferous trees—especially spruce—and with local tree-species richness, reflecting the species’ affinity for structurally diverse conifer-dominated stands. In contrast, Firecrest abundance was unrelated to forest structure in PAM data, while PCO detections indicated avoidance of pine and lower activity in species-rich stands. No significant relationship with stand age was observed for either species. The weak interspecific correlations in activity parameters highlight their distinct ecological niches despite overlapping ranges. Based on PCO Goldcrests proved to be more abundant, with a territorial ratio of 3:2 compared to Firecrests. Our study demonstrates that PAM effectively captures variation in abundance and habitat selectivity of both Regulus species and provides a scalable, efficient complement to traditional surveys in temperate forest ecosystems.
+
+</details>
+
+#### [Canebrake and Associated Forest Structure Influence Avifauna Occurrence](https://doi.org/10.3390/f17030309)
+
+**Thanchira Suriyamongkol, Brent S. Pease, J. Zaczek, J. Schoonover et al.** · 2026-02-28
+
+<details>
+<summary>Abstract</summary>
+
+Past restoration of hardwood forests prioritized planting of woody vegetation cover, particularly oaks (Quercus spp.). This restoration regime often did not consider other microhabitat components, which failed to restore habitat complexity. Giant cane (Arundinaria gigantea (Walter) Muhl.) was an important microhabitat feature for creating a dense understory structure within the hardwood forest landscape. Many bird species are associated with stands of giant cane (canebrakes) for food, cover, and nesting ground. The decline of canebrakes may reduce nesting and foraging habitat, negatively impacting bird communities. Here, we used a hierarchical multi-species occupancy model to assess how giant cane and its associated overstory forest structure influenced breeding bird occupancy in southern Illinois. Bird surveys were conducted from May to July 2022–2024 at 100 site-years using passive acoustic monitoring. Responses to the vegetation structure (tree density and size) and canebrakes varied among species and nesting guilds (overstory, understory, and ground). Occurrence probabilities of 54% of the bird species increased with the presence of canebrake. We did not find any significant relationships between bird occupancy and vegetation structure and canebrake characteristics. Overall, maintaining a hardwood forest stand with a heterogeneous canopy cover would create variations in light environments, allowing canebrakes to benefit bird species across nesting guilds.
 
 </details>
 
