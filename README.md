@@ -87,7 +87,7 @@ _Showing the last 30 papers (30 of 1625 total). The full list lives in [papers.c
 <details open>
 <summary><h3>2026</h3></summary>
 
-#### [Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining](https://arxiv.org/abs/2607.22458)
+#### [Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining](https://arxiv.org/abs/2607.22458) · [📄 Read](papers/2026/2607.22458.md)
 
 **Víctor Rincón Yepes** · 2026-07-24
 
@@ -98,7 +98,7 @@ Do learned audio embeddings encode structure that nobody told them to encode? We
 
 </details>
 
-#### [Ultra-Compact CNN Architectures for Tropical Bird Audio Detection on Microcontrollers](https://arxiv.org/abs/2607.19721)
+#### [Ultra-Compact CNN Architectures for Tropical Bird Audio Detection on Microcontrollers](https://arxiv.org/abs/2607.19721) · [📄 Read](papers/2026/2607.19721.md)
 
 **Muhammad Mun'im Ahmad Zabidi, Mohd Yamani Idna Idris, Norisma Idris** · 2026-07-22
 
@@ -109,7 +109,7 @@ Passive acoustic monitoring of tropical biodiversity is bottlenecked by the stor
 
 </details>
 
-#### [MetaPerch: Learning from metadata for bioacoustics foundation models](https://arxiv.org/abs/2607.14072)
+#### [MetaPerch: Learning from metadata for bioacoustics foundation models](https://arxiv.org/abs/2607.14072) · [📄 Read](papers/2026/2607.14072.md)
 
 **Mustafa Chasmai, Vincent Dumoulin, Jenny Hamer** · 2026-07-15
 
@@ -120,7 +120,7 @@ Bioacoustic foundation models rely on large-scale citizen science platforms like
 
 </details>
 
-#### [Two-stage fine-tuning of HuBERT for multi-label bird species recognition in overlapping acoustic environments](https://doi.org/10.1007/s11047-026-10080-x)
+#### [Two-stage fine-tuning of HuBERT for multi-label bird species recognition in overlapping acoustic environments](https://doi.org/10.1007/s11047-026-10080-x) · [📄 Read](papers/2026/ss:14d1d80453003d899c213b311888b5851d79682f.md)
 
 **Hailemariam Abebe Endalamaw, Chuan-Kai Yang** · 2026-07-13
 
@@ -131,7 +131,7 @@ Automated recognition of bird species from audio is critical for biodiversity mo
 
 </details>
 
-#### [Farmland bird diversity requires heterogeneity between and within habitats](https://doi.org/10.1007/s10980-026-02406-y)
+#### [Farmland bird diversity requires heterogeneity between and within habitats](https://doi.org/10.1007/s10980-026-02406-y) · [📄 Read](papers/2026/ss:57f26f0b3df3ca38f7872a92640ee3b0605a4193.md)
 
 **M. K. Kasten, Thomas Hiller, Sara Tassoni, Rosalie Böhmer et al.** · 2026-07-01
 
@@ -142,7 +142,7 @@ Birds are declining worldwide, with farmland birds disproportionately affected. 
 
 </details>
 
-#### [Bird Species Detection from Audio Signals Using Transfer Learning](https://doi.org/10.22214/ijraset.2026.82931)
+#### [Bird Species Detection from Audio Signals Using Transfer Learning](https://doi.org/10.22214/ijraset.2026.82931) · [📄 Read](papers/2026/ss:daad1ca06c669d654d6b7f6824a827ce251fcb3b.md)
 
 **Trishika K, D. R** · 2026-06-30
 
@@ -153,11 +153,11 @@ Automatic identification of bird species from audio recordings is an important t
 
 </details>
 
-#### [Differential response variability of black-capped chickadees to wingbeat sounds and vocalizations.](https://doi.org/10.1242/bio.062598)
+#### [Differential response variability of black-capped chickadees to wingbeat sounds and vocalizations.](https://doi.org/10.1242/bio.062598) · [📄 Read](papers/2026/ss:c95cd32cfc9f5239e8a22e12e1eb15120b17bc70.md)
 
 **P. Sahu, K. Nottebrock, J. Ratch, Sarah M L Smeltz et al.** · 2026-06-11
 
-#### [Time-frequency localization of bird calls in dense soundscapes](https://arxiv.org/abs/2606.10407)
+#### [Time-frequency localization of bird calls in dense soundscapes](https://arxiv.org/abs/2606.10407) · [📄 Read](papers/2026/2606.10407.md)
 
 **Simen Hexeberg, Fanghui Tong, H. Vishnu, M. Chitre** · 2026-06-09
 
@@ -168,7 +168,7 @@ Passive acoustic monitoring enables large-scale observation of wildlife, but mos
 
 </details>
 
-#### [MyGardenBird: A Machine-Learning-Ready Bird Sound Dataset for Twelve Common Malaysian Birds](https://arxiv.org/abs/2606.06975)
+#### [MyGardenBird: A Machine-Learning-Ready Bird Sound Dataset for Twelve Common Malaysian Birds](https://arxiv.org/abs/2606.06975) · [📄 Read](papers/2026/2606.06975.md)
 
 **Muhammad Mun'im Ahmad Zabidi, Mohd Yamani Idna Idris, Norisma Idris** · 2026-06-05
 
@@ -179,11 +179,11 @@ Bioacoustic datasets from tropical regions remain limited, in part due to the ab
 
 </details>
 
-#### [Forest type consistently shapes bird communities across seasons: Insights from passive acoustic monitoring](https://doi.org/10.1016/j.foreco.2026.123617)
+#### [Forest type consistently shapes bird communities across seasons: Insights from passive acoustic monitoring](https://doi.org/10.1016/j.foreco.2026.123617) · [📄 Read](papers/2026/ss:4aef9a45ee1ab4f290b3e1e656ed4e4764478720.md)
 
 **E. S. Felgentreff, David Singer, Markus Bernhardt-Römermann** · 2026-06-01
 
-#### [BIRDNet: Mining and Encoding Boolean Implication Knowledge Graphs as Interpretable Deep Neural Networks](https://arxiv.org/abs/2605.28739)
+#### [BIRDNet: Mining and Encoding Boolean Implication Knowledge Graphs as Interpretable Deep Neural Networks](https://arxiv.org/abs/2605.28739) · [📄 Read](papers/2026/2605.28739.md)
 
 **Tirtharaj Dash** · 2026-05-27
 
@@ -194,15 +194,15 @@ Tabular data in knowledge-rich domains often carries a latent prior in the form 
 
 </details>
 
-#### [Traditional bioacoustic analyses and machine-learning methods indicate weak vocal dimorphism in four Cerrado antbird species](https://doi.org/10.1007/s10336-026-02415-3)
+#### [Traditional bioacoustic analyses and machine-learning methods indicate weak vocal dimorphism in four Cerrado antbird species](https://doi.org/10.1007/s10336-026-02415-3) · [📄 Read](papers/2026/ss:12379b125ff15f24f100784104a481d031179a5e.md)
 
 **Enrico L. Breviglieri, L. S. M. Sugai, Guilherme Sementili-Cardoso, R. J. Donatelli et al.** · 2026-05-27
 
-#### [Individual Bird Identification by Modeling Temporal Structure in Bioacoustic Embeddings](https://doi.org/10.64898/2026.05.21.727031)
+#### [Individual Bird Identification by Modeling Temporal Structure in Bioacoustic Embeddings](https://doi.org/10.64898/2026.05.21.727031) · [📄 Read](papers/2026/ss:65101fceb335efcb16d0624d15424e554fc4997a.md)
 
 **J. Gallego, J. Martínez, J. D. López** · 2026-05-26
 
-#### [SEABAD: A Tropical Bird Activity Detection Dataset for Passive Acoustic Monitoring](https://arxiv.org/abs/2605.20853)
+#### [SEABAD: A Tropical Bird Activity Detection Dataset for Passive Acoustic Monitoring](https://arxiv.org/abs/2605.20853) · [📄 Read](papers/2026/2605.20853.md)
 
 **Muhammad Mun'im Ahmad Zabidi, Mohd Yamani Idna Idris, Norisma Idris** · 2026-05-20
 
@@ -213,7 +213,7 @@ Passive acoustic monitoring (PAM) enables large-scale biodiversity assessment, b
 
 </details>
 
-#### [An Adaptive Audiovisual Fusion Method Based on Prediction Confidence for Fine Granularity Bird Species Recognition](https://doi.org/10.3390/app16105113)
+#### [An Adaptive Audiovisual Fusion Method Based on Prediction Confidence for Fine Granularity Bird Species Recognition](https://doi.org/10.3390/app16105113) · [📄 Read](papers/2026/ss:0420bb273644e6322ff18037a54b409fb73d9914.md)
 
 **Xinliang Xu, Qiming Liu, Xin Wen, Hengye Zhao et al.** · 2026-05-20
 
@@ -227,7 +227,7 @@ To address the inherent limitations of single-modality approaches in fine-graine
 #### [From video to behaviour: An
 
 LSTM
-‐based approach for automated nest behaviour recognition in the wild](https://doi.org/10.1111/2041-210x.70325)
+‐based approach for automated nest behaviour recognition in the wild](https://doi.org/10.1111/2041-210x.70325) · [📄 Read](papers/2026/ss:ecee39a27fe1b14c7ac50e00573719fb2fee28a7.md)
 **Liliana R. Silva, André C. Ferreira, Irene Martínez-Baquero, Arlette Fauteux et al.** · 2026-05-20
 
 <details>
@@ -237,7 +237,7 @@ Studies of animal behaviour usually rely on direct observations or manual annota
 
 </details>
 
-#### [Identification of Erroneous Locations and Restoration of Tracks Distorted as a Result of the Spoofing of Signals from Global Navigation Satellite Systems](https://doi.org/10.19074/1814-8654-2026-52-36-70)
+#### [Identification of Erroneous Locations and Restoration of Tracks Distorted as a Result of the Spoofing of Signals from Global Navigation Satellite Systems](https://doi.org/10.19074/1814-8654-2026-52-36-70) · [📄 Read](papers/2026/ss:5d6a0dd7a5cf2f11302410a74e574ccd8971fc86.md)
 
 **I. Karyakin** · 2026-05-03
 
@@ -248,17 +248,17 @@ Global Navigation Satellite Systems (GNSS) serve as a fundamental tool in modern
 
 </details>
 
-#### [Multi-grained detail-enhanced and patch-aware network based on bird sound recognition](https://doi.org/10.1016/j.engappai.2026.114274)
+#### [Multi-grained detail-enhanced and patch-aware network based on bird sound recognition](https://doi.org/10.1016/j.engappai.2026.114274) · [📄 Read](papers/2026/ss:00250364001d845f9685fa621cf1c0a856f52a62.md)
 
 **Lin Duan, Li-dong Yang, Dawei Niu, Yong Guo et al.** · 2026-05-01
 
-#### [Predicting the ecological condition of grazed Australian landscapes using satellite-derived indices, patch metrics, and passive acoustic monitoring of birds](https://doi.org/10.1016/j.ecolind.2026.114862)
+#### [Predicting the ecological condition of grazed Australian landscapes using satellite-derived indices, patch metrics, and passive acoustic monitoring of birds](https://doi.org/10.1016/j.ecolind.2026.114862) · [📄 Read](papers/2026/ss:e16f5b192f8eb1bcce9ee3d1c5e24f98621fe81a.md)
 
 **David K. Tucker, M. D. Scarpelli, Callan Alexander, Susan Fuller et al.** · 2026-05-01
 
 #### [TABMON
 
-: Design and deployment of a transnational passive acoustic monitoring network for European birds](https://doi.org/10.1111/2041-210x.70308)
+: Design and deployment of a transnational passive acoustic monitoring network for European birds](https://doi.org/10.1111/2041-210x.70308) · [📄 Read](papers/2026/ss:dbb1a1f72d44f6b8aba4693b66bcb742793e2453.md)
 **B. Cretois, Carolyn M. Rosten, J. Wiel, Cynthia Barile et al.** · 2026-04-23
 
 <details>
@@ -268,7 +268,7 @@ Ecological surveys are often fragmented, costly and limited in scale, leading to
 
 </details>
 
-#### [BAGEL: Benchmarking Animal Knowledge Expertise in Language Models](https://arxiv.org/abs/2604.16241)
+#### [BAGEL: Benchmarking Animal Knowledge Expertise in Language Models](https://arxiv.org/abs/2604.16241) · [📄 Read](papers/2026/2604.16241.md)
 
 **Jiacheng Shen, Masato Hagiwara, Milad Alizadeh, Ellen Gilsenan-McMahon et al.** · 2026-04-17
 
@@ -279,7 +279,7 @@ Large language models have shown strong performance on broad-domain knowledge an
 
 </details>
 
-#### [bacpipe: a Python package to make bioacoustic deep learning models accessible](https://arxiv.org/abs/2604.11560)
+#### [bacpipe: a Python package to make bioacoustic deep learning models accessible](https://arxiv.org/abs/2604.11560) · [📄 Read](papers/2026/2604.11560.md)
 
 **Vincent S. Kather, Sylvain Haupert, Burooj Ghani, Dan Stowell** · 2026-04-13
 
@@ -290,7 +290,7 @@ Large language models have shown strong performance on broad-domain knowledge an
 
 </details>
 
-#### [DeepForestSound: a multi-species automatic detector for passive acoustic monitoring in African tropical forests, a case study in Kibale National Park](https://arxiv.org/abs/2604.08087)
+#### [DeepForestSound: a multi-species automatic detector for passive acoustic monitoring in African tropical forests, a case study in Kibale National Park](https://arxiv.org/abs/2604.08087) · [📄 Read](papers/2026/2604.08087.md)
 
 **G. Dubus, Th'eau d'Audiffret, Claire Auger, Raphaël Cornette et al.** · 2026-04-09
 
@@ -301,11 +301,11 @@ Passive Acoustic Monitoring (PAM) is widely used for biodiversity assessment. It
 
 </details>
 
-#### [Configurational heterogeneity drives songbird diversity at distinct spatial scales in managed boreal forests](https://doi.org/10.1007/s10980-026-02341-y)
+#### [Configurational heterogeneity drives songbird diversity at distinct spatial scales in managed boreal forests](https://doi.org/10.1007/s10980-026-02341-y) · [📄 Read](papers/2026/ss:97187065359421434861ca63e908e096cde8a709.md)
 
 **Isabelle Lebeuf-Taylor, J. A. Martínez-Lanfranco, E. Bayne** · 2026-03-27
 
-#### [Vegetation Structure Drives Seasonal and Diel Dynamics of Avian Soundscapes in an Urban Wetland](https://doi.org/10.3390/plants15071023)
+#### [Vegetation Structure Drives Seasonal and Diel Dynamics of Avian Soundscapes in an Urban Wetland](https://doi.org/10.3390/plants15071023) · [📄 Read](papers/2026/ss:552b54a744fe1120eeffe60c55b4488015a630a0.md)
 
 **Zhe Wen, Zhewen Ye, Yunfeng Yang, Yao Xiong** · 2026-03-26
 
@@ -316,7 +316,7 @@ Urban wetlands are acoustic hotspots where vegetation structure, hydrological dy
 
 </details>
 
-#### [Warm temperatures and severe fire drive a range contraction of an avian old-forest specialist in the Sierra Nevada, USA](https://doi.org/10.3389/fbirs.2026.1737313)
+#### [Warm temperatures and severe fire drive a range contraction of an avian old-forest specialist in the Sierra Nevada, USA](https://doi.org/10.3389/fbirs.2026.1737313) · [📄 Read](papers/2026/ss:0fcd0f2cde8fe3e8b17c9afe21240b888be2dbf2.md)
 
 **Luca Bielski, Spencer R. Keyser, M. Z. Peery, Connor M. Wood** · 2026-03-25
 
@@ -327,11 +327,11 @@ In recent decades, climate change has exerted detrimental effects on forest ecos
 
 </details>
 
-#### [Reliability and Spatiotemporal Autocorrelation of Acoustic Indices: Implications for Biodiversity Monitoring](https://doi.org/10.64898/2026.03.18.712292)
+#### [Reliability and Spatiotemporal Autocorrelation of Acoustic Indices: Implications for Biodiversity Monitoring](https://doi.org/10.64898/2026.03.18.712292) · [📄 Read](papers/2026/ss:8632383476bab0ff5bd2ae30fa52d62ba15f8fb4.md)
 
 **Xinyi Jiang, Yixuan Zhang, Zufei Shu, Zhishu Xiao et al.** · 2026-03-20
 
-#### [Scalable Animal Sound Detection: Hybrid Machine Learning Approaches for Real-World Bioacoustic Applications](https://doi.org/10.51583/ijltemas.2026.15020000051)
+#### [Scalable Animal Sound Detection: Hybrid Machine Learning Approaches for Real-World Bioacoustic Applications](https://doi.org/10.51583/ijltemas.2026.15020000051) · [📄 Read](papers/2026/ss:c07e9e5268ae74cfbf3aab87cbf287bc404e2a78.md)
 
 **Trapp Sunday Kayuni, Kelvin Amos Nicodemas** · 2026-03-11
 
@@ -342,7 +342,7 @@ Animal bioacoustics has emerged as an indispensable tool for biodiversity monito
 
 </details>
 
-#### [Assessing abundance and habitat preferences of Goldcrest Regulus regulus and Firecrest Regulus ignicapilla using passive acoustic monitoring and point-count surveys in temperate forest ecosystem in Poland](https://doi.org/10.51812/of.154841)
+#### [Assessing abundance and habitat preferences of Goldcrest Regulus regulus and Firecrest Regulus ignicapilla using passive acoustic monitoring and point-count surveys in temperate forest ecosystem in Poland](https://doi.org/10.51812/of.154841) · [📄 Read](papers/2026/ss:7a85ed6d7d96635aa9dae10b420264afcea71ee7.md)
 
 **Karol Kustusch, Dawid Cząstkiewicz, A. Wuczyński** · 2026-03-11
 
@@ -353,7 +353,7 @@ Passive acoustic monitoring (PAM) provides new opportunities for assessing bird 
 
 </details>
 
-#### [Canebrake and Associated Forest Structure Influence Avifauna Occurrence](https://doi.org/10.3390/f17030309)
+#### [Canebrake and Associated Forest Structure Influence Avifauna Occurrence](https://doi.org/10.3390/f17030309) · [📄 Read](papers/2026/ss:a804e1b436d73e776ce4fcaa08b98a31696eaaa2.md)
 
 **Thanchira Suriyamongkol, Brent S. Pease, J. Zaczek, J. Schoonover et al.** · 2026-02-28
 
