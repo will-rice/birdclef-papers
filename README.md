@@ -82,10 +82,21 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 papers (30 of 1625 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1626 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
+
+#### [Developing a low‐cost drone‐based method for deploying and retrieving autonomous recording units in inaccessible areas](https://doi.org/10.1002/wsb.70044)
+
+**Akshit R. Suthar, Jared A. Elmore, E. Buchholtz, T. Folk et al.** · 2026-07-29
+
+<details>
+<summary>Abstract</summary>
+
+Autonomous Recording Units (ARUs) are increasingly used in research to support passive acoustic monitoring, but deployment in remote or inaccessible locations remains logistically challenging. Traditional manual placement is labor‐intensive, time‐consuming, potentially hazardous, and often limited to habitat edges, creating sampling biases and restricting spatial coverage. To address placement limitations in wetland systems, we developed and field‐tested a low‐cost, lightweight floating platform paired with a drone‐based deployment and retrieval system. The drone‐deployable ARU platform, constructed from inexpensive, off‐the‐shelf materials (~US $21 per unit), weighed ~560 g and was mounted with an ARU (AudioMoth) at ~1.2 m above water. The platform was designed for stability, portability, and compliance with Federal Aviation Administration Part 107 regulations. Field trials were conducted across 50 operations in various types of historical rice‐field impoundments along the South Carolina coast, which provide critical habitat for secretive marsh birds such as rails (e.g ., Rallus, Laterallus , and Porzana ) and bitterns (e.g ., Botaurus and Ixobrychus ). All 50 deployments and retrievals were successful, demonstrating the robustness of the method under diverse hydrologic and vegetative conditions. Deployment times were significantly shorter than retrieval times (median 6 vs. 9 min), with retrieval requiring greater precision for hook engagement. Operation times scaled predictably with distance: deployment increased by 0.93 min/100 m (R 2 = 0.94) and retrieval by 1.17 min/100 m (R 2 = 0.95). No platform damage or displacement was observed, as emergent vegetation was likely providing natural anchoring. Our approach offers an affordable and effective solution for expanding ARU coverage in large, inaccessible wetlands, reducing sampling bias and enhancing biodiversity monitoring. With continued advances in drone payload capacity, battery endurance, and beyond‐visual‐line‐of‐sight flight regulations, our workflow could be adapted for deploying multi‐sensor platforms (e.g., ARUs, eDNA samplers, water and air quality sensors, plant sample collectors, insect traps, and trail cameras) to support integrated biodiversity monitoring in challenging landscapes worldwide.
+
+</details>
 
 #### [Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining](https://arxiv.org/abs/2607.22458) · [📄 Read](papers/2026/2607.22458.md)
 
@@ -350,17 +361,6 @@ Animal bioacoustics has emerged as an indispensable tool for biodiversity monito
 <summary>Abstract</summary>
 
 Passive acoustic monitoring (PAM) provides new opportunities for assessing bird abundance and habitat preferences, yet its performance relative to traditional point-count surveys (PCO) remains insufficiently tested, especially for quiet and inconspicuous forest passerines. We compared the vocal activity and habitat associations of the Goldcrest Regulus regulus and Firecrest Regulus ignicapilla in a temperate forest ecosystem using PAM-derived and PCO-based indices. Across 30 monitoring points in the Romincka Forest (Poland), PAM yielded >33,000 recorded songs and revealed strong spatial variation in both species. Vocal activity measures obtained from PAM correlated positively with PCO detections and territories, confirming the reliability of PAM as a complementary abundance indicator. Goldcrest vocal activity showed a strong positive association with the proportion of coniferous trees—especially spruce—and with local tree-species richness, reflecting the species’ affinity for structurally diverse conifer-dominated stands. In contrast, Firecrest abundance was unrelated to forest structure in PAM data, while PCO detections indicated avoidance of pine and lower activity in species-rich stands. No significant relationship with stand age was observed for either species. The weak interspecific correlations in activity parameters highlight their distinct ecological niches despite overlapping ranges. Based on PCO Goldcrests proved to be more abundant, with a territorial ratio of 3:2 compared to Firecrests. Our study demonstrates that PAM effectively captures variation in abundance and habitat selectivity of both Regulus species and provides a scalable, efficient complement to traditional surveys in temperate forest ecosystems.
-
-</details>
-
-#### [Canebrake and Associated Forest Structure Influence Avifauna Occurrence](https://doi.org/10.3390/f17030309) · [📄 Read](papers/2026/ss:a804e1b436d73e776ce4fcaa08b98a31696eaaa2.md)
-
-**Thanchira Suriyamongkol, Brent S. Pease, J. Zaczek, J. Schoonover et al.** · 2026-02-28
-
-<details>
-<summary>Abstract</summary>
-
-Past restoration of hardwood forests prioritized planting of woody vegetation cover, particularly oaks (Quercus spp.). This restoration regime often did not consider other microhabitat components, which failed to restore habitat complexity. Giant cane (Arundinaria gigantea (Walter) Muhl.) was an important microhabitat feature for creating a dense understory structure within the hardwood forest landscape. Many bird species are associated with stands of giant cane (canebrakes) for food, cover, and nesting ground. The decline of canebrakes may reduce nesting and foraging habitat, negatively impacting bird communities. Here, we used a hierarchical multi-species occupancy model to assess how giant cane and its associated overstory forest structure influenced breeding bird occupancy in southern Illinois. Bird surveys were conducted from May to July 2022–2024 at 100 site-years using passive acoustic monitoring. Responses to the vegetation structure (tree density and size) and canebrakes varied among species and nesting guilds (overstory, understory, and ground). Occurrence probabilities of 54% of the bird species increased with the presence of canebrake. We did not find any significant relationships between bird occupancy and vegetation structure and canebrake characteristics. Overall, maintaining a hardwood forest stand with a heterogeneous canopy cover would create variations in light environments, allowing canebrakes to benefit bird species across nesting guilds.
 
 </details>
 
