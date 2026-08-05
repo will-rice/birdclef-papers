@@ -82,10 +82,21 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 papers (30 of 1626 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1627 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
+
+#### [Transfer Learning for Avian Bioacoustics under Sparse Positive Labels](https://arxiv.org/abs/2608.03977)
+
+**Dhyey Patel, Yunting Yin** · 2026-08-04
+
+<details>
+<summary>Abstract</summary>
+
+Passive acoustic monitoring is an important tool for biodiversity assessment and wildlife conservation because it supports continuous and non-invasive monitoring of species across large spatial and temporal scales. Robust monitoring remains challenging because many datasets contain sparse positive labels, where species presences may be confirmed while unannotated species cannot be assumed absent. In this work, we study transfer learning under sparse positive labels using BirdCLEF+ 2026 as a target benchmark and BirdCLEF 2021, iNatSounds, WABAD, and BirdSet as external bioacoustic sources. We introduce a multi-source reliability framework that models heterogeneous bioacoustic datasets as distinct supervision sources with differing reliability. Our approach achieves 0.584 macro average precision and 0.860 macro AUC on public BirdCLEF+ 2026 validation labels while outperforming naive source pooling strategies. The strongest gains arise from passive acoustic monitoring datasets and biologically informed source selection. Our findings suggest that transfer learning in bioacoustics is fundamentally a weak supervision and negative transfer problem.
+
+</details>
 
 #### [Developing a low‐cost drone‐based method for deploying and retrieving autonomous recording units in inaccessible areas](https://doi.org/10.1002/wsb.70044)
 
@@ -350,17 +361,6 @@ In recent decades, climate change has exerted detrimental effects on forest ecos
 <summary>Abstract</summary>
 
 Animal bioacoustics has emerged as an indispensable tool for biodiversity monitoring and ecosystem assessment, enabling non-invasive observation of wildlife populations across diverse habitats. Traditional acoustic classification systems employ handcrafted features such as Mel-Frequency Cepstral Coefficients (MFCCs) with classical machine learning classifiers, achieving reasonable performance in controlled environments but struggling with environmental noise, species vocalization variability, and cross-habitat generalization. This paper presents a hybrid classification framework that systematically compares classical and deep learning paradigms for animal sound recognition. A Random Forest classifier trained on 40-dimensional handcrafted acoustic features—encompassing spectral, temporal, and energy-based descriptors—establishes an interpretable baseline enabling feature importance analysis. A fine-tuned Wav2Vec2 transformer model serves as the deep learning counterpart, learning hierarchical representations directly from raw waveforms without manual preprocessing. Both approaches were evaluated on a diverse dataset spanning 15 animal species across birds, mammals, and amphibians using accuracy, precision, recall, F1-score, and confusion matrix analysis. Results demonstrate that Wav2Vec2 substantially outperforms the feature-based baseline, achieving 92.75% test accuracy compared to 78.62% for Random Forest—an improvement of 14.13 percentage points. Per-class analysis reveals dramatic gains for acoustically challenging species, with the transformer model achieving near-perfect classification (F1 > 96%) for multiple categories where Random Forest struggled. These findings affirm the enhanced representational capacity of self-supervised transformer architectures for bioacoustic classification and provide practical guidance for automated wildlife monitoring systems. The complete codebase, trained models, and evaluation protocols are publicly available to support reproducibility and future research.
-
-</details>
-
-#### [Assessing abundance and habitat preferences of Goldcrest Regulus regulus and Firecrest Regulus ignicapilla using passive acoustic monitoring and point-count surveys in temperate forest ecosystem in Poland](https://doi.org/10.51812/of.154841) · [📄 Read](papers/2026/ss:7a85ed6d7d96635aa9dae10b420264afcea71ee7.md)
-
-**Karol Kustusch, Dawid Cząstkiewicz, A. Wuczyński** · 2026-03-11
-
-<details>
-<summary>Abstract</summary>
-
-Passive acoustic monitoring (PAM) provides new opportunities for assessing bird abundance and habitat preferences, yet its performance relative to traditional point-count surveys (PCO) remains insufficiently tested, especially for quiet and inconspicuous forest passerines. We compared the vocal activity and habitat associations of the Goldcrest Regulus regulus and Firecrest Regulus ignicapilla in a temperate forest ecosystem using PAM-derived and PCO-based indices. Across 30 monitoring points in the Romincka Forest (Poland), PAM yielded >33,000 recorded songs and revealed strong spatial variation in both species. Vocal activity measures obtained from PAM correlated positively with PCO detections and territories, confirming the reliability of PAM as a complementary abundance indicator. Goldcrest vocal activity showed a strong positive association with the proportion of coniferous trees—especially spruce—and with local tree-species richness, reflecting the species’ affinity for structurally diverse conifer-dominated stands. In contrast, Firecrest abundance was unrelated to forest structure in PAM data, while PCO detections indicated avoidance of pine and lower activity in species-rich stands. No significant relationship with stand age was observed for either species. The weak interspecific correlations in activity parameters highlight their distinct ecological niches despite overlapping ranges. Based on PCO Goldcrests proved to be more abundant, with a territorial ratio of 3:2 compared to Firecrests. Our study demonstrates that PAM effectively captures variation in abundance and habitat selectivity of both Regulus species and provides a scalable, efficient complement to traditional surveys in temperate forest ecosystems.
 
 </details>
 
