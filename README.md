@@ -82,10 +82,21 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 papers (30 of 1627 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1629 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
+
+#### [BirdCODE: Detecting bird communication at scale](https://doi.org/10.64898/2026.07.31.742086)
+
+**Anthony Fine, Benjamin Hoffman, David Robinson, Marius Miron et al.** · 2026-08-05
+
+<details>
+<summary>Abstract</summary>
+
+Deep learning-based animal sound identification is regularly applied to large audio datasets for ecological monitoring and citizen science, but existing methods lack the fine temporal resolution required to extract insights into animal communication from these same datasets. Here we introduce Bird Communication Detector (BirdCODE), a deep learning model that detects and classifies the vocalizations of over 9000 bird species with precise temporal boundaries, a several hundredfold increase the number of species over previous bioacoustic sound event detection models. In extensive benchmarking, BirdCODE achieves state-of-the-art performance in detection and classification of bird sounds. Applying BirdCODE to 1.3M citizen-science recordings, we present four case studies of how BirdCODE-computed sound event boundaries can be used to carry out phylogenetic analyses, to describe geographic and temporal variation in acoustic communication, and to characterize cross-species interactions. Together, these demonstrate how BirdCODE can enable large-scale, data-driven studies of bird communication. Model code, weights, and predictions are publicly available.
+
+</details>
 
 #### [Transfer Learning for Avian Bioacoustics under Sparse Positive Labels](https://arxiv.org/abs/2608.03977)
 
@@ -352,17 +363,6 @@ In recent decades, climate change has exerted detrimental effects on forest ecos
 #### [Reliability and Spatiotemporal Autocorrelation of Acoustic Indices: Implications for Biodiversity Monitoring](https://doi.org/10.64898/2026.03.18.712292) · [📄 Read](papers/2026/ss:8632383476bab0ff5bd2ae30fa52d62ba15f8fb4.md)
 
 **Xinyi Jiang, Yixuan Zhang, Zufei Shu, Zhishu Xiao et al.** · 2026-03-20
-
-#### [Scalable Animal Sound Detection: Hybrid Machine Learning Approaches for Real-World Bioacoustic Applications](https://doi.org/10.51583/ijltemas.2026.15020000051) · [📄 Read](papers/2026/ss:c07e9e5268ae74cfbf3aab87cbf287bc404e2a78.md)
-
-**Trapp Sunday Kayuni, Kelvin Amos Nicodemas** · 2026-03-11
-
-<details>
-<summary>Abstract</summary>
-
-Animal bioacoustics has emerged as an indispensable tool for biodiversity monitoring and ecosystem assessment, enabling non-invasive observation of wildlife populations across diverse habitats. Traditional acoustic classification systems employ handcrafted features such as Mel-Frequency Cepstral Coefficients (MFCCs) with classical machine learning classifiers, achieving reasonable performance in controlled environments but struggling with environmental noise, species vocalization variability, and cross-habitat generalization. This paper presents a hybrid classification framework that systematically compares classical and deep learning paradigms for animal sound recognition. A Random Forest classifier trained on 40-dimensional handcrafted acoustic features—encompassing spectral, temporal, and energy-based descriptors—establishes an interpretable baseline enabling feature importance analysis. A fine-tuned Wav2Vec2 transformer model serves as the deep learning counterpart, learning hierarchical representations directly from raw waveforms without manual preprocessing. Both approaches were evaluated on a diverse dataset spanning 15 animal species across birds, mammals, and amphibians using accuracy, precision, recall, F1-score, and confusion matrix analysis. Results demonstrate that Wav2Vec2 substantially outperforms the feature-based baseline, achieving 92.75% test accuracy compared to 78.62% for Random Forest—an improvement of 14.13 percentage points. Per-class analysis reveals dramatic gains for acoustically challenging species, with the transformer model achieving near-perfect classification (F1 > 96%) for multiple categories where Random Forest struggled. These findings affirm the enhanced representational capacity of self-supervised transformer architectures for bioacoustic classification and provide practical guidance for automated wildlife monitoring systems. The complete codebase, trained models, and evaluation protocols are publicly available to support reproducibility and future research.
-
-</details>
 
 </details>
 <!-- PAPERS_TABLE_END -->
