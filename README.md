@@ -82,7 +82,7 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 papers (30 of 1629 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1630 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
@@ -95,6 +95,17 @@ _Showing the last 30 papers (30 of 1629 total). The full list lives in [papers.c
 <summary>Abstract</summary>
 
 Deep learning-based animal sound identification is regularly applied to large audio datasets for ecological monitoring and citizen science, but existing methods lack the fine temporal resolution required to extract insights into animal communication from these same datasets. Here we introduce Bird Communication Detector (BirdCODE), a deep learning model that detects and classifies the vocalizations of over 9000 bird species with precise temporal boundaries, a several hundredfold increase the number of species over previous bioacoustic sound event detection models. In extensive benchmarking, BirdCODE achieves state-of-the-art performance in detection and classification of bird sounds. Applying BirdCODE to 1.3M citizen-science recordings, we present four case studies of how BirdCODE-computed sound event boundaries can be used to carry out phylogenetic analyses, to describe geographic and temporal variation in acoustic communication, and to characterize cross-species interactions. Together, these demonstrate how BirdCODE can enable large-scale, data-driven studies of bird communication. Model code, weights, and predictions are publicly available.
+
+</details>
+
+#### [An Automated Population Monitoring Framework for Larus ridibundus in Kunming City Based on Improved YOLOv8 and ByteTrack](https://www.mdpi.com/1424-8220/26/15/4948/pdf?version=1785913116)
+
+**Yonglin Che, Yucheng Zeng, Zhaoxiang Ma, Qian Xia et al.** · 2026-08-05
+
+<details>
+<summary>Abstract</summary>
+
+The Larus ridibundus (L. ridibundus), a prominent part of Kunming’s landscape, attracts many tourists and boosts the local tourism industry. Effective population monitoring of this species matters for wetland environment evaluation, biodiversity conservation, and ecological civilization construction. Currently, L. ridibundus population statistics mainly rely on manual methods, which are labor-intensive and inefficient. To overcome these limits, we propose a deep learning (DL) framework. It automatically recognizes and counts L. ridibundus by combining CDSP2-YOLOv8n with ByteTrack, aiming to efficiently monitor their population metrics. Our framework uses the optimized YOLOv8n model to achieve excellent multi-object detection for this species. It also uses ByteTrack to effectively reduce target loss from occlusion or overlap during the birds’ flight, providing a sophisticated DL approach for population monitoring. Experimental results show the modified CDSP2-YOLOv8n model works well on the collected L. ridibundus multi-object detection dataset. Its mAP@0.5, mAP@0.5:0.95, Precision, and Recall reach 0.9705, 0.6557, 0.9685, and 0.9496, respectively. When combined with ByteTrack, the proposed framework achieved a Multiple Object Tracking Accuracy (MOTA) of 89.7% and a Multiple Object Tracking Precision (MOTP) of 83.5%. It also demonstrated superior performance in terms of IDF1, Mostly Tracked (MT), Mostly Lost (ML), and Identity Switches (IDSs). Compared to manual counting, our framework has an average accuracy of 91.58%, greatly enhancing the efficiency and accuracy of L. ridibundus population monitoring. In summary, we successfully achieved the automated recognition and counting of L. ridibundus. The proposed method accurately identifies and consistently tracks individual birds, enabling effective population counting. It provides a novel and comprehensive technical approach for the monitoring and conservation of this species and demonstrates promising potential for practical applications.
 
 </details>
 
@@ -359,10 +370,6 @@ Urban wetlands are acoustic hotspots where vegetation structure, hydrological dy
 In recent decades, climate change has exerted detrimental effects on forest ecosystems and the biodiversity they harbor, in part via the combined effects of rising temperatures and changing disturbance regimes. Old-forest species may be acutely sensitive to these changes, especially in ecosystems such as the Sierra Nevada, USA, where historical losses of old-forest habitat are now coupled with a rise in atypically large, severe fires. However, the combined effects of temperature and severe fire are relatively understudied at landscape scales. We used a four-year, landscape-scale passive acoustic monitoring program to study the Hermit Warbler ( Setophaga occidentalis ), a temperature- and fire-sensitive bird species that is closely associated with old-forest habitat. Using a dynamic occupancy model, we characterized the population dynamics in response to elevation, latitude, relative temperature, and high-severity fire. The Hermit Warbler population declined 8.3% during our study, shifting away from the warmer, lower-elevation, and southern sites and toward sites at higher latitudes. It displayed a strong extinction response to severe fire over a 1-10-year post-fire period and failed to colonize such areas over the same time span. Our results suggest that limiting the occurrence of large, severe fires will be necessary to preserve this old-forest indicator but not sufficient: rising temperatures will also lead to population declines even in the absence of habitat loss due to fire. As climate change accelerates, understanding species’ responses to shifting environmental conditions will be crucial for guiding adaptive management and ensuring the persistence of biodiversity in fire-prone landscapes.
 
 </details>
-
-#### [Reliability and Spatiotemporal Autocorrelation of Acoustic Indices: Implications for Biodiversity Monitoring](https://doi.org/10.64898/2026.03.18.712292) · [📄 Read](papers/2026/ss:8632383476bab0ff5bd2ae30fa52d62ba15f8fb4.md)
-
-**Xinyi Jiang, Yixuan Zhang, Zufei Shu, Zhishu Xiao et al.** · 2026-03-20
 
 </details>
 <!-- PAPERS_TABLE_END -->
