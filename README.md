@@ -82,10 +82,21 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 papers (30 of 1630 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1631 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
+
+#### [Investigating Quantum-Embedded Transformers on Classical Datasets for Cross-Modality Classification](https://arxiv.org/abs/2608.06846)
+
+**Hao-Yuan Chen** · 2026-08-07
+
+<details>
+<summary>Abstract</summary>
+
+We test whether a parameterized quantum circuit (PQC) improves a hybrid quantum-classical model's performance on classical datasets, using an interface-matched classical map as the control while holding all other components fixed. Our architecture, Quantum-Embedded Attention (QEA), uses a learnable projector to compress backbone features into an $n_q$-dimensional angle vector, a shallow PQC to map those angles to one- and two-qubit Pauli expectations, and a classical attention decoder to produce class logits. We hypothesized the PQC would improve accuracy or seed-to-seed stability over a classical map with matched input/output dimensions. We test this with an interface-matched $2\times2$ factorial on Breast Cancer Wisconsin at $n_q\in\{4,8\}$, independently swapping the PQC for a classical map and the attention decoder for a linear head, across five paired seeds per cell. Three of four paired quantum-minus-classical $95\%$ confidence intervals include zero; the fourth, a $+1.63$ percentage-point contrast for the attention decoder at $n_q=4$, reverses sign at $n_q=8$ and does not survive correction across the four contrasts. The experiment thus shows no consistent PQC contribution and cannot establish equivalence. A five-dataset cross-modality grid shows comparable accuracy on AG~News, Breast Cancer Wisconsin, and BirdCLEF but a large deficit on CIFAR-10; these cells are not interface-matched and are interpreted descriptively. We report all planned canonical runs, distinguish current Pauli-readout results from legacy probability-readout experiments, and analyze bottleneck, simulation, finite-shot, and noise limitations. The results do not establish a quantum advantage; they demonstrate why controlled component attribution is necessary before crediting a hybrid model's performance to its quantum layer.
+
+</details>
 
 #### [BirdCODE: Detecting bird communication at scale](https://doi.org/10.64898/2026.07.31.742086)
 
@@ -357,17 +368,6 @@ Passive Acoustic Monitoring (PAM) is widely used for biodiversity assessment. It
 <summary>Abstract</summary>
 
 Urban wetlands are acoustic hotspots where vegetation structure, hydrological dynamics, and anthropogenic noise interact, yet multi-season assessments of how vegetation influences avian soundscapes are limited. This study explored bird soundscape dynamics across forest, open forest grassland, and meadow habitats in Nanjing Xinjizhou National Wetland Park, eastern China, using passive acoustic monitoring during spring and autumn 2023. Twelve sampling points (four per vegetation type) were established, and six acoustic indices were calculated, including the Acoustic Complexity Index (ACI), Acoustic Diversity Index (ADI), Acoustic Evenness Index (AEI), Bioacoustic Index (BIO), Normalized Difference Soundscape Index (NDSI), and Acoustic Entropy Index (H). were calculated from 48-h recordings each season. Random forest models and redundancy analysis assessed the relationships between acoustic indices, fine-scale vegetation parameters (e.g., crown width, tree height, species richness), and anthropogenic factors (e.g., distance to roads/trails, surface hardness). Vegetation structure, particularly crown width, was the primary driver of avian acoustic diversity, with broad-crowned forests consistently exhibiting the highest acoustic complexity. In spring, anthropogenic factors such as trail and road proximity dominated soundscape variation, suppressing biological sounds. In autumn, with reduced human presence, vegetation structure emerged as the dominant factor, while bioacoustic activity remained elevated despite reduced peaks in acoustic complexity. Proximity to roads increased low-frequency (1–2 kHz) noise and suppressed mid-frequency (4–8 kHz) bird vocalizations, but trees with crown widths ≥4 m maintained higher acoustic diversity even near disturbance sources. This study demonstrates that vegetation structure mediates both resource availability and sound propagation, buffering the effects of anthropogenic disturbance in frequency-specific ways. Multi-season sampling is crucial for understanding the dynamic interplay between vegetation phenology and human activity that shapes urban wetland soundscapes.
-
-</details>
-
-#### [Warm temperatures and severe fire drive a range contraction of an avian old-forest specialist in the Sierra Nevada, USA](https://doi.org/10.3389/fbirs.2026.1737313) · [📄 Read](papers/2026/ss:0fcd0f2cde8fe3e8b17c9afe21240b888be2dbf2.md)
-
-**Luca Bielski, Spencer R. Keyser, M. Z. Peery, Connor M. Wood** · 2026-03-25
-
-<details>
-<summary>Abstract</summary>
-
-In recent decades, climate change has exerted detrimental effects on forest ecosystems and the biodiversity they harbor, in part via the combined effects of rising temperatures and changing disturbance regimes. Old-forest species may be acutely sensitive to these changes, especially in ecosystems such as the Sierra Nevada, USA, where historical losses of old-forest habitat are now coupled with a rise in atypically large, severe fires. However, the combined effects of temperature and severe fire are relatively understudied at landscape scales. We used a four-year, landscape-scale passive acoustic monitoring program to study the Hermit Warbler ( Setophaga occidentalis ), a temperature- and fire-sensitive bird species that is closely associated with old-forest habitat. Using a dynamic occupancy model, we characterized the population dynamics in response to elevation, latitude, relative temperature, and high-severity fire. The Hermit Warbler population declined 8.3% during our study, shifting away from the warmer, lower-elevation, and southern sites and toward sites at higher latitudes. It displayed a strong extinction response to severe fire over a 1-10-year post-fire period and failed to colonize such areas over the same time span. Our results suggest that limiting the occurrence of large, severe fires will be necessary to preserve this old-forest indicator but not sufficient: rising temperatures will also lead to population declines even in the absence of habitat loss due to fire. As climate change accelerates, understanding species’ responses to shifting environmental conditions will be crucial for guiding adaptive management and ensuring the persistence of biodiversity in fire-prone landscapes.
 
 </details>
 
