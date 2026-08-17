@@ -82,10 +82,21 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 papers (30 of 1631 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1632 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
+
+#### [How Passive Acoustic and Traditional Monitoring Estimate Bird Diversity Across Habitats](https://doi.org/10.1002/rse2.70098)
+
+**Jarek Scanferla, Julia Seeber, G. Brambilla, M. Brambilla et al.** · 2026-08-13
+
+<details>
+<summary>Abstract</summary>
+
+Bird monitoring techniques have evolved substantially in recent years. While the most common protocols remain the point count and transect survey, new technologies such as passive acoustic monitoring (PAM) are becoming increasingly popular. As more monitoring programs adopt PAM, it is crucial to understand how comparable it is with classical monitoring derived data. We compared diversity indices (i.e., species richness, Shannon diversity and Jaccard index) derived from both classical (by means of observer‐based point counts) and passive acoustic (by means of recording devices) monitoring and developed a novel estimated Shannon index based on PAM, using species‐specific confidence thresholds and detection rates. We applied the protocols at 126 sites in a heterogeneous landscape within the Italian Alps, enabling us to investigate for the first time whether the effectiveness of different monitoring schemes depends on the habitat type. We show that PAM captured approximately twice as many species as the classical point count method. The species richness estimated by both protocols was strongly correlated (r s = 0.71), but with major differences between habitat types. The difference was greater in diversity hotspots such as wetlands and meadows and lower in alpine habitats. The novel PAM‐based Shannon index was very reliable and yielded similar results to the observer‐based Shannon index, illustrating its effectiveness. Species composition differed significantly between the two protocols (average Jaccard index = 0.38). Although this study highlights the additional information that PAM can provide, bird counts remain essential as they offer further insights (e.g., breeding status) and not all species can be captured by PAM (e.g., acoustically indistinguishable). As point counts are time‐ and cost‐efficient, they will continue to play an important role in bird monitoring. Our results highlight the strengths and weaknesses of each approach and provide recommendations for future monitoring programs.
+
+</details>
 
 #### [Investigating Quantum-Embedded Transformers on Classical Datasets for Cross-Modality Classification](https://arxiv.org/abs/2608.06846)
 
@@ -359,17 +370,6 @@ Passive Acoustic Monitoring (PAM) is widely used for biodiversity assessment. It
 #### [Configurational heterogeneity drives songbird diversity at distinct spatial scales in managed boreal forests](https://doi.org/10.1007/s10980-026-02341-y) · [📄 Read](papers/2026/ss:97187065359421434861ca63e908e096cde8a709.md)
 
 **Isabelle Lebeuf-Taylor, J. A. Martínez-Lanfranco, E. Bayne** · 2026-03-27
-
-#### [Vegetation Structure Drives Seasonal and Diel Dynamics of Avian Soundscapes in an Urban Wetland](https://doi.org/10.3390/plants15071023) · [📄 Read](papers/2026/ss:552b54a744fe1120eeffe60c55b4488015a630a0.md)
-
-**Zhe Wen, Zhewen Ye, Yunfeng Yang, Yao Xiong** · 2026-03-26
-
-<details>
-<summary>Abstract</summary>
-
-Urban wetlands are acoustic hotspots where vegetation structure, hydrological dynamics, and anthropogenic noise interact, yet multi-season assessments of how vegetation influences avian soundscapes are limited. This study explored bird soundscape dynamics across forest, open forest grassland, and meadow habitats in Nanjing Xinjizhou National Wetland Park, eastern China, using passive acoustic monitoring during spring and autumn 2023. Twelve sampling points (four per vegetation type) were established, and six acoustic indices were calculated, including the Acoustic Complexity Index (ACI), Acoustic Diversity Index (ADI), Acoustic Evenness Index (AEI), Bioacoustic Index (BIO), Normalized Difference Soundscape Index (NDSI), and Acoustic Entropy Index (H). were calculated from 48-h recordings each season. Random forest models and redundancy analysis assessed the relationships between acoustic indices, fine-scale vegetation parameters (e.g., crown width, tree height, species richness), and anthropogenic factors (e.g., distance to roads/trails, surface hardness). Vegetation structure, particularly crown width, was the primary driver of avian acoustic diversity, with broad-crowned forests consistently exhibiting the highest acoustic complexity. In spring, anthropogenic factors such as trail and road proximity dominated soundscape variation, suppressing biological sounds. In autumn, with reduced human presence, vegetation structure emerged as the dominant factor, while bioacoustic activity remained elevated despite reduced peaks in acoustic complexity. Proximity to roads increased low-frequency (1–2 kHz) noise and suppressed mid-frequency (4–8 kHz) bird vocalizations, but trees with crown widths ≥4 m maintained higher acoustic diversity even near disturbance sources. This study demonstrates that vegetation structure mediates both resource availability and sound propagation, buffering the effects of anthropogenic disturbance in frequency-specific ways. Multi-season sampling is crucial for understanding the dynamic interplay between vegetation phenology and human activity that shapes urban wetland soundscapes.
-
-</details>
 
 </details>
 <!-- PAPERS_TABLE_END -->
