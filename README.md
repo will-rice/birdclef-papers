@@ -82,10 +82,21 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 papers (30 of 1632 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1633 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
+
+#### [PAMalytics: a no-code application for structured validation of bioacoustic detections](https://doi.org/10.64898/2026.08.14.744822)
+
+**Alastair Pickering, Santiago Martinez Balvanera, Nicholas Brown, Sareach Chea et al.** · 2026-08-14
+
+<details>
+<summary>Abstract</summary>
+
+1. Passive acoustic monitoring (PAM) is increasingly used for ecological research, biodiversity monitoring, assessment, and reporting. Automated species classifiers make it feasible to process large audio datasets but generate numerous detections that often need validation before use in downstream analyses or formal outputs. 2. Method development in PAM has focused on classifier building and downstream models that account for imperfect detection, yet the practical step between these - post-classification validation - remains weakly supported and is often implemented through ad hoc workflows. This increases manual handling, creates scope for transcription or consolidation errors, limits transparency and makes it difficult to document what was reviewed. 3. We introduce PAMalytics, an open-source, no-code, local browser-based application to support post-classification validation as a standardised workflow stage. PAMalytics ingests detections from any classifier, allows users to define how detections are sampled for review, and presents selected detections alongside their spectrograms with audio playback in one unified interface. Sampling strategy and review decisions are tracked alongside reviewer identity improving traceability and reproducibility across the validation workflow. 4. Case studies with Conservation International Cambodia and Imperial College London demonstrate PAMalytics in two validation settings. In Cambodia, gibbon predictions from a large, uneven dataset were sampled within sites, with likely classifier errors prioritised for validation. At Imperial, Amazon bird detections were sampled across each species’ classifier-confidence range before biodiversity metrics were derived. In both cases, PAMalytics reduced manual handling and validation time. By turning an ad hoc step into an accessible, structured workflow for conservation practitioners, PAMalytics fills a practical gap in the PAM bioacoustics pipeline and strengthens the link between automated detections and evidence used in biodiversity monitoring and reporting.
+
+</details>
 
 #### [How Passive Acoustic and Traditional Monitoring Estimate Bird Diversity Across Habitats](https://doi.org/10.1002/rse2.70098)
 
@@ -366,10 +377,6 @@ Large language models have shown strong performance on broad-domain knowledge an
 Passive Acoustic Monitoring (PAM) is widely used for biodiversity assessment. Its application in African tropical forests is limited by scarce annotated data, reducing the performance of general-purpose ecoacoustic models on underrepresented taxa. In this study, we introduce DeepForestSound (DFS), a multi-species automatic detection model designed for PAM in African tropical forests. DFS relies on a semi-supervised pipeline combining clustering of unannotated recordings with manual validation, followed by supervised fine-tuning of an Audio Spectrogram Transformer (AST) using low-rank adaptation, which is compared to a frozen-backbone linear baseline (DFS-Linear). The framework supports the detection of multiple taxonomic groups, including birds, primates, and elephants, from long-term acoustic recordings. DFS was trained on acoustic data collected in the Sebitoli area, in Kibale National Park, Uganda, and evaluated on an independent dataset recorded two years later at different locations within the same forest. This evaluation therefore assesses generalization across time and recording sites within a single tropical forest ecosystem. Across 8 out of 12 taxons, DFS outperforms existing automatic detection tools, particularly for non-avian taxa, achieving average AP values of 0.964 for primates and 0.961 for elephants. Results further show that LoRA-based fine-tuning substantially outperforms linear probing across taxa. Overall, these results demonstrate that task-oriented, region-specific training substantially improves detection performance in acoustically complex tropical environments, and highlight the potential of DFS as a practical tool for biodiversity monitoring and conservation in African rainforests.
 
 </details>
-
-#### [Configurational heterogeneity drives songbird diversity at distinct spatial scales in managed boreal forests](https://doi.org/10.1007/s10980-026-02341-y) · [📄 Read](papers/2026/ss:97187065359421434861ca63e908e096cde8a709.md)
-
-**Isabelle Lebeuf-Taylor, J. A. Martínez-Lanfranco, E. Bayne** · 2026-03-27
 
 </details>
 <!-- PAPERS_TABLE_END -->
