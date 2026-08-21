@@ -82,10 +82,21 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 papers (30 of 1633 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1634 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
+
+#### [The Evolutionary Structure of Acoustic Learnability: A Deep Learning Approach to Neotropical Birdsong](https://doi.org/10.64898/2026.02.04.703899)
+
+**C. Cortés-Parra, Héctor J. Hortúa, Juan Camilo Ríos-Orjuela** · 2026-08-17
+
+<details>
+<summary>Abstract</summary>
+
+Passive Acoustic Monitoring offered a scalable solution for biodiversity assessment in the Neotropics, although classifying hundreds of sympatric species in complex soundscapes remained challenging. We developed a deep learning framework for large-scale avian classification by training convolutional neural networks on recordings from 667 Neotropical bird species across northern South America. Efficient-NetV2L performed best, achieving 94.48% accuracy, 94.30% macro F1-score, and 0.998 macro ROC-AUC. After training, we conducted a post hoc analysis of species-level F1-scores using phylogenetically informed models (PGLS and PGLMM) to test morphological, ecological, and geographic predictors under phylogenetic control. Broad traits explained little interspecific variation: the best-supported PGLS accounted for approximately 2.2% of the variance, whereas the null model received the strongest support among PGLMM candidates. Geographic range size showed the most consistent negative association with F1-score, while morphological and ecological predictors added little explanatory power. Performance nevertheless showed weak but significant phylogenetic signal, and frequent confusions tended to involve more closely related species. Grad-CAM and Monte Carlo Dropout provided complementary descriptions of saliency and predictive uncertainty. Overall, deep learning performed effectively for regional biodiversity monitoring and provided a comparative framework for assessing how much of the variation in acoustic classification performance could be explained by broad biological predictors.
+
+</details>
 
 #### [PAMalytics: a no-code application for structured validation of bioacoustic detections](https://doi.org/10.64898/2026.08.14.744822)
 
@@ -364,17 +375,6 @@ Large language models have shown strong performance on broad-domain knowledge an
 <summary>Abstract</summary>
 
 1. Natural sounds have been recorded for millions of hours over the previous decades using passive acoustic monitoring. Improvements in deep learning models have vastly accelerated the analysis of large portions of this data. While new models advance the state-of-the-art, accessing them using tools to harness their full potential is not always straightforward. Here we present bacpipe, a collection of bioacoustic deep learning models and evaluation pipelines accessible through a graphical and programming interface, designed for both ecologists and computer scientists. Bacpipe is a modular software package intended as a point of convergence for bioacoustic models. 2. Bacpipe streamlines the usage of state-of-the-art models on custom audio datasets, generating acoustic feature vectors (embeddings) and classifier predictions. A modular design allows evaluation and benchmarking of models through interactive visualizations, clustering and probing. 3. We believe that access to new deep learning models is important. By designing bacpipe to target a wide audience, researchers will be enabled to answer new ecological and evolutionary questions in bioacoustics. 4. In conclusion, we believe accessibility to developments in deep learning to a wider audience benefits the ecological questions we are trying to answer.
-
-</details>
-
-#### [DeepForestSound: a multi-species automatic detector for passive acoustic monitoring in African tropical forests, a case study in Kibale National Park](https://arxiv.org/abs/2604.08087) · [📄 Read](papers/2026/2604.08087.md)
-
-**G. Dubus, Th'eau d'Audiffret, Claire Auger, Raphaël Cornette et al.** · 2026-04-09
-
-<details>
-<summary>Abstract</summary>
-
-Passive Acoustic Monitoring (PAM) is widely used for biodiversity assessment. Its application in African tropical forests is limited by scarce annotated data, reducing the performance of general-purpose ecoacoustic models on underrepresented taxa. In this study, we introduce DeepForestSound (DFS), a multi-species automatic detection model designed for PAM in African tropical forests. DFS relies on a semi-supervised pipeline combining clustering of unannotated recordings with manual validation, followed by supervised fine-tuning of an Audio Spectrogram Transformer (AST) using low-rank adaptation, which is compared to a frozen-backbone linear baseline (DFS-Linear). The framework supports the detection of multiple taxonomic groups, including birds, primates, and elephants, from long-term acoustic recordings. DFS was trained on acoustic data collected in the Sebitoli area, in Kibale National Park, Uganda, and evaluated on an independent dataset recorded two years later at different locations within the same forest. This evaluation therefore assesses generalization across time and recording sites within a single tropical forest ecosystem. Across 8 out of 12 taxons, DFS outperforms existing automatic detection tools, particularly for non-avian taxa, achieving average AP values of 0.964 for primates and 0.961 for elephants. Results further show that LoRA-based fine-tuning substantially outperforms linear probing across taxa. Overall, these results demonstrate that task-oriented, region-specific training substantially improves detection performance in acoustically complex tropical environments, and highlight the potential of DFS as a practical tool for biodiversity monitoring and conservation in African rainforests.
 
 </details>
 
