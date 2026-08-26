@@ -82,10 +82,21 @@ Papers are discovered by querying each source with the keyword sets below.
 
 <!-- PAPERS_TABLE_START -->
 
-_Showing the last 30 papers (30 of 1634 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
+_Showing the last 30 papers (30 of 1635 total). The full list lives in [papers.csv](papers.csv); browse everything by year at [papers/README.md](papers/README.md)._
 
 <details open>
 <summary><h3>2026</h3></summary>
+
+#### [Open-source tag-free monitoring of individual birds using automated weighing and deep-learning recognition](https://doi.org/10.64898/2026.08.17.745158)
+
+**Jinook Oh, Marisa Hoeschele** · 2026-08-20
+
+<details>
+<summary>Abstract</summary>
+
+Effective animal monitoring is essential for assessing health, behavior, and environmental interactions, particularly in research and welfare contexts. This study presents a low-cost, open-source system designed for non-invasive monitoring of budgerigars (Melopsittacus undulatus), a small parrot species frequently used in animal behavior research. The system integrates a perch-based scale for voluntary weight measurement, a temperature sensor, and a camera for image capture, all controlled by a Raspberry Pi. By leveraging fine-tuned neural networks, the system achieves automated individual recognition with high accuracy, eliminating the need for invasive tagging methods. The modular design ensures accessibility, scalability, and minimal disturbance to the animals, while the accompanying software streamlines data collection, processing including labeling, and visualization. This approach provides a comprehensive solution for continuous monitoring, offering valuable insights for research and husbandry while prioritizing animal welfare.
+
+</details>
 
 #### [The Evolutionary Structure of Acoustic Learnability: A Deep Learning Approach to Neotropical Birdsong](https://doi.org/10.64898/2026.02.04.703899)
 
@@ -364,17 +375,6 @@ Ecological surveys are often fragmented, costly and limited in scale, leading to
 <summary>Abstract</summary>
 
 Large language models have shown strong performance on broad-domain knowledge and reasoning benchmarks, but it remains unclear how well language models handle specialized animal-related knowledge under a unified closed-book evaluation protocol. We introduce BAGEL, a benchmark for evaluating animal knowledge expertise in language models. BAGEL is constructed from diverse scientific and reference sources, including bioRxiv, Global Biotic Interactions, Xeno-canto, and Wikipedia, using a combination of curated examples and automatically generated closed-book question-answer pairs. The benchmark covers multiple aspects of animal knowledge, including taxonomy, morphology, habitat, behavior, vocalization, geographic distribution, and species interactions. By focusing on closed-book evaluation, BAGEL measures animal-related knowledge of models without external retrieval at inference time. BAGEL further supports fine-grained analysis across source domains, taxonomic groups, and knowledge categories, enabling a more precise characterization of model strengths and systematic failure modes. Our benchmark provides a new testbed for studying domain-specific knowledge generalization in language models and for improving their reliability in biodiversity-related applications.
-
-</details>
-
-#### [bacpipe: a Python package to make bioacoustic deep learning models accessible](https://arxiv.org/abs/2604.11560) · [📄 Read](papers/2026/2604.11560.md)
-
-**Vincent S. Kather, Sylvain Haupert, Burooj Ghani, Dan Stowell** · 2026-04-13
-
-<details>
-<summary>Abstract</summary>
-
-1. Natural sounds have been recorded for millions of hours over the previous decades using passive acoustic monitoring. Improvements in deep learning models have vastly accelerated the analysis of large portions of this data. While new models advance the state-of-the-art, accessing them using tools to harness their full potential is not always straightforward. Here we present bacpipe, a collection of bioacoustic deep learning models and evaluation pipelines accessible through a graphical and programming interface, designed for both ecologists and computer scientists. Bacpipe is a modular software package intended as a point of convergence for bioacoustic models. 2. Bacpipe streamlines the usage of state-of-the-art models on custom audio datasets, generating acoustic feature vectors (embeddings) and classifier predictions. A modular design allows evaluation and benchmarking of models through interactive visualizations, clustering and probing. 3. We believe that access to new deep learning models is important. By designing bacpipe to target a wide audience, researchers will be enabled to answer new ecological and evolutionary questions in bioacoustics. 4. In conclusion, we believe accessibility to developments in deep learning to a wider audience benefits the ecological questions we are trying to answer.
 
 </details>
 
