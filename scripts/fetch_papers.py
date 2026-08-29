@@ -2,8 +2,6 @@
 
 Sources:
 * **arXiv** – preprint server (cs, eess, q-bio categories).
-* **Semantic Scholar** – broad coverage of journals, conferences, and
-  additional preprint servers not indexed by arXiv.
 * **DBLP** – bibliographic index covering CEUR-WS LifeCLEF / BirdCLEF
   workshop working-notes that are not posted to arXiv.
 * **bioRxiv via Crossref** – ecology and bioacoustics preprints on bioRxiv.
@@ -133,28 +131,6 @@ NS = {
     "atom": "http://www.w3.org/2005/Atom",
     "arxiv": "http://arxiv.org/schemas/atom",
 }
-
-# ---------------------------------------------------------------------------
-# Semantic Scholar
-# ---------------------------------------------------------------------------
-
-SS_BULK_API = "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
-SS_FIELDS = "paperId,title,authors,abstract,publicationDate,year,externalIds,openAccessPdf"
-
-SS_SEARCH_QUERIES = [
-    "BirdCLEF",
-    "bird sound recognition",
-    "bird vocalization classification",
-    "avian bioacoustics deep learning",
-    "passive acoustic monitoring birds",
-    "LifeCLEF bird",
-    "BirdNET bird identification",
-    "bird call classification neural network",
-    "bird species audio identification",
-    "soundscape ecology bird machine learning",
-    "ecoacoustics bird deep learning",
-    "automated bird species recognition",
-]
 
 # ---------------------------------------------------------------------------
 # DBLP (covers CEUR-WS LifeCLEF / BirdCLEF working notes)
@@ -608,111 +584,6 @@ def save_papers(papers_by_id: dict[str, dict]) -> None:
         )
         writer.writeheader()
         writer.writerows(rows)
-
-
-# ---------------------------------------------------------------------------
-# Semantic Scholar helpers
-# ---------------------------------------------------------------------------
-
-
-def _ss_fetch_page(params: dict) -> dict:
-    """Fetch one page from the Semantic Scholar bulk-search API."""
-    url = f"{SS_BULK_API}?{urllib.parse.urlencode(params)}"
-    for attempt in range(5):
-        try:
-            with urllib.request.urlopen(url, timeout=30) as resp:
-                return json.loads(resp.read())
-        except Exception as exc:  # noqa: BLE001
-            wait = min(2 ** (attempt + 1) * API_DELAY_SECONDS, 30)
-            print(f"  [warn] SS request failed ({exc}); retrying in {wait}s …", file=sys.stderr)
-            time.sleep(wait)
-    raise RuntimeError(f"Failed to fetch Semantic Scholar page after 5 attempts: {url}")
-
-
-def _ss_item_to_dict(item: dict) -> dict | None:
-    """Convert a Semantic Scholar paper item to our paper dict."""
-    paper_id = item.get("paperId") or ""
-    if not paper_id:
-        return None
-
-    title = (item.get("title") or "").strip()
-    if not title:
-        return None
-
-    external_ids = item.get("externalIds") or {}
-    arxiv_id = external_ids.get("ArXiv") or ""
-
-    # If the paper is on arXiv, use its arXiv ID as the primary key so it
-    # deduplicates correctly against arXiv-sourced entries.
-    if arxiv_id:
-        uid = arxiv_id
-        url = f"https://arxiv.org/abs/{arxiv_id}"
-        source = "arxiv"
-    else:
-        doi = external_ids.get("DOI") or ""
-        uid = f"ss:{paper_id}"
-        oa = item.get("openAccessPdf") or {}
-        if oa.get("url"):
-            url = oa["url"]
-        elif doi:
-            url = f"https://doi.org/{doi}"
-        else:
-            url = f"https://www.semanticscholar.org/paper/{paper_id}"
-        source = "semanticscholar"
-
-    authors = ", ".join((a.get("name") or "").strip() for a in (item.get("authors") or []))
-
-    pub_date = item.get("publicationDate") or ""
-    if pub_date:
-        submitted = pub_date[:10]
-    else:
-        year = item.get("year")
-        submitted = f"{year}-01-01" if year else ""
-
-    abstract = re.sub(r"\s+", " ", item.get("abstract") or "").strip()
-
-    return {
-        "arxiv_id": uid,
-        "title": title,
-        "authors": authors,
-        "submitted": submitted,
-        "categories": "",
-        "url": url,
-        "abstract": abstract,
-        "source": source,
-    }
-
-
-def fetch_ss_papers(keywords: str, start_date: date, end_date: date) -> list[dict]:
-    """Return papers from Semantic Scholar matching *keywords* in date range."""
-    date_filter = f"{start_date.strftime('%Y-%m-%d')}:{end_date.strftime('%Y-%m-%d')}"
-    papers: list[dict] = []
-    token: str | None = None
-
-    while True:
-        params: dict[str, str] = {
-            "query": keywords,
-            "fields": SS_FIELDS,
-            "publicationDateOrYear": date_filter,
-            "sort": "publicationDate:desc",
-        }
-        if token:
-            params["token"] = token
-
-        data = _ss_fetch_page(params)
-
-        for item in data.get("data") or []:
-            paper = _ss_item_to_dict(item)
-            if paper:
-                papers.append(paper)
-
-        token = data.get("token")
-        if not token or not data.get("data"):
-            break
-
-        time.sleep(API_DELAY_SECONDS)
-
-    return papers
 
 
 # ---------------------------------------------------------------------------
@@ -1213,20 +1084,6 @@ def main() -> None:
         print(f"\nQuerying arXiv for: {keywords!r} …")
         try:
             papers = fetch_papers(keywords, start_date, end_date)
-        except RuntimeError as exc:
-            print(f"  [error] {exc}", file=sys.stderr)
-            continue
-        new_count += _ingest(papers, existing)
-        time.sleep(API_DELAY_SECONDS)
-
-    # ------------------------------------------------------------------
-    # Semantic Scholar
-    # ------------------------------------------------------------------
-    print("\n\n=== Semantic Scholar ===")
-    for keywords in SS_SEARCH_QUERIES:
-        print(f"\nQuerying Semantic Scholar for: {keywords!r} …")
-        try:
-            papers = fetch_ss_papers(keywords, start_date, end_date)
         except RuntimeError as exc:
             print(f"  [error] {exc}", file=sys.stderr)
             continue

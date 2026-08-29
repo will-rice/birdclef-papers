@@ -136,11 +136,10 @@ def test_resolve_s2_lookup_promotes_to_arxiv(fixtures_dir) -> None:
         current_year="2026",
         s2_cache=cache,
     )
+    # Without S2 network lookup, a title-only ref with no arXiv/DOI stays unresolved.
     ref = Reference(key="x", raw="…", title="Denoising Diffusion Probabilistic Models")
     resolve_reference(ref, ctx)
-    # arXiv ID was found via S2, then matched against corpus → local sibling
-    assert ref.arxiv_id == "2006.11239"
-    assert ref.resolved_url == "../2020/2006.11239.md"
+    assert ref.resolved_url is None
 
 
 def test_resolve_unresolvable_remains_none() -> None:

@@ -1,4 +1,4 @@
-"""Fetch and cache paper source from arXiv (LaTeX preferred) or Semantic Scholar (PDF)."""
+"""Fetch and cache paper source from arXiv (LaTeX preferred) or PDF."""
 
 from __future__ import annotations
 
@@ -19,9 +19,6 @@ ARXIV_EPRINT_URL = "https://arxiv.org/e-print/{arxiv_id}"
 ARXIV_HTML_URL = "https://arxiv.org/html/{arxiv_id}"
 # ar5iv serves LaTeXML HTML for papers predating arXiv's native HTML (~Dec 2023).
 AR5IV_HTML_URL = "https://ar5iv.labs.arxiv.org/html/{arxiv_id}"
-S2_PAPER_URL = (
-    "https://api.semanticscholar.org/graph/v1/paper/{paper_id}?fields=openAccessPdf,externalIds"
-)
 HF_PAPER_URL = "https://huggingface.co/api/papers/{arxiv_id}"
 USER_AGENT = "asr-papers-bot/1.0"
 ARXIV_RATE_LIMIT_SECONDS = 3
@@ -136,20 +133,6 @@ def classify_extracted_source(extracted: Path) -> SourceKind:
     if any(extracted.rglob("*.pdf")):
         return SourceKind.PDF
     return SourceKind.EMPTY
-
-
-def fetch_s2_pdf_url(s2_paper_id: str) -> str | None:
-    """Query Semantic Scholar for an open-access PDF URL. Return None if unavailable."""
-    url = S2_PAPER_URL.format(paper_id=s2_paper_id)
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            data = json.loads(resp.read())
-    except urllib.error.HTTPError as exc:
-        logging.warning("S2 lookup failed for %s: %s", s2_paper_id, exc)
-        return None
-    open_access = data.get("openAccessPdf") or {}
-    return open_access.get("url")
 
 
 def fetch_hf_github_repo(arxiv_id: str) -> str:

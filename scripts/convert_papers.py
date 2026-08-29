@@ -229,16 +229,8 @@ def _process_paper(row: PaperRow, force: bool = False) -> None:
                     logging.warning("No e-print for %s (%s); writing stub.", row.arxiv_id, exc)
                     extracted_dir.mkdir(parents=True, exist_ok=True)
             elif row.arxiv_id.startswith("ss:"):
-                # Semantic Scholar path: try openAccessPdf.
-                s2_paper_id = row.arxiv_id.removeprefix("ss:")
-                pdf_url = sources.fetch_s2_pdf_url(s2_paper_id)
-                if pdf_url:
-                    pdf_dest = paper_cache / "paper.pdf"
-                    sources.fetch_pdf(pdf_url, pdf_dest)
-                    extracted_dir.mkdir(parents=True, exist_ok=True)
-                    (extracted_dir / "paper.pdf").write_bytes(pdf_dest.read_bytes())
-                else:
-                    extracted_dir.mkdir(parents=True, exist_ok=True)  # empty → metadata-only
+                # Semantic Scholar papers are no longer fetched; treat as metadata-only.
+                extracted_dir.mkdir(parents=True, exist_ok=True)
             else:
                 # DBLP / bioRxiv / Papers-With-Code: no reliable PDF source, so
                 # emit a metadata-only stub built from the abstract.
