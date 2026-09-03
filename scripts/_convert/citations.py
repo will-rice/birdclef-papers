@@ -320,10 +320,16 @@ def load_citation_cache(path: Path) -> dict[str, dict]:
     """Load the JSON citation cache at *path*; return {} if missing."""
     if not path.exists():
         return {}
-    return json.loads(path.read_text(encoding="utf-8"))
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        logging.warning("Citation cache at %s is invalid JSON; resetting cache.", path)
+        return {}
 
 
 def save_citation_cache(path: Path, cache: dict[str, dict]) -> None:
     """Persist *cache* as JSON at *path*, creating parent dirs."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(cache, indent=2, sort_keys=True), encoding="utf-8")
+    tmp_path = path.with_name(f"{path.name}.tmp")
+    tmp_path.write_text(json.dumps(cache, indent=2, sort_keys=True), encoding="utf-8")
+    tmp_path.replace(path)

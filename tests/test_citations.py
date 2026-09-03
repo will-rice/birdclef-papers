@@ -227,6 +227,14 @@ def test_load_and_save_citation_cache(tmp_path) -> None:
     assert loaded["title:foo"]["data"][0]["externalIds"]["ArXiv"] == "1234.5678"
 
 
+def test_load_citation_cache_invalid_json_returns_empty(tmp_path) -> None:
+    from scripts._convert.citations import load_citation_cache
+
+    path = tmp_path / "citations.json"
+    path.write_text('{"title:foo": {"data": []}}\n{"extra": true}\n', encoding="utf-8")
+    assert load_citation_cache(path) == {}
+
+
 SAMPLE_BIB = r"""
 @inproceedings{kumar2024dac,
   title={High-Fidelity Audio Compression with Improved {RVQGAN}},
