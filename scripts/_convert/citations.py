@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import logging
 import re
+import tempfile
 import urllib.parse
 import urllib.request
 from dataclasses import dataclass, field
@@ -320,10 +321,24 @@ def load_citation_cache(path: Path) -> dict[str, dict]:
     """Load the JSON citation cache at *path*; return {} if missing."""
     if not path.exists():
         return {}
-    return json.loads(path.read_text(encoding="utf-8"))
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        logging.warning("Ignoring malformed citation cache at %s; rebuilding cache.", path)
+        return {}
 
 
 def save_citation_cache(path: Path, cache: dict[str, dict]) -> None:
     """Persist *cache* as JSON at *path*, creating parent dirs."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(cache, indent=2, sort_keys=True), encoding="utf-8")
+    with tempfile.NamedTemporaryFile(
+        mode="w",
+        encoding="utf-8",
+        dir=path.parent,
+        prefix=f"{path.name}.",
+        suffix=".tmp",
+        delete=False,
+    ) as tmp:
+        json.dump(cache, tmp, indent=2, sort_keys=True)
+        tmp_path = Path(tmp.name)
+    tmp_path.replace(path)
