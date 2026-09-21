@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 import re
 import tempfile
 import urllib.parse
@@ -340,5 +341,7 @@ def save_citation_cache(path: Path, cache: dict[str, dict]) -> None:
         delete=False,
     ) as tmp:
         json.dump(cache, tmp, indent=2, sort_keys=True)
+        tmp.flush()
+        os.fsync(tmp.fileno())
         tmp_path = Path(tmp.name)
     tmp_path.replace(path)
