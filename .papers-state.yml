@@ -1,3 +1,6 @@
-backfill: {}
+backfill:
+  arxiv:
+    continuation: null
+    covered_from: '2021-09-17T23:26:20.717271Z'
 continuations: {}
 failures: {}
