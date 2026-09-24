@@ -1,31 +1,26 @@
 ---
-arxiv_id: ss:344017e5ad214b5f4abc0957a0a336c48195c108
+identifier: semantic_scholar:344017e5ad214b5f4abc0957a0a336c48195c108
 title: National-scale acoustic monitoring of avian biodiversity and migration
 authors:
-  - I. A. Bick
-  - V. Bakkestuen
-  - Benjamin Cretois
-  - Ben V Hillier
-  - J. Kålås
-  - I. Øien
-  - Marius Pedersen
-  - Kiran Raja
-  - Carolyn M. Rosten
-  - Marius Somveille
-  - B. Stokke
-  - Julia Wiel
-  - S. Sethi
-submitted: "2026-02-06"
+- I. A. Bick
+- V. Bakkestuen
+- Benjamin Cretois
+- Ben V Hillier
+- J. Kålås
+- I. Øien
+- Marius Pedersen
+- Kiran Raja
+- Carolyn M. Rosten
+- Marius Somveille
+- B. Stokke
+- Julia Wiel
+- S. Sethi
+published: '2026-02-06T00:00:00+00:00'
+url: https://www.biorxiv.org/content/biorxiv/early/2024/05/24/2024.05.21.595242.full.pdf
+source: semantic_scholar
+doi: null
+arxiv_id: null
 categories: []
-arxiv_url: https://www.biorxiv.org/content/biorxiv/early/2024/05/24/2024.05.21.595242.full.pdf
-github_repo: ""
-source: metadata-only
-converter: none
-llm_remediated: false
-citations_resolved: 0/0
-citations_resolved_at: "2026-07-28T07:07:16+00:00"
-references_parsed: 0
-arxiv_version: ""
 ---
 
 ## Abstract

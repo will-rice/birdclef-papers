@@ -1,24 +1,19 @@
 ---
-arxiv_id: ss:0c0cb9d1537a183bf71e9bca3542fa0d98831b09
-title: "Inventory of birds in the Peruvian Amazon: Case of lake Cuipari"
+identifier: doi:10.4025/actascibiolsci.v47i1.73232
+title: 'Inventory of birds in the Peruvian Amazon: Case of lake Cuipari'
 authors:
-  - José Seijas-Díaz
-  - Karla Martell
-  - Juan Schrader
-  - M. Navas-Vásquez
-  - E. Barbachán-Ruales
-  - Jessica Cabel-Rabines
-submitted: "2025-08-08"
+- José Seijas-Díaz
+- Karla Martell
+- Juan Schrader
+- M. Navas-Vásquez
+- E. Barbachán-Ruales
+- Jessica Cabel-Rabines
+published: '2025-08-08T00:00:00+00:00'
+url: https://doi.org/10.4025/actascibiolsci.v47i1.73232
+source: semantic_scholar
+doi: 10.4025/actascibiolsci.v47i1.73232
+arxiv_id: null
 categories: []
-arxiv_url: https://doi.org/10.4025/actascibiolsci.v47i1.73232
-github_repo: ""
-source: metadata-only
-converter: none
-llm_remediated: false
-citations_resolved: 0/0
-citations_resolved_at: "2026-07-28T07:07:34+00:00"
-references_parsed: 0
-arxiv_version: ""
 ---
 
 ## Abstract

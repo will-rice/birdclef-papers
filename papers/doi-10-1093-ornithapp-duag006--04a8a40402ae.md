@@ -1,30 +1,23 @@
 ---
-arxiv_id: ss:95fcb3ca11cea54ad2f6ea6af3748fd6485e5e88
-title:
-  Addressing widespread detection heterogeneity in avian occupancy modeling using
-  passive acoustic surveys
+identifier: doi:10.1093/ornithapp/duag006
+title: Addressing widespread detection heterogeneity in avian occupancy modeling using passive acoustic surveys
 authors:
-  - Tessa A. Rhinehart
-  - Chapin Czarnecki
-  - R. P. Lyon
-  - Lauren M. Chronister
-  - Sam Lapp
-  - Jeff L Larkin
-  - Jeffery T. Larkin
-  - D. McNeil
-  - Jacob Goldman
-  - Justin Kitzes
-submitted: "2026-01-22"
+- Tessa A. Rhinehart
+- Chapin Czarnecki
+- R. P. Lyon
+- Lauren M. Chronister
+- Sam Lapp
+- Jeff L Larkin
+- Jeffery T. Larkin
+- D. McNeil
+- Jacob Goldman
+- Justin Kitzes
+published: '2026-01-22T00:00:00+00:00'
+url: https://doi.org/10.1093/ornithapp/duag006
+source: semantic_scholar
+doi: 10.1093/ornithapp/duag006
+arxiv_id: null
 categories: []
-arxiv_url: https://doi.org/10.1093/ornithapp/duag006
-github_repo: ""
-source: metadata-only
-converter: none
-llm_remediated: false
-citations_resolved: 0/0
-citations_resolved_at: "2026-07-28T07:07:19+00:00"
-references_parsed: 0
-arxiv_version: ""
 ---
 
 ## Abstract

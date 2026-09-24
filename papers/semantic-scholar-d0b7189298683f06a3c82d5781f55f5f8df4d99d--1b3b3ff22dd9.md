@@ -1,26 +1,19 @@
 ---
-arxiv_id: ss:d0b7189298683f06a3c82d5781f55f5f8df4d99d
-title:
-  "From video to behaviour: an LSTM-based approach for automated nest behaviour
-  recognition in the wild"
+identifier: semantic_scholar:d0b7189298683f06a3c82d5781f55f5f8df4d99d
+title: 'From video to behaviour: an LSTM-based approach for automated nest behaviour recognition in the wild'
 authors:
-  - Liliana R. Silva
-  - André C. Ferreira
-  - Irene Martínez-Baquero
-  - Arlette Fauteux
-  - C. Doutrelant
-  - R. Covas
-submitted: "2026-02-25"
+- Liliana R. Silva
+- André C. Ferreira
+- Irene Martínez-Baquero
+- Arlette Fauteux
+- C. Doutrelant
+- R. Covas
+published: '2026-02-25T00:00:00+00:00'
+url: https://www.biorxiv.org/content/biorxiv/early/2024/10/25/2024.10.25.620052.full.pdf
+source: semantic_scholar
+doi: null
+arxiv_id: null
 categories: []
-arxiv_url: https://www.biorxiv.org/content/biorxiv/early/2024/10/25/2024.10.25.620052.full.pdf
-github_repo: ""
-source: metadata-only
-converter: none
-llm_remediated: false
-citations_resolved: 0/0
-citations_resolved_at: "2026-07-28T07:07:14+00:00"
-references_parsed: 0
-arxiv_version: ""
 ---
 
 ## Abstract

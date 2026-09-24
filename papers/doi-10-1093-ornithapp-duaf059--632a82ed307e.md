@@ -1,23 +1,16 @@
 ---
-arxiv_id: ss:b5279358768830d436d357d68eab88253fae0302
-title:
-  "Contributions of environmental conditions and sound characteristics to differences
-  in perceptibility: Recommendations for passive acoustic monitoring"
+identifier: doi:10.1093/ornithapp/duaf059
+title: 'Contributions of environmental conditions and sound characteristics to differences in perceptibility: Recommendations for passive acoustic monitoring'
 authors:
-  - D. A. Yip
-  - Elly C. Knight
-  - Erin M. Bayne
-submitted: "2025-09-19"
+- D. A. Yip
+- Elly C. Knight
+- Erin M. Bayne
+published: '2025-09-19T00:00:00+00:00'
+url: https://doi.org/10.1093/ornithapp/duaf059
+source: semantic_scholar
+doi: 10.1093/ornithapp/duaf059
+arxiv_id: null
 categories: []
-arxiv_url: https://doi.org/10.1093/ornithapp/duaf059
-github_repo: ""
-source: metadata-only
-converter: none
-llm_remediated: false
-citations_resolved: 0/0
-citations_resolved_at: "2026-07-28T07:07:30+00:00"
-references_parsed: 0
-arxiv_version: ""
 ---
 
 ## Abstract

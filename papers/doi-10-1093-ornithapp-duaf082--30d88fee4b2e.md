@@ -1,29 +1,22 @@
 ---
-arxiv_id: ss:519ba90495c1d15dbf32228082733cf5edc224af
-title:
-  Insights into detection probability of forest bird surveys from comparison
-  of in-person and passive acoustic monitoring point counts
+identifier: doi:10.1093/ornithapp/duaf082
+title: Insights into detection probability of forest bird surveys from comparison of in-person and passive acoustic monitoring point counts
 authors:
-  - Elly C. Knight
-  - Steven L. Van Wilgenburg
-  - David Iles
-  - Brandon P. M. Edwards
-  - D. A. Yip
-  - Tessa A. Rhinehart
-  - Sam Lapp
-  - Justin Kitzes
-  - Erin M. Bayne
-submitted: "2025-12-05"
+- Elly C. Knight
+- Steven L. Van Wilgenburg
+- David Iles
+- Brandon P. M. Edwards
+- D. A. Yip
+- Tessa A. Rhinehart
+- Sam Lapp
+- Justin Kitzes
+- Erin M. Bayne
+published: '2025-12-05T00:00:00+00:00'
+url: https://doi.org/10.1093/ornithapp/duaf082
+source: semantic_scholar
+doi: 10.1093/ornithapp/duaf082
+arxiv_id: null
 categories: []
-arxiv_url: https://doi.org/10.1093/ornithapp/duaf082
-github_repo: ""
-source: metadata-only
-converter: none
-llm_remediated: false
-citations_resolved: 0/0
-citations_resolved_at: "2026-07-28T07:07:22+00:00"
-references_parsed: 0
-arxiv_version: ""
 ---
 
 ## Abstract
