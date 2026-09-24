@@ -13,11 +13,11 @@ adapters:
     enabled: true
     secret_env: null
     lookback_days: 8
-    page_size: 100
-    max_pages: 5
-    max_results: 500
-    backfill_start: 2014-01-01
-    backfill_days: 90
+    page_size: 200
+    max_pages: 10
+    max_results: 2000
+    backfill_start: 1991-08-01
+    backfill_days: 365
     filters:
       search_query: 'all:"BirdCLEF" OR all:"bird sound recognition" OR all:"bird call recognition" OR all:"bird song recognition" OR all:"bird species identification audio" OR all:"bird vocalization classification" OR all:"avian sound classification" OR all:"bioacoustics deep learning" OR all:"passive acoustic monitoring birds" OR all:"soundscape bird" OR all:"bird audio detection" OR all:"bird species classification spectrogram" OR all:"ecoacoustics machine learning" OR all:"bird call detection" OR all:"LifeCLEF bird" OR all:"BirdNET" OR all:"xeno-canto" OR all:"avian bioacoustics" OR all:"bird acoustic identification" OR all:"automated bird identification" OR all:"bird sound classification deep learning" OR all:"bird species acoustic" OR all:"soundscape ecology machine learning" OR all:"wildlife acoustic monitoring" OR all:"ornithology deep learning" OR all:"bird audio neural network" OR all:"avian call classification" OR all:"bird sound event detection" OR all:"bird sound dataset" OR all:"PAM birds" OR all:"bird species recognition neural" OR all:"mel spectrogram bird classification" OR all:"bird call transfer learning" OR all:"bioacoustics transfer learning" OR all:"bird sound self-supervised" OR all:"bird sound contrastive learning" OR all:"bird call few-shot" OR all:"bioacoustics few-shot learning" OR all:"bird species weakly supervised" OR all:"bird call pseudo label" OR all:"bird sound domain adaptation" OR all:"bird call transformer" OR all:"bird audio multi-label classification" OR all:"Perch bioacoustics" OR all:"BirdSet dataset" OR all:"AudioMoth bird" OR all:"bird sound EfficientNet" OR all:"bioacoustic foundation model" OR all:"bird vocalization deep learning" OR all:"avian species recognition deep learning" OR all:"bird vocalization recognition" OR all:"nocturnal flight call detection" OR all:"bird species audio benchmark" OR all:"soundscape species identification" OR all:"biodiversity acoustic monitoring deep learning" OR all:"bird sound separation" OR all:"bird call identification neural" OR all:"avian sound detection"'
   # The 12 legacy bulk-search queries, OR-ed. Disabled: the adapter uses
@@ -251,13 +251,14 @@ fetch:
   backoff_seconds: 1
   total_deadline_seconds: 900
 conversion:
-  max_batches_per_run: 4
-  max_papers: 10
-  max_cost: 100
+  max_batches_per_run: 20
+  max_papers: 50
+  max_cost: 1000
   timeout_seconds: 1800
   html_cost: 2
   latex_cost: 4
   pdf_cost: 20
+  deadline_seconds: 10800
 concurrency:
   html: 4
   latex: 2
