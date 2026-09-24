@@ -1,0 +1,6 @@
+_commit: v0.3.1
+_src_path: https://github.com/will-rice/papers-template.git
+project_name: BirdCLEF Papers
+project_slug: birdclef-papers
+template_version: 0.1.0
+topic_description: Papers relevant to the BirdCLEF bird sound identification competitions
