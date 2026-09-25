@@ -128,3 +128,54 @@ failures:
   doi:10.1080/01584197.2023.2269575:
   - error: 'conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/01584197.2023.2269575?needAccess=true'
     occurred_at: '2026-09-25T15:09:17.355799Z'
+  doi:10.1080/09524622.2023.2209052:
+  - error: 'conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/09524622.2023.2209052'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1080/23766808.2023.2185963:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1080/23766808.2023.2185963'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1088/1742-6596/1739/1/012038:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1098/rsos.202241:
+  - error: 'conversion input HTTP 403: https://royalsocietypublishing.org/doi/10.1098/rsos.202241'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1098/rspb.2024.1595:
+  - error: 'conversion input HTTP 403: https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1595'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/072546:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/072546.full.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/083253:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/083253.full.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/085944:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/085944.full.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/090035:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/090035v1.full-text.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/100867:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/100867v1.full-text.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/109538:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/109538.full.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/109926:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/109926v3.full-text.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/117119:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/117119v1.full-text.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/142463:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/142463v1.full-text.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/159129:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/159129v3.full-text.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/167973:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/167973v1.full-text.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
+  doi:10.1101/169144:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/169144v4.full-text.pdf'
+    occurred_at: '2026-09-25T15:38:18.659169Z'
