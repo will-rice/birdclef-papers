@@ -179,3 +179,63 @@ failures:
   doi:10.1101/2024.09.02.610792:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.02.610792.full.pdf'
     occurred_at: '2026-09-25T18:46:50.816415Z'
+  doi:10.1101/2024.09.03.610970:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.03.610970.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.03.610973:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.03.610973.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.05.611348:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.05.611348.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.12.612720:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.12.612720.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.12.612784:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.12.612784.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.13.612884:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.13.612884.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.17.613451:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.17.613451.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.20.614115:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.20.614115.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.24.614738:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.24.614738.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.26.615116:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.26.615116.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.09.30.615754:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.30.615754.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.10.01.616075:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.10.01.616075.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.10.02.616289:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.10.02.616289.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.10.14.617534:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.10.14.617534.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.10.14.618267:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.10.14.618267.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.10.14.618326:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.10.14.618326.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.10.18.619091:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.10.18.619091.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.10.21.619362:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.10.21.619362.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.10.28.620677:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.10.28.620677.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
+  doi:10.1101/2024.10.30.621075:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.10.30.621075.full.pdf'
+    occurred_at: '2026-09-25T18:46:52.594400Z'
