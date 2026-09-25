@@ -659,3 +659,54 @@ failures:
   doi:10.1128/spectrum.04351-22:
   - error: 'conversion input HTTP 403: https://journals.asm.org/doi/pdf/10.1128/spectrum.04351-22?download=true'
     occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1145/3628797.3629004:
+  - error: 'conversion input HTTP 403: https://dl.acm.org/doi/pdf/10.1145/3628797.3629004'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.1145/3685243.3685244:
+  - error: 'conversion input HTTP 403: https://dl.acm.org/doi/10.1145/3685243.3685244'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.1145/3702336.3702344:
+  - error: 'conversion input HTTP 403: https://dl.acm.org/doi/10.1145/3702336.3702344'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.1155/vib/5292138:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1155/vib/5292138'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.11591/aptikom.j.csit.71:
+  - error: 'conversion input is not a PDF: https://doi.org/10.11591/aptikom.j.csit.71'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.11646/zootaxa.5209.2.4:
+  - error: 'conversion input is not a PDF: http://doi.org/10.11646/zootaxa.5209.2.4'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.1186/s12862-024-02312-4:
+  - error: 'conversion input exceeded 5 redirects: https://link.springer.com/article/10.1186/s12862-024-02312-4?error=cookies_not_supported&code=5e58528e-a24c-4226-b644-0c847263a2a2'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.1186/s13636-018-0143-7:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.1371/journal.pone.0305708:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0305708'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.1371/journal.pone.0306580:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0306580'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.14746/sppgl.2017.xxvii.2.6:
+  - error: 'conversion input is not a PDF: https://doi.org/10.14746/sppgl.2017.xxvii.2.6'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.17520/biods.2022370:
+  - error: 'conversion input is not a PDF: https://doi.org/10.17520/biods.2022370'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.17762/turcomat.v12i2.813:
+  - error: 'conversion input HTTP 403: https://turcomat.org/index.php/turkbilmat/article/view/813'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.18653/v1/2025.acl-short.51:
+  - error: 'conversion input is not a PDF: https://doi.org/10.18653/v1/2025.acl-short.51'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.21437/interspeech.2018-1143:
+  - error: 'conversion input is not a PDF: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1143.pdf'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.21474/ijar01/17110:
+  - error: 'conversion input is not a PDF: https://doi.org/10.21474/ijar01/17110'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.22261/jea.pnco7i:
+  - error: 'conversion input is not a PDF: https://doi.org/10.22261/jea.pnco7i'
+    occurred_at: '2026-09-25T19:17:08.753178Z'
