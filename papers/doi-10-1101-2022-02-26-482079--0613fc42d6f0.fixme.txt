@@ -1,5 +1,0 @@
-paper: doi:10.1101/2022.02.26.482079
-latest_error: conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2022.02.26.482079.full.pdf
-attempt: 2026-09-25T16:31:18.352678+00:00 conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2022.02.26.482079.full.pdf
-attempt: 2026-09-25T17:44:03.792542+00:00 conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2022.02.26.482079.full.pdf
-attempt: 2026-09-25T18:45:45.830155+00:00 conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2022.02.26.482079.full.pdf
