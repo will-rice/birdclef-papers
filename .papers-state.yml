@@ -4,82 +4,66 @@ backfill:
     covered_from: '1995-09-24T23:26:20.717271Z'
 continuations: {}
 failures:
-  doi:10.1002/2688-8319.12394:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2688-8319.12394'
-    occurred_at: '2026-09-25T01:40:38.963707Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2688-8319.12394'
-    occurred_at: '2026-09-25T14:39:12.611606Z'
-  doi:10.1002/ecs2.70143:
-  - error: 'conversion input HTTP 403: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70143'
-    occurred_at: '2026-09-25T01:40:38.963707Z'
-  - error: 'conversion input HTTP 403: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70143'
-    occurred_at: '2026-09-25T14:39:12.611606Z'
-  doi:10.1002/rse2.125:
-  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.125'
-    occurred_at: '2026-09-25T01:40:38.963707Z'
-  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.125'
-    occurred_at: '2026-09-25T14:39:12.611606Z'
-  doi:10.1002/rse2.227:
-  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.227'
-    occurred_at: '2026-09-25T01:40:38.963707Z'
-  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.227'
-    occurred_at: '2026-09-25T14:39:12.611606Z'
-  doi:10.1002/rse2.385:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.385'
-    occurred_at: '2026-09-25T01:40:38.963707Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.385'
-    occurred_at: '2026-09-25T14:39:12.611606Z'
-  doi:10.1002/rse2.70098:
-  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.70098'
-    occurred_at: '2026-09-25T01:40:38.963707Z'
-  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.70098'
-    occurred_at: '2026-09-25T14:39:12.611606Z'
-  doi:10.1002/tee.22378:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1002/tee.22378'
-    occurred_at: '2026-09-25T01:40:38.963707Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1002/tee.22378'
-    occurred_at: '2026-09-25T14:39:12.611606Z'
-  doi:10.1002/wsb.70044:
-  - error: 'conversion input HTTP 403: https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.70044'
-    occurred_at: '2026-09-25T01:40:38.963707Z'
-  - error: 'conversion input HTTP 403: https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.70044'
-    occurred_at: '2026-09-25T14:39:12.611606Z'
   doi:10.1007/978-3-030-45442-5_70:
   - error: 'conversion input is not a PDF: http://agritrop.cirad.fr/598373/'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input is not a PDF: http://agritrop.cirad.fr/598373/'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1007/s10071-024-01858-6:
   - error: 'conversion input is not a PDF: https://doi.org/10.1007/s10071-024-01858-6'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1007/s10071-024-01858-6'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1007/s10462-025-11414-4:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1007/s10661-024-13441-0:
   - error: 'conversion input is not a PDF: https://lirias.kuleuven.be/handle/20.500.12942/758299'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input is not a PDF: https://lirias.kuleuven.be/handle/20.500.12942/758299'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1016/j.anbehav.2024.03.011:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.anbehav.2024.03.011'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.anbehav.2024.03.011'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1016/j.applanim.2021.105373:
   - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S016815912100160X/pdf'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S016815912100160X/pdf'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1016/j.biocon.2024.110722:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.biocon.2024.110722'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.biocon.2024.110722'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1016/j.dib.2020.105301:
   - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S2352340920301955/pdf'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S2352340920301955/pdf'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1016/j.ecoinf.2019.101014:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.ecoinf.2019.101014'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.ecoinf.2019.101014'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1016/j.ecoinf.2020.101113:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.ecoinf.2020.101113'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.ecoinf.2020.101113'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1016/j.ecoinf.2021.101236:
   - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S1574954121000273/pdf'
     occurred_at: '2026-09-25T14:39:12.611606Z'
+  - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S1574954121000273/pdf'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1016/j.ecoinf.2022.101909:
   - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S1574954122003594/pdf'
     occurred_at: '2026-09-25T15:09:17.355799Z'
+  - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S1574954122003594/pdf'
+    occurred_at: '2026-09-25T16:43:36.505600Z'
   doi:10.1016/j.ecoinf.2023.102065:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.ecoinf.2023.102065'
     occurred_at: '2026-09-25T15:09:17.355799Z'

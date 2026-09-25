@@ -1,0 +1,5 @@
+paper: doi:10.1002/wsb.70044
+latest_error: conversion input HTTP 403: https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.70044
+attempt: 2026-09-25T01:40:38.963707+00:00 conversion input HTTP 403: https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.70044
+attempt: 2026-09-25T14:39:12.611606+00:00 conversion input HTTP 403: https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.70044
+attempt: 2026-09-25T16:43:36.505600+00:00 conversion input HTTP 403: https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.70044
