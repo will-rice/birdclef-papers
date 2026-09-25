@@ -599,3 +599,63 @@ failures:
   doi:10.1101/827741:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/827741.full.pdf'
     occurred_at: '2026-09-25T18:47:02.851942Z'
+  doi:10.1101/829986:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/829986.full.pdf'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1101/833558:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/833558.full.pdf'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1101/841403:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/841403.full.pdf'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1101/846485:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/846485.full.pdf'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1101/851998:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/851998.full.pdf'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1101/860296:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/860296.full.pdf'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1101/868356:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/868356.full.pdf'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1109/access.2020.2978547:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1109/access.2020.2978547'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1109/hora55278.2022.9799968:
+  - error: 'conversion input HTTP 403: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133958958&origin=inward'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1109/icccs49078.2020.9118426:
+  - error: 'conversion input HTTP 502: https://research-repository.griffith.edu.au/items/9d1e84b1-0460-4572-bfcc-a45c70006220'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1109/iraset48871.2020.9092006:
+  - error: 'conversion input HTTP 503: https://myresearchspace.uws.ac.uk/ws/files/51281541/2020_02_22_Sturley_et_al_PANDI_accepted.pdf'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1109/taslp.2024.3444486:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1109/tpami.2017.2723400:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1109/tpami.2017.2723400'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1109/tpami.2018.2885764:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1109/tpami.2018.2885764'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1111/2041-210x.13964:
+  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13964'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1111/2041-210x.70230:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210x.70230'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1111/ibi.13373:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13373'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1111/ibi.13375:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13375'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1121/10.0000671:
+  - error: 'conversion input is not a PDF: https://asa.scitation.org/doi/pdf/10.1121/10.0000671'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
+  doi:10.1128/spectrum.04351-22:
+  - error: 'conversion input HTTP 403: https://journals.asm.org/doi/pdf/10.1128/spectrum.04351-22?download=true'
+    occurred_at: '2026-09-25T18:47:04.551495Z'
