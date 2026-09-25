@@ -1,0 +1,5 @@
+paper: doi:10.1016/j.ecolind.2021.107897
+latest_error: conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2021.107897
+attempt: 2026-09-25T15:09:17.355799+00:00 conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2021.107897
+attempt: 2026-09-25T17:13:41.855792+00:00 conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2021.107897
+attempt: 2026-09-25T18:15:24.444646+00:00 conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2021.107897

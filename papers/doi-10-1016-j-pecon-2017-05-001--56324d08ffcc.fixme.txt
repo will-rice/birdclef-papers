@@ -1,0 +1,5 @@
+paper: doi:10.1016/j.pecon.2017.05.001
+latest_error: conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S1679007316300706/pdf
+attempt: 2026-09-25T15:09:17.355799+00:00 conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S1679007316300706/pdf
+attempt: 2026-09-25T17:13:41.855792+00:00 conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S1679007316300706/pdf
+attempt: 2026-09-25T18:15:24.444646+00:00 conversion input HTTP 403: https://www.sciencedirect.com/science/article/pii/S1679007316300706/pdf
