@@ -710,3 +710,48 @@ failures:
   doi:10.22261/jea.pnco7i:
   - error: 'conversion input is not a PDF: https://doi.org/10.22261/jea.pnco7i'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  doi:10.23919/eusipco63174.2024.10715289:
+  - error: 'conversion input is not a PDF: http://hdl.handle.net/10138/634978'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.2478/amns-2024-2521:
+  - error: 'conversion input HTTP 404: https://reference-global.com/article/10.2478/amns-2024-2521'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.26565/2410-7360-2024-60-28:
+  - error: 'conversion input is not a PDF: https://doi.org/10.26565/2410-7360-2024-60-28'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.31234/osf.io/7ywxm:
+  - error: 'conversion input is not a PDF: https://psyarxiv.com/7ywxm/download'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.31516/2410-5325.073.15:
+  - error: 'conversion input is not a PDF: https://doi.org/10.31516/2410-5325.073.15'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.32470/ccn.2019.1414-0:
+  - error: 'conversion input HTTP 404: https://2026.ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1414'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3389/fbirs.2024.1386759:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/fbirs.2024.1386759'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3389/fbirs.2024.1425463:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/fbirs.2024.1425463'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3389/fpls.2024.1365275:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/fpls.2024.1365275'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3390/birds6010011:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3390/birds6010011'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3390/d16080509:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-2818/16/8/509/pdf?version=1724319299'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3390/electronics13193964:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3390/electronics13193964'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3390/make6040115:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3390/make6040115'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3813/aaa.919064:
+  - error: 'conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/65880'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3934/era.2025185:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-25T20:31:12.018905Z'
