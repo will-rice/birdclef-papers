@@ -3,4 +3,28 @@ backfill:
     continuation: null
     covered_from: '2021-09-17T23:26:20.717271Z'
 continuations: {}
-failures: {}
+failures:
+  doi:10.1002/2688-8319.12394:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2688-8319.12394'
+    occurred_at: '2026-09-25T01:40:38.963707Z'
+  doi:10.1002/ecs2.70143:
+  - error: 'conversion input HTTP 403: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70143'
+    occurred_at: '2026-09-25T01:40:38.963707Z'
+  doi:10.1002/rse2.125:
+  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.125'
+    occurred_at: '2026-09-25T01:40:38.963707Z'
+  doi:10.1002/rse2.227:
+  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.227'
+    occurred_at: '2026-09-25T01:40:38.963707Z'
+  doi:10.1002/rse2.385:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.385'
+    occurred_at: '2026-09-25T01:40:38.963707Z'
+  doi:10.1002/rse2.70098:
+  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.70098'
+    occurred_at: '2026-09-25T01:40:38.963707Z'
+  doi:10.1002/tee.22378:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1002/tee.22378'
+    occurred_at: '2026-09-25T01:40:38.963707Z'
+  doi:10.1002/wsb.70044:
+  - error: 'conversion input HTTP 403: https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.70044'
+    occurred_at: '2026-09-25T01:40:38.963707Z'
