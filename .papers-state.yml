@@ -755,3 +755,45 @@ failures:
   doi:10.3934/era.2025185:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  doi:10.3934/mbe.2023860:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.5194/egusphere-egu21-12157:
+  - error: 'conversion input is not a PDF: https://doi.org/10.5194/egusphere-egu21-12157'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.5204/thesis.eprints.107097:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.55041/ijsrem41086:
+  - error: 'conversion input is not a PDF: https://ijsrem.com/download/identification-of-birds-by-using-merlin-app-in-around-siddipet/?wpdmdl=43150&refresh=67949c6d29ed01737792621'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.5604/01.3001.0010.7995:
+  - error: 'conversion input is not a PDF: https://doi.org/10.5604/01.3001.0010.7995'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.64898/2026.07.31.742086:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/lookup/doi/10.64898/2026.07.31.742086'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.64898/2026.08.14.744822:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/lookup/doi/10.64898/2026.08.14.744822'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.64898/2026.08.17.745158:
+  - error: 'conversion input HTTP 429: https://www.biorxiv.org/lookup/doi/10.64898/2026.08.17.745158'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.7717/peerj-cs.1186:
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/cs-1186'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.7717/peerj.10197:
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/10197'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.7717/peerj.10565:
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/10565'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.7717/peerj.11837:
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/11837'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.7717/peerj.16462:
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/16462'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
+  doi:10.7717/peerj.17854:
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
+    occurred_at: '2026-09-25T21:29:53.682736Z'
