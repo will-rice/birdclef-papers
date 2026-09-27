@@ -653,21 +653,33 @@ failures:
   doi:10.1111/2041-210x.70230:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210x.70230'
     occurred_at: '2026-09-25T18:47:04.551495Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210x.70230'
+    occurred_at: '2026-09-27T15:04:51.159294Z'
   doi:10.1111/ibi.13373:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13373'
     occurred_at: '2026-09-25T18:47:04.551495Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13373'
+    occurred_at: '2026-09-27T15:04:51.159294Z'
   doi:10.1111/ibi.13375:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13375'
     occurred_at: '2026-09-25T18:47:04.551495Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13375'
+    occurred_at: '2026-09-27T15:04:51.159294Z'
   doi:10.1121/10.0000671:
   - error: 'conversion input is not a PDF: https://asa.scitation.org/doi/pdf/10.1121/10.0000671'
     occurred_at: '2026-09-25T18:47:04.551495Z'
+  - error: 'conversion input is not a PDF: https://asa.scitation.org/doi/pdf/10.1121/10.0000671'
+    occurred_at: '2026-09-27T15:04:51.159294Z'
   doi:10.1128/spectrum.04351-22:
   - error: 'conversion input HTTP 403: https://journals.asm.org/doi/pdf/10.1128/spectrum.04351-22?download=true'
     occurred_at: '2026-09-25T18:47:04.551495Z'
+  - error: 'conversion input HTTP 403: https://journals.asm.org/doi/pdf/10.1128/spectrum.04351-22?download=true'
+    occurred_at: '2026-09-27T15:04:51.159294Z'
   doi:10.1145/3628797.3629004:
   - error: 'conversion input HTTP 403: https://dl.acm.org/doi/pdf/10.1145/3628797.3629004'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input HTTP 403: https://dl.acm.org/doi/pdf/10.1145/3628797.3629004'
+    occurred_at: '2026-09-27T15:04:51.159294Z'
   doi:10.1145/3685243.3685244:
   - error: 'conversion input HTTP 403: https://dl.acm.org/doi/10.1145/3685243.3685244'
     occurred_at: '2026-09-25T19:17:08.753178Z'
@@ -689,6 +701,8 @@ failures:
   doi:10.1186/s13636-018-0143-7:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-27T15:04:51.159294Z'
   doi:10.1371/journal.pone.0305708:
   - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0305708'
     occurred_at: '2026-09-25T19:17:08.753178Z'
@@ -710,6 +724,8 @@ failures:
   doi:10.21437/interspeech.2018-1143:
   - error: 'conversion input is not a PDF: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1143.pdf'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input is not a PDF: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1143.pdf'
+    occurred_at: '2026-09-27T15:04:51.159294Z'
   doi:10.21474/ijar01/17110:
   - error: 'conversion input is not a PDF: https://doi.org/10.21474/ijar01/17110'
     occurred_at: '2026-09-25T19:17:08.753178Z'
