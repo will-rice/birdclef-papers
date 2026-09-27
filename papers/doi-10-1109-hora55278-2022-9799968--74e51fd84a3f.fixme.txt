@@ -1,0 +1,5 @@
+paper: doi:10.1109/hora55278.2022.9799968
+latest_error: conversion input HTTP 403: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133958958&origin=inward
+attempt: 2026-09-25T18:47:04.551495+00:00 conversion input HTTP 403: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133958958&origin=inward
+attempt: 2026-09-27T14:30:56.009827+00:00 conversion input HTTP 403: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133958958&origin=inward
+attempt: 2026-09-27T17:01:51.674991+00:00 conversion input HTTP 403: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133958958&origin=inward

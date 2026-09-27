@@ -626,21 +626,6 @@ failures:
   doi:10.1109/access.2020.2978547:
   - error: 'conversion input is not a PDF: https://doi.org/10.1109/access.2020.2978547'
     occurred_at: '2026-09-25T18:47:04.551495Z'
-  doi:10.1109/hora55278.2022.9799968:
-  - error: 'conversion input HTTP 403: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133958958&origin=inward'
-    occurred_at: '2026-09-25T18:47:04.551495Z'
-  - error: 'conversion input HTTP 403: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133958958&origin=inward'
-    occurred_at: '2026-09-27T14:30:56.009827Z'
-  doi:10.1109/icccs49078.2020.9118426:
-  - error: 'conversion input HTTP 502: https://research-repository.griffith.edu.au/items/9d1e84b1-0460-4572-bfcc-a45c70006220'
-    occurred_at: '2026-09-25T18:47:04.551495Z'
-  - error: 'conversion input is not a PDF: http://hdl.handle.net/10072/399268'
-    occurred_at: '2026-09-27T14:30:56.009827Z'
-  doi:10.1109/taslp.2024.3444486:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-25T18:47:04.551495Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-27T14:30:56.009827Z'
   doi:10.1109/tpami.2017.2723400:
   - error: 'conversion input is not a PDF: https://doi.org/10.1109/tpami.2017.2723400'
     occurred_at: '2026-09-25T18:47:04.551495Z'
@@ -650,11 +635,6 @@ failures:
   doi:10.1111/2041-210x.13964:
   - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13964'
     occurred_at: '2026-09-25T18:47:04.551495Z'
-  doi:10.1111/2041-210x.70230:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210x.70230'
-    occurred_at: '2026-09-25T18:47:04.551495Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210x.70230'
-    occurred_at: '2026-09-27T15:04:51.159294Z'
   doi:10.1111/ibi.13373:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13373'
     occurred_at: '2026-09-25T18:47:04.551495Z'
