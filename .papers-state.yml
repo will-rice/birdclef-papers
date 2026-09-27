@@ -735,6 +735,8 @@ failures:
   doi:10.23919/eusipco63174.2024.10715289:
   - error: 'conversion input is not a PDF: http://hdl.handle.net/10138/634978'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: http://hdl.handle.net/10138/634978'
+    occurred_at: '2026-09-27T15:34:55.719794Z'
   doi:10.2478/amns-2024-2521:
   - error: 'conversion input HTTP 404: https://reference-global.com/article/10.2478/amns-2024-2521'
     occurred_at: '2026-09-25T20:31:12.018905Z'
@@ -744,6 +746,8 @@ failures:
   doi:10.31234/osf.io/7ywxm:
   - error: 'conversion input is not a PDF: https://psyarxiv.com/7ywxm/download'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://psyarxiv.com/7ywxm/download'
+    occurred_at: '2026-09-27T15:34:55.719794Z'
   doi:10.31516/2410-5325.073.15:
   - error: 'conversion input is not a PDF: https://doi.org/10.31516/2410-5325.073.15'
     occurred_at: '2026-09-25T20:31:12.018905Z'
@@ -765,6 +769,8 @@ failures:
   doi:10.3390/d16080509:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-2818/16/8/509/pdf?version=1724319299'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-2818/16/8/509/pdf?version=1724319299'
+    occurred_at: '2026-09-27T15:34:55.719794Z'
   doi:10.3390/electronics13193964:
   - error: 'conversion input is not a PDF: https://doi.org/10.3390/electronics13193964'
     occurred_at: '2026-09-25T20:31:12.018905Z'
@@ -774,12 +780,18 @@ failures:
   doi:10.3813/aaa.919064:
   - error: 'conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/65880'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/65880'
+    occurred_at: '2026-09-27T15:34:55.719794Z'
   doi:10.3934/era.2025185:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-27T15:34:55.719794Z'
   doi:10.3934/mbe.2023860:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-27T15:34:55.719794Z'
   doi:10.5194/egusphere-egu21-12157:
   - error: 'conversion input is not a PDF: https://doi.org/10.5194/egusphere-egu21-12157'
     occurred_at: '2026-09-25T21:29:53.682736Z'
