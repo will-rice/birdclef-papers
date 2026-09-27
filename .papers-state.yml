@@ -750,3 +750,17 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  semantic_scholar:049f7d9c25f7b9f3f9cf2f9c2fd1b61daa2c1731:
+  - error: 'conversion input network failure: https://eprints.qut.edu.au/220971/1/Using
+      multi-label classification for acoustic pattern detection and assisting bird
+      species surveys.pdf'
+    occurred_at: '2026-09-27T19:32:04.970817Z'
+  semantic_scholar:06526f65b43263744eb3a5a2dcb27585405c5f9c:
+  - error: 'conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/09524622.2023.2290718?download=true'
+    occurred_at: '2026-09-27T19:32:04.970817Z'
+  semantic_scholar:06a970c9163685b74326eec7aca7955d4c8eabf6:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14239'
+    occurred_at: '2026-09-27T19:32:04.970817Z'
+  semantic_scholar:0744287d7b7ea6078c03423256bf1440623e8108:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.310'
+    occurred_at: '2026-09-27T19:32:04.970817Z'
