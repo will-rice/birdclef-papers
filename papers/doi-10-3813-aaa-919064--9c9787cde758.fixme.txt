@@ -1,0 +1,5 @@
+paper: doi:10.3813/aaa.919064
+latest_error: conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/65880
+attempt: 2026-09-25T20:31:12.018905+00:00 conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/65880
+attempt: 2026-09-27T15:34:55.719794+00:00 conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/65880
+attempt: 2026-09-27T18:02:01.536102+00:00 conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/65880
