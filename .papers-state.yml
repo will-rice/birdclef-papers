@@ -740,50 +740,24 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:4402d6f794cd9f68b81c8489d1e20d3420b56588:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T13:32:20.418681Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T15:47:53.962701Z'
-  semantic_scholar:4464304d5901729e0f3784496c7f8ef5410c0c96:
-  - error: 'conversion input HTTP 403: https://www.jneurosci.org/content/jneuro/39/31/6150.full.pdf'
-    occurred_at: '2026-09-28T13:32:20.418681Z'
-  - error: 'conversion input HTTP 403: https://www.jneurosci.org/content/jneuro/39/31/6150.full.pdf'
-    occurred_at: '2026-09-28T15:47:53.962701Z'
-  semantic_scholar:46537cc61fda6169005b9acb93082a5972473c1b:
-  - error: 'conversion input is not a PDF: http://dx.doi.org/10.4314/mcd.v18i1.6'
-    occurred_at: '2026-09-28T13:32:20.418681Z'
-  - error: 'conversion input is not a PDF: http://dx.doi.org/10.4314/mcd.v18i1.6'
-    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:48a7a6f1a6b0b5b203bc21825b76ebe7909e1e47:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-28T15:47:53.962701Z'
-  semantic_scholar:491170120d504dacb0d5182d0326c88e237d0b04:
-  - error: 'conversion input HTTP 522: https://www.jsr.org/hs/index.php/path/article/download/4108/2016'
-    occurred_at: '2026-09-28T14:12:57.364425Z'
-  - error: 'conversion input HTTP 522: https://www.jsr.org/hs/index.php/path/article/download/4108/2016'
-    occurred_at: '2026-09-28T15:47:53.962701Z'
-  semantic_scholar:4a3d25caf49e5f10ff468f8d0422101ca3741262:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13092'
-    occurred_at: '2026-09-28T14:12:57.364425Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13092'
-    occurred_at: '2026-09-28T15:47:53.962701Z'
-  semantic_scholar:4ad47b0a4598a5160b778d257c24a9dcabf6812d:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/1999-4907/14/2/206/pdf?version=1675845476'
-    occurred_at: '2026-09-28T14:12:57.364425Z'
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/1999-4907/14/2/206/pdf?version=1675845476'
-    occurred_at: '2026-09-28T15:47:53.962701Z'
-  semantic_scholar:4ecb711d8516fd3ad7ef5fef48d985b2e3cd92c6:
-  - error: 'conversion input HTTP 403: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1603&context=animsent'
-    occurred_at: '2026-09-28T14:12:57.364425Z'
-  - error: 'conversion input HTTP 403: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1603&context=animsent'
-    occurred_at: '2026-09-28T15:47:53.962701Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T17:48:43.536553Z'
+  semantic_scholar:5534aab27346d46c74d8a85c6a3aa8034a484a94:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T17:48:43.536553Z'
   semantic_scholar:646ae738ce4e2022e73c78e0278e37b0eaeff7d3:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14003'
     occurred_at: '2026-09-28T14:12:57.364425Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14003'
+    occurred_at: '2026-09-28T17:48:43.536553Z'
   semantic_scholar:6651ad48001380ea41c7bea2ce3e87d0da0de330:
   - error: 'conversion input HTTP 403: https://research.rug.nl/files/212425658/science.abg1780.pdf'
     occurred_at: '2026-09-28T14:12:57.364425Z'
+  - error: 'conversion input HTTP 403: https://research.rug.nl/files/212425658/science.abg1780.pdf'
+    occurred_at: '2026-09-28T17:48:43.536553Z'
   semantic_scholar:68012be3c178afa197a404ad0ea9a6772788d91d:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/13/4/687/pdf?version=1676525860'
     occurred_at: '2026-09-28T14:12:57.364425Z'

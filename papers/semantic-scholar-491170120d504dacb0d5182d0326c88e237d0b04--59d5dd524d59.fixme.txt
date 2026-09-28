@@ -1,0 +1,5 @@
+paper: semantic_scholar:491170120d504dacb0d5182d0326c88e237d0b04
+latest_error: conversion input HTTP 522: https://www.jsr.org/hs/index.php/path/article/download/4108/2016
+attempt: 2026-09-28T14:12:57.364425+00:00 conversion input HTTP 522: https://www.jsr.org/hs/index.php/path/article/download/4108/2016
+attempt: 2026-09-28T15:47:53.962701+00:00 conversion input HTTP 522: https://www.jsr.org/hs/index.php/path/article/download/4108/2016
+attempt: 2026-09-28T17:48:43.536553+00:00 conversion input HTTP 522: https://www.jsr.org/hs/index.php/path/article/download/4108/2016

@@ -1,0 +1,5 @@
+paper: semantic_scholar:4ecb711d8516fd3ad7ef5fef48d985b2e3cd92c6
+latest_error: conversion input HTTP 403: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1603&context=animsent
+attempt: 2026-09-28T14:12:57.364425+00:00 conversion input HTTP 403: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1603&context=animsent
+attempt: 2026-09-28T15:47:53.962701+00:00 conversion input HTTP 403: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1603&context=animsent
+attempt: 2026-09-28T17:48:43.536553+00:00 conversion input HTTP 403: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1603&context=animsent

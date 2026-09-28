@@ -1,0 +1,5 @@
+paper: semantic_scholar:4464304d5901729e0f3784496c7f8ef5410c0c96
+latest_error: conversion input HTTP 403: https://www.jneurosci.org/content/jneuro/39/31/6150.full.pdf
+attempt: 2026-09-28T13:32:20.418681+00:00 conversion input HTTP 403: https://www.jneurosci.org/content/jneuro/39/31/6150.full.pdf
+attempt: 2026-09-28T15:47:53.962701+00:00 conversion input HTTP 403: https://www.jneurosci.org/content/jneuro/39/31/6150.full.pdf
+attempt: 2026-09-28T17:48:43.536553+00:00 conversion input HTTP 403: https://www.jneurosci.org/content/jneuro/39/31/6150.full.pdf
