@@ -740,31 +740,6 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:01dcb1a0c9e5a15559381bf8d19625d7a3f84b91:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2078-2489/12/7/265/pdf?version=1625208397'
-    occurred_at: '2026-09-28T02:44:53.108834Z'
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2078-2489/12/7/265/pdf?version=1625208397'
-    occurred_at: '2026-09-28T05:45:31.029535Z'
-  semantic_scholar:09a7da5c87ab136e4d87080590568425fea814cb:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T03:17:09.675020Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T05:45:31.029535Z'
-  semantic_scholar:09cb2f52b8aedd2d0e60067f9013eb5aef74431f:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T03:17:09.675020Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T05:45:31.029535Z'
-  semantic_scholar:09d3954ef92f79dc9264b2ff3fa7760d396f8bbf:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13967'
-    occurred_at: '2026-09-28T03:17:09.675020Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13967'
-    occurred_at: '2026-09-28T06:45:36.733824Z'
-  semantic_scholar:0b85dc50da332754cfce54e9da8b970d9d5a6695:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/1999-4907/13/2/264/pdf?version=1644458178'
-    occurred_at: '2026-09-28T03:17:09.675020Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T06:45:36.733824Z'
   semantic_scholar:0fba4b7c6e6b5c33acc44c77ca578681df96bbc1:
   - error: 'conversion input HTTP 403: https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/16/e3sconf_agritech-ix2023_07006.pdf'
     occurred_at: '2026-09-28T03:17:09.675020Z'
