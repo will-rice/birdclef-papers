@@ -760,6 +760,34 @@ failures:
   semantic_scholar:06a970c9163685b74326eec7aca7955d4c8eabf6:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14239'
     occurred_at: '2026-09-27T19:32:04.970817Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14239'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
   semantic_scholar:0744287d7b7ea6078c03423256bf1440623e8108:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.310'
     occurred_at: '2026-09-27T19:32:04.970817Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.310'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
+  semantic_scholar:09a7da5c87ab136e4d87080590568425fea814cb:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
+  semantic_scholar:09cb2f52b8aedd2d0e60067f9013eb5aef74431f:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
+  semantic_scholar:09d3954ef92f79dc9264b2ff3fa7760d396f8bbf:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13967'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
+  semantic_scholar:0b85dc50da332754cfce54e9da8b970d9d5a6695:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1999-4907/13/2/264/pdf?version=1644458178'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
+  semantic_scholar:0fba4b7c6e6b5c33acc44c77ca578681df96bbc1:
+  - error: 'conversion input HTTP 403: https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/16/e3sconf_agritech-ix2023_07006.pdf'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
+  semantic_scholar:104e717ab091038bc6d6f3bb431a992c57f9a835:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wsb.1492'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
+  semantic_scholar:10efec04d8e05e2df68147e929cc8b098b997042:
+  - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/journal/01678655?generatepdf=true'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
+  semantic_scholar:14bb1ff9b4a0c1fc9895e3e9b9472984b2f7c1f5:
+  - error: 'conversion input HTTP 403: https://www.cell.com/article/S0960982217312538/pdf'
+    occurred_at: '2026-09-28T03:17:09.675020Z'
