@@ -740,14 +740,11 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:48a7a6f1a6b0b5b203bc21825b76ebe7909e1e47:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T15:47:53.962701Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T17:48:43.536553Z'
   semantic_scholar:5534aab27346d46c74d8a85c6a3aa8034a484a94:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-28T17:48:43.536553Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T20:49:38.193001Z'
   semantic_scholar:646ae738ce4e2022e73c78e0278e37b0eaeff7d3:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14003'
     occurred_at: '2026-09-28T14:12:57.364425Z'
