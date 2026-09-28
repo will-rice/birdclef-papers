@@ -1,0 +1,5 @@
+paper: semantic_scholar:06526f65b43263744eb3a5a2dcb27585405c5f9c
+latest_error: conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/09524622.2023.2290718?download=true
+attempt: 2026-09-27T19:32:04.970817+00:00 conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/09524622.2023.2290718?download=true
+attempt: 2026-09-28T02:44:53.108834+00:00 conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/09524622.2023.2290718?download=true
+attempt: 2026-09-28T05:45:31.029535+00:00 conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/09524622.2023.2290718?download=true

@@ -1,0 +1,5 @@
+paper: semantic_scholar:0744287d7b7ea6078c03423256bf1440623e8108
+latest_error: conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.310
+attempt: 2026-09-27T19:32:04.970817+00:00 conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.310
+attempt: 2026-09-28T03:17:09.675020+00:00 conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.310
+attempt: 2026-09-28T05:45:31.029535+00:00 conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.310

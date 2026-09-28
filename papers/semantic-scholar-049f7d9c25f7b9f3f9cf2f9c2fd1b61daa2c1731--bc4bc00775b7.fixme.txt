@@ -1,0 +1,5 @@
+paper: semantic_scholar:049f7d9c25f7b9f3f9cf2f9c2fd1b61daa2c1731
+latest_error: conversion input network failure: https://eprints.qut.edu.au/220971/1/Using multi-label classification for acoustic pattern detection and assisting bird species surveys.pdf
+attempt: 2026-09-27T19:32:04.970817+00:00 conversion input network failure: https://eprints.qut.edu.au/220971/1/Using multi-label classification for acoustic pattern detection and assisting bird species surveys.pdf
+attempt: 2026-09-28T02:44:53.108834+00:00 conversion input network failure: https://eprints.qut.edu.au/220971/1/Using multi-label classification for acoustic pattern detection and assisting bird species surveys.pdf
+attempt: 2026-09-28T05:45:31.029535+00:00 conversion input network failure: https://eprints.qut.edu.au/220971/1/Using multi-label classification for acoustic pattern detection and assisting bird species surveys.pdf
