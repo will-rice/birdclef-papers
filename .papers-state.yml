@@ -740,29 +740,11 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:1d816cae032b71368f64d4100acd411b0b91c59b:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T06:45:36.733824Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T09:46:23.157070Z'
-  semantic_scholar:28380683e23370a65ea93db3704bfdde47fcfa94:
-  - error: 'conversion input HTTP 403: https://smujo.id/biodiv/article/download/6/6'
-    occurred_at: '2026-09-28T08:22:24.820435Z'
-  - error: 'conversion input HTTP 403: https://smujo.id/biodiv/article/download/6/6'
-    occurred_at: '2026-09-28T11:44:22.410089Z'
   semantic_scholar:2b5937816c70d190f700ed69833fa1c42c2f1edc:
   - error: 'conversion input HTTP 418: https://ieeexplore.ieee.org/ielx7/6287639/6514899/10354312.pdf'
     occurred_at: '2026-09-28T11:44:22.410089Z'
-  semantic_scholar:2d8f3f9267a5d9e3d7eff7200dc5876da558ae55:
-  - error: 'conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/03079457.2019.1607966?needAccess=true&role=button'
-    occurred_at: '2026-09-28T08:22:24.820435Z'
-  - error: 'conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/03079457.2019.1607966?needAccess=true&role=button'
-    occurred_at: '2026-09-28T11:44:22.410089Z'
-  semantic_scholar:2e2a4853737a331f92045f211a0f5ab173842023:
-  - error: 'conversion input HTTP 403: https://smujo.id/biodiv/article/download/5809/3935'
-    occurred_at: '2026-09-28T08:22:24.820435Z'
-  - error: 'conversion input HTTP 403: https://smujo.id/biodiv/article/download/5809/3935'
-    occurred_at: '2026-09-28T11:44:22.410089Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T11:47:08.811055Z'
   semantic_scholar:348e71c5fd4c9c7845cedf8dfe2f551a9e944f3c:
   - error: "conversion input network failure: https://repository.bilkent.edu.tr/bitstream/11693/37054/1/Understanding\
       \ the indoor soundscape in public transport spaces A case study in Akk\xC3\xB6\
