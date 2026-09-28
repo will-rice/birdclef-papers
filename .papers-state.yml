@@ -758,21 +758,42 @@ failures:
   semantic_scholar:09d3954ef92f79dc9264b2ff3fa7760d396f8bbf:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13967'
     occurred_at: '2026-09-28T03:17:09.675020Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13967'
+    occurred_at: '2026-09-28T06:45:36.733824Z'
   semantic_scholar:0b85dc50da332754cfce54e9da8b970d9d5a6695:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/1999-4907/13/2/264/pdf?version=1644458178'
     occurred_at: '2026-09-28T03:17:09.675020Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T06:45:36.733824Z'
   semantic_scholar:0fba4b7c6e6b5c33acc44c77ca578681df96bbc1:
   - error: 'conversion input HTTP 403: https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/16/e3sconf_agritech-ix2023_07006.pdf'
     occurred_at: '2026-09-28T03:17:09.675020Z'
+  - error: 'conversion input HTTP 403: https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/16/e3sconf_agritech-ix2023_07006.pdf'
+    occurred_at: '2026-09-28T06:45:36.733824Z'
   semantic_scholar:104e717ab091038bc6d6f3bb431a992c57f9a835:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wsb.1492'
     occurred_at: '2026-09-28T03:17:09.675020Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wsb.1492'
+    occurred_at: '2026-09-28T06:45:36.733824Z'
   semantic_scholar:10efec04d8e05e2df68147e929cc8b098b997042:
   - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/journal/01678655?generatepdf=true'
     occurred_at: '2026-09-28T03:17:09.675020Z'
+  - error: 'conversion input HTTP 403: https://www.sciencedirect.com/science/journal/01678655?generatepdf=true'
+    occurred_at: '2026-09-28T06:45:36.733824Z'
   semantic_scholar:14bb1ff9b4a0c1fc9895e3e9b9472984b2f7c1f5:
   - error: 'conversion input HTTP 403: https://www.cell.com/article/S0960982217312538/pdf'
     occurred_at: '2026-09-28T03:17:09.675020Z'
+  - error: 'conversion input HTTP 403: https://www.cell.com/article/S0960982217312538/pdf'
+    occurred_at: '2026-09-28T06:45:36.733824Z'
+  semantic_scholar:16e6d616a8d6d803bfbf656cccc360e6aae3e61a:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/10/8/1406/pdf?version=1597312756'
+    occurred_at: '2026-09-28T06:45:36.733824Z'
+  semantic_scholar:1d5f5e56b1505c26ba5176380c0d2bdcfa6a6a6a:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/19/8099/pdf?version=1695803812'
+    occurred_at: '2026-09-28T06:45:36.733824Z'
+  semantic_scholar:1d816cae032b71368f64d4100acd411b0b91c59b:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T06:45:36.733824Z'
   semantic_scholar:1ffbfb838d5e2d38ea110a99d781687853f03f77:
   - error: 'conversion input is not a PDF: https://ijsrem.com/download/birds-breed-classification-system-using-cnn/?wpdmdl=22697&refresh=64f7bb8284ecf1693956994'
     occurred_at: '2026-09-28T05:33:53.393939Z'
