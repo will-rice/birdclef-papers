@@ -745,45 +745,51 @@ failures:
     occurred_at: '2026-09-28T17:48:43.536553Z'
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-28T20:49:38.193001Z'
-  semantic_scholar:646ae738ce4e2022e73c78e0278e37b0eaeff7d3:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14003'
-    occurred_at: '2026-09-28T14:12:57.364425Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14003'
-    occurred_at: '2026-09-28T17:48:43.536553Z'
-  semantic_scholar:6651ad48001380ea41c7bea2ce3e87d0da0de330:
-  - error: 'conversion input HTTP 403: https://research.rug.nl/files/212425658/science.abg1780.pdf'
-    occurred_at: '2026-09-28T14:12:57.364425Z'
-  - error: 'conversion input HTTP 403: https://research.rug.nl/files/212425658/science.abg1780.pdf'
-    occurred_at: '2026-09-28T17:48:43.536553Z'
-  semantic_scholar:68012be3c178afa197a404ad0ea9a6772788d91d:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/13/4/687/pdf?version=1676525860'
-    occurred_at: '2026-09-28T14:12:57.364425Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T19:01:28.957047Z'
+  semantic_scholar:6ac1001b94c12386646bc8227cd541ef1469bd68:
+  - error: 'conversion input HTTP 500: https://agritrop.cirad.fr:443/598384/1/Lifeclef2019.pdf'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
   semantic_scholar:6b6074794b2ba97d5a527a5f19cd99ca5273f9e5:
   - error: 'conversion input HTTP 403: https://pubs.aip.org/asa/jasa/article-pdf/154/1/245/18084056/245_1_10.0020153.pdf'
     occurred_at: '2026-09-28T19:01:28.957047Z'
+  - error: 'conversion input HTTP 403: https://pubs.aip.org/asa/jasa/article-pdf/154/1/245/18084056/245_1_10.0020153.pdf'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
   semantic_scholar:6db497e7e0788b25c089cf6a37d602c949a43a94:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.6216'
     occurred_at: '2026-09-28T19:01:28.957047Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.6216'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
   semantic_scholar:6ffefeece4980617e8589eefe309489be7b7c00a:
   - error: 'conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/files/65879/65879.pdf'
     occurred_at: '2026-09-28T19:01:28.957047Z'
+  - error: 'conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/files/65879/65879.pdf'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
   semantic_scholar:73373bb84e341b34bf2c03243cecf7fdd3f1b4b6:
   - error: 'conversion input HTTP 403: https://www.scielo.br/j/aa/a/jGgnGYJMWGv595QYc94ZgzG/?lang=en&format=pdf'
     occurred_at: '2026-09-28T19:01:28.957047Z'
+  - error: 'conversion input HTTP 403: https://www.scielo.br/j/aa/a/jGgnGYJMWGv595QYc94ZgzG/?lang=en&format=pdf'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
   semantic_scholar:7493bd3906c6a89f30e93d08dbaceb8a678a442e:
   - error: 'conversion input HTTP 404: https://conference.scipy.org/proceedings/scipy2016/pdfs/david_nicholson.pdf'
     occurred_at: '2026-09-28T19:01:28.957047Z'
+  - error: 'conversion input HTTP 404: https://conference.scipy.org/proceedings/scipy2016/pdfs/david_nicholson.pdf'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
   semantic_scholar:791a26caecd8449757e9343707c21440afab8926:
   - error: 'conversion input HTTP 403: https://journals.sagepub.com/doi/pdf/10.1177/19400829211058295'
     occurred_at: '2026-09-28T19:01:28.957047Z'
+  - error: 'conversion input HTTP 403: https://journals.sagepub.com/doi/pdf/10.1177/19400829211058295'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
   semantic_scholar:7fd55ca24ef850b79d79b3d57123055a3772fff6:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14234'
     occurred_at: '2026-09-28T19:01:28.957047Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14234'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
   semantic_scholar:8143a28687c714a05c78573ea966208e6df54b58:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-28T19:01:28.957047Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
   semantic_scholar:83007ddc3001429b5795d204230e07bbe034fff6:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.164'
     occurred_at: '2026-09-28T19:01:28.957047Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.164'
+    occurred_at: '2026-09-28T21:49:39.965272Z'
