@@ -1,0 +1,5 @@
+paper: semantic_scholar:3522c3940f1e6e3c59e24801e226445c534c6972
+latest_error: conversion input HTTP 403: https://escholarship.org/uc/item/4sp7h53r
+attempt: 2026-09-28T11:44:22.410089+00:00 conversion input HTTP 403: https://escholarship.org/uc/item/4sp7h53r
+attempt: 2026-09-28T13:32:20.418681+00:00 conversion input HTTP 403: https://escholarship.org/uc/item/4sp7h53r
+attempt: 2026-09-28T14:47:51.305945+00:00 conversion input HTTP 403: https://escholarship.org/uc/item/4sp7h53r

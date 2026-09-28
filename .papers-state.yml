@@ -740,42 +740,26 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:2b5937816c70d190f700ed69833fa1c42c2f1edc:
-  - error: 'conversion input HTTP 418: https://ieeexplore.ieee.org/ielx7/6287639/6514899/10354312.pdf'
-    occurred_at: '2026-09-28T11:44:22.410089Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-28T11:47:08.811055Z'
-  semantic_scholar:348e71c5fd4c9c7845cedf8dfe2f551a9e944f3c:
-  - error: "conversion input network failure: https://repository.bilkent.edu.tr/bitstream/11693/37054/1/Understanding\
-      \ the indoor soundscape in public transport spaces A case study in Akk\xC3\xB6\
-      pr\xC3\xBC metro station, Ankara.pdf"
-    occurred_at: '2026-09-28T11:44:22.410089Z'
-  - error: "conversion input network failure: https://repository.bilkent.edu.tr/bitstream/11693/37054/1/Understanding\
-      \ the indoor soundscape in public transport spaces A case study in Akk\xC3\xB6\
-      pr\xC3\xBC metro station, Ankara.pdf"
-    occurred_at: '2026-09-28T13:32:20.418681Z'
-  semantic_scholar:3522c3940f1e6e3c59e24801e226445c534c6972:
-  - error: 'conversion input HTTP 403: https://escholarship.org/uc/item/4sp7h53r'
-    occurred_at: '2026-09-28T11:44:22.410089Z'
-  - error: 'conversion input HTTP 403: https://escholarship.org/uc/item/4sp7h53r'
-    occurred_at: '2026-09-28T13:32:20.418681Z'
-  semantic_scholar:36cdbba92357e23115c70a5cdaa74a4b2e3387cc:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/btp.13330'
-    occurred_at: '2026-09-28T11:44:22.410089Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/btp.13330'
-    occurred_at: '2026-09-28T13:32:20.418681Z'
   semantic_scholar:395a5e2b59b3f90d16fa32298e31ed3705299084:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.12944'
     occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.12944'
+    occurred_at: '2026-09-28T14:47:51.305945Z'
   semantic_scholar:39be9c8d7f57338586af98eaec7def838552315f:
   - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8518090'
     occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8518090'
+    occurred_at: '2026-09-28T14:47:51.305945Z'
   semantic_scholar:3a261f58875de5325131a3f90f4af420c32f8f08:
   - error: 'conversion input HTTP 403: https://europepmc.org/articles/pmc5906206?pdf=render'
     occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion input HTTP 403: https://europepmc.org/articles/pmc5906206?pdf=render'
+    occurred_at: '2026-09-28T14:47:51.305945Z'
   semantic_scholar:3b372bf2fb52816afaae223ab57e34ad6e2ba8cd:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-3417/10/23/8578/pdf?version=1606738550'
     occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T14:47:51.305945Z'
   semantic_scholar:3bf3415de406e13763d42bcdbd6a8c0c8be2b1c0:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/6721.pdf'
     occurred_at: '2026-09-28T13:32:20.418681Z'
