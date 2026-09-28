@@ -797,12 +797,29 @@ failures:
   semantic_scholar:1ffbfb838d5e2d38ea110a99d781687853f03f77:
   - error: 'conversion input is not a PDF: https://ijsrem.com/download/birds-breed-classification-system-using-cnn/?wpdmdl=22697&refresh=64f7bb8284ecf1693956994'
     occurred_at: '2026-09-28T05:33:53.393939Z'
+  - error: 'conversion input is not a PDF: https://ijsrem.com/download/birds-breed-classification-system-using-cnn/?wpdmdl=22697&refresh=64f7bb8284ecf1693956994'
+    occurred_at: '2026-09-28T08:22:24.820435Z'
   semantic_scholar:227c1854e48dca817a727f0ae8112b825f02ad61:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ell2.12160'
     occurred_at: '2026-09-28T05:33:53.393939Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ell2.12160'
+    occurred_at: '2026-09-28T08:22:24.820435Z'
   semantic_scholar:23525d147aaa8f8bb7b27877fa5982acfc783481:
   - error: 'conversion input HTTP 400: https://mdsoar.org/bitstreams/316df922-32be-4b42-8043-2631e9e885cf/download'
     occurred_at: '2026-09-28T05:33:53.393939Z'
+  - error: 'conversion input HTTP 400: https://mdsoar.org/bitstreams/316df922-32be-4b42-8043-2631e9e885cf/download'
+    occurred_at: '2026-09-28T08:22:24.820435Z'
   semantic_scholar:25a124d7e1fb31d1ef44be99f859a05eb3e197d2:
   - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9022445'
     occurred_at: '2026-09-28T05:33:53.393939Z'
+  - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9022445'
+    occurred_at: '2026-09-28T08:22:24.820435Z'
+  semantic_scholar:28380683e23370a65ea93db3704bfdde47fcfa94:
+  - error: 'conversion input HTTP 403: https://smujo.id/biodiv/article/download/6/6'
+    occurred_at: '2026-09-28T08:22:24.820435Z'
+  semantic_scholar:2d8f3f9267a5d9e3d7eff7200dc5876da558ae55:
+  - error: 'conversion input HTTP 403: https://www.tandfonline.com/doi/pdf/10.1080/03079457.2019.1607966?needAccess=true&role=button'
+    occurred_at: '2026-09-28T08:22:24.820435Z'
+  semantic_scholar:2e2a4853737a331f92045f211a0f5ab173842023:
+  - error: 'conversion input HTTP 403: https://smujo.id/biodiv/article/download/5809/3935'
+    occurred_at: '2026-09-28T08:22:24.820435Z'
