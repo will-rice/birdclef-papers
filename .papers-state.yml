@@ -763,36 +763,56 @@ failures:
   semantic_scholar:3bf3415de406e13763d42bcdbd6a8c0c8be2b1c0:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/6721.pdf'
     occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/6721.pdf'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:3ddffd3050b5d421c20d8712c324323e87142a50:
   - error: 'conversion input HTTP 403: https://academic.oup.com/auk/article-pdf/134/4/894/27712614/auk0894.pdf'
     occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion input HTTP 403: https://academic.oup.com/auk/article-pdf/134/4/894/27712614/auk0894.pdf'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:3f38247f4aa6c93348e38dff237ed0016ef8d83c:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.3329'
     occurred_at: '2026-09-28T13:32:20.418681Z'
-  semantic_scholar:4265a49e6f97ce6123503e91097ad1f9ee65c56a:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/13/16/2560/pdf?version=1691501945'
-    occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.3329'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:4402d6f794cd9f68b81c8489d1e20d3420b56588:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:4464304d5901729e0f3784496c7f8ef5410c0c96:
   - error: 'conversion input HTTP 403: https://www.jneurosci.org/content/jneuro/39/31/6150.full.pdf'
     occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion input HTTP 403: https://www.jneurosci.org/content/jneuro/39/31/6150.full.pdf'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:46537cc61fda6169005b9acb93082a5972473c1b:
   - error: 'conversion input is not a PDF: http://dx.doi.org/10.4314/mcd.v18i1.6'
     occurred_at: '2026-09-28T13:32:20.418681Z'
+  - error: 'conversion input is not a PDF: http://dx.doi.org/10.4314/mcd.v18i1.6'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
+  semantic_scholar:48a7a6f1a6b0b5b203bc21825b76ebe7909e1e47:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:491170120d504dacb0d5182d0326c88e237d0b04:
   - error: 'conversion input HTTP 522: https://www.jsr.org/hs/index.php/path/article/download/4108/2016'
     occurred_at: '2026-09-28T14:12:57.364425Z'
+  - error: 'conversion input HTTP 522: https://www.jsr.org/hs/index.php/path/article/download/4108/2016'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:4a3d25caf49e5f10ff468f8d0422101ca3741262:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13092'
     occurred_at: '2026-09-28T14:12:57.364425Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13092'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:4ad47b0a4598a5160b778d257c24a9dcabf6812d:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/1999-4907/14/2/206/pdf?version=1675845476'
     occurred_at: '2026-09-28T14:12:57.364425Z'
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1999-4907/14/2/206/pdf?version=1675845476'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:4ecb711d8516fd3ad7ef5fef48d985b2e3cd92c6:
   - error: 'conversion input HTTP 403: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1603&context=animsent'
     occurred_at: '2026-09-28T14:12:57.364425Z'
+  - error: 'conversion input HTTP 403: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1603&context=animsent'
+    occurred_at: '2026-09-28T15:47:53.962701Z'
   semantic_scholar:646ae738ce4e2022e73c78e0278e37b0eaeff7d3:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14003'
     occurred_at: '2026-09-28T14:12:57.364425Z'
