@@ -1,0 +1,5 @@
+paper: semantic_scholar:3bf3415de406e13763d42bcdbd6a8c0c8be2b1c0
+latest_error: conversion input HTTP 403: https://peerj.com/articles/6721.pdf
+attempt: 2026-09-28T13:32:20.418681+00:00 conversion input HTTP 403: https://peerj.com/articles/6721.pdf
+attempt: 2026-09-28T15:47:53.962701+00:00 conversion input HTTP 403: https://peerj.com/articles/6721.pdf
+attempt: 2026-09-28T17:48:42.688778+00:00 conversion input HTTP 403: https://peerj.com/articles/6721.pdf

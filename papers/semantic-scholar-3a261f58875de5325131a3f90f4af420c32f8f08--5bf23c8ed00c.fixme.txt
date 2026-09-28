@@ -1,0 +1,5 @@
+paper: semantic_scholar:3a261f58875de5325131a3f90f4af420c32f8f08
+latest_error: conversion input HTTP 403: https://europepmc.org/articles/pmc5906206?pdf=render
+attempt: 2026-09-28T13:32:20.418681+00:00 conversion input HTTP 403: https://europepmc.org/articles/pmc5906206?pdf=render
+attempt: 2026-09-28T14:47:51.305945+00:00 conversion input HTTP 403: https://europepmc.org/articles/pmc5906206?pdf=render
+attempt: 2026-09-28T17:48:42.688778+00:00 conversion input HTTP 403: https://europepmc.org/articles/pmc5906206?pdf=render

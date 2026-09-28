@@ -1,0 +1,5 @@
+paper: semantic_scholar:3ddffd3050b5d421c20d8712c324323e87142a50
+latest_error: conversion input HTTP 403: https://academic.oup.com/auk/article-pdf/134/4/894/27712614/auk0894.pdf
+attempt: 2026-09-28T13:32:20.418681+00:00 conversion input HTTP 403: https://academic.oup.com/auk/article-pdf/134/4/894/27712614/auk0894.pdf
+attempt: 2026-09-28T15:47:53.962701+00:00 conversion input HTTP 403: https://academic.oup.com/auk/article-pdf/134/4/894/27712614/auk0894.pdf
+attempt: 2026-09-28T17:48:42.688778+00:00 conversion input HTTP 403: https://academic.oup.com/auk/article-pdf/134/4/894/27712614/auk0894.pdf
