@@ -791,3 +791,15 @@ failures:
   semantic_scholar:14bb1ff9b4a0c1fc9895e3e9b9472984b2f7c1f5:
   - error: 'conversion input HTTP 403: https://www.cell.com/article/S0960982217312538/pdf'
     occurred_at: '2026-09-28T03:17:09.675020Z'
+  semantic_scholar:1ffbfb838d5e2d38ea110a99d781687853f03f77:
+  - error: 'conversion input is not a PDF: https://ijsrem.com/download/birds-breed-classification-system-using-cnn/?wpdmdl=22697&refresh=64f7bb8284ecf1693956994'
+    occurred_at: '2026-09-28T05:33:53.393939Z'
+  semantic_scholar:227c1854e48dca817a727f0ae8112b825f02ad61:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ell2.12160'
+    occurred_at: '2026-09-28T05:33:53.393939Z'
+  semantic_scholar:23525d147aaa8f8bb7b27877fa5982acfc783481:
+  - error: 'conversion input HTTP 400: https://mdsoar.org/bitstreams/316df922-32be-4b42-8043-2631e9e885cf/download'
+    occurred_at: '2026-09-28T05:33:53.393939Z'
+  semantic_scholar:25a124d7e1fb31d1ef44be99f859a05eb3e197d2:
+  - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9022445'
+    occurred_at: '2026-09-28T05:33:53.393939Z'
