@@ -1,0 +1,5 @@
+paper: semantic_scholar:1ffbfb838d5e2d38ea110a99d781687853f03f77
+latest_error: conversion input is not a PDF: https://ijsrem.com/download/birds-breed-classification-system-using-cnn/?wpdmdl=22697&refresh=64f7bb8284ecf1693956994
+attempt: 2026-09-28T05:33:53.393939+00:00 conversion input is not a PDF: https://ijsrem.com/download/birds-breed-classification-system-using-cnn/?wpdmdl=22697&refresh=64f7bb8284ecf1693956994
+attempt: 2026-09-28T08:22:24.820435+00:00 conversion input is not a PDF: https://ijsrem.com/download/birds-breed-classification-system-using-cnn/?wpdmdl=22697&refresh=64f7bb8284ecf1693956994
+attempt: 2026-09-28T09:46:23.157070+00:00 conversion input is not a PDF: https://ijsrem.com/download/birds-breed-classification-system-using-cnn/?wpdmdl=22697&refresh=64f7bb8284ecf1693956994

@@ -1,0 +1,5 @@
+paper: semantic_scholar:23525d147aaa8f8bb7b27877fa5982acfc783481
+latest_error: conversion input HTTP 400: https://mdsoar.org/bitstreams/316df922-32be-4b42-8043-2631e9e885cf/download
+attempt: 2026-09-28T05:33:53.393939+00:00 conversion input HTTP 400: https://mdsoar.org/bitstreams/316df922-32be-4b42-8043-2631e9e885cf/download
+attempt: 2026-09-28T08:22:24.820435+00:00 conversion input HTTP 400: https://mdsoar.org/bitstreams/316df922-32be-4b42-8043-2631e9e885cf/download
+attempt: 2026-09-28T09:46:23.157070+00:00 conversion input HTTP 400: https://mdsoar.org/bitstreams/316df922-32be-4b42-8043-2631e9e885cf/download

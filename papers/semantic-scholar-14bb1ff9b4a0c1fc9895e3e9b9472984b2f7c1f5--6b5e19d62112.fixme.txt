@@ -1,0 +1,5 @@
+paper: semantic_scholar:14bb1ff9b4a0c1fc9895e3e9b9472984b2f7c1f5
+latest_error: conversion input HTTP 403: https://www.cell.com/article/S0960982217312538/pdf
+attempt: 2026-09-28T03:17:09.675020+00:00 conversion input HTTP 403: https://www.cell.com/article/S0960982217312538/pdf
+attempt: 2026-09-28T06:45:36.733824+00:00 conversion input HTTP 403: https://www.cell.com/article/S0960982217312538/pdf
+attempt: 2026-09-28T09:46:23.157070+00:00 conversion input HTTP 403: https://www.cell.com/article/S0960982217312538/pdf

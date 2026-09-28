@@ -1,0 +1,5 @@
+paper: semantic_scholar:10efec04d8e05e2df68147e929cc8b098b997042
+latest_error: conversion input HTTP 403: https://www.sciencedirect.com/science/journal/01678655?generatepdf=true
+attempt: 2026-09-28T03:17:09.675020+00:00 conversion input HTTP 403: https://www.sciencedirect.com/science/journal/01678655?generatepdf=true
+attempt: 2026-09-28T06:45:36.733824+00:00 conversion input HTTP 403: https://www.sciencedirect.com/science/journal/01678655?generatepdf=true
+attempt: 2026-09-28T09:46:23.157070+00:00 conversion input HTTP 403: https://www.sciencedirect.com/science/journal/01678655?generatepdf=true
