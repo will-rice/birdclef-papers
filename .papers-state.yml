@@ -740,75 +740,24 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:83113e962081e3b558f9fb8a6528caf3a9198eff:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-3417/13/13/7787/pdf?version=1688298264'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-3417/13/13/7787/pdf?version=1688298264'
-    occurred_at: '2026-09-29T00:20:35.668919Z'
-  semantic_scholar:875dffbd346a0b49c804f1085e8a9c2ede724956:
-  - error: 'conversion input is not a PDF: https://qmro.qmul.ac.uk/xmlui/bitstream/123456789/67750/2/Stowell%20Efficient%20Bird%20Sound%202020%20Accepted.pdf'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input is not a PDF: https://qmro.qmul.ac.uk/xmlui/bitstream/123456789/67750/2/Stowell%20Efficient%20Bird%20Sound%202020%20Accepted.pdf'
-    occurred_at: '2026-09-29T00:20:35.668919Z'
-  semantic_scholar:8978e44ffc0cf0919c8274b1a7bf35127fbbf39e:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acv.12862'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acv.12862'
-    occurred_at: '2026-09-29T00:20:35.668919Z'
-  semantic_scholar:8994fea8c21c04dcab3c225ba0aec9f0c066f10c:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.294'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.294'
-    occurred_at: '2026-09-29T00:20:35.668919Z'
-  semantic_scholar:89e7d25be5ffb8bed69b2a78db4142917942f794:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jwmg.22515'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jwmg.22515'
-    occurred_at: '2026-09-29T00:20:35.668919Z'
-  semantic_scholar:8b172d833c86b65d5981a299e02ad3f262e97471:
-  - error: 'conversion input HTTP 403: https://www.pnas.org/content/pnas/113/6/1666.full.pdf'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input HTTP 403: https://www.pnas.org/content/pnas/113/6/1666.full.pdf'
-    occurred_at: '2026-09-29T00:20:35.668919Z'
-  semantic_scholar:91bd9af6d21b12403f794dd16ec47226a6b11c17:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.12740'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.12740'
-    occurred_at: '2026-09-29T00:20:35.668919Z'
-  semantic_scholar:92501ec1c6024f39e9ebc65285d00cdf72f44331:
-  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.173'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.173'
-    occurred_at: '2026-09-29T01:18:17.456870Z'
-  semantic_scholar:964cb3a5ef1c57458f83b7d434b7b02c7edcfb57:
-  - error: 'conversion input is not a PDF: https://rua.ua.es/dspace/bitstream/10045/134745/5/Perez-Granados_2023_Ardeola_revised.pdf'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input is not a PDF: https://rua.ua.es/dspace/bitstream/10045/134745/5/Perez-Granados_2023_Ardeola_revised.pdf'
-    occurred_at: '2026-09-29T01:18:17.456870Z'
-  semantic_scholar:9794637b661401bb1e1a314054f7756a97064387:
-  - error: 'conversion input is not a PDF: https://frontiersinzoology.biomedcentral.com/track/pdf/10.1186/s12983-020-0351-8.pdf'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input is not a PDF: https://frontiersinzoology.biomedcentral.com/track/pdf/10.1186/s12983-020-0351-8.pdf'
-    occurred_at: '2026-09-29T01:18:17.456870Z'
-  semantic_scholar:9daf4a2c98a311c6e111b2692b4f61edb9225d86:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2072-4292/14/18/4565/pdf?version=1663210548'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-29T01:18:17.456870Z'
-  semantic_scholar:a118ad31058ce509d1af9a6b3f1e775d839b644b:
-  - error: 'conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/65/3/333/28873900/zoy089.pdf'
-    occurred_at: '2026-09-28T22:55:49.753955Z'
-  - error: 'conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/65/3/333/28873900/zoy089.pdf'
-    occurred_at: '2026-09-29T01:18:17.456870Z'
   semantic_scholar:a349afa52901e202d82f0b6e977694adc0ddf2ff:
   - error: 'conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/63/1/1/23990488/zow119.pdf'
     occurred_at: '2026-09-29T01:18:17.456870Z'
+  - error: 'conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/63/1/1/23990488/zow119.pdf'
+    occurred_at: '2026-09-29T03:01:17.752111Z'
+  semantic_scholar:a3b14da0f383d13cf34dfa3424d63ab819d65261:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-29T03:01:17.752111Z'
   semantic_scholar:a4a38c1dd4674316881179218b5deeec24f974e8:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-29T01:18:17.456870Z'
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/18/9/2906/pdf?version=1536115591'
+    occurred_at: '2026-09-29T03:01:17.752111Z'
   semantic_scholar:a63d1dce32e96d867e5e1c9ae555054deba31efb:
   - error: 'conversion input HTTP 403: https://www.annualreviews.org/doi/pdf/10.1146/annurev-neuro-080317-061839'
     occurred_at: '2026-09-29T01:18:17.456870Z'
+  - error: 'conversion input HTTP 403: https://www.annualreviews.org/doi/pdf/10.1146/annurev-neuro-080317-061839'
+    occurred_at: '2026-09-29T03:01:17.752111Z'
   semantic_scholar:a76dee6b718a53995125a14e092612495e67cd4c:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/18/2434/pdf?version=1663250788'
     occurred_at: '2026-09-29T01:18:17.456870Z'

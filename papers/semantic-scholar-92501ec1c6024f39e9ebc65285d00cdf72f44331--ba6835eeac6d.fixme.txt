@@ -1,0 +1,5 @@
+paper: semantic_scholar:92501ec1c6024f39e9ebc65285d00cdf72f44331
+latest_error: conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.173
+attempt: 2026-09-28T22:55:49.753955+00:00 conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.173
+attempt: 2026-09-29T01:18:17.456870+00:00 conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.173
+attempt: 2026-09-29T03:01:17.752111+00:00 conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.173

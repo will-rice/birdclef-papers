@@ -1,0 +1,5 @@
+paper: semantic_scholar:8b172d833c86b65d5981a299e02ad3f262e97471
+latest_error: conversion input HTTP 403: https://www.pnas.org/content/pnas/113/6/1666.full.pdf
+attempt: 2026-09-28T22:55:49.753955+00:00 conversion input HTTP 403: https://www.pnas.org/content/pnas/113/6/1666.full.pdf
+attempt: 2026-09-29T00:20:35.668919+00:00 conversion input HTTP 403: https://www.pnas.org/content/pnas/113/6/1666.full.pdf
+attempt: 2026-09-29T03:01:17.752111+00:00 conversion input HTTP 403: https://www.pnas.org/content/pnas/113/6/1666.full.pdf

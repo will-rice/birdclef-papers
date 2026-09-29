@@ -1,0 +1,5 @@
+paper: semantic_scholar:a118ad31058ce509d1af9a6b3f1e775d839b644b
+latest_error: conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/65/3/333/28873900/zoy089.pdf
+attempt: 2026-09-28T22:55:49.753955+00:00 conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/65/3/333/28873900/zoy089.pdf
+attempt: 2026-09-29T01:18:17.456870+00:00 conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/65/3/333/28873900/zoy089.pdf
+attempt: 2026-09-29T03:01:17.752111+00:00 conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/65/3/333/28873900/zoy089.pdf
