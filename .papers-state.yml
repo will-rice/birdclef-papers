@@ -761,12 +761,44 @@ failures:
   semantic_scholar:a76dee6b718a53995125a14e092612495e67cd4c:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/18/2434/pdf?version=1663250788'
     occurred_at: '2026-09-29T01:18:17.456870Z'
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/18/2434/pdf?version=1663250788'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
   semantic_scholar:a9232c1bc0c909c15c1c64071ec9ad5d1106fbec:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/17/6/1331/pdf?version=1496917265'
     occurred_at: '2026-09-29T01:18:17.456870Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
   semantic_scholar:a9908510c941e8498c8e9854aa159296757832c8:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13314'
     occurred_at: '2026-09-29T01:18:17.456870Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13314'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
   semantic_scholar:ab2966af9c5fbd33bb7bd2cf97013ddcbe98b615:
   - error: 'conversion input HTTP 403: https://www.cell.com/article/S0960982218307759/pdf'
     occurred_at: '2026-09-29T01:18:17.456870Z'
+  - error: 'conversion input HTTP 403: https://www.cell.com/article/S0960982218307759/pdf'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
+  semantic_scholar:acba9cdc379d4b216a8a9741a235e554cc4c7fbf:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/13/1/15/pdf?version=1671763378'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
+  semantic_scholar:add5dcad1b2fb1fa548de288b949b690ee8d87d5:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1099-4300/23/11/1507/pdf?version=1636795509'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
+  semantic_scholar:af0242f658bb8e7b7db2b456b67f25844b9ffcea:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/13/4/765/pdf?version=1676891323'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
+  semantic_scholar:b1b423eb5631dae21829d6db5e8f697481aedaa1:
+  - error: 'conversion input network failure: http://dspace5.zcu.cz/bitstream/11025/42938/1/Joly2020_Chapter_OverviewOfLifeCLEF2020ASystem-.pdf'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
+  semantic_scholar:b2c3cd173cf215f65584f716905fd31461cc48cd:
+  - error: 'conversion input HTTP 403: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/brv.12518'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
+  semantic_scholar:b56a42cace205cc44d4d43e60929d019f164c386:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
+  semantic_scholar:b732440ca13abf66409a42501c5934fa1b9d8da1:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
+  semantic_scholar:b8671ee40b457eed72934046ad6a251cdf0ca270:
+  - error: 'conversion input HTTP 403: https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/67/e3sconf_icmpc2023_01057.pdf'
+    occurred_at: '2026-09-29T03:41:56.090440Z'
