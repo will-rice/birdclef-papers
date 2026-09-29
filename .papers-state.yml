@@ -783,15 +783,46 @@ failures:
   semantic_scholar:92501ec1c6024f39e9ebc65285d00cdf72f44331:
   - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.173'
     occurred_at: '2026-09-28T22:55:49.753955Z'
+  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.173'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
   semantic_scholar:964cb3a5ef1c57458f83b7d434b7b02c7edcfb57:
   - error: 'conversion input is not a PDF: https://rua.ua.es/dspace/bitstream/10045/134745/5/Perez-Granados_2023_Ardeola_revised.pdf'
     occurred_at: '2026-09-28T22:55:49.753955Z'
+  - error: 'conversion input is not a PDF: https://rua.ua.es/dspace/bitstream/10045/134745/5/Perez-Granados_2023_Ardeola_revised.pdf'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
   semantic_scholar:9794637b661401bb1e1a314054f7756a97064387:
   - error: 'conversion input is not a PDF: https://frontiersinzoology.biomedcentral.com/track/pdf/10.1186/s12983-020-0351-8.pdf'
     occurred_at: '2026-09-28T22:55:49.753955Z'
+  - error: 'conversion input is not a PDF: https://frontiersinzoology.biomedcentral.com/track/pdf/10.1186/s12983-020-0351-8.pdf'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
   semantic_scholar:9daf4a2c98a311c6e111b2692b4f61edb9225d86:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2072-4292/14/18/4565/pdf?version=1663210548'
     occurred_at: '2026-09-28T22:55:49.753955Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
   semantic_scholar:a118ad31058ce509d1af9a6b3f1e775d839b644b:
   - error: 'conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/65/3/333/28873900/zoy089.pdf'
     occurred_at: '2026-09-28T22:55:49.753955Z'
+  - error: 'conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/65/3/333/28873900/zoy089.pdf'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
+  semantic_scholar:a349afa52901e202d82f0b6e977694adc0ddf2ff:
+  - error: 'conversion input HTTP 403: https://academic.oup.com/cz/article-pdf/63/1/1/23990488/zow119.pdf'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
+  semantic_scholar:a4a38c1dd4674316881179218b5deeec24f974e8:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
+  semantic_scholar:a63d1dce32e96d867e5e1c9ae555054deba31efb:
+  - error: 'conversion input HTTP 403: https://www.annualreviews.org/doi/pdf/10.1146/annurev-neuro-080317-061839'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
+  semantic_scholar:a76dee6b718a53995125a14e092612495e67cd4c:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/18/2434/pdf?version=1663250788'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
+  semantic_scholar:a9232c1bc0c909c15c1c64071ec9ad5d1106fbec:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/17/6/1331/pdf?version=1496917265'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
+  semantic_scholar:a9908510c941e8498c8e9854aa159296757832c8:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ibi.13314'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
+  semantic_scholar:ab2966af9c5fbd33bb7bd2cf97013ddcbe98b615:
+  - error: 'conversion input HTTP 403: https://www.cell.com/article/S0960982218307759/pdf'
+    occurred_at: '2026-09-29T01:18:17.456870Z'
