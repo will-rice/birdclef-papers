@@ -1,0 +1,5 @@
+paper: semantic_scholar:6b6074794b2ba97d5a527a5f19cd99ca5273f9e5
+latest_error: conversion input HTTP 403: https://pubs.aip.org/asa/jasa/article-pdf/154/1/245/18084056/245_1_10.0020153.pdf
+attempt: 2026-09-28T19:01:28.957047+00:00 conversion input HTTP 403: https://pubs.aip.org/asa/jasa/article-pdf/154/1/245/18084056/245_1_10.0020153.pdf
+attempt: 2026-09-28T21:49:39.965272+00:00 conversion input HTTP 403: https://pubs.aip.org/asa/jasa/article-pdf/154/1/245/18084056/245_1_10.0020153.pdf
+attempt: 2026-09-29T00:20:35.668919+00:00 conversion input HTTP 403: https://pubs.aip.org/asa/jasa/article-pdf/154/1/245/18084056/245_1_10.0020153.pdf

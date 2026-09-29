@@ -1,0 +1,5 @@
+paper: semantic_scholar:6ffefeece4980617e8589eefe309489be7b7c00a
+latest_error: conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/files/65879/65879.pdf
+attempt: 2026-09-28T19:01:28.957047+00:00 conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/files/65879/65879.pdf
+attempt: 2026-09-28T21:49:39.965272+00:00 conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/files/65879/65879.pdf
+attempt: 2026-09-29T00:20:35.668919+00:00 conversion input network failure: https://opus.bibliothek.uni-augsburg.de/opus4/files/65879/65879.pdf

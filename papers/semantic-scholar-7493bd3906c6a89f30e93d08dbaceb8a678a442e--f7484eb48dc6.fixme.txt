@@ -1,0 +1,5 @@
+paper: semantic_scholar:7493bd3906c6a89f30e93d08dbaceb8a678a442e
+latest_error: conversion input HTTP 404: https://conference.scipy.org/proceedings/scipy2016/pdfs/david_nicholson.pdf
+attempt: 2026-09-28T19:01:28.957047+00:00 conversion input HTTP 404: https://conference.scipy.org/proceedings/scipy2016/pdfs/david_nicholson.pdf
+attempt: 2026-09-28T21:49:39.965272+00:00 conversion input HTTP 404: https://conference.scipy.org/proceedings/scipy2016/pdfs/david_nicholson.pdf
+attempt: 2026-09-29T00:20:35.668919+00:00 conversion input HTTP 404: https://conference.scipy.org/proceedings/scipy2016/pdfs/david_nicholson.pdf
