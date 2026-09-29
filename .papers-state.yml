@@ -740,11 +740,6 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:6ac1001b94c12386646bc8227cd541ef1469bd68:
-  - error: 'conversion input HTTP 500: https://agritrop.cirad.fr:443/598384/1/Lifeclef2019.pdf'
-    occurred_at: '2026-09-28T21:49:39.965272Z'
-  - error: 'conversion input network failure: http://agritrop.cirad.fr/598384/1/Lifeclef2019.pdf'
-    occurred_at: '2026-09-29T00:20:35.668919Z'
   semantic_scholar:83113e962081e3b558f9fb8a6528caf3a9198eff:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-3417/13/13/7787/pdf?version=1688298264'
     occurred_at: '2026-09-28T22:55:49.753955Z'
