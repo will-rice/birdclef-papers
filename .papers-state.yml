@@ -7,6 +7,8 @@ failures:
   doi:10.1101/072546:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-27T14:00:23.420418Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-29T05:51:59.003481Z'
   doi:10.1101/2024.02.02.578722:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.02.02.578722.full.pdf'
     occurred_at: '2026-09-25T18:45:58.527791Z'
