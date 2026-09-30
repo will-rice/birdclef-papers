@@ -768,21 +768,47 @@ failures:
   semantic_scholar:e32786965fe39eaee0a1f2e2ac17229130ef97d6:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-30T10:57:59.866953Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
+  semantic_scholar:e609aacf2a471474c00faec52007959d77e16546:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/22/3209/pdf?version=1668847227'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
   semantic_scholar:e64025a09b247d07215110c557048b05d7c4bf8f:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.8446'
     occurred_at: '2026-09-30T10:57:59.866953Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.8446'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
   semantic_scholar:e6e8654c887759b91fc6173e49891866a6f5064f:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.1779'
     occurred_at: '2026-09-30T10:57:59.866953Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.1779'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
   semantic_scholar:e71fa8e541de04ded953f54b8b689e9dbdc1f208:
   - error: 'conversion input is not a PDF: https://jeb.biologists.org/content/jexbio/220/13/2345.full.pdf'
     occurred_at: '2026-09-30T10:57:59.866953Z'
+  - error: 'conversion input is not a PDF: https://jeb.biologists.org/content/jexbio/220/13/2345.full.pdf'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
   semantic_scholar:e85e6d2876fd111b9e94e3fb9c182293b081a632:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4780'
     occurred_at: '2026-09-30T10:57:59.866953Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4780'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
   semantic_scholar:e87078f47e66eef121a6341a690248955fe29333:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2079-9292/10/5/624/pdf?version=1615427415'
     occurred_at: '2026-09-30T10:57:59.866953Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
   semantic_scholar:ea1b3eb2ae8829a47e312032fc09822bc582e65d:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/csp2.13003'
     occurred_at: '2026-09-30T10:57:59.866953Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/csp2.13003'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
+  semantic_scholar:ec57e598c4f3b82cbdd2e032821daa5d363c6d1c:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2075-1680/12/2/197/pdf?version=1676356375'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
+  semantic_scholar:ed11da658c840aad0a62f4b7ba1445f117b03dcb:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
+  semantic_scholar:f273eb0329776c470245933b633679c75f3b22bf:
+  - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744577'
+    occurred_at: '2026-09-30T13:42:15.062401Z'
