@@ -1,0 +1,5 @@
+paper: semantic_scholar:b1b423eb5631dae21829d6db5e8f697481aedaa1
+latest_error: conversion input network failure: http://dspace5.zcu.cz/bitstream/11025/42938/1/Joly2020_Chapter_OverviewOfLifeCLEF2020ASystem-.pdf
+attempt: 2026-09-29T03:41:56.090440+00:00 conversion input network failure: http://dspace5.zcu.cz/bitstream/11025/42938/1/Joly2020_Chapter_OverviewOfLifeCLEF2020ASystem-.pdf
+attempt: 2026-09-29T06:22:07.867550+00:00 conversion input network failure: http://dspace5.zcu.cz/bitstream/11025/42938/1/Joly2020_Chapter_OverviewOfLifeCLEF2020ASystem-.pdf
+attempt: 2026-09-30T02:40:35.291724+00:00 conversion input network failure: http://dspace5.zcu.cz/bitstream/11025/42938/1/Joly2020_Chapter_OverviewOfLifeCLEF2020ASystem-.pdf

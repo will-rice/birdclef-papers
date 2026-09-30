@@ -1,0 +1,5 @@
+paper: semantic_scholar:b2c3cd173cf215f65584f716905fd31461cc48cd
+latest_error: conversion input HTTP 403: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/brv.12518
+attempt: 2026-09-29T03:41:56.090440+00:00 conversion input HTTP 403: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/brv.12518
+attempt: 2026-09-29T06:22:07.867550+00:00 conversion input HTTP 403: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/brv.12518
+attempt: 2026-09-30T02:40:35.291724+00:00 conversion input HTTP 403: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/brv.12518
