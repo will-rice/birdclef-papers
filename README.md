@@ -6,10 +6,11 @@ Standalone paper discovery and conversion for Papers relevant to the BirdCLEF bi
 
 # Papers
 
-The 30 most recent of 1595 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 1596 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier                                                | Title                                                                                                                                                                                                                     | Source           |
 | ------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 2026-09-25T19:08:01+00:00 | arxiv:2609.35863v1                                        | [Beyond Discrimination: Calibrated Geoprior Fusion for Bioacoustic Monitoring](papers/arxiv-2609-35863v1--977bef5524ac.md)                                                                                                | arxiv            |
 | 2026-09-24T21:03:03+00:00 | arxiv:2609.30553v1                                        | [Rank-Reliable Teacher-Guided Fitness Approximation for Expensive Evolutionary Optimization: A TinyML Architecture Search Study](papers/arxiv-2609-30553v1--f9788eeec2be.md)                                              | arxiv            |
 | 2026-08-20T00:00:00+00:00 | doi:10.64898/2026.08.17.745158                            | [Open-source tag-free monitoring of individual birds using automated weighing and deep-learning recognition](https://doi.org/10.64898/2026.08.17.745158)                                                                  | semantic_scholar |
 | 2026-08-17T00:00:00+00:00 | doi:10.64898/2026.02.04.703899                            | [The Evolutionary Structure of Acoustic Learnability: A Deep Learning Approach to Neotropical Birdsong](papers/doi-10-64898-2026-02-04-703899--125b3e22a168.md)                                                           | semantic_scholar |
@@ -39,7 +40,6 @@ The 30 most recent of 1595 papers. Every paper is listed in [papers.csv](papers.
 | 2026-05-20T00:00:00+00:00 | arxiv:2605.20853                                          | [SEABAD: A Tropical Bird Activity Detection Dataset for Passive Acoustic Monitoring](papers/arxiv-2605-20853--c65234d0e149.md)                                                                                            | arxiv            |
 | 2026-05-03T00:00:00+00:00 | doi:10.19074/1814-8654-2026-52-36-70                      | [Identification of Erroneous Locations and Restoration of Tracks Distorted as a Result of the Spoofing of Signals from Global Navigation Satellite Systems](papers/doi-10-19074-1814-8654-2026-52-36-70--2b089fe7b19d.md) | semantic_scholar |
 | 2026-05-01T00:00:00+00:00 | doi:10.1016/j.engappai.2026.114274                        | [Multi-grained detail-enhanced and patch-aware network based on bird sound recognition](papers/doi-10-1016-j-engappai-2026-114274--ce5b56236b00.md)                                                                       | semantic_scholar |
-| 2026-05-01T00:00:00+00:00 | doi:10.1016/j.ecolind.2026.114862                         | [Predicting the ecological condition of grazed Australian landscapes using satellite-derived indices, patch metrics, and passive acoustic monitoring of birds](papers/doi-10-1016-j-ecolind-2026-114862--463d5927c84b.md) | semantic_scholar |
 
 <!-- papers-index:end -->
 
