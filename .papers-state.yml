@@ -775,21 +775,38 @@ failures:
   semantic_scholar:bde4fb5aea9fcff7ffcf84a316d4ac56625b7e6c:
   - error: 'conversion input HTTP 403: https://cdnsciencepub.com/doi/pdf/10.1139/cjz-2023-0044'
     occurred_at: '2026-09-29T05:36:47.205279Z'
+  - error: 'conversion input HTTP 403: https://cdnsciencepub.com/doi/pdf/10.1139/cjz-2023-0044'
+    occurred_at: '2026-09-30T05:10:38.292641Z'
   semantic_scholar:c067972ec5fa281d414a650d39fec5f84692fc72:
   - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13101'
     occurred_at: '2026-09-29T05:36:47.205279Z'
+  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13101'
+    occurred_at: '2026-09-30T05:10:38.292641Z'
   semantic_scholar:c196be6b7ed189006ff1f64d9ea742c43671cf6e:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.373'
     occurred_at: '2026-09-29T05:36:47.205279Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rse2.373'
+    occurred_at: '2026-09-30T05:10:38.292641Z'
   semantic_scholar:c6e1adf27e3247c8b94e7310a6db1fb00048c982:
   - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13213'
     occurred_at: '2026-09-29T05:36:47.205279Z'
+  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13213'
+    occurred_at: '2026-09-30T05:10:38.292641Z'
   semantic_scholar:c822829a5711b7757e80cd484037a754da572ab2:
   - error: 'conversion input is not a PDF: http://dx.doi.org/10.32628/cseit24103127'
     occurred_at: '2026-09-29T05:36:47.205279Z'
+  - error: 'conversion input is not a PDF: http://dx.doi.org/10.32628/cseit24103127'
+    occurred_at: '2026-09-30T05:10:38.292641Z'
   semantic_scholar:cd6becfb96c23b6a4f49550ce4e6bb33d140c211:
   - error: 'conversion input HTTP 404: https://ieeexplore.ieee.org/ielx7/6287639/6514899/09854809.pdf'
     occurred_at: '2026-09-29T05:36:47.205279Z'
+  - error: 'conversion input HTTP 404: https://ieeexplore.ieee.org/ielx7/6287639/6514899/09854809.pdf'
+    occurred_at: '2026-09-30T05:10:38.292641Z'
   semantic_scholar:d4d0b96fd0d1dc0d4874e76c274106519710fb28:
   - error: 'conversion input is not a PDF: https://ijsrem.com/download/decoding-bird-species-diversity-through-image-analysis/?wpdmdl=34426&refresh=665a04d79089a1717175511'
     occurred_at: '2026-09-29T05:36:47.205279Z'
+  - error: 'conversion input is not a PDF: https://ijsrem.com/download/decoding-bird-species-diversity-through-image-analysis/?wpdmdl=34426&refresh=665a04d79089a1717175511'
+    occurred_at: '2026-09-30T05:10:38.292641Z'
+  semantic_scholar:d91ab5e11535ebd3a965188838e4e960e8a990f5:
+  - error: 'conversion input HTTP 403: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0236'
+    occurred_at: '2026-09-30T05:10:38.292641Z'
