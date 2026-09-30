@@ -742,42 +742,11 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:d299dc7dc2053052cc5cf1129210896579f99add:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T08:42:17.293785Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T11:42:59.362522Z'
-  semantic_scholar:e0be8e8dabd6eb7c759c2d03128cd3cc911e2621:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T08:42:17.293785Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T11:42:59.362522Z'
-  semantic_scholar:e24fd603b77a4fc97e556284ff4a743ec66e982a:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T06:42:41.039717Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T11:42:59.362522Z'
   semantic_scholar:e30535d2be3fa28a032868e720934af43f05ec66:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
     occurred_at: '2026-09-30T11:42:59.362522Z'
-  semantic_scholar:e31839358cbcf5fbc4f58aef28e99d6bcc0d7810:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13548'
-    occurred_at: '2026-09-30T10:57:59.866953Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13548'
-    occurred_at: '2026-09-30T11:42:59.362522Z'
-  semantic_scholar:e32786965fe39eaee0a1f2e2ac17229130ef97d6:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T10:57:59.866953Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
-  semantic_scholar:e609aacf2a471474c00faec52007959d77e16546:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/22/3209/pdf?version=1668847227'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
-  semantic_scholar:e64025a09b247d07215110c557048b05d7c4bf8f:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.8446'
-    occurred_at: '2026-09-30T10:57:59.866953Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.8446'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
+    occurred_at: '2026-09-30T14:47:50.175003Z'
   semantic_scholar:e6e8654c887759b91fc6173e49891866a6f5064f:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.1779'
     occurred_at: '2026-09-30T10:57:59.866953Z'
