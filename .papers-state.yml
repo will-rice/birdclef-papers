@@ -9,6 +9,12 @@ failures:
     occurred_at: '2026-09-30T18:52:28.285625Z'
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-30T20:50:38.072298Z'
+  dblp:conf/clef/CondeSAMB21:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T21:49:16.529227Z'
+  doi:10.1080/00063657.2024.2442777:
+  - error: 'conversion input HTTP 403: https://upcommons.upc.edu/bitstreams/a4a53253-c4fa-4fa3-9141-4fe50c6890e1/download'
+    occurred_at: '2026-09-30T21:49:16.529227Z'
   doi:10.1101/072546:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-27T14:00:23.420418Z'
