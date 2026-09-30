@@ -1,0 +1,5 @@
+paper: semantic_scholar:cd6becfb96c23b6a4f49550ce4e6bb33d140c211
+latest_error: conversion input HTTP 404: https://ieeexplore.ieee.org/ielx7/6287639/6514899/09854809.pdf
+attempt: 2026-09-29T05:36:47.205279+00:00 conversion input HTTP 404: https://ieeexplore.ieee.org/ielx7/6287639/6514899/09854809.pdf
+attempt: 2026-09-30T05:10:38.292641+00:00 conversion input HTTP 404: https://ieeexplore.ieee.org/ielx7/6287639/6514899/09854809.pdf
+attempt: 2026-09-30T06:42:41.039717+00:00 conversion input HTTP 404: https://ieeexplore.ieee.org/ielx7/6287639/6514899/09854809.pdf

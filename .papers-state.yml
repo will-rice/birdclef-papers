@@ -742,21 +742,21 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:c822829a5711b7757e80cd484037a754da572ab2:
-  - error: 'conversion input is not a PDF: http://dx.doi.org/10.32628/cseit24103127'
-    occurred_at: '2026-09-29T05:36:47.205279Z'
-  - error: 'conversion input is not a PDF: http://dx.doi.org/10.32628/cseit24103127'
-    occurred_at: '2026-09-30T05:10:38.292641Z'
-  semantic_scholar:cd6becfb96c23b6a4f49550ce4e6bb33d140c211:
-  - error: 'conversion input HTTP 404: https://ieeexplore.ieee.org/ielx7/6287639/6514899/09854809.pdf'
-    occurred_at: '2026-09-29T05:36:47.205279Z'
-  - error: 'conversion input HTTP 404: https://ieeexplore.ieee.org/ielx7/6287639/6514899/09854809.pdf'
-    occurred_at: '2026-09-30T05:10:38.292641Z'
-  semantic_scholar:d4d0b96fd0d1dc0d4874e76c274106519710fb28:
-  - error: 'conversion input is not a PDF: https://ijsrem.com/download/decoding-bird-species-diversity-through-image-analysis/?wpdmdl=34426&refresh=665a04d79089a1717175511'
-    occurred_at: '2026-09-29T05:36:47.205279Z'
-  - error: 'conversion input is not a PDF: https://ijsrem.com/download/decoding-bird-species-diversity-through-image-analysis/?wpdmdl=34426&refresh=665a04d79089a1717175511'
-    occurred_at: '2026-09-30T05:10:38.292641Z'
   semantic_scholar:d91ab5e11535ebd3a965188838e4e960e8a990f5:
   - error: 'conversion input HTTP 403: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0236'
     occurred_at: '2026-09-30T05:10:38.292641Z'
+  - error: 'conversion input HTTP 403: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0236'
+    occurred_at: '2026-09-30T06:42:41.039717Z'
+  semantic_scholar:dd2b03fa689fee94a9e52a7c5b817191aef19d30:
+  - error: 'conversion input is not a PDF: https://ijsrem.com/download/literature-survey-on-bird-call-identification-and-monitoring/?wpdmdl=27830&refresh=665960e41ef781717133540'
+    occurred_at: '2026-09-30T06:42:41.039717Z'
+  semantic_scholar:de30fce8bc77dfb18e1a70956575c7735072e4b4:
+  - error: 'conversion input network failure: https://eprints.qut.edu.au/221335/1/Classifying
+      and ranking audio clips to support bird species richness survey_accepted version.pdf'
+    occurred_at: '2026-09-30T06:42:41.039717Z'
+  semantic_scholar:df5f599646201d91c7e3922c56cbf25dfc5227cf:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T06:42:41.039717Z'
+  semantic_scholar:e24fd603b77a4fc97e556284ff4a743ec66e982a:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T06:42:41.039717Z'
