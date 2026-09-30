@@ -745,35 +745,26 @@ failures:
   semantic_scholar:d299dc7dc2053052cc5cf1129210896579f99add:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-30T08:42:17.293785Z'
-  semantic_scholar:dd2b03fa689fee94a9e52a7c5b817191aef19d30:
-  - error: 'conversion input is not a PDF: https://ijsrem.com/download/literature-survey-on-bird-call-identification-and-monitoring/?wpdmdl=27830&refresh=665960e41ef781717133540'
-    occurred_at: '2026-09-30T06:42:41.039717Z'
-  - error: 'conversion input is not a PDF: https://ijsrem.com/download/literature-survey-on-bird-call-identification-and-monitoring/?wpdmdl=27830&refresh=665960e41ef781717133540'
-    occurred_at: '2026-09-30T08:42:17.293785Z'
-  semantic_scholar:de30fce8bc77dfb18e1a70956575c7735072e4b4:
-  - error: 'conversion input network failure: https://eprints.qut.edu.au/221335/1/Classifying
-      and ranking audio clips to support bird species richness survey_accepted version.pdf'
-    occurred_at: '2026-09-30T06:42:41.039717Z'
-  - error: 'conversion input network failure: https://eprints.qut.edu.au/221335/1/Classifying
-      and ranking audio clips to support bird species richness survey_accepted version.pdf'
-    occurred_at: '2026-09-30T08:42:17.293785Z'
-  semantic_scholar:df5f599646201d91c7e3922c56cbf25dfc5227cf:
   - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T06:42:41.039717Z'
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-2818/14/10/857/pdf?version=1665464098'
-    occurred_at: '2026-09-30T08:42:17.293785Z'
-  semantic_scholar:e02b8cb5a545b10dbebe9e793e21123e64b90aba:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T08:42:17.293785Z'
+    occurred_at: '2026-09-30T11:42:59.362522Z'
   semantic_scholar:e0be8e8dabd6eb7c759c2d03128cd3cc911e2621:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-30T08:42:17.293785Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T11:42:59.362522Z'
   semantic_scholar:e24fd603b77a4fc97e556284ff4a743ec66e982a:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-30T06:42:41.039717Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T11:42:59.362522Z'
+  semantic_scholar:e30535d2be3fa28a032868e720934af43f05ec66:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
+    occurred_at: '2026-09-30T11:42:59.362522Z'
   semantic_scholar:e31839358cbcf5fbc4f58aef28e99d6bcc0d7810:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13548'
     occurred_at: '2026-09-30T10:57:59.866953Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13548'
+    occurred_at: '2026-09-30T11:42:59.362522Z'
   semantic_scholar:e32786965fe39eaee0a1f2e2ac17229130ef97d6:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-30T10:57:59.866953Z'

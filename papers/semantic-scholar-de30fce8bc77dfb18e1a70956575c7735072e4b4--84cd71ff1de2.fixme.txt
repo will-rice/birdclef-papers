@@ -1,0 +1,5 @@
+paper: semantic_scholar:de30fce8bc77dfb18e1a70956575c7735072e4b4
+latest_error: conversion input network failure: https://eprints.qut.edu.au/221335/1/Classifying and ranking audio clips to support bird species richness survey_accepted version.pdf
+attempt: 2026-09-30T06:42:41.039717+00:00 conversion input network failure: https://eprints.qut.edu.au/221335/1/Classifying and ranking audio clips to support bird species richness survey_accepted version.pdf
+attempt: 2026-09-30T08:42:17.293785+00:00 conversion input network failure: https://eprints.qut.edu.au/221335/1/Classifying and ranking audio clips to support bird species richness survey_accepted version.pdf
+attempt: 2026-09-30T11:42:59.362522+00:00 conversion input network failure: https://eprints.qut.edu.au/221335/1/Classifying and ranking audio clips to support bird species richness survey_accepted version.pdf
