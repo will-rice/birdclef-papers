@@ -742,21 +742,32 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  semantic_scholar:d91ab5e11535ebd3a965188838e4e960e8a990f5:
-  - error: 'conversion input HTTP 403: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0236'
-    occurred_at: '2026-09-30T05:10:38.292641Z'
-  - error: 'conversion input HTTP 403: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0236'
-    occurred_at: '2026-09-30T06:42:41.039717Z'
+  semantic_scholar:d299dc7dc2053052cc5cf1129210896579f99add:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T08:42:17.293785Z'
   semantic_scholar:dd2b03fa689fee94a9e52a7c5b817191aef19d30:
   - error: 'conversion input is not a PDF: https://ijsrem.com/download/literature-survey-on-bird-call-identification-and-monitoring/?wpdmdl=27830&refresh=665960e41ef781717133540'
     occurred_at: '2026-09-30T06:42:41.039717Z'
+  - error: 'conversion input is not a PDF: https://ijsrem.com/download/literature-survey-on-bird-call-identification-and-monitoring/?wpdmdl=27830&refresh=665960e41ef781717133540'
+    occurred_at: '2026-09-30T08:42:17.293785Z'
   semantic_scholar:de30fce8bc77dfb18e1a70956575c7735072e4b4:
   - error: 'conversion input network failure: https://eprints.qut.edu.au/221335/1/Classifying
       and ranking audio clips to support bird species richness survey_accepted version.pdf'
     occurred_at: '2026-09-30T06:42:41.039717Z'
+  - error: 'conversion input network failure: https://eprints.qut.edu.au/221335/1/Classifying
+      and ranking audio clips to support bird species richness survey_accepted version.pdf'
+    occurred_at: '2026-09-30T08:42:17.293785Z'
   semantic_scholar:df5f599646201d91c7e3922c56cbf25dfc5227cf:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-30T06:42:41.039717Z'
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-2818/14/10/857/pdf?version=1665464098'
+    occurred_at: '2026-09-30T08:42:17.293785Z'
+  semantic_scholar:e02b8cb5a545b10dbebe9e793e21123e64b90aba:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T08:42:17.293785Z'
+  semantic_scholar:e0be8e8dabd6eb7c759c2d03128cd3cc911e2621:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T08:42:17.293785Z'
   semantic_scholar:e24fd603b77a4fc97e556284ff4a743ec66e982a:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-30T06:42:41.039717Z'
