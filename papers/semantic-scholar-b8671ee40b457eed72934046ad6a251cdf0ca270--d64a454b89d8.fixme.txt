@@ -1,0 +1,5 @@
+paper: semantic_scholar:b8671ee40b457eed72934046ad6a251cdf0ca270
+latest_error: conversion input HTTP 403: https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/67/e3sconf_icmpc2023_01057.pdf
+attempt: 2026-09-29T03:41:56.090440+00:00 conversion input HTTP 403: https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/67/e3sconf_icmpc2023_01057.pdf
+attempt: 2026-09-30T02:40:35.291724+00:00 conversion input HTTP 403: https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/67/e3sconf_icmpc2023_01057.pdf
+attempt: 2026-09-30T05:41:28.195199+00:00 conversion input HTTP 403: https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/67/e3sconf_icmpc2023_01057.pdf
