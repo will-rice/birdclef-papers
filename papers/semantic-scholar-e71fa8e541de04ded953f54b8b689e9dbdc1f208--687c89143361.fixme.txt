@@ -1,0 +1,5 @@
+paper: semantic_scholar:e71fa8e541de04ded953f54b8b689e9dbdc1f208
+latest_error: conversion input is not a PDF: https://jeb.biologists.org/content/jexbio/220/13/2345.full.pdf
+attempt: 2026-09-30T10:57:59.866953+00:00 conversion input is not a PDF: https://jeb.biologists.org/content/jexbio/220/13/2345.full.pdf
+attempt: 2026-09-30T13:42:15.062401+00:00 conversion input is not a PDF: https://jeb.biologists.org/content/jexbio/220/13/2345.full.pdf
+attempt: 2026-09-30T17:05:42.204138+00:00 conversion input is not a PDF: https://jeb.biologists.org/content/jexbio/220/13/2345.full.pdf

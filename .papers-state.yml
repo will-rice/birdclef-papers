@@ -747,37 +747,22 @@ failures:
     occurred_at: '2026-09-30T11:42:59.362522Z'
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
     occurred_at: '2026-09-30T14:47:50.175003Z'
-  semantic_scholar:e6e8654c887759b91fc6173e49891866a6f5064f:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.1779'
-    occurred_at: '2026-09-30T10:57:59.866953Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.1779'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
-  semantic_scholar:e71fa8e541de04ded953f54b8b689e9dbdc1f208:
-  - error: 'conversion input is not a PDF: https://jeb.biologists.org/content/jexbio/220/13/2345.full.pdf'
-    occurred_at: '2026-09-30T10:57:59.866953Z'
-  - error: 'conversion input is not a PDF: https://jeb.biologists.org/content/jexbio/220/13/2345.full.pdf'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
-  semantic_scholar:e85e6d2876fd111b9e94e3fb9c182293b081a632:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4780'
-    occurred_at: '2026-09-30T10:57:59.866953Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4780'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
-  semantic_scholar:e87078f47e66eef121a6341a690248955fe29333:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2079-9292/10/5/624/pdf?version=1615427415'
-    occurred_at: '2026-09-30T10:57:59.866953Z'
+  semantic_scholar:eb469b2b07c73064410c56ed96bbe49ff650fed2:
+  - error: 'conversion input network failure: http://agritrop.cirad.fr/598382/1/LifeCLEF_ECIR2019.pdf'
+    occurred_at: '2026-09-30T17:05:42.204138Z'
+  semantic_scholar:ec1444c23f4e27e09ec3e10a041e89e6360cd7ef:
   - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
-  semantic_scholar:ea1b3eb2ae8829a47e312032fc09822bc582e65d:
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/csp2.13003'
-    occurred_at: '2026-09-30T10:57:59.866953Z'
-  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/csp2.13003'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
+    occurred_at: '2026-09-30T17:05:42.204138Z'
   semantic_scholar:ec57e598c4f3b82cbdd2e032821daa5d363c6d1c:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2075-1680/12/2/197/pdf?version=1676356375'
     occurred_at: '2026-09-30T13:42:15.062401Z'
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2075-1680/12/2/197/pdf?version=1676356375'
+    occurred_at: '2026-09-30T17:05:42.204138Z'
   semantic_scholar:ed11da658c840aad0a62f4b7ba1445f117b03dcb:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991'
     occurred_at: '2026-09-30T13:42:15.062401Z'
   semantic_scholar:f273eb0329776c470245933b633679c75f3b22bf:
   - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744577'
     occurred_at: '2026-09-30T13:42:15.062401Z'
+  - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744577'
+    occurred_at: '2026-09-30T17:05:42.204138Z'

@@ -1,0 +1,5 @@
+paper: semantic_scholar:e6e8654c887759b91fc6173e49891866a6f5064f
+latest_error: conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.1779
+attempt: 2026-09-30T10:57:59.866953+00:00 conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.1779
+attempt: 2026-09-30T13:42:15.062401+00:00 conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.1779
+attempt: 2026-09-30T17:05:42.204138+00:00 conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fee.1779
