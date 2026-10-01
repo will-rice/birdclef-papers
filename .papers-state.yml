@@ -748,6 +748,12 @@ failures:
   semantic_scholar:39cdfa649c218d841c15823a66ef0d5109039d3b:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2079-7737/12/9/1191/pdf?version=1693477758'
     occurred_at: '2026-10-01T07:21:37.239363Z'
+  semantic_scholar:73373bb84e341b34bf2c03243cecf7fdd3f1b4b6:
+  - error: 'conversion input HTTP 403: https://www.scielo.br/j/aa/a/jGgnGYJMWGv595QYc94ZgzG/?lang=en&format=pdf'
+    occurred_at: '2026-10-01T08:38:30.680421Z'
+  semantic_scholar:850b11dceb5cb390f8a64844fc8e94304e1f2e51:
+  - error: 'conversion input HTTP 418: https://ieeexplore.ieee.org/ielx7/6287639/6514899/10376148.pdf'
+    occurred_at: '2026-10-01T08:38:30.680421Z'
   semantic_scholar:e30535d2be3fa28a032868e720934af43f05ec66:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
     occurred_at: '2026-09-30T11:42:59.362522Z'
