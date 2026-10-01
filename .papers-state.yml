@@ -756,45 +756,85 @@ failures:
   doi:10.3390/birds6010011:
   - error: 'conversion input is not a PDF: https://doi.org/10.3390/birds6010011'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.3390/birds6010011'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.3390/electronics13193964:
   - error: 'conversion input is not a PDF: https://doi.org/10.3390/electronics13193964'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.3390/electronics13193964'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.3390/make6040115:
   - error: 'conversion input is not a PDF: https://doi.org/10.3390/make6040115'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.3390/make6040115'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.5194/egusphere-egu21-12157:
   - error: 'conversion input is not a PDF: https://doi.org/10.5194/egusphere-egu21-12157'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.5194/egusphere-egu21-12157'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.5604/01.3001.0010.7995:
   - error: 'conversion input is not a PDF: https://doi.org/10.5604/01.3001.0010.7995'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.5604/01.3001.0010.7995'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.64898/2026.07.31.742086:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/lookup/doi/10.64898/2026.07.31.742086'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.64898/2026.07.31.742086'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.64898/2026.08.14.744822:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/lookup/doi/10.64898/2026.08.14.744822'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.64898/2026.08.14.744822'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.64898/2026.08.17.745158:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/lookup/doi/10.64898/2026.08.17.745158'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.64898/2026.08.17.745158'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.7717/peerj-cs.1186:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/cs-1186'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/cs-1186'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.7717/peerj.10197:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/10197'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/10197'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.7717/peerj.10565:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/10565'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/10565'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.7717/peerj.11837:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/11837'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/11837'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.7717/peerj.16462:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/16462'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/16462'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
+  doi:10.7717/peerj.8407:
+  - error: 'conversion input HTTP 403: https://peerj.com/articles/8407'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
+  semantic_scholar:0539e92abe343d492d148170abba215720da8f37:
+  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14103'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
+  semantic_scholar:0aa6a133b327ee820203779b3743783015122cbe:
+  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14333'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
+  semantic_scholar:11886007949cf045413fa280d1c3119cf04e5ea3:
+  - error: 'conversion input is not a PDF: https://doi.org/10.12688/f1000research.26369.3'
+    occurred_at: '2026-10-01T12:32:27.979912Z'
   semantic_scholar:2ff8e057e2e9c34d57a9091332e9e7292acdd39b:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-10-01T05:52:59.934752Z'
