@@ -916,27 +916,12 @@ failures:
   semantic_scholar:e298d95241b8d12403491d525c957be1a0020b9c:
   - error: 'conversion input is not a PDF: https://doi.org/10.51492/cfwj.110.14'
     occurred_at: '2026-10-01T14:10:07.587671Z'
-  semantic_scholar:e30535d2be3fa28a032868e720934af43f05ec66:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
-    occurred_at: '2026-09-30T11:42:59.362522Z'
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
-    occurred_at: '2026-09-30T14:47:50.175003Z'
-  semantic_scholar:eb469b2b07c73064410c56ed96bbe49ff650fed2:
-  - error: 'conversion input network failure: http://agritrop.cirad.fr/598382/1/LifeCLEF_ECIR2019.pdf'
-    occurred_at: '2026-09-30T17:05:42.204138Z'
+  semantic_scholar:e609aacf2a471474c00faec52007959d77e16546:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/22/3209/pdf?version=1668847227'
+    occurred_at: '2026-10-01T16:42:31.326393Z'
   semantic_scholar:ec1444c23f4e27e09ec3e10a041e89e6360cd7ef:
   - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T17:05:42.204138Z'
-  semantic_scholar:ec57e598c4f3b82cbdd2e032821daa5d363c6d1c:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2075-1680/12/2/197/pdf?version=1676356375'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2075-1680/12/2/197/pdf?version=1676356375'
     occurred_at: '2026-09-30T17:05:42.204138Z'
   semantic_scholar:ed11da658c840aad0a62f4b7ba1445f117b03dcb:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991'
     occurred_at: '2026-09-30T13:42:15.062401Z'
-  semantic_scholar:f273eb0329776c470245933b633679c75f3b22bf:
-  - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744577'
-    occurred_at: '2026-09-30T13:42:15.062401Z'
-  - error: 'conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744577'
-    occurred_at: '2026-09-30T17:05:42.204138Z'
