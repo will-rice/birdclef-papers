@@ -919,9 +919,13 @@ failures:
   semantic_scholar:e609aacf2a471474c00faec52007959d77e16546:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/22/3209/pdf?version=1668847227'
     occurred_at: '2026-10-01T16:42:31.326393Z'
-  semantic_scholar:ec1444c23f4e27e09ec3e10a041e89e6360cd7ef:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T17:05:42.204138Z'
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/22/3209/pdf?version=1668847227'
+    occurred_at: '2026-10-01T17:57:13.806207Z'
+  semantic_scholar:eaa590ad4f88a88618dcccf2dd2eef74bd30ab13:
+  - error: 'conversion input HTTP 418: https://ieeexplore.ieee.org/ielx7/6287639/8948470/08993818.pdf'
+    occurred_at: '2026-10-01T17:57:13.806207Z'
   semantic_scholar:ed11da658c840aad0a62f4b7ba1445f117b03dcb:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991'
     occurred_at: '2026-09-30T13:42:15.062401Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-10-01T17:57:13.806207Z'
