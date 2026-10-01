@@ -835,11 +835,51 @@ failures:
   semantic_scholar:11886007949cf045413fa280d1c3119cf04e5ea3:
   - error: 'conversion input is not a PDF: https://doi.org/10.12688/f1000research.26369.3'
     occurred_at: '2026-10-01T12:32:27.979912Z'
-  semantic_scholar:2ff8e057e2e9c34d57a9091332e9e7292acdd39b:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-10-01T05:52:59.934752Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-10-01T08:53:44.679819Z'
+  semantic_scholar:17cf8168107f03aa6087db8e049099d3c591ca21:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.beproc.2018.03.018'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:1e04b2881618ec103ee50ea110015153c90d0018:
+  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.426'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:1f8b9a88aaedf7dd3ab0b67461c8d8dfaad35eef:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/frsen.2023.1283719'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:2635e9e17305433476a843276fcc59226e2e5384:
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1002/ajp.23599'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:26563c8805646f52dc45cae8ea1f772bb5ba3ad1:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.isci.2024.109056'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:2949a8a5fa234525720b4ad4f1bc16afcd5a21d5:
+  - error: 'conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/194008291600900216'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:295970ac8804b052f34300f954fb8f009277867c:
+  - error: 'conversion input HTTP 403: https://pnas.org/doi/10.1073/pnas.2315933121'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:2974104ac058c1e1b0b284ec22bc7a28b4e68afb:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3390/s24113687'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:2b2eb9cfd0e6256e824cc5e68867eba75d7ef69d:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3390/app6120443'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:2d3a640bf444ab308eb315ed465c65da730a5a36:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3897/bdj.11.e97811'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:305ecf9f0a55b313e4083d17c5a390826589f709:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.scitotenv.2023.166328'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:324bcde093f994a40b1a18fcc21fd0a187924034:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/fevo.2022.827440'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:334ccbb7617b9b186db2031d16cccd39c69e77b9:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/fbirs.2024.1369756'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:4d1e9b0c67dca025d90994218bcad4db06deed76:
+  - error: 'conversion input is not a PDF: https://doi.org/10.12688/f1000research.141951.1'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
+  semantic_scholar:52d2953f12aa20abd76a63d77ae681f1156d4283:
+  - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0297988'
+    occurred_at: '2026-10-01T12:37:51.392595Z'
   semantic_scholar:83113e962081e3b558f9fb8a6528caf3a9198eff:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-3417/13/13/7787/pdf?version=1688298264'
     occurred_at: '2026-10-01T09:32:01.717246Z'
