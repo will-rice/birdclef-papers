@@ -745,6 +745,9 @@ failures:
   semantic_scholar:2ff8e057e2e9c34d57a9091332e9e7292acdd39b:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-10-01T05:52:59.934752Z'
+  semantic_scholar:39cdfa649c218d841c15823a66ef0d5109039d3b:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2079-7737/12/9/1191/pdf?version=1693477758'
+    occurred_at: '2026-10-01T07:21:37.239363Z'
   semantic_scholar:e30535d2be3fa28a032868e720934af43f05ec66:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
     occurred_at: '2026-09-30T11:42:59.362522Z'
