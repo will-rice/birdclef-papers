@@ -4,17 +4,17 @@ backfill:
     covered_from: '1991-08-01T00:00:00Z'
 continuations: {}
 failures:
-  arxiv:2201.00124:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T18:52:28.285625Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T20:50:38.072298Z'
-  dblp:conf/clef/CondeSAMB21:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-30T21:49:16.529227Z'
   doi:10.1080/00063657.2024.2442777:
   - error: 'conversion input HTTP 403: https://upcommons.upc.edu/bitstreams/a4a53253-c4fa-4fa3-9141-4fe50c6890e1/download'
     occurred_at: '2026-09-30T21:49:16.529227Z'
+  - error: 'conversion input HTTP 403: https://upcommons.upc.edu/bitstreams/a4a53253-c4fa-4fa3-9141-4fe50c6890e1/download'
+    occurred_at: '2026-09-30T23:51:27.199325Z'
+  doi:10.1088/1742-6596/2209/1/012024:
+  - error: 'conversion input is not a PDF: https://iopscience.iop.org/article/10.1088/1742-6596/2209/1/012024/pdf'
+    occurred_at: '2026-09-30T23:51:27.199325Z'
+  doi:10.1088/1755-1315/785/1/012015:
+  - error: 'conversion input is not a PDF: https://iopscience.iop.org/article/10.1088/1755-1315/785/1/012015/pdf'
+    occurred_at: '2026-09-30T23:51:27.199325Z'
   doi:10.1101/072546:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-27T14:00:23.420418Z'
