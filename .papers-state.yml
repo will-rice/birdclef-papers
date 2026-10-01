@@ -4,11 +4,6 @@ backfill:
     covered_from: '1991-08-01T00:00:00Z'
 continuations: {}
 failures:
-  doi:10.1088/1755-1315/785/1/012015:
-  - error: 'conversion input is not a PDF: https://iopscience.iop.org/article/10.1088/1755-1315/785/1/012015/pdf'
-    occurred_at: '2026-09-30T23:51:27.199325Z'
-  - error: 'conversion input is not a PDF: https://iopscience.iop.org/article/10.1088/1755-1315/785/1/012015/pdf'
-    occurred_at: '2026-10-01T02:52:12.029981Z'
   doi:10.1101/072546:
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-09-27T14:00:23.420418Z'

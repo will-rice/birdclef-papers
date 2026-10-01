@@ -1,0 +1,5 @@
+paper: doi:10.1088/1755-1315/785/1/012015
+latest_error: conversion input is not a PDF: https://iopscience.iop.org/article/10.1088/1755-1315/785/1/012015/pdf
+attempt: 2026-09-30T23:51:27.199325+00:00 conversion input is not a PDF: https://iopscience.iop.org/article/10.1088/1755-1315/785/1/012015/pdf
+attempt: 2026-10-01T02:52:12.029981+00:00 conversion input is not a PDF: https://iopscience.iop.org/article/10.1088/1755-1315/785/1/012015/pdf
+attempt: 2026-10-01T05:52:50.502827+00:00 conversion input is not a PDF: https://iopscience.iop.org/article/10.1088/1755-1315/785/1/012015/pdf
