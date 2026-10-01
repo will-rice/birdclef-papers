@@ -892,11 +892,6 @@ failures:
   semantic_scholar:6bc81d7efefe5d787e8f4f4594ca7e83cd2fc451:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2018.07.017'
     occurred_at: '2026-10-01T13:07:53.941139Z'
-  semantic_scholar:83113e962081e3b558f9fb8a6528caf3a9198eff:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-3417/13/13/7787/pdf?version=1688298264'
-    occurred_at: '2026-10-01T09:32:01.717246Z'
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-3417/13/13/7787/pdf?version=1688298264'
-    occurred_at: '2026-10-01T13:07:53.941139Z'
   semantic_scholar:9897ce795b725db96f8e19fafeabaaab55db7819:
   - error: 'conversion input is not a PDF: https://doi.org/10.3390/drones8060259'
     occurred_at: '2026-10-01T13:07:53.941139Z'
