@@ -720,9 +720,6 @@ failures:
   doi:10.5604/01.3001.0010.7995:
   - error: 'conversion input is not a PDF: https://doi.org/10.5604/01.3001.0010.7995'
     occurred_at: '2026-09-25T21:29:53.682736Z'
-  doi:10.5753/wcama.2024.2055:
-  - error: 'conversion input network failure: https://sol.sbc.org.br/index.php/wcama/article/download/29432/29237'
-    occurred_at: '2026-10-01T02:16:50.923171Z'
   doi:10.64898/2026.07.31.742086:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/lookup/doi/10.64898/2026.07.31.742086'
     occurred_at: '2026-09-25T21:29:53.682736Z'
