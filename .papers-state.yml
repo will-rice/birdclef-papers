@@ -747,6 +747,12 @@ failures:
   doi:10.7717/peerj.17854:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/17854'
     occurred_at: '2026-09-25T21:29:53.682736Z'
+  semantic_scholar:1325cd0eb8eaa58ddf40a9ffa392fabc3d6b329b:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-2818/14/12/1043/pdf?version=1669648199'
+    occurred_at: '2026-10-01T03:40:53.036698Z'
+  semantic_scholar:158f6f2eced47997db4fb48bc920056d5e35d89a:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-10-01T03:40:53.036698Z'
   semantic_scholar:e30535d2be3fa28a032868e720934af43f05ec66:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
     occurred_at: '2026-09-30T11:42:59.362522Z'
