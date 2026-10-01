@@ -747,12 +747,9 @@ failures:
     occurred_at: '2026-10-01T05:52:59.934752Z'
   - error: 'conversion timed out after 1800s: marker_single'
     occurred_at: '2026-10-01T08:53:44.679819Z'
-  semantic_scholar:73373bb84e341b34bf2c03243cecf7fdd3f1b4b6:
-  - error: 'conversion input HTTP 403: https://www.scielo.br/j/aa/a/jGgnGYJMWGv595QYc94ZgzG/?lang=en&format=pdf'
-    occurred_at: '2026-10-01T08:38:30.680421Z'
-  semantic_scholar:850b11dceb5cb390f8a64844fc8e94304e1f2e51:
-  - error: 'conversion input HTTP 418: https://ieeexplore.ieee.org/ielx7/6287639/6514899/10376148.pdf'
-    occurred_at: '2026-10-01T08:38:30.680421Z'
+  semantic_scholar:83113e962081e3b558f9fb8a6528caf3a9198eff:
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-3417/13/13/7787/pdf?version=1688298264'
+    occurred_at: '2026-10-01T09:32:01.717246Z'
   semantic_scholar:e30535d2be3fa28a032868e720934af43f05ec66:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
     occurred_at: '2026-09-30T11:42:59.362522Z'
