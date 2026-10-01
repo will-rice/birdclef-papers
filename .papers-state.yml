@@ -929,3 +929,5 @@ failures:
   semantic_scholar:fff7046566a2a1c4a5fbacc92948d2d6b2ab7f93:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/26/15/4948/pdf?version=1785913116'
     occurred_at: '2026-10-01T19:24:37.702986Z'
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-10-01T21:21:25.491430Z'
