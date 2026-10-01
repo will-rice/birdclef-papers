@@ -909,6 +909,18 @@ failures:
   semantic_scholar:aca7ff199805245b6b45cb55d39c6bb8b1b8f3f0:
   - error: 'conversion input is not a PDF: https://doi.org/10.3389/frsen.2023.1156837'
     occurred_at: '2026-10-01T13:07:53.941139Z'
+  semantic_scholar:b5dfc01cb211416fb73810359e6e8fe5bcdaf747:
+  - error: 'conversion input is not a PDF: https://doi.org/10.3897/neotropical.14.e37655'
+    occurred_at: '2026-10-01T14:10:07.587671Z'
+  semantic_scholar:c377ef4ce49e035fa7f547120c3a40c64012a805:
+  - error: 'conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/1940082918804344'
+    occurred_at: '2026-10-01T14:10:07.587671Z'
+  semantic_scholar:dbe3163e9610f7b66be91e8d81240bf0f5550a9e:
+  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14390'
+    occurred_at: '2026-10-01T14:10:07.587671Z'
+  semantic_scholar:e298d95241b8d12403491d525c957be1a0020b9c:
+  - error: 'conversion input is not a PDF: https://doi.org/10.51492/cfwj.110.14'
+    occurred_at: '2026-10-01T14:10:07.587671Z'
   semantic_scholar:e30535d2be3fa28a032868e720934af43f05ec66:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
     occurred_at: '2026-09-30T11:42:59.362522Z'
