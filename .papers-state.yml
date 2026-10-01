@@ -671,54 +671,88 @@ failures:
   doi:10.11646/zootaxa.5209.2.4:
   - error: 'conversion input is not a PDF: http://doi.org/10.11646/zootaxa.5209.2.4'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input is not a PDF: http://doi.org/10.11646/zootaxa.5209.2.4'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.1186/s12862-024-02312-4:
   - error: 'conversion input exceeded 5 redirects: https://link.springer.com/article/10.1186/s12862-024-02312-4?error=cookies_not_supported&code=5e58528e-a24c-4226-b644-0c847263a2a2'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input exceeded 5 redirects: https://link.springer.com/article/10.1186/s12862-024-02312-4?error=cookies_not_supported&code=c9d8d819-63f4-4b77-b630-d3f0b31cbfbb'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.1371/journal.pone.0305708:
   - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0305708'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0305708'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.1371/journal.pone.0306580:
   - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0306580'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0306580'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.14746/sppgl.2017.xxvii.2.6:
   - error: 'conversion input is not a PDF: https://doi.org/10.14746/sppgl.2017.xxvii.2.6'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.14746/sppgl.2017.xxvii.2.6'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.17520/biods.2022370:
   - error: 'conversion input is not a PDF: https://doi.org/10.17520/biods.2022370'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.17520/biods.2022370'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.17762/turcomat.v12i2.813:
   - error: 'conversion input HTTP 403: https://turcomat.org/index.php/turkbilmat/article/view/813'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input HTTP 403: https://turcomat.org/index.php/turkbilmat/article/view/813'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.18653/v1/2025.acl-short.51:
   - error: 'conversion input is not a PDF: https://doi.org/10.18653/v1/2025.acl-short.51'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.18653/v1/2025.acl-short.51'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.21474/ijar01/17110:
   - error: 'conversion input is not a PDF: https://doi.org/10.21474/ijar01/17110'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.21474/ijar01/17110'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.22261/jea.pnco7i:
   - error: 'conversion input is not a PDF: https://doi.org/10.22261/jea.pnco7i'
     occurred_at: '2026-09-25T19:17:08.753178Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.22261/jea.pnco7i'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.2478/amns-2024-2521:
   - error: 'conversion input HTTP 404: https://reference-global.com/article/10.2478/amns-2024-2521'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.2478/amns-2024-2521'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.26565/2410-7360-2024-60-28:
   - error: 'conversion input is not a PDF: https://doi.org/10.26565/2410-7360-2024-60-28'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.26565/2410-7360-2024-60-28'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.31516/2410-5325.073.15:
   - error: 'conversion input is not a PDF: https://doi.org/10.31516/2410-5325.073.15'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.31516/2410-5325.073.15'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.32470/ccn.2019.1414-0:
   - error: 'conversion input HTTP 404: https://2026.ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1414'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input HTTP 404: https://2026.ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1414'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.3389/fbirs.2024.1386759:
   - error: 'conversion input is not a PDF: https://doi.org/10.3389/fbirs.2024.1386759'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/fbirs.2024.1386759'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.3389/fbirs.2024.1425463:
   - error: 'conversion input is not a PDF: https://doi.org/10.3389/fbirs.2024.1425463'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/fbirs.2024.1425463'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.3389/fpls.2024.1365275:
   - error: 'conversion input is not a PDF: https://doi.org/10.3389/fpls.2024.1365275'
     occurred_at: '2026-09-25T20:31:12.018905Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/fpls.2024.1365275'
+    occurred_at: '2026-10-01T11:55:11.422983Z'
   doi:10.3390/birds6010011:
   - error: 'conversion input is not a PDF: https://doi.org/10.3390/birds6010011'
     occurred_at: '2026-09-25T20:31:12.018905Z'
