@@ -916,18 +916,3 @@ failures:
   semantic_scholar:e298d95241b8d12403491d525c957be1a0020b9c:
   - error: 'conversion input is not a PDF: https://doi.org/10.51492/cfwj.110.14'
     occurred_at: '2026-10-01T14:10:07.587671Z'
-  semantic_scholar:eaa590ad4f88a88618dcccf2dd2eef74bd30ab13:
-  - error: 'conversion input HTTP 418: https://ieeexplore.ieee.org/ielx7/6287639/8948470/08993818.pdf'
-    occurred_at: '2026-10-01T17:57:13.806207Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-10-01T19:38:08.913234Z'
-  semantic_scholar:f3a15c5986e1734c0cb7037aa0b47b7a9b3adfc2:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/22/3117/pdf?version=1668156774'
-    occurred_at: '2026-10-01T19:24:37.702986Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-10-01T19:38:08.913234Z'
-  semantic_scholar:fff7046566a2a1c4a5fbacc92948d2d6b2ab7f93:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/26/15/4948/pdf?version=1785913116'
-    occurred_at: '2026-10-01T19:24:37.702986Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-10-01T21:21:25.491430Z'

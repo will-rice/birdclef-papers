@@ -1,0 +1,5 @@
+paper: semantic_scholar:eaa590ad4f88a88618dcccf2dd2eef74bd30ab13
+latest_error: conversion timed out after 1800s: marker_single
+attempt: 2026-10-01T17:57:13.806207+00:00 conversion input HTTP 418: https://ieeexplore.ieee.org/ielx7/6287639/8948470/08993818.pdf
+attempt: 2026-10-01T19:38:08.913234+00:00 conversion timed out after 1800s: marker_single
+attempt: 2026-10-01T21:52:40.015072+00:00 conversion timed out after 1800s: marker_single

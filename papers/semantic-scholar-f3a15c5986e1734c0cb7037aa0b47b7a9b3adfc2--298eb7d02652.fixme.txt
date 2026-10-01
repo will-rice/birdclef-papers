@@ -1,0 +1,5 @@
+paper: semantic_scholar:f3a15c5986e1734c0cb7037aa0b47b7a9b3adfc2
+latest_error: conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/22/3117/pdf?version=1668156774
+attempt: 2026-10-01T19:24:37.702986+00:00 conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/22/3117/pdf?version=1668156774
+attempt: 2026-10-01T19:38:08.913234+00:00 conversion timed out after 1800s: marker_single
+attempt: 2026-10-01T21:52:40.015072+00:00 conversion input is not a PDF: https://www.mdpi.com/2076-2615/12/22/3117/pdf?version=1668156774
