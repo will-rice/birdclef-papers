@@ -4,11 +4,6 @@ backfill:
     covered_from: '1991-08-01T00:00:00Z'
 continuations: {}
 failures:
-  doi:10.1101/072546:
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-27T14:00:23.420418Z'
-  - error: 'conversion timed out after 1800s: marker_single'
-    occurred_at: '2026-09-29T05:51:59.003481Z'
   doi:10.1101/2020.08.24.263301:
   - error: 'conversion input is not a PDF: https://doi.org/10.1101/2020.08.24.263301'
     occurred_at: '2026-10-01T11:54:58.578966Z'
