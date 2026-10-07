@@ -68,15 +68,15 @@ FIGURE 1. The architecture of an autoencoder.
 
 LSTM network is an ef�cient recurrent neural network (RNN) and uses one or multiple memory cells to replace hidden neurons of the conventional RNN [16]. The memory cell consists of a memory unit c, a hidden state h, an input gate i, a forget gate f , and an output gate o. These gates are introduced for the reading and writing to the memory unit. For the time step t, given an input xt and the hidden state of the last time step ht�1, the update of the memory cell is realized by the following formulasV
 
-<!-- formula-not-decoded -->
+$$i _ { t } = \sigma ( W _ { x i } x _ { t } + W _ { h i } h _ { t - 1 } + W _ { c i } c _ { t - 1 } + b _ { i } )$$
 
-<!-- formula-not-decoded -->
+$$f _ { t } = \sigma ( W _ { x f } x _ { t } + W _ { h f } h _ { t - 1 } + W _ { c f } c _ { t - 1 } + b _ { f } )$$
 
-<!-- formula-not-decoded -->
+$$c _ { t } = i _ { t } \cdot \tanh ( W _ { x c } x _ { t } + W _ { h c } h _ { t - 1 } + b _ { c } ) + f _ { t } \cdot c _ { t - 1 } \quad ( 3 )$$
 
-<!-- formula-not-decoded -->
+$$o _ { t } = \sigma ( W _ { x o } x _ { t } + W _ { h o } h _ { t - 1 } + W _ { c o } c _ { t } + b _ { o } )$$
 
-<!-- formula-not-decoded -->
+$$h _ { t } = o _ { t } \cdot \tanh ( c _ { t } )$$
 
 where � (x) D 1=(1Cexp(�x)) is a logistic sigmoid function; W and b are the weights and biases of the memory unit and three gates.
 
@@ -116,7 +116,7 @@ The full connect layer is used to achieve a much smaller latent space. Autoencod
 
 Huber Loss is a loss function for regression problems, its advantage is that it can enhance the robustness of the mean square error (MSE) to outliers. The Huber Loss between the input sequence and the reconstructed sequence from the latent representation is selected as the cost function, which ensures that the reconstructed sequence is well represented after the dimensionality reduction. The loss (LossHL) is calculated as follows [33]:
 
-<!-- formula-not-decoded -->
+$$L o s s _ { H L } ( y , \widehat { y } ) = \begin{cases} \frac { 1 } { 2 } ( y - \widehat { y } ) ^ { 2 } , & \text {for } \left | y - \widehat { y } \right | \leq \delta \\ \delta \cdot \left ( \left | y - \widehat { y } \right | - \frac { 1 } { 2 } \delta \right ) , & \text {otherwise} . \end{cases}$$
 
 where y is the true value, \_ y is the predicted value, � is the parameter of Huber Loss, it is a boundary used to determine whether the data point is an outlier. The data within this boundary uses MSE Loss by default, data larger than this boundary uses a linear function. This method can reduce the weight of outliers for loss and avoid over�tting the model.
 
@@ -138,11 +138,11 @@ FIGURE 5. The overview of proposed self-attention model.
 
 predicted output. Then, the whole loss (LossAE) is calculated as followV
 
-<!-- formula-not-decoded -->
+$$L o s s _ { A E } ( y , \widehat { y } ) = & L o s s _ { H L } ( y , \widehat { y } ) + \alpha \cdot L o s s _ { C D } ( \text {nor} ( y ) , \text { nor} ( \widehat { y } ) ) \ \ ( 7 ) \quad \text {repres}$$
 
 where nor() is the normalization process, � is the trade-off of two losses, LossCD(u; v) is the calculation of cosine distance between u and v, the formula is as follow [34].
 
-<!-- formula-not-decoded -->
+$$L o s s _ { C D } ( u , v ) = 1 - \frac { u \cdot v } { \| u \| _ { 2 } \, \| v \| _ { 2 } }$$
 
 ## B. INDENTIFICATION MODEL OF THE CRESTED IBIS CALL
 
@@ -150,7 +150,7 @@ An identi�cation model was designed to identify the Crested Ibis individual ba
 
 Considering the data set is unbalance, a weighted cross entropy loss function was introduced. This loss function solves the problem of unbalanced data through increasing the weight of the individual with few samples. For multi-class identi�cation, the improved cross entropy loss of the jth (j D 1,2,3. . .NB) sample in current batch belonging to the ith (i D 1,2,3. . .NC) class isV
 
-<!-- formula-not-decoded -->
+$$W C E _ { i j } = - \eta _ { i } y _ { i } \log \widehat { y } _ { i } - ( 1 - y _ { i } ) \log ( 1 - \widehat { y } _ { i } )$$
 
 where NB is the batch size, NC is the number of classes, yi represents whether the sample belongs to the ith class, its value is 1 when the sample belongs to the ith class, otherwise is 0. \_ yi denotes the prediction probability that the sample belongs to the ith class. �i is the weight of the ith class, which is determined by the following equationV
 
@@ -160,17 +160,17 @@ FIGURE 6. The overview of proposed identification model.
 
 ![Image](semantic-scholar-eaa590ad4f88a88618dcccf2dd2eef74bd30ab13--7cbfe36e4a69.figures/figure-11.webp)
 
-<!-- formula-not-decoded -->
+$$\eta _ { i } = \frac { 1 - \beta _ { i } } { \beta _ { i } } \quad \ \ ( 1 0 ) \quad \ \ \ \ t o { w } \quad \ \ \ \ \$$
 
 where �i indicates the ratio of the sample size of the ith class to the whole sample size.
 
 The improved loss (LossCE) is calculated as followV
 
-<!-- formula-not-decoded -->
+$$L o s s _ { C E } = \frac { 1 } { N _ { B } } \sum _ { j = 1 } ^ { N _ { B } } \beta _ { i j } \cdot W C E _ { i j } \quad \quad ( 1 1 ) \quad \quad \begin{matrix} o u s s _ { C E } \\ \vdots \\ \end{matrix}$$
 
 Further, a combined training mode was induced: during the training step, the trained parameters of the autoencoder are used as initial values to �netune the identi�cation model, and the optimization is executed by the minimization of the sum of two losses, one is LossAE, the other is the improved loss (LossCE). The �nal loss (LossC) is calculated as followsV
 
-<!-- formula-not-decoded -->
+$$L o s s _ { C } ( y , \widehat { y } ) = L o s s _ { A E } ( y , \widehat { y } ) + \beta \cdot L o s s _ { C E } ( y , \widehat { y } )$$
 
 where � represents the trade-off of two losses.
 
