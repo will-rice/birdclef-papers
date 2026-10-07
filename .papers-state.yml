@@ -625,11 +625,6 @@ failures:
   doi:10.1101/868356:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/868356.full.pdf'
     occurred_at: '2026-09-25T18:47:04.551495Z'
-  doi:10.5604/01.3001.0010.7995:
-  - error: 'conversion input is not a PDF: https://doi.org/10.5604/01.3001.0010.7995'
-    occurred_at: '2026-09-25T21:29:53.682736Z'
-  - error: 'conversion input is not a PDF: https://doi.org/10.5604/01.3001.0010.7995'
-    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.64898/2026.07.31.742086:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/lookup/doi/10.64898/2026.07.31.742086'
     occurred_at: '2026-09-25T21:29:53.682736Z'
