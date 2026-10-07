@@ -768,12 +768,8 @@ failures:
   semantic_scholar:e298d95241b8d12403491d525c957be1a0020b9c:
   - error: 'conversion input is not a PDF: https://doi.org/10.51492/cfwj.110.14'
     occurred_at: '2026-10-01T14:10:07.587671Z'
-  semantic_scholar:e30535d2be3fa28a032868e720934af43f05ec66:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/2227-7390/11/20/4298/pdf?version=1697438453'
-    occurred_at: '2026-10-07T13:42:39.447720Z'
   semantic_scholar:ed11da658c840aad0a62f4b7ba1445f117b03dcb:
   - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991'
     occurred_at: '2026-10-07T13:42:39.447720Z'
-  semantic_scholar:fff7046566a2a1c4a5fbacc92948d2d6b2ab7f93:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/26/15/4948/pdf?version=1785913116'
-    occurred_at: '2026-10-07T13:42:39.447720Z'
+  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991'
+    occurred_at: '2026-10-07T13:55:03.526428Z'
