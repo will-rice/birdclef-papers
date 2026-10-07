@@ -7,6 +7,8 @@ failures:
   doi:10.1101/2020.08.24.263301:
   - error: 'conversion input is not a PDF: https://doi.org/10.1101/2020.08.24.263301'
     occurred_at: '2026-10-01T11:54:58.578966Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1101/2020.08.24.263301'
+    occurred_at: '2026-10-07T02:43:40.709332Z'
   doi:10.1101/2024.02.02.578722:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.02.02.578722.full.pdf'
     occurred_at: '2026-09-25T18:45:58.527791Z'
