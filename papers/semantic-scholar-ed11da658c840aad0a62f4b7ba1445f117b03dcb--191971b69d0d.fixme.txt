@@ -1,0 +1,5 @@
+paper: semantic_scholar:ed11da658c840aad0a62f4b7ba1445f117b03dcb
+latest_error: conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991
+attempt: 2026-10-07T13:42:39.447720+00:00 conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991
+attempt: 2026-10-07T13:55:03.526428+00:00 conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991
+attempt: 2026-10-07T13:59:01.172876+00:00 conversion input is not a PDF: https://www.mdpi.com/1424-8220/23/16/7176/pdf?version=1692070991
