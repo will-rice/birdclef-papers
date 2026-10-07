@@ -1,5 +1,0 @@
-paper: doi:10.5204/thesis.eprints.107097
-latest_error: conversion timed out after 1800s: marker_single
-attempt: 2026-09-25T21:29:53.682736+00:00 conversion timed out after 1800s: marker_single
-attempt: 2026-09-27T18:02:01.536102+00:00 conversion timed out after 1800s: marker_single
-attempt: 2026-09-28T02:44:53.108834+00:00 conversion timed out after 1800s: marker_single
