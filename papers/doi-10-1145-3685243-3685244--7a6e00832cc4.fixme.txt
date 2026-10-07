@@ -1,0 +1,5 @@
+paper: doi:10.1145/3685243.3685244
+latest_error: conversion input HTTP 403: https://dl.acm.org/doi/10.1145/3685243.3685244
+attempt: 2026-09-25T19:17:08.753178+00:00 conversion input HTTP 403: https://dl.acm.org/doi/10.1145/3685243.3685244
+attempt: 2026-10-01T11:55:08.255116+00:00 conversion input HTTP 403: https://dl.acm.org/doi/10.1145/3685243.3685244
+attempt: 2026-10-07T02:44:00.625051+00:00 conversion input HTTP 403: https://dl.acm.org/doi/10.1145/3685243.3685244
