@@ -745,11 +745,6 @@ failures:
   semantic_scholar:a143e50ba873bfe447ecdc0163712211fb25efdb:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.anbehav.2016.04.023'
     occurred_at: '2026-10-01T13:07:53.941139Z'
-  semantic_scholar:a4a38c1dd4674316881179218b5deeec24f974e8:
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/18/9/2906/pdf?version=1536115591'
-    occurred_at: '2026-10-07T13:28:06.576993Z'
-  - error: 'conversion input is not a PDF: https://www.mdpi.com/1424-8220/18/9/2906/pdf?version=1536115591'
-    occurred_at: '2026-10-07T13:54:01.093219Z'
   semantic_scholar:a6b04f2badbca4455f0bc3aa0025e891b1f39de8:
   - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14405'
     occurred_at: '2026-10-01T13:07:53.941139Z'
