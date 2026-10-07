@@ -1,0 +1,5 @@
+paper: doi:10.17762/turcomat.v12i2.813
+latest_error: conversion input HTTP 403: https://turcomat.org/index.php/turkbilmat/article/view/813
+attempt: 2026-09-25T19:17:08.753178+00:00 conversion input HTTP 403: https://turcomat.org/index.php/turkbilmat/article/view/813
+attempt: 2026-10-01T11:55:11.422983+00:00 conversion input HTTP 403: https://turcomat.org/index.php/turkbilmat/article/view/813
+attempt: 2026-10-07T02:44:06.405496+00:00 conversion input HTTP 403: https://turcomat.org/index.php/turkbilmat/article/view/813

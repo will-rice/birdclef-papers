@@ -1,0 +1,5 @@
+paper: doi:10.1186/s12862-024-02312-4
+latest_error: conversion input exceeded 5 redirects: https://link.springer.com/article/10.1186/s12862-024-02312-4?error=cookies_not_supported&code=5940ca52-9ea7-48b0-a5e5-68f6f2bfe479
+attempt: 2026-09-25T19:17:08.753178+00:00 conversion input exceeded 5 redirects: https://link.springer.com/article/10.1186/s12862-024-02312-4?error=cookies_not_supported&code=5e58528e-a24c-4226-b644-0c847263a2a2
+attempt: 2026-10-01T11:55:11.422983+00:00 conversion input exceeded 5 redirects: https://link.springer.com/article/10.1186/s12862-024-02312-4?error=cookies_not_supported&code=c9d8d819-63f4-4b77-b630-d3f0b31cbfbb
+attempt: 2026-10-07T02:44:06.405496+00:00 conversion input exceeded 5 redirects: https://link.springer.com/article/10.1186/s12862-024-02312-4?error=cookies_not_supported&code=5940ca52-9ea7-48b0-a5e5-68f6f2bfe479
