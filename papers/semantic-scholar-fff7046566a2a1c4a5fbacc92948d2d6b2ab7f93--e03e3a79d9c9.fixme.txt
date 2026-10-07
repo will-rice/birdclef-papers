@@ -1,5 +1,0 @@
-paper: semantic_scholar:fff7046566a2a1c4a5fbacc92948d2d6b2ab7f93
-latest_error: conversion timed out after 1800s: marker_single
-attempt: 2026-10-01T19:24:37.702986+00:00 conversion input is not a PDF: https://www.mdpi.com/1424-8220/26/15/4948/pdf?version=1785913116
-attempt: 2026-10-01T21:21:25.491430+00:00 conversion timed out after 1800s: marker_single
-attempt: 2026-10-01T21:52:40.015072+00:00 conversion timed out after 1800s: marker_single

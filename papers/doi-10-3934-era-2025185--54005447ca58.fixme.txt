@@ -1,5 +1,0 @@
-paper: doi:10.3934/era.2025185
-latest_error: conversion timed out after 1800s: marker_single
-attempt: 2026-09-25T20:31:12.018905+00:00 conversion timed out after 1800s: marker_single
-attempt: 2026-09-27T15:34:55.719794+00:00 conversion timed out after 1800s: marker_single
-attempt: 2026-09-27T18:02:01.536102+00:00 conversion timed out after 1800s: marker_single

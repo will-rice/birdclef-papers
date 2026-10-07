@@ -1,5 +1,0 @@
-paper: semantic_scholar:e32786965fe39eaee0a1f2e2ac17229130ef97d6
-latest_error: conversion timed out after 1800s: marker_single
-attempt: 2026-09-30T10:57:59.866953+00:00 conversion timed out after 1800s: marker_single
-attempt: 2026-09-30T13:42:15.062401+00:00 conversion timed out after 1800s: marker_single
-attempt: 2026-09-30T14:47:50.175003+00:00 conversion timed out after 1800s: marker_single
