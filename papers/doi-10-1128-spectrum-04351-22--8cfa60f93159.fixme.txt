@@ -1,5 +1,0 @@
-paper: doi:10.1128/spectrum.04351-22
-latest_error: conversion input HTTP 403: https://journals.asm.org/doi/pdf/10.1128/spectrum.04351-22?download=true
-attempt: 2026-09-25T18:47:04.551495+00:00 conversion input HTTP 403: https://journals.asm.org/doi/pdf/10.1128/spectrum.04351-22?download=true
-attempt: 2026-09-27T15:04:51.159294+00:00 conversion input HTTP 403: https://journals.asm.org/doi/pdf/10.1128/spectrum.04351-22?download=true
-attempt: 2026-09-27T17:31:57.078809+00:00 conversion input HTTP 403: https://journals.asm.org/doi/pdf/10.1128/spectrum.04351-22?download=true

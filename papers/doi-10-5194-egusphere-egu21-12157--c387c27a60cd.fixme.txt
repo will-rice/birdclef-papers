@@ -1,5 +1,0 @@
-paper: doi:10.5194/egusphere-egu21-12157
-latest_error: conversion input is not a PDF: https://doi.org/10.5194/egusphere-egu21-12157
-attempt: 2026-09-25T21:29:53.682736+00:00 conversion input is not a PDF: https://doi.org/10.5194/egusphere-egu21-12157
-attempt: 2026-10-01T12:32:27.979912+00:00 conversion input is not a PDF: https://doi.org/10.5194/egusphere-egu21-12157
-attempt: 2026-10-07T02:44:06.405496+00:00 conversion input is not a PDF: https://doi.org/10.5194/egusphere-egu21-12157

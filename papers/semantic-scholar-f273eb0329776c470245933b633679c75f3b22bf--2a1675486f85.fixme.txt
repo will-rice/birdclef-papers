@@ -1,5 +1,0 @@
-paper: semantic_scholar:f273eb0329776c470245933b633679c75f3b22bf
-latest_error: conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744577
-attempt: 2026-09-30T13:42:15.062401+00:00 conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744577
-attempt: 2026-09-30T17:05:42.204138+00:00 conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744577
-attempt: 2026-10-01T16:42:31.326393+00:00 conversion input is not a PDF: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8744577

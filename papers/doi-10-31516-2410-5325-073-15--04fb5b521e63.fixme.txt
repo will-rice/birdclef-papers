@@ -1,5 +1,0 @@
-paper: doi:10.31516/2410-5325.073.15
-latest_error: conversion input is not a PDF: https://doi.org/10.31516/2410-5325.073.15
-attempt: 2026-09-25T20:31:12.018905+00:00 conversion input is not a PDF: https://doi.org/10.31516/2410-5325.073.15
-attempt: 2026-10-01T11:55:11.422983+00:00 conversion input is not a PDF: https://doi.org/10.31516/2410-5325.073.15
-attempt: 2026-10-07T02:44:06.405496+00:00 conversion input is not a PDF: https://doi.org/10.31516/2410-5325.073.15
