@@ -5,18 +5,16 @@ Standalone paper discovery and conversion for Papers relevant to the BirdCLEF bi
 <!-- papers-index:start -->
 # Papers
 
-The 30 most recent of 1012 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 909 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published | Identifier | Title | Source |
 | --- | --- | --- | --- |
 | 2026-09-25T19:08:01+00:00 | arxiv:2609.35863v1 | [Beyond Discrimination: Calibrated Geoprior Fusion for Bioacoustic Monitoring](papers/arxiv-2609-35863v1--977bef5524ac.md) | arxiv |
 | 2026-09-24T21:03:03+00:00 | arxiv:2609.30553v1 | [Rank-Reliable Teacher-Guided Fitness Approximation for Expensive Evolutionary Optimization: A TinyML Architecture Search Study](papers/arxiv-2609-30553v1--f9788eeec2be.md) | arxiv |
-| 2026-08-20T00:00:00+00:00 | doi:10.64898/2026.08.17.745158 | [Open-source tag-free monitoring of individual birds using automated weighing and deep-learning recognition](https://doi.org/10.64898/2026.08.17.745158) | semantic_scholar |
 | 2026-08-17T00:00:00+00:00 | doi:10.64898/2026.02.04.703899 | [The Evolutionary Structure of Acoustic Learnability: A Deep Learning Approach to Neotropical Birdsong](papers/doi-10-64898-2026-02-04-703899--125b3e22a168.md) | semantic_scholar |
 | 2026-08-14T00:00:00+00:00 | doi:10.64898/2026.08.14.744822 | [PAMalytics: a no-code application for structured validation of bioacoustic detections](https://doi.org/10.64898/2026.08.14.744822) | semantic_scholar |
 | 2026-08-13T00:00:00+00:00 | doi:10.1002/rse2.70098 | [How Passive Acoustic and Traditional Monitoring Estimate Bird Diversity Across Habitats](https://doi.org/10.1002/rse2.70098) | semantic_scholar |
 | 2026-08-07T00:00:00+00:00 | arxiv:2608.06846 | [Investigating Quantum-Embedded Transformers on Classical Datasets for Cross-Modality Classification](papers/arxiv-2608-06846--203433ed83e1.md) | arxiv |
-| 2026-08-05T00:00:00+00:00 | semantic_scholar:fff7046566a2a1c4a5fbacc92948d2d6b2ab7f93 | [An Automated Population Monitoring Framework for Larus ridibundus in Kunming City Based on Improved YOLOv8 and ByteTrack](papers/semantic-scholar-fff7046566a2a1c4a5fbacc92948d2d6b2ab7f93--e03e3a79d9c9.md) | semantic_scholar |
 | 2026-08-05T00:00:00+00:00 | doi:10.64898/2026.07.31.742086 | [BirdCODE: Detecting bird communication at scale](https://doi.org/10.64898/2026.07.31.742086) | semantic_scholar |
 | 2026-08-04T00:00:00+00:00 | arxiv:2608.03977 | [Transfer Learning for Avian Bioacoustics under Sparse Positive Labels](papers/arxiv-2608-03977--a255646b08d1.md) | arxiv |
 | 2026-07-29T00:00:00+00:00 | doi:10.1002/wsb.70044 | [Developing a low‐cost drone‐based method for deploying and retrieving autonomous recording units in inaccessible areas](https://doi.org/10.1002/wsb.70044) | semantic_scholar |
@@ -35,10 +33,12 @@ The 30 most recent of 1012 papers. Every paper is listed in [papers.csv](papers.
 | 2026-05-27T00:00:00+00:00 | arxiv:2605.28739 | [BIRDNet: Mining and Encoding Boolean Implication Knowledge Graphs as Interpretable Deep Neural Networks](papers/arxiv-2605-28739--fec125cc9e0b.md) | arxiv |
 | 2026-05-26T00:00:00+00:00 | doi:10.64898/2026.05.21.727031 | [Individual Bird Identification by Modeling Temporal Structure in Bioacoustic Embeddings](papers/doi-10-64898-2026-05-21-727031--f526fd9284be.md) | semantic_scholar |
 | 2026-05-20T00:00:00+00:00 | doi:10.3390/app16105113 | [An Adaptive Audiovisual Fusion Method Based on Prediction Confidence for Fine Granularity Bird Species Recognition](papers/doi-10-3390-app16105113--99ade3ce25ba.md) | semantic_scholar |
-| 2026-05-20T00:00:00+00:00 | doi:10.1111/2041-210x.70325 | [From video to behaviour: An LSTM ‐based approach for automated nest behaviour recognition in the wild](papers/doi-10-1111-2041-210x-70325--d074a4788b56.md) | semantic_scholar |
 | 2026-05-20T00:00:00+00:00 | arxiv:2605.20853 | [SEABAD: A Tropical Bird Activity Detection Dataset for Passive Acoustic Monitoring](papers/arxiv-2605-20853--c65234d0e149.md) | arxiv |
-| 2026-05-03T00:00:00+00:00 | doi:10.19074/1814-8654-2026-52-36-70 | [Identification of Erroneous Locations and Restoration of Tracks Distorted as a Result of the Spoofing of Signals from Global Navigation Satellite Systems](papers/doi-10-19074-1814-8654-2026-52-36-70--2b089fe7b19d.md) | semantic_scholar |
 | 2026-05-01T00:00:00+00:00 | doi:10.1016/j.engappai.2026.114274 | [Multi-grained detail-enhanced and patch-aware network based on bird sound recognition](papers/doi-10-1016-j-engappai-2026-114274--ce5b56236b00.md) | semantic_scholar |
+| 2026-05-01T00:00:00+00:00 | doi:10.1016/j.ecolind.2026.114862 | [Predicting the ecological condition of grazed Australian landscapes using satellite-derived indices, patch metrics, and passive acoustic monitoring of birds](papers/doi-10-1016-j-ecolind-2026-114862--463d5927c84b.md) | semantic_scholar |
+| 2026-04-23T00:00:00+00:00 | doi:10.1111/2041-210x.70308 | [TABMON : Design and deployment of a transnational passive acoustic monitoring network for European birds](papers/doi-10-1111-2041-210x-70308--146bb0b0df02.md) | semantic_scholar |
+| 2026-04-17T00:00:00+00:00 | arxiv:2604.16241 | [BAGEL: Benchmarking Animal Knowledge Expertise in Language Models](papers/arxiv-2604-16241--92df7bd34183.md) | arxiv |
+| 2026-04-13T00:00:00+00:00 | arxiv:2604.11560 | [bacpipe: a Python package to make bioacoustic deep learning models accessible](papers/arxiv-2604-11560--1efa15259e10.md) | arxiv |
 <!-- papers-index:end -->
 
 ## Architecture

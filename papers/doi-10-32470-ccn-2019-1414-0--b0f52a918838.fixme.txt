@@ -1,5 +1,0 @@
-paper: doi:10.32470/ccn.2019.1414-0
-latest_error: conversion input HTTP 404: https://2026.ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1414
-attempt: 2026-09-25T20:31:12.018905+00:00 conversion input HTTP 404: https://2026.ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1414
-attempt: 2026-10-01T11:55:11.422983+00:00 conversion input HTTP 404: https://2026.ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1414
-attempt: 2026-10-07T02:44:06.405496+00:00 conversion input HTTP 404: https://2026.ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1414

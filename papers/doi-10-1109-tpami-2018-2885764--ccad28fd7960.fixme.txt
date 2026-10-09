@@ -1,5 +1,0 @@
-paper: doi:10.1109/tpami.2018.2885764
-latest_error: conversion input is not a PDF: https://doi.org/10.1109/tpami.2018.2885764
-attempt: 2026-09-25T18:47:04.551495+00:00 conversion input is not a PDF: https://doi.org/10.1109/tpami.2018.2885764
-attempt: 2026-10-01T11:55:08.255116+00:00 conversion input is not a PDF: https://doi.org/10.1109/tpami.2018.2885764
-attempt: 2026-10-07T02:44:00.625051+00:00 conversion input is not a PDF: https://doi.org/10.1109/tpami.2018.2885764

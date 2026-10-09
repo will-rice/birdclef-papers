@@ -75,16 +75,6 @@ failures:
     occurred_at: '2026-09-25T21:29:53.682736Z'
   - error: 'conversion input is not a PDF: https://doi.org/10.64898/2026.08.14.744822'
     occurred_at: '2026-10-01T12:32:27.979912Z'
-  doi:10.64898/2026.08.17.745158:
-  - error: 'conversion input HTTP 429: https://www.biorxiv.org/lookup/doi/10.64898/2026.08.17.745158'
-    occurred_at: '2026-09-25T21:29:53.682736Z'
-  - error: 'conversion input is not a PDF: https://doi.org/10.64898/2026.08.17.745158'
-    occurred_at: '2026-10-01T12:32:27.979912Z'
-  doi:10.7717/peerj-cs.1186:
-  - error: 'conversion input HTTP 403: https://peerj.com/articles/cs-1186'
-    occurred_at: '2026-09-25T21:29:53.682736Z'
-  - error: 'conversion input HTTP 403: https://peerj.com/articles/cs-1186'
-    occurred_at: '2026-10-01T12:32:27.979912Z'
   doi:10.7717/peerj.10197:
   - error: 'conversion input HTTP 403: https://peerj.com/articles/10197'
     occurred_at: '2026-09-25T21:29:53.682736Z'
@@ -124,9 +114,6 @@ failures:
     occurred_at: '2026-10-01T12:32:27.979912Z'
   semantic_scholar:17cf8168107f03aa6087db8e049099d3c591ca21:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.beproc.2018.03.018'
-    occurred_at: '2026-10-01T12:37:51.392595Z'
-  semantic_scholar:1e04b2881618ec103ee50ea110015153c90d0018:
-  - error: 'conversion input HTTP 403: https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.426'
     occurred_at: '2026-10-01T12:37:51.392595Z'
   semantic_scholar:1f8b9a88aaedf7dd3ab0b67461c8d8dfaad35eef:
   - error: 'conversion input is not a PDF: https://doi.org/10.3389/frsen.2023.1283719'
@@ -170,17 +157,11 @@ failures:
   semantic_scholar:5b632abc98e356bb7fc07d323903939ac2630d5f:
   - error: 'conversion input HTTP 403: https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14188'
     occurred_at: '2026-10-01T13:07:53.941139Z'
-  semantic_scholar:5d84e821a6de52236fb83500ca57d64402a0423a:
-  - error: 'conversion input HTTP 403: https://www.science.org/doi/10.1126/sciadv.adf8068'
-    occurred_at: '2026-10-01T13:07:53.941139Z'
   semantic_scholar:67b4406653e9307bcc43cb1ad76c9150a25c51e4:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1111/gcb.17067'
     occurred_at: '2026-10-01T13:07:53.941139Z'
   semantic_scholar:6bc81d7efefe5d787e8f4f4594ca7e83cd2fc451:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2018.07.017'
-    occurred_at: '2026-10-01T13:07:53.941139Z'
-  semantic_scholar:9897ce795b725db96f8e19fafeabaaab55db7819:
-  - error: 'conversion input is not a PDF: https://doi.org/10.3390/drones8060259'
     occurred_at: '2026-10-01T13:07:53.941139Z'
   semantic_scholar:a143e50ba873bfe447ecdc0163712211fb25efdb:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.anbehav.2016.04.023'

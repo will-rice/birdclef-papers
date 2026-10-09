@@ -1,5 +1,0 @@
-paper: semantic_scholar:6651ad48001380ea41c7bea2ce3e87d0da0de330
-latest_error: conversion input HTTP 403: https://research.rug.nl/files/212425658/science.abg1780.pdf
-attempt: 2026-09-28T14:12:57.364425+00:00 conversion input HTTP 403: https://research.rug.nl/files/212425658/science.abg1780.pdf
-attempt: 2026-09-28T17:48:43.536553+00:00 conversion input HTTP 403: https://research.rug.nl/files/212425658/science.abg1780.pdf
-attempt: 2026-09-28T21:49:39.965272+00:00 conversion input HTTP 403: https://research.rug.nl/files/212425658/science.abg1780.pdf
