@@ -1,0 +1,5 @@
+paper: doi:10.7717/peerj.10565
+latest_error: conversion input HTTP 403: https://peerj.com/articles/10565
+attempt: 2026-09-25T21:29:53.682736+00:00 conversion input HTTP 403: https://peerj.com/articles/10565
+attempt: 2026-10-01T12:32:27.979912+00:00 conversion input HTTP 403: https://peerj.com/articles/10565
+attempt: 2026-10-18T02:38:13.090986+00:00 conversion input HTTP 403: https://peerj.com/articles/10565
