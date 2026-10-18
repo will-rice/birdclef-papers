@@ -143,36 +143,60 @@ failures:
   semantic_scholar:4d1e9b0c67dca025d90994218bcad4db06deed76:
   - error: 'conversion input is not a PDF: https://doi.org/10.12688/f1000research.141951.1'
     occurred_at: '2026-10-01T12:37:51.392595Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.12688/f1000research.141951.1'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:52d2953f12aa20abd76a63d77ae681f1156d4283:
   - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0297988'
     occurred_at: '2026-10-01T12:37:51.392595Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1371/journal.pone.0297988'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:5b632abc98e356bb7fc07d323903939ac2630d5f:
   - error: 'conversion input HTTP 403: https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14188'
     occurred_at: '2026-10-01T13:07:53.941139Z'
+  - error: 'conversion input HTTP 403: https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14188'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:67b4406653e9307bcc43cb1ad76c9150a25c51e4:
   - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1111/gcb.17067'
     occurred_at: '2026-10-01T13:07:53.941139Z'
+  - error: 'conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1111/gcb.17067'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:6bc81d7efefe5d787e8f4f4594ca7e83cd2fc451:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2018.07.017'
     occurred_at: '2026-10-01T13:07:53.941139Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2018.07.017'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:a143e50ba873bfe447ecdc0163712211fb25efdb:
   - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.anbehav.2016.04.023'
     occurred_at: '2026-10-01T13:07:53.941139Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.1016/j.anbehav.2016.04.023'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:a6b04f2badbca4455f0bc3aa0025e891b1f39de8:
   - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14405'
     occurred_at: '2026-10-01T13:07:53.941139Z'
+  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14405'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:aca7ff199805245b6b45cb55d39c6bb8b1b8f3f0:
   - error: 'conversion input is not a PDF: https://doi.org/10.3389/frsen.2023.1156837'
     occurred_at: '2026-10-01T13:07:53.941139Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.3389/frsen.2023.1156837'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:b5dfc01cb211416fb73810359e6e8fe5bcdaf747:
   - error: 'conversion input is not a PDF: https://doi.org/10.3897/neotropical.14.e37655'
     occurred_at: '2026-10-01T14:10:07.587671Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.3897/neotropical.14.e37655'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:c377ef4ce49e035fa7f547120c3a40c64012a805:
   - error: 'conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/1940082918804344'
     occurred_at: '2026-10-01T14:10:07.587671Z'
+  - error: 'conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/1940082918804344'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:dbe3163e9610f7b66be91e8d81240bf0f5550a9e:
   - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14390'
     occurred_at: '2026-10-01T14:10:07.587671Z'
+  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14390'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:e298d95241b8d12403491d525c957be1a0020b9c:
   - error: 'conversion input is not a PDF: https://doi.org/10.51492/cfwj.110.14'
     occurred_at: '2026-10-01T14:10:07.587671Z'
+  - error: 'conversion input HTTP 403: https://journal.wildlife.ca.gov/2024/11/04/trading-places-opposite-colonization-and-extinction-responses-of-the-hermit-warbler-and-western-bluebird-to-the-2021-dixie-fire/'
+    occurred_at: '2026-10-18T02:38:40.466806Z'
