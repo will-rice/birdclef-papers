@@ -200,3 +200,6 @@ failures:
     occurred_at: '2026-10-01T14:10:07.587671Z'
   - error: 'conversion input HTTP 403: https://journal.wildlife.ca.gov/2024/11/04/trading-places-opposite-colonization-and-extinction-responses-of-the-hermit-warbler-and-western-bluebird-to-the-2021-dixie-fire/'
     occurred_at: '2026-10-18T02:38:40.466806Z'
+  semantic_scholar:f907c7553a0263154fab6b892843fe2d7862f2a8:
+  - error: 'conversion input is not a PDF: https://doi.org/10.11591/beei.v12i4.5243'
+    occurred_at: '2026-10-18T02:38:52.408472Z'
