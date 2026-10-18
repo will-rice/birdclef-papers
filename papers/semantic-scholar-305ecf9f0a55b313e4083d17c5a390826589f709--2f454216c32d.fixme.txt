@@ -1,0 +1,5 @@
+paper: semantic_scholar:305ecf9f0a55b313e4083d17c5a390826589f709
+latest_error: conversion input is not a PDF: https://doi.org/10.1016/j.scitotenv.2023.166328
+attempt: 2026-10-01T12:37:51.392595+00:00 conversion input is not a PDF: https://doi.org/10.1016/j.scitotenv.2023.166328
+attempt: 2026-10-18T02:38:19.019880+00:00 conversion input is not a PDF: https://doi.org/10.1016/j.scitotenv.2023.166328
+attempt: 2026-10-18T02:44:25.144667+00:00 conversion input is not a PDF: https://doi.org/10.1016/j.scitotenv.2023.166328

@@ -1,0 +1,5 @@
+paper: semantic_scholar:2d3a640bf444ab308eb315ed465c65da730a5a36
+latest_error: conversion input is not a PDF: https://doi.org/10.3897/bdj.11.e97811
+attempt: 2026-10-01T12:37:51.392595+00:00 conversion input is not a PDF: https://doi.org/10.3897/bdj.11.e97811
+attempt: 2026-10-18T02:38:19.019880+00:00 conversion input is not a PDF: https://doi.org/10.3897/bdj.11.e97811
+attempt: 2026-10-18T02:44:25.144667+00:00 conversion input is not a PDF: https://doi.org/10.3897/bdj.11.e97811

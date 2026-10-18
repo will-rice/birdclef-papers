@@ -1,0 +1,5 @@
+paper: semantic_scholar:6bc81d7efefe5d787e8f4f4594ca7e83cd2fc451
+latest_error: conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2018.07.017
+attempt: 2026-10-01T13:07:53.941139+00:00 conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2018.07.017
+attempt: 2026-10-18T02:38:40.466806+00:00 conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2018.07.017
+attempt: 2026-10-18T02:44:25.144667+00:00 conversion input is not a PDF: https://doi.org/10.1016/j.ecolind.2018.07.017

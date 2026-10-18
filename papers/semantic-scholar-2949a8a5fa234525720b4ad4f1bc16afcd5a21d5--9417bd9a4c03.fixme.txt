@@ -1,0 +1,5 @@
+paper: semantic_scholar:2949a8a5fa234525720b4ad4f1bc16afcd5a21d5
+latest_error: conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/194008291600900216
+attempt: 2026-10-01T12:37:51.392595+00:00 conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/194008291600900216
+attempt: 2026-10-18T02:38:19.019880+00:00 conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/194008291600900216
+attempt: 2026-10-18T02:44:25.144667+00:00 conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/194008291600900216
