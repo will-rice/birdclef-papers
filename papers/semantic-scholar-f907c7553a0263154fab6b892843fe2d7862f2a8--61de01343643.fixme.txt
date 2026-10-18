@@ -1,0 +1,5 @@
+paper: semantic_scholar:f907c7553a0263154fab6b892843fe2d7862f2a8
+latest_error: conversion input is not a PDF: https://doi.org/10.11591/beei.v12i4.5243
+attempt: 2026-10-18T02:38:52.408472+00:00 conversion input is not a PDF: https://doi.org/10.11591/beei.v12i4.5243
+attempt: 2026-10-18T02:44:36.971776+00:00 conversion input is not a PDF: https://doi.org/10.11591/beei.v12i4.5243
+attempt: 2026-10-18T02:48:57.709564+00:00 conversion input is not a PDF: https://doi.org/10.11591/beei.v12i4.5243

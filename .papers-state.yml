@@ -60,8 +60,3 @@ failures:
   doi:10.1101/790857:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/790857.full.pdf'
     occurred_at: '2026-09-25T18:47:02.851942Z'
-  semantic_scholar:f907c7553a0263154fab6b892843fe2d7862f2a8:
-  - error: 'conversion input is not a PDF: https://doi.org/10.11591/beei.v12i4.5243'
-    occurred_at: '2026-10-18T02:38:52.408472Z'
-  - error: 'conversion input is not a PDF: https://doi.org/10.11591/beei.v12i4.5243'
-    occurred_at: '2026-10-18T02:44:36.971776Z'
