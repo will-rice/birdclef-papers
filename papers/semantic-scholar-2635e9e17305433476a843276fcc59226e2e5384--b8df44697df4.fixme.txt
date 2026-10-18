@@ -1,0 +1,5 @@
+paper: semantic_scholar:2635e9e17305433476a843276fcc59226e2e5384
+latest_error: conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1002/ajp.23599
+attempt: 2026-10-01T12:37:51.392595+00:00 conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1002/ajp.23599
+attempt: 2026-10-18T02:38:19.019880+00:00 conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1002/ajp.23599
+attempt: 2026-10-18T02:44:18.868970+00:00 conversion input HTTP 403: https://onlinelibrary.wiley.com/doi/10.1002/ajp.23599

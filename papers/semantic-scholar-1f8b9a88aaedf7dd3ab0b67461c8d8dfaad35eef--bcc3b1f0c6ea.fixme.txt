@@ -1,0 +1,5 @@
+paper: semantic_scholar:1f8b9a88aaedf7dd3ab0b67461c8d8dfaad35eef
+latest_error: conversion input is not a PDF: https://doi.org/10.3389/frsen.2023.1283719
+attempt: 2026-10-01T12:37:51.392595+00:00 conversion input is not a PDF: https://doi.org/10.3389/frsen.2023.1283719
+attempt: 2026-10-18T02:38:19.019880+00:00 conversion input is not a PDF: https://doi.org/10.3389/frsen.2023.1283719
+attempt: 2026-10-18T02:44:18.868970+00:00 conversion input is not a PDF: https://doi.org/10.3389/frsen.2023.1283719

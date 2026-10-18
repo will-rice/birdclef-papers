@@ -1,0 +1,5 @@
+paper: semantic_scholar:0aa6a133b327ee820203779b3743783015122cbe
+latest_error: conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14333
+attempt: 2026-10-01T12:32:27.979912+00:00 conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14333
+attempt: 2026-10-18T02:38:19.019880+00:00 conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14333
+attempt: 2026-10-18T02:44:18.868970+00:00 conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14333
