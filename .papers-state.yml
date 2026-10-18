@@ -60,26 +60,8 @@ failures:
   doi:10.1101/790857:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/790857.full.pdf'
     occurred_at: '2026-09-25T18:47:02.851942Z'
-  semantic_scholar:b5dfc01cb211416fb73810359e6e8fe5bcdaf747:
-  - error: 'conversion input is not a PDF: https://doi.org/10.3897/neotropical.14.e37655'
-    occurred_at: '2026-10-01T14:10:07.587671Z'
-  - error: 'conversion input is not a PDF: https://doi.org/10.3897/neotropical.14.e37655'
-    occurred_at: '2026-10-18T02:38:40.466806Z'
-  semantic_scholar:c377ef4ce49e035fa7f547120c3a40c64012a805:
-  - error: 'conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/1940082918804344'
-    occurred_at: '2026-10-01T14:10:07.587671Z'
-  - error: 'conversion input HTTP 403: https://journals.sagepub.com/doi/10.1177/1940082918804344'
-    occurred_at: '2026-10-18T02:38:40.466806Z'
-  semantic_scholar:dbe3163e9610f7b66be91e8d81240bf0f5550a9e:
-  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14390'
-    occurred_at: '2026-10-01T14:10:07.587671Z'
-  - error: 'conversion input HTTP 403: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14390'
-    occurred_at: '2026-10-18T02:38:40.466806Z'
-  semantic_scholar:e298d95241b8d12403491d525c957be1a0020b9c:
-  - error: 'conversion input is not a PDF: https://doi.org/10.51492/cfwj.110.14'
-    occurred_at: '2026-10-01T14:10:07.587671Z'
-  - error: 'conversion input HTTP 403: https://journal.wildlife.ca.gov/2024/11/04/trading-places-opposite-colonization-and-extinction-responses-of-the-hermit-warbler-and-western-bluebird-to-the-2021-dixie-fire/'
-    occurred_at: '2026-10-18T02:38:40.466806Z'
   semantic_scholar:f907c7553a0263154fab6b892843fe2d7862f2a8:
   - error: 'conversion input is not a PDF: https://doi.org/10.11591/beei.v12i4.5243'
     occurred_at: '2026-10-18T02:38:52.408472Z'
+  - error: 'conversion input is not a PDF: https://doi.org/10.11591/beei.v12i4.5243'
+    occurred_at: '2026-10-18T02:44:36.971776Z'

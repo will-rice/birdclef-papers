@@ -1,0 +1,5 @@
+paper: semantic_scholar:e298d95241b8d12403491d525c957be1a0020b9c
+latest_error: conversion input HTTP 403: https://journal.wildlife.ca.gov/2024/11/04/trading-places-opposite-colonization-and-extinction-responses-of-the-hermit-warbler-and-western-bluebird-to-the-2021-dixie-fire/
+attempt: 2026-10-01T14:10:07.587671+00:00 conversion input is not a PDF: https://doi.org/10.51492/cfwj.110.14
+attempt: 2026-10-18T02:38:40.466806+00:00 conversion input HTTP 403: https://journal.wildlife.ca.gov/2024/11/04/trading-places-opposite-colonization-and-extinction-responses-of-the-hermit-warbler-and-western-bluebird-to-the-2021-dixie-fire/
+attempt: 2026-10-18T02:44:36.971776+00:00 conversion input HTTP 403: https://journal.wildlife.ca.gov/2024/11/04/trading-places-opposite-colonization-and-extinction-responses-of-the-hermit-warbler-and-western-bluebird-to-the-2021-dixie-fire/
