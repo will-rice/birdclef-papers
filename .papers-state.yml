@@ -4,18 +4,6 @@ backfill:
     covered_from: '1991-08-01T00:00:00Z'
 continuations: {}
 failures:
-  doi:10.1101/2024.07.08.602596:
-  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.07.08.602596.full.pdf'
-    occurred_at: '2026-09-25T18:46:50.816415Z'
-  doi:10.1101/2024.08.23.609443:
-  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.08.23.609443.full.pdf'
-    occurred_at: '2026-09-25T18:46:50.816415Z'
-  doi:10.1101/2024.09.17.613451:
-  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.17.613451.full.pdf'
-    occurred_at: '2026-09-25T18:46:52.594400Z'
-  doi:10.1101/2024.09.24.614738:
-  - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.09.24.614738.full.pdf'
-    occurred_at: '2026-09-25T18:46:52.594400Z'
   doi:10.1101/2024.11.04.621915:
   - error: 'conversion input HTTP 429: https://www.biorxiv.org/content/10.1101/2024.11.04.621915.full.pdf'
     occurred_at: '2026-09-25T18:46:54.341375Z'
