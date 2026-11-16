@@ -1,5 +1,6 @@
-_commit: v0.8.0
+_commit: v0.10.1
 _src_path: https://github.com/will-rice/papers-template.git
+alphaxiv_folder_id: ''
 project_name: BirdCLEF Papers
 project_slug: birdclef-papers
 template_version: 0.1.0
