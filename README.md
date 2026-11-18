@@ -6,10 +6,11 @@ Standalone paper discovery and conversion for Papers relevant to the BirdCLEF bi
 
 # Papers
 
-The 30 most recent of 911 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 912 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier                         | Title                                                                                                                                                                                                                                                                   | Source           |
 | ------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 2026-11-16T21:09:07+00:00 | arxiv:2611.21895v1                 | [World-Grounded Reinforcement Learning for Pollution-Aware Bird Movement Modeling Using a Multi-Instance DQN Framework](papers/arxiv-2611-21895v1--0b6199d6f116.md)                                                                                                     | arxiv            |
 | 2026-10-30T17:05:52+00:00 | arxiv:2610.42042v1                 | [A richness-sensitive Acoustic Biodiversity Index from species-level detections: classifier benchmarking, false-positive control and validation against standard soundscape indices in an African savanna and an urban zoo](papers/arxiv-2610-42042v1--8dc2ef88d9fb.md) | arxiv            |
 | 2026-10-20T14:41:23+00:00 | arxiv:2610.33068v1                 | [Do bioacoustic foundation models hear through the noise ? SNR and generalization in underwater detection](papers/arxiv-2610-33068v1--e14ab995790e.md)                                                                                                                  | arxiv            |
 | 2026-09-25T19:08:01+00:00 | arxiv:2609.35863v1                 | [Beyond Discrimination: Calibrated Geoprior Fusion for Bioacoustic Monitoring](papers/arxiv-2609-35863v1--977bef5524ac.md)                                                                                                                                              | arxiv            |
@@ -39,7 +40,6 @@ The 30 most recent of 911 papers. Every paper is listed in [papers.csv](papers.c
 | 2026-05-20T00:00:00+00:00 | arxiv:2605.20853                   | [SEABAD: A Tropical Bird Activity Detection Dataset for Passive Acoustic Monitoring](papers/arxiv-2605-20853--c65234d0e149.md)                                                                                                                                          | arxiv            |
 | 2026-05-01T00:00:00+00:00 | doi:10.1016/j.engappai.2026.114274 | [Multi-grained detail-enhanced and patch-aware network based on bird sound recognition](papers/doi-10-1016-j-engappai-2026-114274--ce5b56236b00.md)                                                                                                                     | semantic_scholar |
 | 2026-05-01T00:00:00+00:00 | doi:10.1016/j.ecolind.2026.114862  | [Predicting the ecological condition of grazed Australian landscapes using satellite-derived indices, patch metrics, and passive acoustic monitoring of birds](papers/doi-10-1016-j-ecolind-2026-114862--463d5927c84b.md)                                               | semantic_scholar |
-| 2026-04-23T00:00:00+00:00 | doi:10.1111/2041-210x.70308        | [TABMON : Design and deployment of a transnational passive acoustic monitoring network for European birds](papers/doi-10-1111-2041-210x-70308--146bb0b0df02.md)                                                                                                         | semantic_scholar |
 
 <!-- papers-index:end -->
 
